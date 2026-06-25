@@ -17,6 +17,7 @@ New company truth:
 - Company/product name: Human Conversation
 - Domain: HumanConversation.com
 - Do not use GnR, Give n Receive, or the old top-right GnR mark in the new deck.
+- Website/live domain to keep an eye on: https://HumanConversation.com
 
 Old GnR archive:
 - The pre-Human Conversation GnR HTML was backed up on 2026-06-25 in:
@@ -33,6 +34,12 @@ Current new-deck artifacts:
 
 Open local Chrome after completed visual edit batch:
 file:///C:/Users/davel/My%20Drive/Human_Conversation_Deck/index.html
+
+When publishing/live state matters:
+- Check https://HumanConversation.com first.
+- Check GitHub Pages once with a cache buster:
+  https://proposaldave.github.io/Human_Conversation_Deck/
+- Do not poll repeatedly; report exact DNS/HTTP/Pages status if still settling.
 
 Final response format:
 DONE:

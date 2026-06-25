@@ -14,6 +14,7 @@ This repo is the working source for the Human Conversation seed deck.
 - Use Manrope for sans and Fraunces or Playfair Display for serif.
 - Keep generated logo explorations in `assets/logos/`.
 - Keep old GnR archive references in `SESSION_RESTART_PROMPT.md`.
+- Website/live domain to watch during publish checks: `https://HumanConversation.com`.
 
 ## Backup Truth
 
@@ -31,4 +32,5 @@ GitHub:
   `file:///C:/Users/davel/My%20Drive/Human_Conversation_Deck/index.html`
 - For simple copy-only edits, source search plus `git diff --check` is enough.
 - For slide order, assets, visual changes, or publishing, run a local browser check before declaring done.
+- When publishing/live state matters, check `https://HumanConversation.com` and `https://proposaldave.github.io/Human_Conversation_Deck/` once with a cache buster, then report exact status instead of polling repeatedly.
 - End each completed batch with `DONE: / DECISIONS: / TOUCHED: / CHECKS: / PUSH: / SLACK: / NEXT: / AVG EDIT TIME:`.
