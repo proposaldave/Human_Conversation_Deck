@@ -1,0 +1,279 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="apple-mobile-web-app-title" content="Human Conversation">
+  <title>Human Conversation Seed Deck</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,650;9..144,850;9..144,900&family=Manrope:wght@500;700;800;900&display=swap" rel="stylesheet">
+  <style>
+    :root{--cream:#F3EAD8;--paper:#FBF7EF;--ink:#1A1612;--blue:#5B8FD4;--gold:#B8954A;--red:#C8462C;--mint:#49B4A0}
+    *{box-sizing:border-box}
+    html,body{margin:0;height:100%;overflow:hidden;background:var(--cream);color:var(--ink);font-family:Manrope,Arial,sans-serif}
+    body{--slide-w:min(100vw,177.777vh);--slide-h:min(56.25vw,100vh)}
+    .deck{position:fixed;inset:0;display:grid;place-items:center;background:var(--cream)}
+    .slide{position:absolute;width:var(--slide-w);height:var(--slide-h);overflow:hidden;background:var(--cream);display:none;isolation:isolate}
+    .slide.active{display:block}
+    .slide img.bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:-2}
+    .wash{position:absolute;inset:0;z-index:-1;background:linear-gradient(90deg,rgba(243,234,216,.94),rgba(243,234,216,.66) 42%,rgba(243,234,216,.18) 100%)}
+    .wash.dark{background:linear-gradient(90deg,rgba(26,22,18,.72),rgba(26,22,18,.34) 46%,rgba(243,234,216,.14) 100%)}
+    .wash.center{background:radial-gradient(circle at 52% 42%,rgba(251,247,239,.78),rgba(243,234,216,.38) 45%,rgba(26,22,18,.18) 100%)}
+    .brand{position:absolute;top:24px;right:34px;z-index:8;display:flex;align-items:center;gap:10px;font-weight:900;font-size:.72rem;letter-spacing:0;text-transform:uppercase;color:rgba(26,22,18,.58)}
+    .brand img{width:30px;height:30px;object-fit:cover;border-radius:50%;border:1px solid rgba(184,149,74,.42)}
+    .eyebrow{position:absolute;top:28px;left:48px;z-index:8;font-size:.58rem;font-weight:900;letter-spacing:0;text-transform:uppercase;color:var(--red);background:rgba(251,247,239,.78);border:1px solid rgba(184,149,74,.22);padding:7px 10px;border-radius:2px}
+    .content{position:absolute;left:72px;top:118px;width:min(780px,50%);z-index:4}
+    .content.wide{width:min(1080px,66%)}
+    .content.centered{left:50%;top:50%;transform:translate(-50%,-50%);width:min(1180px,76%);text-align:center}
+    .content.right{left:auto;right:72px;width:min(760px,44%)}
+    h1{font-family:Fraunces,Georgia,serif;font-weight:900;letter-spacing:0;font-size:clamp(3.35rem,5.5vw,6.6rem);line-height:.9;margin:0;color:var(--ink);text-wrap:balance}
+    h1 em{font-style:italic;color:var(--red)}
+    .dark h1,.dark .sub,.dark .kicker{color:var(--paper);text-shadow:0 18px 48px rgba(0,0,0,.35)}
+    .kicker{font-size:.82rem;font-weight:900;letter-spacing:0;text-transform:uppercase;color:var(--gold);margin:0 0 16px}
+    .sub{font-size:clamp(1.05rem,1.35vw,1.45rem);line-height:1.42;font-weight:800;color:rgba(26,22,18,.74);margin:22px 0 0;max-width:760px;text-wrap:balance}
+    .title-mark{width:172px;height:172px;object-fit:cover;border-radius:50%;border:1px solid rgba(184,149,74,.42);box-shadow:0 24px 70px rgba(26,22,18,.12);margin-bottom:26px}
+    .domain{display:inline-flex;margin-top:28px;color:var(--blue);font-weight:900;font-size:1rem;border-bottom:2px solid rgba(91,143,212,.55)}
+    .pill-row{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:34px}
+    .pill,.metric,.step,.model{border:1px solid rgba(184,149,74,.34);background:rgba(251,247,239,.82);border-radius:8px;box-shadow:0 18px 48px rgba(26,22,18,.08)}
+    .pill{padding:16px 16px 18px;min-height:112px}
+    .pill b,.metric b,.step b,.model b{display:block;font-family:Fraunces,Georgia,serif;font-size:1.45rem;line-height:1.02;margin-bottom:8px}
+    .pill span,.metric span,.step span,.model span{display:block;font-size:.72rem;line-height:1.35;font-weight:900;text-transform:uppercase;color:rgba(26,22,18,.58)}
+    .quote{font-family:Fraunces,Georgia,serif;font-weight:900;font-size:clamp(4.2rem,6.4vw,7.6rem);line-height:.88;text-wrap:balance}
+    .quote em{font-style:italic;color:var(--red)}
+    .quote-sub{margin:26px auto 0;max-width:920px;font-size:1.32rem;line-height:1.43;font-weight:800;color:rgba(26,22,18,.75)}
+    .split{position:absolute;left:72px;right:72px;top:128px;bottom:72px;display:grid;grid-template-columns:1fr 1fr;gap:36px;align-items:center}
+    .panel{background:rgba(251,247,239,.82);border:1px solid rgba(184,149,74,.32);border-radius:8px;padding:30px;box-shadow:0 24px 70px rgba(26,22,18,.10)}
+    .panel h2{font-family:Fraunces,Georgia,serif;font-size:clamp(2.4rem,3.3vw,4.1rem);line-height:.96;margin:0 0 18px}
+    .panel p{margin:0;font-size:1.08rem;line-height:1.45;font-weight:800;color:rgba(26,22,18,.72)}
+    .signal-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:30px}
+    .metric{padding:19px 18px;min-height:116px;border-top:5px solid var(--gold)}
+    .metric:nth-child(2){border-top-color:var(--red)}.metric:nth-child(3){border-top-color:var(--blue)}.metric:nth-child(4){border-top-color:var(--mint)}.metric:nth-child(5){border-top-color:var(--gold)}.metric:nth-child(6){border-top-color:var(--red)}
+    .flow{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-top:34px}
+    .step{position:relative;padding:22px 20px 24px;min-height:164px}
+    .step:before{content:attr(data-num);display:block;color:var(--red);font-weight:900;font-size:.72rem;margin-bottom:14px}
+    .model-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:34px}
+    .model{padding:24px 22px 26px;min-height:182px;border-top:6px solid var(--blue)}
+    .model:nth-child(2){border-top-color:var(--gold)}.model:nth-child(3){border-top-color:var(--red)}
+    .dotnav{position:absolute;right:34px;top:50%;transform:translateY(-50%);display:grid;gap:7px;z-index:20}
+    .dot{width:7px;height:22px;border:0;border-radius:999px;background:rgba(26,22,18,.24);padding:0;cursor:pointer}
+    .dot.active{background:var(--red)}
+    .nav{position:absolute;right:28px;bottom:24px;display:flex;gap:8px;z-index:20}
+    .nav button{width:38px;height:38px;border:1px solid rgba(26,22,18,.24);background:rgba(251,247,239,.82);border-radius:8px;color:var(--ink);font-weight:900;font-size:1.1rem;cursor:pointer}
+    .counter{position:absolute;left:48px;bottom:28px;color:rgba(26,22,18,.48);font-size:.74rem;font-weight:900}
+    .credit{position:absolute;right:82px;bottom:34px;font-size:.72rem;font-weight:900;color:rgba(26,22,18,.44)}
+    @media (max-aspect-ratio:4/3){
+      body{overflow:auto}.deck{position:relative;display:block}.slide{position:relative;width:100vw;height:auto;min-height:100svh;display:block;margin:0;border-bottom:1px solid rgba(26,22,18,.12)}.slide:not(.active){display:block}.dotnav,.nav,.counter{display:none}.content,.content.right,.content.wide{position:relative;left:auto;right:auto;top:auto;width:auto;padding:96px 26px 44px}.content.centered{position:relative;left:auto;top:auto;transform:none;width:auto;text-align:left;padding:96px 26px 44px}.split{position:relative;left:auto;right:auto;top:auto;bottom:auto;display:block;padding:96px 26px 44px}.panel{margin-bottom:18px}.pill-row,.flow,.model-grid,.signal-grid{grid-template-columns:1fr}.brand{right:22px}.eyebrow{left:22px}h1,.quote{font-size:3rem}.title-mark{width:118px;height:118px}
+    }
+  </style>
+</head>
+<body>
+  <main class="deck" aria-live="polite">
+    <section class="slide active" data-title="Title">
+      <img class="bg" src="assets/generated/human-conversation/human-conversation-title-v1.png" alt="">
+      <div class="wash"></div>
+      <div class="brand"><img src="assets/logos/human-conversation-logo-concept-3.png" alt="">Human Conversation</div>
+      <div class="content wide">
+        <img class="title-mark" src="assets/logos/human-conversation-logo-concept-3.png" alt="Human Conversation seed logo mark">
+        <p class="kicker">Seed deck</p>
+        <h1>AI for the conversations that build community.</h1>
+        <p class="sub">Human Conversation is the missing interface between AI and real-world human connection.</p>
+        <span class="domain">HumanConversation.com</span>
+      </div>
+    </section>
+
+    <section class="slide dark" data-title="Problem">
+      <img class="bg" src="assets/generated/loneliness-epidemic/loneliness-smartphone-isolation-v1.png" alt="">
+      <div class="wash dark"></div>
+      <div class="brand"><img src="assets/logos/human-conversation-logo-concept-3.png" alt="">Human Conversation</div>
+      <div class="eyebrow">The problem</div>
+      <div class="content">
+        <p class="kicker">Connected by feeds</p>
+        <h1>People still feel alone.</h1>
+        <p class="sub">We built software for attention, calendars, ratings, and transactions. We did not build the interface for real human connection.</p>
+      </div>
+    </section>
+
+    <section class="slide" data-title="Community">
+      <img class="bg" src="assets/conversation-room.png" alt="">
+      <div class="wash"></div>
+      <div class="brand"><img src="assets/logos/human-conversation-logo-concept-3.png" alt="">Human Conversation</div>
+      <div class="eyebrow">Community truth</div>
+      <div class="content">
+        <p class="kicker">Before software</p>
+        <h1>Communities run on conversations.</h1>
+        <p class="sub">A host can hear what a dashboard misses: loneliness, hesitation, trust, warmth, energy, and whether someone is ready to show up.</p>
+      </div>
+    </section>
+
+    <section class="slide" data-title="Feeling Signal">
+      <img class="bg" src="assets/generated/human-conversation/human-conversation-feeling-signal-v1.png" alt="">
+      <div class="wash center"></div>
+      <div class="brand"><img src="assets/logos/human-conversation-logo-concept-3.png" alt="">Human Conversation</div>
+      <div class="eyebrow">The insight</div>
+      <div class="content centered">
+        <div class="quote">One human conversation tells you <em>how people feel.</em></div>
+        <p class="quote-sub">Tone, pauses, warmth, hesitation, loneliness, trust: the signal is already in the call.</p>
+      </div>
+    </section>
+
+    <section class="slide" data-title="Interface">
+      <div class="brand"><img src="assets/logos/human-conversation-logo-concept-3.png" alt="">Human Conversation</div>
+      <div class="eyebrow">The product category</div>
+      <div class="content wide">
+        <p class="kicker">The conversation layer</p>
+        <h1>The missing interface between AI and real-world human connection.</h1>
+        <div class="pill-row">
+          <div class="pill"><b>Call</b><span>Real human conversation</span></div>
+          <div class="pill"><b>Feel</b><span>Tone, trust, hesitation</span></div>
+          <div class="pill"><b>Learn</b><span>AI community memory</span></div>
+          <div class="pill"><b>Invite</b><span>The next better room</span></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="slide" data-title="Product">
+      <img class="bg" src="assets/cs-programmable-invitations-bg.png" alt="">
+      <div class="wash"></div>
+      <div class="brand"><img src="assets/logos/human-conversation-logo-concept-3.png" alt="">Human Conversation</div>
+      <div class="eyebrow">What it does</div>
+      <div class="content wide">
+        <p class="kicker">AI is learning conversation</p>
+        <h1>Conversation becomes the operating layer for community.</h1>
+        <div class="flow">
+          <div class="step" data-num="01"><b>Human call</b><span>A trusted caller reaches the member</span></div>
+          <div class="step" data-num="02"><b>Feeling signal</b><span>The call reveals what they need</span></div>
+          <div class="step" data-num="03"><b>Community graph</b><span>AI learns who belongs together</span></div>
+          <div class="step" data-num="04"><b>Better invite</b><span>The next invitation feels personal</span></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="slide" data-title="Wedge">
+      <img class="bg" src="assets/cs-fv6-community-intelligence-hero.png" alt="">
+      <div class="wash"></div>
+      <div class="brand"><img src="assets/logos/human-conversation-logo-concept-3.png" alt="">Human Conversation</div>
+      <div class="eyebrow">Wedge</div>
+      <div class="content">
+        <p class="kicker">Start where trust already exists</p>
+        <h1>Clubs and community builders already need this.</h1>
+        <p class="sub">Pros, hosts, coaches, founders, and GMs have followers, rooms, and real reasons to call. Human Conversation turns that trust into invitations, referrals, repeat groups, and belonging.</p>
+      </div>
+    </section>
+
+    <section class="slide" data-title="Data">
+      <div class="brand"><img src="assets/logos/human-conversation-logo-concept-3.png" alt="">Human Conversation</div>
+      <div class="eyebrow">The data moat</div>
+      <div class="content wide">
+        <p class="kicker">Your product captures the signal inside those conversations</p>
+        <h1>Feeling is data when it changes who should be invited next.</h1>
+        <div class="signal-grid">
+          <div class="metric"><b>Tone</b><span>Excited, guarded, tired</span></div>
+          <div class="metric"><b>Pauses</b><span>Uncertainty before the yes</span></div>
+          <div class="metric"><b>Warmth</b><span>Who creates ease</span></div>
+          <div class="metric"><b>Hesitation</b><span>What blocks showing up</span></div>
+          <div class="metric"><b>Loneliness</b><span>Who needs the first bridge</span></div>
+          <div class="metric"><b>Trust</b><span>Who can open the door</span></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="slide" data-title="Graph">
+      <img class="bg" src="assets/cs-mv6-networked-reciprocity.png" alt="">
+      <div class="wash"></div>
+      <div class="brand"><img src="assets/logos/human-conversation-logo-concept-3.png" alt="">Human Conversation</div>
+      <div class="eyebrow">Networked reciprocity</div>
+      <div class="content">
+        <p class="kicker">Every conversation compounds</p>
+        <h1>The community gets smarter after every call.</h1>
+        <p class="sub">Every invite, RSVP, referral, repeat group, and decline teaches Human Conversation who creates value and where connection should happen next.</p>
+      </div>
+    </section>
+
+    <section class="slide" data-title="AI Arc">
+      <img class="bg" src="assets/generated/human-conversation/human-conversation-ai-arc-v1.png" alt="">
+      <div class="wash"></div>
+      <div class="brand"><img src="assets/logos/human-conversation-logo-concept-3.png" alt="">Human Conversation</div>
+      <div class="eyebrow">Why now</div>
+      <div class="content">
+        <p class="kicker">The AI arc</p>
+        <h1>AI can now talk. The winner learns what the conversation means.</h1>
+        <p class="sub">The frontier is not another chatbot. It is AI that understands real community context, then helps humans create the next real-world conversation.</p>
+      </div>
+    </section>
+
+    <section class="slide" data-title="Business">
+      <div class="brand"><img src="assets/logos/human-conversation-logo-concept-3.png" alt="">Human Conversation</div>
+      <div class="eyebrow">Business model</div>
+      <div class="content wide">
+        <p class="kicker">Connection outcomes</p>
+        <h1>Human Conversation gets paid when community grows.</h1>
+        <div class="model-grid">
+          <div class="model"><b>Managed calls</b><span>Human-in-loop conversation campaigns for clubs and hosts</span></div>
+          <div class="model"><b>Filled rooms</b><span>Take rate on experiences, lessons, events, and memberships</span></div>
+          <div class="model"><b>Conversation OS</b><span>Software layer for operators once the signal model matures</span></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="slide" data-title="Close">
+      <div class="brand"><img src="assets/logos/human-conversation-logo-concept-3.png" alt="">Human Conversation</div>
+      <div class="content centered">
+        <img class="title-mark" src="assets/logos/human-conversation-logo-concept-3.png" alt="Human Conversation seed logo mark">
+        <p class="kicker">The company</p>
+        <h1>Humans need more real conversation.</h1>
+        <p class="quote-sub">Communities need the system that learns from it.</p>
+        <span class="domain">HumanConversation.com</span>
+      </div>
+      <div class="credit">Seed deck v0.1</div>
+    </section>
+
+    <nav class="dotnav" aria-label="Slide navigation"></nav>
+    <div class="nav" aria-label="Deck controls">
+      <button type="button" id="prev" aria-label="Previous slide">&lt;</button>
+      <button type="button" id="next" aria-label="Next slide">&gt;</button>
+    </div>
+    <div class="counter" aria-hidden="true"></div>
+  </main>
+  <script>
+    const slides = Array.from(document.querySelectorAll('.slide'));
+    const dots = document.querySelector('.dotnav');
+    const counter = document.querySelector('.counter');
+    let current = 0;
+
+    slides.forEach((slide, index) => {
+      const dot = document.createElement('button');
+      dot.className = 'dot';
+      dot.type = 'button';
+      dot.setAttribute('aria-label', `Go to slide ${index + 1}: ${slide.dataset.title || ''}`);
+      dot.addEventListener('click', () => go(index));
+      dots.appendChild(dot);
+    });
+
+    function go(index){
+      current = Math.max(0, Math.min(slides.length - 1, index));
+      slides.forEach((slide, i) => slide.classList.toggle('active', i === current));
+      Array.from(dots.children).forEach((dot, i) => dot.classList.toggle('active', i === current));
+      counter.textContent = `${String(current + 1).padStart(2,'0')} / ${String(slides.length).padStart(2,'0')}`;
+      const hash = `slide-${current + 1}`;
+      if (location.hash !== `#${hash}`) history.replaceState(null, '', `#${hash}`);
+    }
+
+    function step(delta){ go(current + delta); }
+    document.getElementById('prev').addEventListener('click', () => step(-1));
+    document.getElementById('next').addEventListener('click', () => step(1));
+    document.addEventListener('keydown', event => {
+      if (['ArrowRight','PageDown',' '].includes(event.key)) { event.preventDefault(); step(1); }
+      if (['ArrowLeft','PageUp','Backspace'].includes(event.key)) { event.preventDefault(); step(-1); }
+      if (event.key === 'Home') { event.preventDefault(); go(0); }
+      if (event.key === 'End') { event.preventDefault(); go(slides.length - 1); }
+    });
+    document.querySelector('.deck').addEventListener('click', event => {
+      if (event.target.closest('button')) return;
+      step(1);
+    });
+    const match = location.hash.match(/slide-(\d+)/);
+    go(match ? Number(match[1]) - 1 : 0);
+  </script>
+</body>
+</html>
