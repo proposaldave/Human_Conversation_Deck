@@ -22,6 +22,7 @@
     .wash.center{background:radial-gradient(circle at 52% 42%,rgba(251,247,239,.78),rgba(243,234,216,.38) 45%,rgba(26,22,18,.18) 100%)}
     .brand{position:absolute;top:24px;right:34px;z-index:8;display:flex;align-items:center;gap:10px;font-weight:900;font-size:.72rem;letter-spacing:0;text-transform:uppercase;color:rgba(26,22,18,.58)}
     .brand img{width:30px;height:30px;object-fit:cover;border-radius:50%;border:1px solid rgba(184,149,74,.42)}
+    .dark .brand{color:rgba(251,247,239,.72)}
     .eyebrow{position:absolute;top:28px;left:48px;z-index:8;font-size:.58rem;font-weight:900;letter-spacing:0;text-transform:uppercase;color:var(--red);background:rgba(251,247,239,.78);border:1px solid rgba(184,149,74,.22);padding:7px 10px;border-radius:2px}
     .content{position:absolute;left:72px;top:118px;width:min(780px,50%);z-index:4}
     .content.wide{width:min(1080px,66%)}
@@ -42,6 +43,11 @@
     .quote{font-family:Fraunces,Georgia,serif;font-weight:900;font-size:clamp(4.2rem,6.4vw,7.6rem);line-height:.88;text-wrap:balance}
     .quote em{font-style:italic;color:var(--red)}
     .quote-sub{margin:26px auto 0;max-width:920px;font-size:1.32rem;line-height:1.43;font-weight:800;color:rgba(26,22,18,.75)}
+    .putdown-slide .wash{background:linear-gradient(90deg,rgba(26,22,18,.86),rgba(26,22,18,.58) 35%,rgba(26,22,18,.18) 68%,rgba(26,22,18,.08) 100%)}
+    .putdown-copy{top:136px;width:min(980px,58%)}
+    .putdown-title{font-size:clamp(4.35rem,6.8vw,8.05rem);line-height:.88;color:var(--paper);text-shadow:0 22px 60px rgba(0,0,0,.5)}
+    .putdown-title span{display:block}
+    .putdown-title em{font-style:italic;color:var(--gold)}
     .split{position:absolute;left:72px;right:72px;top:128px;bottom:72px;display:grid;grid-template-columns:1fr 1fr;gap:36px;align-items:center}
     .panel{background:rgba(251,247,239,.82);border:1px solid rgba(184,149,74,.32);border-radius:8px;padding:30px;box-shadow:0 24px 70px rgba(26,22,18,.10)}
     .panel h2{font-family:Fraunces,Georgia,serif;font-size:clamp(2.4rem,3.3vw,4.1rem);line-height:.96;margin:0 0 18px}
@@ -64,6 +70,7 @@
     .credit{position:absolute;right:82px;bottom:34px;font-size:.72rem;font-weight:900;color:rgba(26,22,18,.44)}
     @media (max-aspect-ratio:4/3){
       body{overflow:auto}.deck{position:relative;display:block}.slide{position:relative;width:100vw;height:auto;min-height:100svh;display:block;margin:0;border-bottom:1px solid rgba(26,22,18,.12)}.slide:not(.active){display:block}.dotnav,.nav,.counter{display:none}.content,.content.right,.content.wide{position:relative;left:auto;right:auto;top:auto;width:auto;padding:96px 26px 44px}.content.centered{position:relative;left:auto;top:auto;transform:none;width:auto;text-align:left;padding:96px 26px 44px}.split{position:relative;left:auto;right:auto;top:auto;bottom:auto;display:block;padding:96px 26px 44px}.panel{margin-bottom:18px}.pill-row,.flow,.model-grid,.signal-grid{grid-template-columns:1fr}.brand{right:22px}.eyebrow{left:22px}h1,.quote{font-size:3rem}.title-mark{width:118px;height:118px}
+      .putdown-title{font-size:3.18rem}.putdown-copy{width:auto}
     }
   </style>
 </head>
@@ -91,6 +98,16 @@
         <p class="kicker">Connected by feeds</p>
         <h1>People still feel alone.</h1>
         <p class="sub">We built software for attention, calendars, ratings, and transactions. We did not build the interface for real human connection.</p>
+      </div>
+    </section>
+
+    <section class="slide dark putdown-slide" data-title="Put down your phone">
+      <img class="bg" src="assets/generated/put-down-phone/put-down-phone-human-conversation-v1.png" alt="">
+      <div class="wash"></div>
+      <div class="brand"><img src="assets/logos/human-conversation-logo-concept-3.png" alt="">Human Conversation</div>
+      <div class="eyebrow">The invitation</div>
+      <div class="content wide putdown-copy">
+        <h1 class="putdown-title"><span>Put down your phone.</span><span><em>Have a human conversation.</em></span></h1>
       </div>
     </section>
 
