@@ -60,6 +60,15 @@
     .built-lines{display:grid;gap:13px;margin-top:24px;max-width:790px}
     .built-lines p{margin:0;color:rgba(251,247,239,.88);font-size:clamp(1rem,1.15vw,1.28rem);line-height:1.42;font-weight:900;text-wrap:balance;text-shadow:0 15px 42px rgba(0,0,0,.58)}
     .built-lines strong{color:var(--paper)}
+    .notauto-slide .wash{background:linear-gradient(90deg,rgba(4,5,6,.96),rgba(4,5,6,.78) 35%,rgba(4,5,6,.24) 66%,rgba(4,5,6,.03) 100%)}
+    .notauto-copy{top:102px;width:min(1010px,60%)}
+    .notauto-title{font-size:clamp(3.55rem,5.8vw,6.9rem);line-height:.9;color:var(--paper);text-shadow:0 24px 70px rgba(0,0,0,.62)}
+    .notauto-title span{display:block}
+    .notauto-title em{font-style:italic;color:var(--gold)}
+    .notauto-answer{margin-top:28px;font-family:Fraunces,Georgia,serif;font-size:clamp(2.8rem,4.35vw,5.1rem);font-weight:900;line-height:.98;color:var(--gold);text-shadow:0 20px 58px rgba(0,0,0,.6)}
+    .notauto-sub{margin:22px 0 0;max-width:820px;color:rgba(251,247,239,.88);font-size:clamp(1rem,1.18vw,1.32rem);line-height:1.42;font-weight:900;text-wrap:balance;text-shadow:0 15px 42px rgba(0,0,0,.58)}
+    .notauto-row{display:flex;gap:10px;flex-wrap:wrap;margin-top:24px}
+    .notauto-row span{display:inline-flex;align-items:center;min-height:34px;padding:8px 11px;border:1px solid rgba(251,247,239,.28);background:rgba(26,22,18,.28);color:rgba(251,247,239,.86);font-size:.72rem;font-weight:900;letter-spacing:.08em;text-transform:uppercase}
     .timeless-slide .wash{background:linear-gradient(90deg,rgba(4,5,6,.94),rgba(4,5,6,.78) 35%,rgba(4,5,6,.28) 66%,rgba(4,5,6,.04) 100%)}
     .timeless-copy{top:96px;width:min(920px,56%)}
     .timeless-title{font-size:clamp(3.45rem,5.35vw,6.3rem);line-height:.92;color:var(--paper);text-shadow:0 24px 70px rgba(0,0,0,.62)}
@@ -110,6 +119,7 @@
       .putdown-title{font-size:3.18rem}.putdown-copy{width:auto}
       .breath-title{font-size:3rem}.breath-copy{width:auto}
       .built-name{font-size:3rem}.built-thesis{font-size:1.9rem}.built-copy{width:auto}.built-lines p{font-size:1rem}
+      .notauto-title{font-size:2.75rem}.notauto-copy{width:auto}.notauto-answer{font-size:2.25rem}.notauto-sub{font-size:1rem}
       .timeless-title{font-size:2.85rem}.timeless-copy{width:auto}.timeless-proof{font-size:1rem}.timeless-close{font-size:1.85rem}
       .builder-title{font-size:3rem}.builder-copy{width:auto}.builder-sub{font-size:1rem}
       .known-title{font-size:2.8rem}.known-copy{width:auto}.known-answer{font-size:2.35rem}.known-sub{font-size:1rem}
@@ -174,6 +184,24 @@
         <div class="built-lines">
           <p>Technology should not replace it, forget it, or bypass it.</p>
           <p><strong>Human Conversation is built around it</strong> &mdash; helping community builders know who needs a conversation, what to ask, and what should happen next.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="slide dark notauto-slide" data-title="Not automate away">
+      <img class="bg" src="assets/generated/build-around-not-automate/human-conversation-not-automate-v1.png" alt="">
+      <div class="wash"></div>
+      <div class="brand"><img src="assets/logos/human-conversation-logo-concept-3.png" alt="">Human Conversation</div>
+      <div class="eyebrow">AI principle</div>
+      <div class="content wide notauto-copy">
+        <h1 class="notauto-title"><span>Human conversation is not the thing</span><span><em>to automate away.</em></span></h1>
+        <div class="notauto-answer">It is the thing to build around.</div>
+        <p class="notauto-sub">AI should protect it, remember it, amplify it, and help the right conversation happen next.</p>
+        <div class="notauto-row">
+          <span>Protect it</span>
+          <span>Remember it</span>
+          <span>Amplify it</span>
+          <span>Build around it</span>
         </div>
       </div>
     </section>
