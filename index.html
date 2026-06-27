@@ -78,6 +78,13 @@
     .builder-sub{margin:24px 0 0;max-width:770px;color:rgba(251,247,239,.9);font-size:clamp(1.05rem,1.25vw,1.42rem);line-height:1.42;font-weight:900;text-wrap:balance;text-shadow:0 15px 42px rgba(0,0,0,.58)}
     .builder-action-row{display:flex;gap:10px;flex-wrap:wrap;margin-top:26px}
     .builder-action-row span{display:inline-flex;align-items:center;min-height:34px;padding:8px 11px;border:1px solid rgba(251,247,239,.28);background:rgba(26,22,18,.28);color:rgba(251,247,239,.86);font-size:.72rem;font-weight:900;letter-spacing:.08em;text-transform:uppercase}
+    .known-slide .wash{background:linear-gradient(90deg,rgba(4,5,6,.94),rgba(4,5,6,.76) 35%,rgba(4,5,6,.26) 66%,rgba(4,5,6,.03) 100%)}
+    .known-copy{top:112px;width:min(990px,59%)}
+    .known-title{font-size:clamp(3.85rem,6vw,7.1rem);line-height:.91;color:var(--paper);text-shadow:0 24px 70px rgba(0,0,0,.62)}
+    .known-title span{display:block}
+    .known-title em{font-style:italic;color:var(--gold)}
+    .known-answer{margin-top:26px;font-family:Fraunces,Georgia,serif;font-size:clamp(3rem,4.3vw,5.05rem);font-weight:900;line-height:.96;color:var(--gold);text-shadow:0 20px 58px rgba(0,0,0,.6)}
+    .known-sub{margin:18px 0 0;max-width:720px;color:rgba(251,247,239,.86);font-size:clamp(1rem,1.16vw,1.3rem);line-height:1.42;font-weight:900;text-wrap:balance;text-shadow:0 15px 42px rgba(0,0,0,.58)}
     .split{position:absolute;left:72px;right:72px;top:128px;bottom:72px;display:grid;grid-template-columns:1fr 1fr;gap:36px;align-items:center}
     .panel{background:rgba(251,247,239,.82);border:1px solid rgba(184,149,74,.32);border-radius:8px;padding:30px;box-shadow:0 24px 70px rgba(26,22,18,.10)}
     .panel h2{font-family:Fraunces,Georgia,serif;font-size:clamp(2.4rem,3.3vw,4.1rem);line-height:.96;margin:0 0 18px}
@@ -105,6 +112,7 @@
       .built-name{font-size:3rem}.built-thesis{font-size:1.9rem}.built-copy{width:auto}.built-lines p{font-size:1rem}
       .timeless-title{font-size:2.85rem}.timeless-copy{width:auto}.timeless-proof{font-size:1rem}.timeless-close{font-size:1.85rem}
       .builder-title{font-size:3rem}.builder-copy{width:auto}.builder-sub{font-size:1rem}
+      .known-title{font-size:2.8rem}.known-copy{width:auto}.known-answer{font-size:2.35rem}.known-sub{font-size:1rem}
     }
   </style>
 </head>
@@ -226,6 +234,18 @@
           <span>Follow up</span>
           <span>Activate a leader</span>
         </div>
+      </div>
+    </section>
+
+    <section class="slide dark known-slide" data-title="Known off the court">
+      <img class="bg" src="assets/generated/known-off-court/human-conversation-known-off-court-v1.png" alt="">
+      <div class="wash"></div>
+      <div class="brand"><img src="assets/logos/human-conversation-logo-concept-3.png" alt="">Human Conversation</div>
+      <div class="eyebrow">Member outcome</div>
+      <div class="content wide known-copy">
+        <h1 class="known-title"><span>How do you make someone</span><span><em>feel known</em></span><span>off the court?</span></h1>
+        <div class="known-answer">Human conversation.</div>
+        <p class="known-sub">The product starts with the next call. The outcome is someone feeling seen.</p>
       </div>
     </section>
 
