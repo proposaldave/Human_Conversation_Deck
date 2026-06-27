@@ -60,6 +60,15 @@
     .built-lines{display:grid;gap:13px;margin-top:24px;max-width:790px}
     .built-lines p{margin:0;color:rgba(251,247,239,.88);font-size:clamp(1rem,1.15vw,1.28rem);line-height:1.42;font-weight:900;text-wrap:balance;text-shadow:0 15px 42px rgba(0,0,0,.58)}
     .built-lines strong{color:var(--paper)}
+    .timeless-slide .wash{background:linear-gradient(90deg,rgba(4,5,6,.94),rgba(4,5,6,.78) 35%,rgba(4,5,6,.28) 66%,rgba(4,5,6,.04) 100%)}
+    .timeless-copy{top:96px;width:min(920px,56%)}
+    .timeless-title{font-size:clamp(3.45rem,5.35vw,6.3rem);line-height:.92;color:var(--paper);text-shadow:0 24px 70px rgba(0,0,0,.62)}
+    .timeless-title span{display:block}
+    .timeless-title em{font-style:italic;color:var(--gold)}
+    .timeless-change-row{display:flex;gap:10px;flex-wrap:wrap;margin-top:24px}
+    .timeless-change-row span{display:inline-flex;align-items:center;min-height:34px;padding:8px 11px;border:1px solid rgba(184,149,74,.42);background:rgba(251,247,239,.1);color:rgba(251,247,239,.86);font-size:.72rem;font-weight:900;letter-spacing:.08em;text-transform:uppercase}
+    .timeless-proof{margin:24px 0 0;max-width:790px;color:rgba(251,247,239,.9);font-size:clamp(1rem,1.17vw,1.3rem);line-height:1.42;font-weight:900;text-wrap:balance;text-shadow:0 15px 42px rgba(0,0,0,.58)}
+    .timeless-close{margin-top:16px;font-family:Fraunces,Georgia,serif;font-size:clamp(1.85rem,2.45vw,2.9rem);font-weight:900;line-height:1.02;color:var(--gold);text-shadow:0 18px 50px rgba(0,0,0,.56)}
     .split{position:absolute;left:72px;right:72px;top:128px;bottom:72px;display:grid;grid-template-columns:1fr 1fr;gap:36px;align-items:center}
     .panel{background:rgba(251,247,239,.82);border:1px solid rgba(184,149,74,.32);border-radius:8px;padding:30px;box-shadow:0 24px 70px rgba(26,22,18,.10)}
     .panel h2{font-family:Fraunces,Georgia,serif;font-size:clamp(2.4rem,3.3vw,4.1rem);line-height:.96;margin:0 0 18px}
@@ -85,6 +94,7 @@
       .putdown-title{font-size:3.18rem}.putdown-copy{width:auto}
       .breath-title{font-size:3rem}.breath-copy{width:auto}
       .built-name{font-size:3rem}.built-thesis{font-size:1.9rem}.built-copy{width:auto}.built-lines p{font-size:1rem}
+      .timeless-title{font-size:2.85rem}.timeless-copy{width:auto}.timeless-proof{font-size:1rem}.timeless-close{font-size:1.85rem}
     }
   </style>
 </head>
@@ -147,6 +157,23 @@
           <p>Technology should not replace it, forget it, or bypass it.</p>
           <p><strong>Human Conversation is built around it</strong> &mdash; helping community builders know who needs a conversation, what to ask, and what should happen next.</p>
         </div>
+      </div>
+    </section>
+
+    <section class="slide dark timeless-slide" data-title="Timeless interface">
+      <img class="bg" src="assets/generated/timeless-interface/human-conversation-timeless-interface-v1.png" alt="">
+      <div class="wash"></div>
+      <div class="brand"><img src="assets/logos/human-conversation-logo-concept-3.png" alt="">Human Conversation</div>
+      <div class="eyebrow">Durable interface</div>
+      <div class="content wide timeless-copy">
+        <h1 class="timeless-title"><span>Human conversation is the</span><span><em>timeless interface</em></span><span>of community.</span></h1>
+        <div class="timeless-change-row">
+          <span>Software changes.</span>
+          <span>Interfaces change.</span>
+          <span>AI models change.</span>
+        </div>
+        <p class="timeless-proof">But real communities will always run on people talking, noticing, remembering, inviting, and following up.</p>
+        <div class="timeless-close">Human Conversation builds around that.</div>
       </div>
     </section>
 
