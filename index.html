@@ -48,6 +48,11 @@
     .putdown-title{font-size:clamp(4.35rem,6.8vw,8.05rem);line-height:.88;color:var(--paper);text-shadow:0 22px 60px rgba(0,0,0,.5)}
     .putdown-title span{display:block}
     .putdown-title em{font-style:italic;color:var(--gold)}
+    .breath-slide .wash{background:linear-gradient(90deg,rgba(6,8,10,.92),rgba(6,8,10,.7) 33%,rgba(6,8,10,.22) 67%,rgba(6,8,10,.04) 100%)}
+    .breath-copy{top:124px;width:min(980px,55%)}
+    .breath-title{font-size:clamp(4rem,6.2vw,7.35rem);line-height:.9;color:var(--paper);text-shadow:0 24px 70px rgba(0,0,0,.58)}
+    .breath-title span{display:block}
+    .breath-title em{font-style:italic;color:var(--gold)}
     .split{position:absolute;left:72px;right:72px;top:128px;bottom:72px;display:grid;grid-template-columns:1fr 1fr;gap:36px;align-items:center}
     .panel{background:rgba(251,247,239,.82);border:1px solid rgba(184,149,74,.32);border-radius:8px;padding:30px;box-shadow:0 24px 70px rgba(26,22,18,.10)}
     .panel h2{font-family:Fraunces,Georgia,serif;font-size:clamp(2.4rem,3.3vw,4.1rem);line-height:.96;margin:0 0 18px}
@@ -71,6 +76,7 @@
     @media (max-aspect-ratio:4/3){
       body{overflow:auto}.deck{position:relative;display:block}.slide{position:relative;width:100vw;height:auto;min-height:100svh;display:block;margin:0;border-bottom:1px solid rgba(26,22,18,.12)}.slide:not(.active){display:block}.dotnav,.nav,.counter{display:none}.content,.content.right,.content.wide{position:relative;left:auto;right:auto;top:auto;width:auto;padding:96px 26px 44px}.content.centered{position:relative;left:auto;top:auto;transform:none;width:auto;text-align:left;padding:96px 26px 44px}.split{position:relative;left:auto;right:auto;top:auto;bottom:auto;display:block;padding:96px 26px 44px}.panel{margin-bottom:18px}.pill-row,.flow,.model-grid,.signal-grid{grid-template-columns:1fr}.brand{right:22px}.eyebrow{left:22px}h1,.quote{font-size:3rem}.title-mark{width:118px;height:118px}
       .putdown-title{font-size:3.18rem}.putdown-copy{width:auto}
+      .breath-title{font-size:3rem}.breath-copy{width:auto}
     }
   </style>
 </head>
@@ -108,6 +114,16 @@
       <div class="eyebrow">The invitation</div>
       <div class="content wide putdown-copy">
         <h1 class="putdown-title"><span>Put down your phone.</span><span><em>Have a human conversation.</em></span></h1>
+      </div>
+    </section>
+
+    <section class="slide dark breath-slide" data-title="Community breathes">
+      <img class="bg" src="assets/generated/community-breathes/human-conversation-community-breathes-v1.png" alt="">
+      <div class="wash"></div>
+      <div class="brand"><img src="assets/logos/human-conversation-logo-concept-3.png" alt="">Human Conversation</div>
+      <div class="eyebrow">Core thesis</div>
+      <div class="content wide breath-copy">
+        <h1 class="breath-title"><span>Human Conversation</span><span>is how a community</span><span><em>breathes.</em></span></h1>
       </div>
     </section>
 
