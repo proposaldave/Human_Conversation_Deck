@@ -108,6 +108,16 @@
     .desk-flow-step b{display:block;color:var(--paper);font-size:.92rem;font-weight:900;letter-spacing:.06em;text-transform:uppercase}
     .desk-flow-step span{display:none}
     .desk-arrow{color:rgba(251,247,239,.58);font-size:1.4rem;font-weight:900}
+    .proof-slide .wash{background:linear-gradient(90deg,rgba(4,5,6,.94),rgba(4,5,6,.78) 36%,rgba(4,5,6,.3) 68%,rgba(4,5,6,.08) 100%)}
+    .proof-copy{top:106px;width:min(980px,58%)}
+    .proof-title{font-size:clamp(3.8rem,6vw,7rem);line-height:.91;color:var(--paper);text-shadow:0 24px 70px rgba(0,0,0,.62)}
+    .proof-title span{display:block}
+    .proof-title em{font-style:italic;color:var(--gold)}
+    .proof-sub{margin:24px 0 0;max-width:790px;color:rgba(251,247,239,.9);font-size:clamp(1.05rem,1.28vw,1.45rem);line-height:1.38;font-weight:900;text-wrap:balance;text-shadow:0 15px 42px rgba(0,0,0,.58)}
+    .proof-row{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:28px;max-width:830px}
+    .proof-chip{min-height:96px;padding:15px 16px;border:1px solid rgba(251,247,239,.22);background:rgba(4,5,6,.42);backdrop-filter:blur(10px)}
+    .proof-chip b{display:block;color:var(--gold);font-size:.66rem;font-weight:900;letter-spacing:.14em;text-transform:uppercase;margin-bottom:8px}
+    .proof-chip span{display:block;color:rgba(251,247,239,.9);font-size:1rem;line-height:1.22;font-weight:900}
     .known-slide .wash{background:linear-gradient(90deg,rgba(4,5,6,.94),rgba(4,5,6,.76) 35%,rgba(4,5,6,.26) 66%,rgba(4,5,6,.03) 100%)}
     .known-copy{top:112px;width:min(990px,59%)}
     .known-title{font-size:clamp(3.85rem,6vw,7.1rem);line-height:.91;color:var(--paper);text-shadow:0 24px 70px rgba(0,0,0,.62)}
@@ -144,6 +154,7 @@
       .timeless-title{font-size:2.85rem}.timeless-copy{width:auto}.timeless-proof{font-size:1rem}.timeless-close{font-size:1.85rem}
       .builder-title{font-size:3rem}.builder-copy{width:auto}.builder-sub{font-size:1rem}
       .frontdesk-title{font-size:3.2rem}.frontdesk-copy{width:auto}.frontdesk-sub{font-size:1.2rem}.desk-ai-panel{position:relative;right:auto;top:auto;width:auto;margin:0 26px 24px}.desk-flow{position:relative;left:auto;right:auto;bottom:auto;display:block;padding:0 26px 44px}.desk-flow-step{margin-bottom:10px}.desk-arrow{display:none}
+      .proof-title{font-size:2.85rem}.proof-copy{width:auto}.proof-sub{font-size:1rem}.proof-row{grid-template-columns:1fr}
       .known-title{font-size:2.8rem}.known-copy{width:auto}.known-answer{font-size:2.35rem}.known-sub{font-size:1rem}
     }
   </style>
@@ -156,9 +167,9 @@
       <div class="brand"><img src="assets/logos/human-conversation-logo-concept-3.png" alt="">Human Conversation</div>
       <div class="content wide">
         <img class="title-mark" src="assets/logos/human-conversation-logo-concept-3.png" alt="Human Conversation seed logo mark">
-        <p class="kicker">Seed deck</p>
-        <h1>AI for the conversations that build community.</h1>
-        <p class="sub">Human Conversation is the missing interface between AI and real-world human connection.</p>
+        <p class="kicker">Relationship memory and action layer</p>
+        <h1>Know the person. Coordinate the moment.</h1>
+        <p class="sub">Human Conversation tells community builders who to talk to, what to ask, what to remember, and what should happen next.</p>
         <span class="domain">HumanConversation.com</span>
       </div>
     </section>
@@ -169,9 +180,9 @@
       <div class="brand"><img src="assets/logos/human-conversation-logo-concept-3.png" alt="">Human Conversation</div>
       <div class="eyebrow">The problem</div>
       <div class="content">
-        <p class="kicker">Connected by feeds</p>
-        <h1>People still feel alone.</h1>
-        <p class="sub">We built software for attention, calendars, ratings, and transactions. We did not build the interface for real human connection.</p>
+        <p class="kicker">Calendar-first software</p>
+        <h1>The calendar knows what happened. It does not know why.</h1>
+        <p class="sub">It misses hesitation, trust, loneliness, schedule blockers, social fit, and the fragile moment when a beginner disappears.</p>
       </div>
     </section>
 
@@ -252,8 +263,8 @@
       <div class="eyebrow">Product loop</div>
       <div class="content wide builder-copy">
         <p class="builder-step">01 / Person</p>
-        <h1 class="builder-title"><span>The next person</span><span><em>to talk to.</em></span></h1>
-        <p class="builder-sub">Human Conversation gives community builders the person who needs a human moment now.</p>
+        <h1 class="builder-title"><span>Who needs</span><span>a conversation</span><span><em>today?</em></span></h1>
+        <p class="builder-sub">The system looks across attendance, lessons, events, notes, and absence to find the human moment that matters now.</p>
       </div>
     </section>
 
@@ -263,9 +274,9 @@
       <div class="brand"><img src="assets/logos/human-conversation-logo-concept-3.png" alt="">Human Conversation</div>
       <div class="eyebrow">Product loop</div>
       <div class="content wide builder-copy">
-        <p class="builder-step">02 / Context</p>
-        <h1 class="builder-title"><span>The context</span><span><em>before the call.</em></span></h1>
-        <p class="builder-sub">What happened, what they felt, who they know, and what to ask next.</p>
+        <p class="builder-step">02 / Question</p>
+        <h1 class="builder-title"><span>What should</span><span>we ask?</span></h1>
+        <p class="builder-sub">A trusted staff member gets the context before the conversation: what happened, what changed, and what to listen for.</p>
       </div>
     </section>
 
@@ -276,13 +287,13 @@
       <div class="eyebrow">Product loop</div>
       <div class="content wide builder-copy">
         <p class="builder-step">03 / Action</p>
-        <h1 class="builder-title"><span>The next</span><span><em>right action.</em></span></h1>
-        <p class="builder-sub">Then it advises the move that makes the community stronger.</p>
+        <h1 class="builder-title"><span>What should</span><span>happen</span><span><em>next?</em></span></h1>
+        <p class="builder-sub">The outcome becomes relationship memory, then an invite, intro, follow-up, lesson, repair, or host path.</p>
         <div class="builder-action-row">
           <span>Invite</span>
           <span>Introduce</span>
           <span>Follow up</span>
-          <span>Activate a leader</span>
+          <span>Repair</span>
         </div>
       </div>
     </section>
@@ -335,15 +346,20 @@
       </div>
     </section>
 
-    <section class="slide" data-title="Community">
-      <img class="bg" src="assets/conversation-room.png" alt="">
+    <section class="slide dark proof-slide" data-title="Live proof">
+      <img class="bg" src="assets/generated/front-desk-interface/human-conversation-front-desk-interface-v1.png" alt="">
       <div class="wash"></div>
       <div class="brand"><img src="assets/logos/human-conversation-logo-concept-3.png" alt="">Human Conversation</div>
-      <div class="eyebrow">Community truth</div>
-      <div class="content">
-        <p class="kicker">Before software</p>
-        <h1>Communities run on conversations.</h1>
-        <p class="sub">A host can hear what a dashboard misses: loneliness, hesitation, trust, warmth, energy, and whether someone is ready to show up.</p>
+      <div class="eyebrow">Manual AI workflow proof</div>
+      <div class="content wide proof-copy">
+        <p class="kicker">NEPC live lab</p>
+        <h1 class="proof-title"><span>A lapsed beginner</span><span>became <em>relationship memory.</em></span></h1>
+        <p class="proof-sub">The calendar showed absence. A human conversation revealed a positive first class, a summer blocker, and the right fall follow-up.</p>
+        <div class="proof-row">
+          <div class="proof-chip"><b>Before</b><span>Invisible calendar record</span></div>
+          <div class="proof-chip"><b>Signal</b><span>Liked class. Timing blocked.</span></div>
+          <div class="proof-chip"><b>Next</b><span>Future follow-up with friends</span></div>
+        </div>
       </div>
     </section>
 
