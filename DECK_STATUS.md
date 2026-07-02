@@ -6,6 +6,10 @@
 
 ## What Changed
 
+- Added a new image-led operating-system thesis slide:
+  - `Human conversation is the operating system for real-world social communities.`
+  - Uses the selected community-campus generated background.
+- Saved three operating-system image-generation variants under `assets/generated/operating-system/`.
 - Sharpened the opening around the investor spine: `Know the person. Coordinate the moment.`
 - Reframed the problem from generic loneliness to the calendar-first software gap.
 - Rewrote the three product-loop slides as a simple sequence:
@@ -33,4 +37,4 @@ The prompt referenced source files under `C:\Users\dave\CLAUDE COWORK` and `C:\U
 
 ## Dave's Next Step
 
-Review slides 1, 2, 8, 9, 10, and 13 for narrative fit before the next edit batch.
+Review the new operating-system slide first, then slides 1, 2, 9, 10, 11, and 14 for narrative fit before the next edit batch.
