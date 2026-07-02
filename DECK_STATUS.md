@@ -6,6 +6,11 @@
 
 ## What Changed
 
+- Sharpened the final-third seed logic on 2026-07-02:
+  - Reframed pickleball clubs as the live lab where social signal is dense and visible.
+  - Reframed the data moat as staff-only relationship memory no calendar owns.
+  - Reframed business as service-led wedge to relationship OS, without unverified utilization or revenue claims.
+  - Strengthened the close around seed capital turning NEPC live-lab workflows into a real-world community OS.
 - Cut and reordered the seed-story spine on 2026-07-02:
   - Removed `Put down your phone`, `Timeless interface`, and `Known off the court` as repetitive with stronger thesis/product slides.
   - Moved `One human conversation tells you how people feel` immediately after the problem slide.
