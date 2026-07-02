@@ -1,4 +1,4 @@
-# Human Conversation Deck Status - 2026-07-01
+# Human Conversation Deck Status - 2026-07-02
 
 ## Exact Deck Path
 
@@ -6,6 +6,15 @@
 
 ## What Changed
 
+- Refreshed the operating-system thesis slide on 2026-07-02:
+  - Chose the new living-community OS background as the clearest investor visual.
+  - Tightened the support line to `Every conversation becomes memory. Every memory becomes the next right action.`
+  - Reduced the operating loop to `Signal / Memory / Action`.
+- Tightened the opening emotional arc on 2026-07-02:
+  - Repositioned the title as `The sales engine for real-world communities.`
+  - Removed the redundant `Built around conversation` thesis slide.
+  - Sharpened the problem slide around the missing signal behind bookings.
+  - Shortened the AI-principle and timeless-interface slides so the deck reaches the product loop faster.
 - Reviewed `https://humanconversation.com/` on 2026-07-02 and pulled the strongest site ideas into the deck:
   - Human Conversation as the next human communication interface.
   - Human Conversation as a sales engine for community builders.
@@ -19,8 +28,8 @@
   - Business
 - Added a new image-led operating-system thesis slide:
   - `Human conversation is the operating system for real-world social communities.`
-  - Uses the selected community-campus generated background.
-- Saved three operating-system image-generation variants under `assets/generated/operating-system/`.
+  - Uses the selected living-community OS generated background.
+- Saved six operating-system image-generation variants under `assets/generated/operating-system/`.
 - Sharpened the opening around the investor spine: `Know the person. Coordinate the moment.`
 - Reframed the problem from generic loneliness to the calendar-first software gap.
 - Rewrote the three product-loop slides as a simple sequence:
@@ -49,4 +58,4 @@ The prompt referenced source files under `C:\Users\dave\CLAUDE COWORK` and `C:\U
 
 ## Dave's Next Step
 
-Review slides 16-22 first; they are now the most important seed-readiness pass from today's live-site review.
+Review slides 1-7 first; the opening arc is now shorter and more investor-direct.
