@@ -6,6 +6,10 @@
 
 ## What Changed
 
+- Cut and reordered the seed-story spine on 2026-07-02:
+  - Removed `Put down your phone`, `Timeless interface`, and `Known off the court` as repetitive with stronger thesis/product slides.
+  - Moved `One human conversation tells you how people feel` immediately after the problem slide.
+  - Reduced the deck from 22 slides to 19 slides so investors reach product/proof faster.
 - Refreshed the operating-system thesis slide on 2026-07-02:
   - Chose the new living-community OS background as the clearest investor visual.
   - Tightened the support line to `Every conversation becomes memory. Every memory becomes the next right action.`
