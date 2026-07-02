@@ -6,6 +6,17 @@
 
 ## What Changed
 
+- Reviewed `https://humanconversation.com/` on 2026-07-02 and pulled the strongest site ideas into the deck:
+  - Human Conversation as the next human communication interface.
+  - Human Conversation as a sales engine for community builders.
+  - The chain from disconnection to connection, trust, data, coordination, and community.
+- Rewrote the back-third investor slides so they feel less generic and more seed-ready:
+  - Interface
+  - Product
+  - Wedge
+  - Data
+  - AI Arc
+  - Business
 - Added a new image-led operating-system thesis slide:
   - `Human conversation is the operating system for real-world social communities.`
   - Uses the selected community-campus generated background.
@@ -24,6 +35,7 @@
 The prompt referenced source files under `C:\Users\dave\CLAUDE COWORK` and `C:\Users\davel\CLAUDE COWORK`, plus a cold-email file in Downloads. Those exact files were not present on this machine during this pass, so this edit used:
 
 - `C:\Users\davel\Downloads\4ej445j6k56k65.txt`
+- `https://humanconversation.com/`
 - `C:\Users\davel\My Drive\Human_Conversation_Deck\AGENTS.md`
 - `C:\Users\davel\My Drive\Human_Conversation_Deck\index.html`
 - repo memory guidance for Human Conversation publishing checks
@@ -37,4 +49,4 @@ The prompt referenced source files under `C:\Users\dave\CLAUDE COWORK` and `C:\U
 
 ## Dave's Next Step
 
-Review the new operating-system slide first, then slides 1, 2, 9, 10, 11, and 14 for narrative fit before the next edit batch.
+Review slides 16-22 first; they are now the most important seed-readiness pass from today's live-site review.

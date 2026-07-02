@@ -143,9 +143,15 @@
     .flow{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-top:34px}
     .step{position:relative;padding:22px 20px 24px;min-height:164px}
     .step:before{content:attr(data-num);display:block;color:var(--red);font-weight:900;font-size:.72rem;margin-bottom:14px}
+    .chain-flow{grid-template-columns:repeat(6,1fr);gap:10px}
+    .chain-flow .step{min-height:132px;padding:18px 14px 20px}
+    .chain-flow .step b{font-size:1.18rem}
+    .chain-flow .step span{font-size:.64rem}
     .model-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:34px}
     .model{padding:24px 22px 26px;min-height:182px;border-top:6px solid var(--blue)}
     .model:nth-child(2){border-top-color:var(--gold)}.model:nth-child(3){border-top-color:var(--red)}
+    .interface-slide .wash,.business-slide .wash{background:linear-gradient(90deg,rgba(4,5,6,.94),rgba(4,5,6,.72) 38%,rgba(4,5,6,.22) 70%,rgba(4,5,6,.04) 100%)}
+    .data-slide .wash{background:linear-gradient(90deg,rgba(243,234,216,.96),rgba(243,234,216,.84) 44%,rgba(243,234,216,.34) 75%,rgba(243,234,216,.08) 100%)}
     .dotnav{position:absolute;right:34px;top:50%;transform:translateY(-50%);display:grid;gap:7px;z-index:20}
     .dot{width:7px;height:22px;border:0;border-radius:999px;background:rgba(26,22,18,.24);padding:0;cursor:pointer}
     .dot.active{background:var(--red)}
@@ -399,17 +405,19 @@
       </div>
     </section>
 
-    <section class="slide" data-title="Interface">
+    <section class="slide dark interface-slide" data-title="Interface">
+      <img class="bg" src="assets/generated/operating-system/human-conversation-os-v1-community-circuit.png" alt="">
+      <div class="wash"></div>
       <div class="brand"><img src="assets/logos/human-conversation-logo-concept-3.png" alt="">Human Conversation</div>
       <div class="eyebrow">The product category</div>
       <div class="content wide">
-        <p class="kicker">The conversation layer</p>
-        <h1>The missing interface between AI and real-world human connection.</h1>
+        <p class="kicker">The next great communication interface</p>
+        <h1>The interface becomes human.</h1>
         <div class="pill-row">
-          <div class="pill"><b>Call</b><span>Real human conversation</span></div>
-          <div class="pill"><b>Feel</b><span>Tone, trust, hesitation</span></div>
-          <div class="pill"><b>Learn</b><span>AI community memory</span></div>
-          <div class="pill"><b>Invite</b><span>The next better room</span></div>
+          <div class="pill"><b>Who</b><span>The next person to talk to</span></div>
+          <div class="pill"><b>Why</b><span>The context that matters now</span></div>
+          <div class="pill"><b>Ask</b><span>The question that opens signal</span></div>
+          <div class="pill"><b>Do</b><span>The next community action</span></div>
         </div>
       </div>
     </section>
@@ -420,13 +428,15 @@
       <div class="brand"><img src="assets/logos/human-conversation-logo-concept-3.png" alt="">Human Conversation</div>
       <div class="eyebrow">What it does</div>
       <div class="content wide">
-        <p class="kicker">AI is learning conversation</p>
-        <h1>Conversation becomes the operating layer for community.</h1>
-        <div class="flow">
-          <div class="step" data-num="01"><b>Human call</b><span>A trusted caller reaches the member</span></div>
-          <div class="step" data-num="02"><b>Feeling signal</b><span>The call reveals what they need</span></div>
-          <div class="step" data-num="03"><b>Community graph</b><span>AI learns who belongs together</span></div>
-          <div class="step" data-num="04"><b>Better invite</b><span>The next invitation feels personal</span></div>
+        <p class="kicker">The conversion chain</p>
+        <h1>Human conversation turns disconnection into community.</h1>
+        <div class="flow chain-flow">
+          <div class="step" data-num="01"><b>Disconnection</b><span>Who is drifting or stuck?</span></div>
+          <div class="step" data-num="02"><b>Connection</b><span>A trusted human reaches out</span></div>
+          <div class="step" data-num="03"><b>Trust</b><span>The person opens up</span></div>
+          <div class="step" data-num="04"><b>Data</b><span>The hidden signal is remembered</span></div>
+          <div class="step" data-num="05"><b>Coordination</b><span>The next action gets better</span></div>
+          <div class="step" data-num="06"><b>Community</b><span>People come back together</span></div>
         </div>
       </div>
     </section>
@@ -437,25 +447,27 @@
       <div class="brand"><img src="assets/logos/human-conversation-logo-concept-3.png" alt="">Human Conversation</div>
       <div class="eyebrow">Wedge</div>
       <div class="content">
-        <p class="kicker">Start where trust already exists</p>
-        <h1>Clubs and community builders already need this.</h1>
-        <p class="sub">Pros, hosts, coaches, founders, and GMs have followers, rooms, and real reasons to call. Human Conversation turns that trust into invitations, referrals, repeat groups, and belonging.</p>
+        <p class="kicker">Start where the pain is dense</p>
+        <h1>Pickleball clubs are the perfect wedge.</h1>
+        <p class="sub">Beginners disappear. Events underfill. Lesson demand hides in texts and memory. Staff already know the community, but the signal is trapped in their heads.</p>
       </div>
     </section>
 
-    <section class="slide" data-title="Data">
+    <section class="slide data-slide" data-title="Data">
+      <img class="bg" src="assets/generated/human-conversation/human-conversation-feeling-signal-v1.png" alt="">
+      <div class="wash"></div>
       <div class="brand"><img src="assets/logos/human-conversation-logo-concept-3.png" alt="">Human Conversation</div>
       <div class="eyebrow">The data moat</div>
       <div class="content wide">
-        <p class="kicker">Your product captures the signal inside those conversations</p>
-        <h1>Feeling is data when it changes who should be invited next.</h1>
+        <p class="kicker">The data moat</p>
+        <h1>Trust becomes data when it changes the next invitation.</h1>
         <div class="signal-grid">
-          <div class="metric"><b>Tone</b><span>Excited, guarded, tired</span></div>
-          <div class="metric"><b>Pauses</b><span>Uncertainty before the yes</span></div>
-          <div class="metric"><b>Warmth</b><span>Who creates ease</span></div>
-          <div class="metric"><b>Hesitation</b><span>What blocks showing up</span></div>
-          <div class="metric"><b>Loneliness</b><span>Who needs the first bridge</span></div>
-          <div class="metric"><b>Trust</b><span>Who can open the door</span></div>
+          <div class="metric"><b>Schedule</b><span>When they can actually show up</span></div>
+          <div class="metric"><b>Confidence</b><span>What feels intimidating</span></div>
+          <div class="metric"><b>Affinity</b><span>Who makes them feel welcome</span></div>
+          <div class="metric"><b>Intent</b><span>Lessons, events, groups, friends</span></div>
+          <div class="metric"><b>Friction</b><span>Why they stopped coming</span></div>
+          <div class="metric"><b>Leadership</b><span>Who can bring others in</span></div>
         </div>
       </div>
     </section>
@@ -479,21 +491,23 @@
       <div class="eyebrow">Why now</div>
       <div class="content">
         <p class="kicker">The AI arc</p>
-        <h1>AI can now talk. The winner learns what the conversation means.</h1>
-        <p class="sub">The frontier is not another chatbot. It is AI that understands real community context, then helps humans create the next real-world conversation.</p>
+        <h1>The winner is not another chatbot.</h1>
+        <p class="sub">The winner is AI behind trusted humans: sensing who needs a conversation, remembering what it means, and coordinating the next real-world moment.</p>
       </div>
     </section>
 
-    <section class="slide" data-title="Business">
+    <section class="slide dark business-slide" data-title="Business">
+      <img class="bg" src="assets/generated/operating-system/human-conversation-os-v2-human-ops-room.png" alt="">
+      <div class="wash"></div>
       <div class="brand"><img src="assets/logos/human-conversation-logo-concept-3.png" alt="">Human Conversation</div>
       <div class="eyebrow">Business model</div>
       <div class="content wide">
-        <p class="kicker">Connection outcomes</p>
-        <h1>Human Conversation gets paid when community grows.</h1>
+        <p class="kicker">Sales engine for community builders</p>
+        <h1>Human Conversation gets paid when conversations fill rooms.</h1>
         <div class="model-grid">
-          <div class="model"><b>Managed calls</b><span>Human-in-loop conversation campaigns for clubs and hosts</span></div>
-          <div class="model"><b>Filled rooms</b><span>Take rate on experiences, lessons, events, and memberships</span></div>
-          <div class="model"><b>Conversation OS</b><span>Software layer for operators once the signal model matures</span></div>
+          <div class="model"><b>Managed conversations</b><span>Done-with-you campaigns for clubs and hosts</span></div>
+          <div class="model"><b>Filled rooms</b><span>Lessons, events, memberships, groups</span></div>
+          <div class="model"><b>Relationship OS</b><span>Software layer after the signal model compounds</span></div>
         </div>
       </div>
     </section>
