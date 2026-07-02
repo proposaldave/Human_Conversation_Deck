@@ -14,6 +14,10 @@
   - Replaced generic communication-interface copy with the live-site thesis: AI moves the computer work into the background.
   - Reframed the interface as `The right people. The right conversation.`
   - Reduced the product objects to `Right person / Right context / Right action`.
+- Refreshed the NEPC proof slide on 2026-07-02:
+  - Replaced the single-person anecdote headline with the proof loop: calendar absence became call intent.
+  - Used Dave's local information dump as source for the anonymized beginner reactivation workflow.
+  - Kept hard utilization/revenue numbers out because the underlying NEPC planning source file was not present.
 - Tightened the opening emotional arc on 2026-07-02:
   - Repositioned the title as `The sales engine for real-world communities.`
   - Removed the redundant `Built around conversation` thesis slide.
