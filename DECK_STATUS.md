@@ -10,6 +10,10 @@
   - Chose the new living-community OS background as the clearest investor visual.
   - Tightened the support line to `Every conversation becomes memory. Every memory becomes the next right action.`
   - Reduced the operating loop to `Signal / Memory / Action`.
+- Refreshed the product-category slide on 2026-07-02:
+  - Replaced generic communication-interface copy with the live-site thesis: AI moves the computer work into the background.
+  - Reframed the interface as `The right people. The right conversation.`
+  - Reduced the product objects to `Right person / Right context / Right action`.
 - Tightened the opening emotional arc on 2026-07-02:
   - Repositioned the title as `The sales engine for real-world communities.`
   - Removed the redundant `Built around conversation` thesis slide.
