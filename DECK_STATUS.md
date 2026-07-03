@@ -6,6 +6,10 @@
 
 ## What Changed
 
+- Reinforced the live-site category thesis on 2026-07-03:
+  - Reframed the early AI-principle slide as `Human conversation is the timeless interface.`
+  - Sharpened the product-category slide around the next human move: who needs a conversation, what to ask, and what should happen next.
+  - Reframed the why-now and close slides around AI moving computer work into the background so real communities keep running through human conversation.
 - Improved slide navigation visibility on 2026-07-03:
   - Made the right-side clickable slide dots color-coded with dual light/dark contrast rings so they remain visible over both dark image slides and cream slides.
 - Reframed the early thesis bridge on 2026-07-03:
