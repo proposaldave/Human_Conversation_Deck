@@ -6,6 +6,9 @@
 
 ## What Changed
 
+- Reframed the early thesis bridge on 2026-07-03:
+  - Rewrote slide 4 from `Human conversation is the breath of community.` to `Disconnection has a path back.`
+  - Added the live-site chain: conversation, connection, trust, data, coordination, community.
 - Upgraded the problem slide on 2026-07-03:
   - Reframed slide 2 around the live-site snapback thesis: `Technology got between us. Human conversation brings us back.`
   - Generated two new problem backgrounds and selected `assets/generated/loneliness-epidemic/technology-between-us-v2.png` because it contrasts cold screen isolation with the warm room people return to.
