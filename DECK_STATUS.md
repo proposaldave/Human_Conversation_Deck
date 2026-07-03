@@ -8,7 +8,7 @@
 
 - Added aggregate live-lab proof on 2026-07-03:
   - Replaced the generic pickleball wedge slide with a sourced NEPC operating-lab slide.
-  - Used aggregate 2025 CourtReserve export counts only: 9,226 unique booking records, 174 average weekly bookings, 1,273 invitation-court records, and 718 private-lesson records.
+  - Used aggregate 2025 CourtReserve export counts and total-row utilization only: 9,226 unique booking records, 174 average weekly bookings, 1,273 invitation-court records, and 52-62% total court utilization across the available Middleton/Rye utilization exports.
   - Avoided utilization-dollar and annual-profit claims because the named NEPC utilization planning file was not present in the expected local folders.
 - Tightened the seed-readiness business wedge on 2026-07-03:
   - Generated two new sales-engine/community-OS backgrounds in `assets/generated/sales-engine/`.
