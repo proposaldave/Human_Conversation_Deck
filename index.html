@@ -172,10 +172,10 @@
     .close-slide .domain{color:var(--gold);border-bottom-color:rgba(184,149,74,.58)}
     .dark .credit{color:rgba(251,247,239,.58)}
     .data-slide .wash{background:linear-gradient(90deg,rgba(243,234,216,.96),rgba(243,234,216,.84) 44%,rgba(243,234,216,.34) 75%,rgba(243,234,216,.08) 100%)}
-    .dotnav{position:absolute;right:31px;top:50%;transform:translateY(-50%);display:grid;gap:8px;z-index:20;padding:8px 6px;border-radius:999px;background:rgba(4,5,6,.18);box-shadow:0 0 0 1px rgba(251,247,239,.34),0 14px 36px rgba(0,0,0,.18);backdrop-filter:blur(6px)}
-    .dot{--dot-color:var(--red);width:12px;height:24px;border:2px solid rgba(251,247,239,.96);border-radius:999px;background:linear-gradient(180deg,rgba(255,255,255,.26),rgba(255,255,255,0) 52%),var(--dot-color);padding:0;cursor:pointer;box-shadow:0 0 0 1.5px rgba(26,22,18,.9),inset 0 1px 0 rgba(255,255,255,.38),0 10px 22px rgba(0,0,0,.34);opacity:.96;transition:opacity .16s ease,filter .16s ease,box-shadow .16s ease,transform .16s ease}
-    .dot:hover,.dot:focus-visible{outline:none;opacity:1;filter:saturate(1.18) brightness(1.08);transform:scale(1.12)}
-    .dot.active{opacity:1;filter:saturate(1.28) brightness(1.12);box-shadow:0 0 0 2px rgba(251,247,239,1),0 0 0 4px rgba(26,22,18,.82),0 0 20px rgba(251,247,239,.44),0 12px 24px rgba(0,0,0,.38)}
+    .dotnav{position:absolute;right:29px;top:50%;transform:translateY(-50%);display:grid;gap:7px;z-index:20;padding:10px 7px;border-radius:999px;background:rgba(4,5,6,.54);box-shadow:0 0 0 1px rgba(251,247,239,.92),0 0 0 3px rgba(26,22,18,.74),0 18px 46px rgba(0,0,0,.34);backdrop-filter:blur(10px)}
+    .dot{--dot-color:var(--red);width:16px;height:16px;border:2px solid rgba(251,247,239,.98);border-radius:50%;background:radial-gradient(circle at 34% 28%,rgba(255,255,255,.92) 0 13%,rgba(255,255,255,.26) 28%,rgba(255,255,255,0) 50%),var(--dot-color);padding:0;cursor:pointer;box-shadow:0 0 0 1.5px rgba(26,22,18,.92),inset 0 1px 0 rgba(255,255,255,.42),0 8px 18px rgba(0,0,0,.38);opacity:.98;transition:opacity .16s ease,filter .16s ease,box-shadow .16s ease,transform .16s ease}
+    .dot:hover,.dot:focus-visible{outline:none;opacity:1;filter:saturate(1.24) brightness(1.1);transform:scale(1.22)}
+    .dot.active{opacity:1;filter:saturate(1.32) brightness(1.14);transform:scale(1.28);box-shadow:0 0 0 2px rgba(251,247,239,1),0 0 0 5px rgba(26,22,18,.9),0 0 0 7px var(--dot-color),0 0 24px rgba(251,247,239,.56),0 12px 24px rgba(0,0,0,.42)}
     .dot:nth-child(1){--dot-color:#C8462C}
     .dot:nth-child(2){--dot-color:#B8954A}
     .dot:nth-child(3){--dot-color:#5B8FD4}
@@ -550,7 +550,11 @@
     function go(index){
       current = Math.max(0, Math.min(slides.length - 1, index));
       slides.forEach((slide, i) => slide.classList.toggle('active', i === current));
-      Array.from(dots.children).forEach((dot, i) => dot.classList.toggle('active', i === current));
+      Array.from(dots.children).forEach((dot, i) => {
+        const isActive = i === current;
+        dot.classList.toggle('active', isActive);
+        dot.toggleAttribute('aria-current', isActive);
+      });
       counter.textContent = `${String(current + 1).padStart(2,'0')} / ${String(slides.length).padStart(2,'0')}`;
       const hash = `slide-${current + 1}`;
       if (location.hash !== `#${hash}`) history.replaceState(null, '', `#${hash}`);
