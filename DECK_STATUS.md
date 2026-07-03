@@ -6,6 +6,10 @@
 
 ## What Changed
 
+- Upgraded the opening operating-system visual on 2026-07-03:
+  - Generated three new visual directions for `Human conversation is the operating system for real-world social communities.`
+  - Selected `assets/generated/operating-system/human-conversation-os-v17-layered-community-os.png` because the layered real-world community OS reads as category creation, not another chat/conversation app.
+  - Saved alternates as `human-conversation-os-v16-human-kernel-club.png` and `human-conversation-os-v18-community-connection-map.png`.
 - Tightened founder-market-fit on 2026-07-03:
   - Reframed the team slide around the investor point that Human Conversation is being built inside the live community, not guessed from outside.
 - Sharpened the seed-round landing on 2026-07-03:
