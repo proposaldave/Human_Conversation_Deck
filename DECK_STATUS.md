@@ -16,7 +16,11 @@
   - Moved `One human conversation tells you how people feel` immediately after the problem slide.
   - Reduced the deck from 22 slides to 19 slides so investors reach product/proof faster.
 - Refreshed the operating-system thesis slide on 2026-07-02:
-  - Chose the new living-community OS background as the clearest investor visual.
+  - Generated three new operating-system background concepts:
+    - `assets/generated/operating-system/human-conversation-os-v7-living-club-layer.png`
+    - `assets/generated/operating-system/human-conversation-os-v8-community-motherboard.png`
+    - `assets/generated/operating-system/human-conversation-os-v9-conversation-graph.png`
+  - Selected `human-conversation-os-v8-community-motherboard.png` because the top-down club map makes the OS metaphor clearest at investor-slide distance.
   - Tightened the support line to `Every conversation becomes memory. Every memory becomes the next right action.`
   - Reduced the operating loop to `Signal / Memory / Action`.
 - Refreshed the product-category slide on 2026-07-02:
