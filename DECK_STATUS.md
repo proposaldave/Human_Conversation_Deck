@@ -6,6 +6,8 @@
 
 ## What Changed
 
+- Tightened founder-market-fit on 2026-07-03:
+  - Reframed the team slide around the investor point that Human Conversation is being built inside the live community, not guessed from outside.
 - Sharpened the seed-round landing on 2026-07-03:
   - Reframed business as `Do the work. Capture the loop. Scale the OS.`
   - Reframed the seed plan as turning NEPC into the category beachhead.
