@@ -6,6 +6,11 @@
 
 ## What Changed
 
+- Upgraded the category opener on 2026-07-03:
+  - Generated three fresh operating-system visual directions for `Human conversation is the operating system for real-world social communities.`
+  - Selected `assets/generated/operating-system/human-conversation-os-v13-social-motherboard-cover.png` for slide 1 because it reads as real-world community infrastructure, not generic chat software.
+  - Saved the two alternates as `human-conversation-os-v14-front-desk-action.png` and `human-conversation-os-v15-community-venue-network.png`.
+  - Simplified slide 1 by removing the large logo medallion so the category claim and image carry the first impression.
 - Sharpened category differentiation from HumanConversation.com on 2026-07-03:
   - Reframed the interface slide around `The right people. The right room. The right conversation.`
   - Reframed the why-now slide around the anti-chatbot thesis: AI should route people back into human conversation.
