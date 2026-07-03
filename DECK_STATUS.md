@@ -6,6 +6,9 @@
 
 ## What Changed
 
+- Upgraded the problem slide on 2026-07-03:
+  - Reframed slide 2 around the live-site snapback thesis: `Technology got between us. Human conversation brings us back.`
+  - Generated two new problem backgrounds and selected `assets/generated/loneliness-epidemic/technology-between-us-v2.png` because it contrasts cold screen isolation with the warm room people return to.
 - Upgraded the category-opener visual again on 2026-07-03:
   - Generated three new visual directions for `Human conversation is the operating system for real world social communities.`
   - Selected `assets/generated/operating-system/human-conversation-os-v20-aerial-community-circuit.png` for slide 1 because the aerial community circuit makes the venue itself read as the operating system.
