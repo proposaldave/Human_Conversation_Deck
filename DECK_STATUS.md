@@ -34,6 +34,11 @@
   - Reframed the NEPC proof slide as a proof loop instead of an internal manual-workflow claim.
   - Reframed the interface slide around the live-site line `The interface becomes human`.
   - Reframed the wedge slide as visible social signal inside the first live lab.
+- Tightened the final seed close on 2026-07-03:
+  - Reframed the graph slide around a compounding community intelligence claim.
+  - Reframed the AI arc around the live-site thesis that AI moves the work into the background.
+  - Reframed the business slide as done-with-you wedge to software, without unsupported revenue numbers.
+  - Reframed the close around the `real-world community OS` seed-round claim.
 - Refreshed the NEPC proof slide on 2026-07-02:
   - Replaced the single-person anecdote headline with the proof loop: calendar absence became call intent.
   - Used Dave's local information dump as source for the anonymized beginner reactivation workflow.
