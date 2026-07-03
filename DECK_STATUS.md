@@ -6,6 +6,9 @@
 
 ## What Changed
 
+- Converted the remaining abstract category slide on 2026-07-03:
+  - Reframed slide 5 from `Human conversation is the timeless interface` to `Not another chat app.`
+  - Made the category differentiation explicit: Human Conversation uses AI to handle computer work and get people back in the room, not to replace the human conversation.
 - Tightened the moat-to-graph argument on 2026-07-03:
   - Reframed slide 14 around the defensible data claim: `The moat is what members only tell a human.`
   - Reframed slide 15 so trust data compounds into the sales engine: calls learn the why, invites test it, and returns/groups/referrals/leaders/next calls become the graph.
