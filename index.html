@@ -151,6 +151,11 @@
     .model-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:34px}
     .model{padding:24px 22px 26px;min-height:182px;border-top:6px solid var(--blue)}
     .model:nth-child(2){border-top-color:var(--gold)}.model:nth-child(3){border-top-color:var(--red)}
+    .lab-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:30px;max-width:1040px}
+    .lab-card{min-height:142px;padding:20px 18px;border:1px solid rgba(251,247,239,.24);background:rgba(4,5,6,.48);backdrop-filter:blur(12px);box-shadow:0 24px 70px rgba(0,0,0,.18)}
+    .lab-card b{display:block;font-family:Fraunces,Georgia,serif;font-size:clamp(2.1rem,3vw,3.35rem);line-height:.94;color:var(--paper);margin-bottom:10px}
+    .lab-card span{display:block;color:rgba(251,247,239,.82);font-size:.72rem;line-height:1.35;font-weight:900;letter-spacing:.1em;text-transform:uppercase}
+    .lab-source{margin-top:16px;color:rgba(251,247,239,.58);font-size:.68rem;font-weight:900;letter-spacing:.08em;text-transform:uppercase}
     .interface-slide .wash,.business-slide .wash{background:linear-gradient(90deg,rgba(4,5,6,.94),rgba(4,5,6,.72) 38%,rgba(4,5,6,.22) 70%,rgba(4,5,6,.04) 100%)}
     .data-slide .wash{background:linear-gradient(90deg,rgba(243,234,216,.96),rgba(243,234,216,.84) 44%,rgba(243,234,216,.34) 75%,rgba(243,234,216,.08) 100%)}
     .dotnav{position:absolute;right:34px;top:50%;transform:translateY(-50%);display:grid;gap:7px;z-index:20}
@@ -168,7 +173,7 @@
       .notauto-title{font-size:2.75rem}.notauto-copy{width:auto}.notauto-answer{font-size:2.25rem}.notauto-sub{font-size:1rem}
       .timeless-title{font-size:2.85rem}.timeless-copy{width:auto}.timeless-proof{font-size:1rem}.timeless-close{font-size:1.85rem}
       .os-title{font-size:2.8rem}.os-copy{width:auto}.os-sub{font-size:1rem}
-      .builder-title{font-size:3rem}.builder-copy{width:auto}.builder-sub{font-size:1rem}
+      .builder-title{font-size:3rem}.builder-copy{width:auto}.builder-sub{font-size:1rem}.lab-grid{grid-template-columns:1fr}
       .frontdesk-title{font-size:3.2rem}.frontdesk-copy{width:auto}.frontdesk-sub{font-size:1.2rem}.desk-ai-panel{position:relative;right:auto;top:auto;width:auto;margin:0 26px 24px}.desk-flow{position:relative;left:auto;right:auto;bottom:auto;display:block;padding:0 26px 44px}.desk-flow-step{margin-bottom:10px}.desk-arrow{display:none}
       .proof-title{font-size:2.85rem}.proof-copy{width:auto}.proof-sub{font-size:1rem}.proof-row{grid-template-columns:1fr}
       .known-title{font-size:2.8rem}.known-copy{width:auto}.known-answer{font-size:2.35rem}.known-sub{font-size:1rem}
@@ -386,15 +391,22 @@
       </div>
     </section>
 
-    <section class="slide" data-title="Wedge">
-      <img class="bg" src="assets/cs-fv6-community-intelligence-hero.png" alt="">
+    <section class="slide dark business-slide" data-title="Live lab">
+      <img class="bg" src="assets/generated/operating-system/human-conversation-os-v8-community-motherboard.png" alt="">
       <div class="wash"></div>
       <div class="brand"><img src="assets/logos/human-conversation-logo-concept-3.png" alt="">Human Conversation</div>
-      <div class="eyebrow">Wedge</div>
-      <div class="content">
-        <p class="kicker">Start where social signal is visible</p>
-        <h1>Pickleball clubs are the first live lab.</h1>
-        <p class="sub">Beginners join, hesitate, return, refer, and disappear every week. Each moment can become the next call, invite, group, or leader.</p>
+      <div class="eyebrow">Live lab</div>
+      <div class="content wide">
+        <p class="kicker">Aggregate 2025 CourtReserve exports</p>
+        <h1>NEPC is already a dense operating lab.</h1>
+        <p class="sub">Every booking can become the next person, context, invite, group, or leader.</p>
+        <div class="lab-grid">
+          <div class="lab-card"><b>9,226</b><span>Unique booking records</span></div>
+          <div class="lab-card"><b>174</b><span>Average weekly bookings</span></div>
+          <div class="lab-card"><b>1,273</b><span>Invitation-court records</span></div>
+          <div class="lab-card"><b>718</b><span>Private-lesson records</span></div>
+        </div>
+        <div class="lab-source">Source: anonymized aggregate counts from 2025 Middleton and Rye CourtReserve exports</div>
       </div>
     </section>
 
