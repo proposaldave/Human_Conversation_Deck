@@ -45,6 +45,9 @@
 - Refined the operating-system thesis slide on 2026-07-03:
   - Generated three new background directions for `Human conversation is the operating system for real-world social communities`.
   - Selected `human-conversation-os-v11-living-community-map.png` because it reads as a living community OS instead of a generic chat interface.
+- Sharpened the first slide on 2026-07-03:
+  - Replaced the narrower `sales engine` opener with the category claim: `Human conversation is the operating system for real-world social communities`.
+  - Kept the subcopy focused on the product loop: next person, context, next action.
 - Refreshed the NEPC proof slide on 2026-07-02:
   - Replaced the single-person anecdote headline with the proof loop: calendar absence became call intent.
   - Used Dave's local information dump as source for the anonymized beginner reactivation workflow.
