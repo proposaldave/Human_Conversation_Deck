@@ -6,6 +6,10 @@
 
 ## What Changed
 
+- Tightened the NEPC proof section on 2026-07-03:
+  - Reframed slides 13-16 as one investor proof loop: missed return, human call, trust data, compounding community graph.
+  - Made NEPC proof read as live operating signal every week, not just aggregate deck evidence.
+  - Clarified the data moat as what the call captures that the calendar cannot.
 - Reinforced the live-site category thesis on 2026-07-03:
   - Reframed the early AI-principle slide as `Human conversation is the timeless interface.`
   - Sharpened the product-category slide around the next human move: who needs a conversation, what to ask, and what should happen next.
