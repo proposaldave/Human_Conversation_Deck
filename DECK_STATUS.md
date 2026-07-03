@@ -6,6 +6,9 @@
 
 ## What Changed
 
+- Sharpened category differentiation from HumanConversation.com on 2026-07-03:
+  - Reframed the interface slide around `The right people. The right room. The right conversation.`
+  - Reframed the why-now slide around the anti-chatbot thesis: AI should route people back into human conversation.
 - Added aggregate live-lab proof on 2026-07-03:
   - Replaced the generic pickleball wedge slide with a sourced NEPC operating-lab slide.
   - Used aggregate 2025 CourtReserve export counts and total-row utilization only: 9,226 unique booking records, 174 average weekly bookings, 1,273 invitation-court records, and 52-62% total court utilization across the available Middleton/Rye utilization exports.
