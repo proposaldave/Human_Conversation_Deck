@@ -6,6 +6,9 @@
 
 ## What Changed
 
+- Added Gutter Capital name-change clarity on 2026-07-03:
+  - Added one small title-slide continuity note: `Formerly Give n Take. Same live lab. Sharper category.`
+  - Kept the old name out of the brand mark and headline so Human Conversation remains the company identity.
 - Strengthened the seed-readiness business bridge on 2026-07-03:
   - Reintroduced the live-site `sales engine` language on the business-model slide so the deck connects community OS to fundable growth.
   - Tightened the seed-plan slide around turning the live lab into the category beachhead.
