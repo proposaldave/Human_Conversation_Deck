@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="apple-mobile-web-app-title" content="Human Conversation">
-  <meta name="deck-version" content="2026-07-03-path-back">
+  <meta name="deck-version" content="2026-07-03-color-dots">
   <title>Human Conversation Seed Deck</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -172,8 +172,20 @@
     .dark .credit{color:rgba(251,247,239,.58)}
     .data-slide .wash{background:linear-gradient(90deg,rgba(243,234,216,.96),rgba(243,234,216,.84) 44%,rgba(243,234,216,.34) 75%,rgba(243,234,216,.08) 100%)}
     .dotnav{position:absolute;right:34px;top:50%;transform:translateY(-50%);display:grid;gap:7px;z-index:20}
-    .dot{width:7px;height:22px;border:0;border-radius:999px;background:rgba(26,22,18,.24);padding:0;cursor:pointer}
-    .dot.active{background:var(--red)}
+    .dot{--dot-color:var(--red);width:9px;height:22px;border:1px solid rgba(251,247,239,.9);border-radius:999px;background:var(--dot-color);padding:0;cursor:pointer;box-shadow:0 0 0 1px rgba(26,22,18,.78),0 8px 18px rgba(0,0,0,.26);opacity:.84;transition:opacity .16s ease,filter .16s ease,box-shadow .16s ease}
+    .dot.active{opacity:1;filter:saturate(1.22) brightness(1.08);box-shadow:0 0 0 2px rgba(251,247,239,.96),0 0 0 4px rgba(26,22,18,.72),0 0 18px rgba(251,247,239,.36),0 10px 22px rgba(0,0,0,.34)}
+    .dot:nth-child(12n+1){--dot-color:#C8462C}
+    .dot:nth-child(12n+2){--dot-color:#B8954A}
+    .dot:nth-child(12n+3){--dot-color:#5B8FD4}
+    .dot:nth-child(12n+4){--dot-color:#49B4A0}
+    .dot:nth-child(12n+5){--dot-color:#F3EAD8}
+    .dot:nth-child(12n+6){--dot-color:#E36F47}
+    .dot:nth-child(12n+7){--dot-color:#6FA8DC}
+    .dot:nth-child(12n+8){--dot-color:#D9B45F}
+    .dot:nth-child(12n+9){--dot-color:#7AC7B6}
+    .dot:nth-child(12n+10){--dot-color:#E8E0D0}
+    .dot:nth-child(12n+11){--dot-color:#A86D8E}
+    .dot:nth-child(12n+12){--dot-color:#8FA35B}
     .nav{position:absolute;right:28px;bottom:24px;display:flex;gap:8px;z-index:20}
     .nav button{width:38px;height:38px;border:1px solid rgba(26,22,18,.24);background:rgba(251,247,239,.82);border-radius:8px;color:var(--ink);font-weight:900;font-size:1.1rem;cursor:pointer}
     .counter{position:absolute;left:48px;bottom:28px;color:rgba(26,22,18,.48);font-size:.74rem;font-weight:900}

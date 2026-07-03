@@ -6,6 +6,8 @@
 
 ## What Changed
 
+- Improved slide navigation visibility on 2026-07-03:
+  - Made the right-side clickable slide dots color-coded with dual light/dark contrast rings so they remain visible over both dark image slides and cream slides.
 - Reframed the early thesis bridge on 2026-07-03:
   - Rewrote slide 4 from `Human conversation is the breath of community.` to `Disconnection has a path back.`
   - Added the live-site chain: conversation, connection, trust, data, coordination, community.
