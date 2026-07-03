@@ -6,6 +6,10 @@
 
 ## What Changed
 
+- Sharpened the company arc on 2026-07-03:
+  - Reframed the final third around how Human Conversation becomes a fundable company: concierge wedge, captured loops, software scale.
+  - Tightened founder-market fit around building from inside the live system.
+  - Reframed the seed plan as turning one live loop into a repeatable category.
 - Tightened the NEPC proof section on 2026-07-03:
   - Reframed slides 13-16 as one investor proof loop: missed return, human call, trust data, compounding community graph.
   - Made NEPC proof read as live operating signal every week, not just aggregate deck evidence.
