@@ -6,6 +6,9 @@
 
 ## What Changed
 
+- Compressed the business-model slide on 2026-07-03:
+  - Reframed slide 18 to `Start concierge. Scale software.`
+  - Tightened the model objects to `Operate live / Capture loops / Productize OS`.
 - Upgraded the seed-plan slide on 2026-07-03:
   - Replaced the repeated aerial proof background with `assets/generated/operating-system/human-conversation-os-v19-category-beachhead-expansion.png`.
   - Reframed the headline to `Turn the live lab into the category beachhead.` so seed capital reads as category expansion beyond NEPC.
