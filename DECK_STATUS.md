@@ -6,6 +6,9 @@
 
 ## What Changed
 
+- Cut the repeated Human-first AI slide on 2026-07-03:
+  - Removed the `The interface becomes human` slide because slide 5 now handles anti-chat category differentiation and slide 11 already demonstrates AI handling the computer work.
+  - Reduced the deck from 19 to 18 slides so investors move directly from the product loop into live-lab proof.
 - Converted the remaining abstract category slide on 2026-07-03:
   - Reframed slide 5 from `Human conversation is the timeless interface` to `Not another chat app.`
   - Made the category differentiation explicit: Human Conversation uses AI to handle computer work and get people back in the room, not to replace the human conversation.
