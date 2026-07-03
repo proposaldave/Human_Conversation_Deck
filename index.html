@@ -104,6 +104,10 @@
     .builder-sub{margin:24px 0 0;max-width:770px;color:rgba(251,247,239,.9);font-size:clamp(1.05rem,1.25vw,1.42rem);line-height:1.42;font-weight:900;text-wrap:balance;text-shadow:0 15px 42px rgba(0,0,0,.58)}
     .builder-action-row{display:flex;gap:10px;flex-wrap:wrap;margin-top:26px}
     .builder-action-row span{display:inline-flex;align-items:center;min-height:34px;padding:8px 11px;border:1px solid rgba(251,247,239,.28);background:rgba(26,22,18,.28);color:rgba(251,247,239,.86);font-size:.72rem;font-weight:900;letter-spacing:.08em;text-transform:uppercase}
+    .builder-ai-panel{position:absolute;right:82px;top:178px;width:min(420px,27%);z-index:5;padding:20px;border:1px solid rgba(184,149,74,.42);background:linear-gradient(180deg,rgba(6,8,10,.76),rgba(6,8,10,.58));box-shadow:0 28px 82px rgba(0,0,0,.38);backdrop-filter:blur(12px)}
+    .builder-ai-panel b{display:block;color:var(--gold);font-size:.72rem;font-weight:900;letter-spacing:.14em;text-transform:uppercase;margin-bottom:14px}
+    .builder-ai-panel p{margin:0;color:rgba(251,247,239,.94);font-size:1.16rem;line-height:1.25;font-weight:900}
+    .builder-ai-panel span{display:block;margin-top:12px;color:var(--mint);font-size:.68rem;font-weight:900;letter-spacing:.12em;text-transform:uppercase}
     .frontdesk-slide .wash{background:linear-gradient(90deg,rgba(4,5,6,.86),rgba(4,5,6,.34) 39%,rgba(4,5,6,.43) 61%,rgba(4,5,6,.94) 100%),linear-gradient(180deg,rgba(4,5,6,.62),rgba(4,5,6,.12) 45%,rgba(4,5,6,.64))}
     .frontdesk-copy{top:126px;width:min(680px,42%)}
     .frontdesk-title{font-size:clamp(4.2rem,6.3vw,7.45rem);line-height:.88;color:var(--paper);text-shadow:0 24px 70px rgba(0,0,0,.62)}
@@ -210,7 +214,7 @@
       .notauto-title{font-size:2.75rem}.notauto-copy{width:auto}.notauto-answer{font-size:2.25rem}.notauto-sub{font-size:1rem}
       .timeless-title{font-size:2.85rem}.timeless-copy{width:auto}.timeless-proof{font-size:1rem}.timeless-close{font-size:1.85rem}
       .os-title{font-size:2.8rem}.os-copy{width:auto}.os-sub{font-size:1rem}
-      .builder-title{font-size:3rem}.builder-copy{width:auto}.builder-sub{font-size:1rem}.lab-grid{grid-template-columns:1fr}
+      .builder-title{font-size:3rem}.builder-copy{width:auto}.builder-sub{font-size:1rem}.builder-ai-panel{position:relative;right:auto;top:auto;width:auto;margin:0 26px 24px}.lab-grid{grid-template-columns:1fr}
       .frontdesk-title{font-size:3.2rem}.frontdesk-copy{width:auto}.frontdesk-sub{font-size:1.2rem}.desk-ai-panel{position:relative;right:auto;top:auto;width:auto;margin:0 26px 24px}.desk-flow{position:relative;left:auto;right:auto;bottom:auto;display:block;padding:0 26px 44px}.desk-flow-step{margin-bottom:10px}.desk-arrow{display:none}
       .proof-title{font-size:2.85rem}.proof-copy{width:auto}.proof-sub{font-size:1rem}.proof-row{grid-template-columns:1fr}
       .known-title{font-size:2.8rem}.known-copy{width:auto}.known-answer{font-size:2.35rem}.known-sub{font-size:1rem}
@@ -331,10 +335,15 @@
       <div class="brand"><img src="assets/logos/human-conversation-logo-concept-3.png" alt="">Human Conversation</div>
       <div class="eyebrow">Product loop</div>
       <div class="content wide builder-copy">
-        <p class="builder-step">01 / Next person</p>
-        <h1 class="builder-title"><span>Find the person</span><span>before they disappear.</span></h1>
-        <p class="builder-sub">Absence becomes a call list.</p>
+        <p class="builder-step">01 / Person</p>
+        <h1 class="builder-title"><span>Who needs</span><span>a conversation?</span></h1>
+        <p class="builder-sub">AI turns drift, gaps, and missed returns into a short human call list.</p>
       </div>
+      <aside class="builder-ai-panel" aria-label="Example AI person recommendation">
+        <b>AI answer</b>
+        <p>Example member: came once, has not returned, likely needs a welcome call.</p>
+        <span>Next best person</span>
+      </aside>
     </section>
 
     <section class="slide dark builder-seq-slide" data-title="Conversation context">
@@ -344,9 +353,14 @@
       <div class="eyebrow">Product loop</div>
       <div class="content wide builder-copy">
         <p class="builder-step">02 / Context</p>
-        <h1 class="builder-title"><span>Give the caller</span><span>the human context.</span></h1>
-        <p class="builder-sub">What happened, what changed, what to listen for.</p>
+        <h1 class="builder-title"><span>What should</span><span>the caller know?</span></h1>
+        <p class="builder-sub">The system gives the reason to call, what to ask, and what would make them feel known.</p>
       </div>
+      <aside class="builder-ai-panel" aria-label="Example AI context recommendation">
+        <b>AI answer</b>
+        <p>Beginner class went well. Free Thursdays. Wants an easy first group.</p>
+        <span>Human context</span>
+      </aside>
     </section>
 
     <section class="slide dark builder-seq-slide" data-title="Next action">
@@ -355,9 +369,9 @@
       <div class="brand"><img src="assets/logos/human-conversation-logo-concept-3.png" alt="">Human Conversation</div>
       <div class="eyebrow">Product loop</div>
       <div class="content wide builder-copy">
-        <p class="builder-step">03 / Next action</p>
-        <h1 class="builder-title"><span>Turn the signal</span><span>into the next moment.</span></h1>
-        <p class="builder-sub">Invite, intro, lesson, repair, or host path.</p>
+        <p class="builder-step">03 / Action</p>
+        <h1 class="builder-title"><span>What should</span><span>happen next?</span></h1>
+        <p class="builder-sub">The next real-world move is recommended before anyone hunts through a dashboard.</p>
         <div class="builder-action-row">
           <span>Invite</span>
           <span>Introduce</span>
@@ -365,6 +379,11 @@
           <span>Repair</span>
         </div>
       </div>
+      <aside class="builder-ai-panel" aria-label="Example AI action recommendation">
+        <b>AI answer</b>
+        <p>Invite to Thursday beginner social. Pair with welcoming host.</p>
+        <span>Next action</span>
+      </aside>
     </section>
 
     <section class="slide dark frontdesk-slide" data-title="Front desk AI interface">
@@ -374,8 +393,8 @@
       <div class="eyebrow">Product loop</div>
       <div class="content wide frontdesk-copy">
         <p class="builder-step">04 / Human interface</p>
-        <h1 class="frontdesk-title"><span>One sentence</span><span>updates the system.</span></h1>
-        <p class="frontdesk-sub">AI handles the computer work in the background.</p>
+        <h1 class="frontdesk-title"><span>The conversation</span><span>updates the system.</span></h1>
+        <p class="frontdesk-sub">The staff member says the outcome. AI handles the computer work.</p>
       </div>
       <aside class="desk-ai-panel" aria-label="Example AI action interface">
         <div class="desk-panel-head">
@@ -384,15 +403,15 @@
         </div>
         <div class="desk-card">
           <p class="desk-label">Heard</p>
-          <p>Loved class. Free Thursdays.</p>
+          <p>Free Thursdays. Wants an easy first group.</p>
         </div>
         <div class="desk-card desk-command">
           <p class="desk-label">Staff says</p>
-          <p>Add to beginner social.</p>
+          <p>Add to Thursday beginner social.</p>
         </div>
         <div class="desk-card desk-result">
           <p class="desk-label">AI</p>
-          <p>Done. Invite queued.</p>
+          <p>Done. Invite queued. Memory saved.</p>
         </div>
       </aside>
     </section>
