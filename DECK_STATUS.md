@@ -6,6 +6,10 @@
 
 ## What Changed
 
+- Strengthened the seed-readiness business bridge on 2026-07-03:
+  - Reintroduced the live-site `sales engine` language on the business-model slide so the deck connects community OS to fundable growth.
+  - Tightened the seed-plan slide around turning the live lab into the category beachhead.
+  - Kept revenue/customer-count claims out because only the operating loops are currently sourced in the deck.
 - Compressed the seed-deck spine on 2026-07-03:
   - Cut the repeated standalone NEPC proof-loop slide and folded its stronger missed-return language into the earlier live-proof slide.
   - Cut the repeated AI Arc slide because the AI-in-background thesis is already carried by the category, interface, front-desk, and close slides.
