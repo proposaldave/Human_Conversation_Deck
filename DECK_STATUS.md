@@ -39,6 +39,12 @@
   - Reframed the AI arc around the live-site thesis that AI moves the work into the background.
   - Reframed the business slide as done-with-you wedge to software, without unsupported revenue numbers.
   - Reframed the close around the `real-world community OS` seed-round claim.
+- Added compact seed-readiness slides on 2026-07-03:
+  - Added `Team` to answer founder-market-fit without adding unsupported bios.
+  - Added `Seed plan` to clarify what seed capital unlocks without adding unsupported raise amount or revenue claims.
+- Refined the operating-system thesis slide on 2026-07-03:
+  - Generated three new background directions for `Human conversation is the operating system for real-world social communities`.
+  - Selected `human-conversation-os-v11-living-community-map.png` because it reads as a living community OS instead of a generic chat interface.
 - Refreshed the NEPC proof slide on 2026-07-02:
   - Replaced the single-person anecdote headline with the proof loop: calendar absence became call intent.
   - Used Dave's local information dump as source for the anonymized beginner reactivation workflow.
