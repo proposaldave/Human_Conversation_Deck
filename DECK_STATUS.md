@@ -54,6 +54,9 @@
 - Moved live proof earlier on 2026-07-03:
   - Moved the `Live proof` slide from slot 11 to slot 7 so the deck earns credibility before the product-loop detail.
   - Kept the product loop immediately after proof: next person, context, next action, front-desk interface.
+- Tightened the product loop on 2026-07-03:
+  - Reframed slides 8-11 as one loop: who needs a conversation, context before the call, next real-world moment, human interface.
+  - Aligned slide 11 with HumanConversation.com: AI handles the computer work in the background.
 - Refreshed the NEPC proof slide on 2026-07-02:
   - Replaced the single-person anecdote headline with the proof loop: calendar absence became call intent.
   - Used Dave's local information dump as source for the anonymized beginner reactivation workflow.
