@@ -6,6 +6,12 @@
 
 ## What Changed
 
+- Upgraded the category-opener visual again on 2026-07-03:
+  - Generated three new visual directions for `Human conversation is the operating system for real world social communities.`
+  - Selected `assets/generated/operating-system/human-conversation-os-v20-aerial-community-circuit.png` for slide 1 because the aerial community circuit makes the venue itself read as the operating system.
+  - Saved alternates as `human-conversation-os-v21-human-kernel.png` and `human-conversation-os-v22-social-club-flow.png`.
+- Tightened the data-moat slide on 2026-07-03:
+  - Reframed slide 15 to `Trust data is the moat.` to align with the live-site chain: connection, trust, data, coordination, community.
 - Compressed the business-model slide on 2026-07-03:
   - Reframed slide 18 to `Start concierge. Scale software.`
   - Tightened the model objects to `Operate live / Capture loops / Productize OS`.
