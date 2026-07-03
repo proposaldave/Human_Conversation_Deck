@@ -48,6 +48,9 @@
 - Sharpened the first slide on 2026-07-03:
   - Replaced the narrower `sales engine` opener with the category claim: `Human conversation is the operating system for real-world social communities`.
   - Kept the subcopy focused on the product loop: next person, context, next action.
+- Tightened slide 6 on 2026-07-03:
+  - Replaced the repeated OS thesis with the website-aligned operating loop: `Trust becomes the data layer for community`.
+  - Used the HumanConversation.com conversion chain: connection, trust, data, coordination, community.
 - Refreshed the NEPC proof slide on 2026-07-02:
   - Replaced the single-person anecdote headline with the proof loop: calendar absence became call intent.
   - Used Dave's local information dump as source for the anonymized beginner reactivation workflow.
