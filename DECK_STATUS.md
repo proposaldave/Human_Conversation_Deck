@@ -6,6 +6,9 @@
 
 ## What Changed
 
+- Sharpened the why-now/category bridge on 2026-07-03:
+  - Reframed the Human-first AI slide around the live-site line `The interface becomes human.`
+  - Connected the category promise directly to AI handling computer work in the background while builders get person, context, and action.
 - Added Gutter Capital name-change clarity on 2026-07-03:
   - Added one small title-slide continuity note: `Formerly Give n Take. Same live lab. Sharper category.`
   - Kept the old name out of the brand mark and headline so Human Conversation remains the company identity.
