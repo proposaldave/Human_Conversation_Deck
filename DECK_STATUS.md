@@ -6,6 +6,10 @@
 
 ## What Changed
 
+- Tightened the product-loop wedge on 2026-07-03:
+  - Rewrote slides 8-11 so the sequence reads faster: find the person, give caller context, turn signal into next moment, one sentence updates the system.
+  - Replaced the front-desk slide background with `assets/generated/operating-system/human-conversation-os-v14-front-desk-action.png` because it shows the human conversation becoming the interface.
+  - Removed the redundant bottom flow from the front-desk slide to keep the AI-background concept simple.
 - Upgraded the category opener on 2026-07-03:
   - Generated three fresh operating-system visual directions for `Human conversation is the operating system for real-world social communities.`
   - Selected `assets/generated/operating-system/human-conversation-os-v13-social-motherboard-cover.png` for slide 1 because it reads as real-world community infrastructure, not generic chat software.
