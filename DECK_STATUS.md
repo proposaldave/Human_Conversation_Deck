@@ -6,6 +6,9 @@
 
 ## What Changed
 
+- Rebuilt the right-side clickable slide rail on 2026-07-03:
+  - Gave each current slide position a distinct high-contrast color instead of repeating the rail palette.
+  - Added a stronger light/dark halo and slightly larger touch target so the dots remain visible over both dark image backgrounds and cream slides.
 - Sharpened the company arc on 2026-07-03:
   - Reframed the final third around how Human Conversation becomes a fundable company: concierge wedge, captured loops, software scale.
   - Tightened founder-market fit around building from inside the live system.
