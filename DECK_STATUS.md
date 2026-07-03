@@ -6,6 +6,11 @@
 
 ## What Changed
 
+- Sharpened the seed-round landing on 2026-07-03:
+  - Reframed business as `Do the work. Capture the loop. Scale the OS.`
+  - Reframed the seed plan as turning NEPC into the category beachhead.
+  - Rebuilt the close as an image-led investor ask: `Back the operating system for real-world social communities.`
+  - Used `assets/generated/operating-system/human-conversation-os-v15-community-venue-network.png` as the close background.
 - Tightened the product-loop wedge on 2026-07-03:
   - Rewrote slides 8-11 so the sequence reads faster: find the person, give caller context, turn signal into next moment, one sentence updates the system.
   - Replaced the front-desk slide background with `assets/generated/operating-system/human-conversation-os-v14-front-desk-action.png` because it shows the human conversation becoming the interface.
