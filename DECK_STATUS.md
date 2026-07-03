@@ -6,6 +6,9 @@
 
 ## What Changed
 
+- Tightened the moat-to-graph argument on 2026-07-03:
+  - Reframed slide 14 around the defensible data claim: `The moat is what members only tell a human.`
+  - Reframed slide 15 so trust data compounds into the sales engine: calls learn the why, invites test it, and returns/groups/referrals/leaders/next calls become the graph.
 - Sharpened the proof-density slide on 2026-07-03:
   - Reframed slide 13 from generic signal density to `The live lab creates repeatable sales loops.`
   - Kept the sourced aggregate CourtReserve counts but made the investor logic clearer: bookings show behavior, empty courts show opportunity, and human follow-up shows what brings people back.
