@@ -51,6 +51,9 @@
 - Tightened slide 6 on 2026-07-03:
   - Replaced the repeated OS thesis with the website-aligned operating loop: `Trust becomes the data layer for community`.
   - Used the HumanConversation.com conversion chain: connection, trust, data, coordination, community.
+- Moved live proof earlier on 2026-07-03:
+  - Moved the `Live proof` slide from slot 11 to slot 7 so the deck earns credibility before the product-loop detail.
+  - Kept the product loop immediately after proof: next person, context, next action, front-desk interface.
 - Refreshed the NEPC proof slide on 2026-07-02:
   - Replaced the single-person anecdote headline with the proof loop: calendar absence became call intent.
   - Used Dave's local information dump as source for the anonymized beginner reactivation workflow.
