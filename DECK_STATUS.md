@@ -6,6 +6,9 @@
 
 ## What Changed
 
+- Sharpened the Human-first AI slide from the live site on 2026-07-03:
+  - Reframed slide 12 around `The interface becomes human.`
+  - Aligned the product objects to `Person / Context / Action` so the deck matches the HumanConversation.com promise.
 - Upgraded the opening operating-system visual on 2026-07-03:
   - Generated three new visual directions for `Human conversation is the operating system for real-world social communities.`
   - Selected `assets/generated/operating-system/human-conversation-os-v17-layered-community-os.png` because the layered real-world community OS reads as category creation, not another chat/conversation app.
