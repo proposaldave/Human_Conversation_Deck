@@ -6,6 +6,9 @@
 
 ## What Changed
 
+- Upgraded the seed-plan slide on 2026-07-03:
+  - Replaced the repeated aerial proof background with `assets/generated/operating-system/human-conversation-os-v19-category-beachhead-expansion.png`.
+  - Reframed the headline to `Turn the live lab into the category beachhead.` so seed capital reads as category expansion beyond NEPC.
 - Sharpened the Human-first AI slide from the live site on 2026-07-03:
   - Reframed slide 12 around `The interface becomes human.`
   - Aligned the product objects to `Person / Context / Action` so the deck matches the HumanConversation.com promise.
