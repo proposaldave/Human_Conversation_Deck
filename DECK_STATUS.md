@@ -6,6 +6,11 @@
 
 ## What Changed
 
+- Tightened the seed-readiness business wedge on 2026-07-03:
+  - Generated two new sales-engine/community-OS backgrounds in `assets/generated/sales-engine/`.
+  - Rebuilt the product slide around the live-site claim that Human Conversation is the sales engine for community builders.
+  - Reframed the business model as `Run it by hand. Productize what repeats.`
+  - Reframed the seed plan as turning one proven club loop into the category.
 - Sharpened the final-third seed logic on 2026-07-02:
   - Reframed pickleball clubs as the live lab where social signal is dense and visible.
   - Reframed the data moat as staff-only relationship memory no calendar owns.
