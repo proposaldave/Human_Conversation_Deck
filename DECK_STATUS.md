@@ -6,6 +6,10 @@
 
 ## What Changed
 
+- Compressed the seed-deck spine on 2026-07-03:
+  - Cut the repeated standalone NEPC proof-loop slide and folded its stronger missed-return language into the earlier live-proof slide.
+  - Cut the repeated AI Arc slide because the AI-in-background thesis is already carried by the category, interface, front-desk, and close slides.
+  - Reduced the deck from 21 slides to 19 so investors reach business, team, seed plan, and close faster.
 - Rebuilt the right-side clickable slide rail on 2026-07-03:
   - Gave each current slide position a distinct high-contrast color instead of repeating the rail palette.
   - Added a stronger light/dark halo and slightly larger touch target so the dots remain visible over both dark image backgrounds and cream slides.
