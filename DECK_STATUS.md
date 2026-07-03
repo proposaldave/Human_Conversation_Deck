@@ -27,6 +27,9 @@
   - Replaced generic communication-interface copy with the live-site thesis: AI moves the computer work into the background.
   - Reframed the interface as `The right people. The right conversation.`
   - Reduced the product objects to `Right person / Right context / Right action`.
+- Tightened the operating-system-to-product sequence on 2026-07-02:
+  - Reframed slides 7-9 as `Next person / Context / Next action` so the product loop directly answers the operating-system claim.
+  - Simplified the front-desk AI example to a neutral example member.
 - Refreshed the NEPC proof slide on 2026-07-02:
   - Replaced the single-person anecdote headline with the proof loop: calendar absence became call intent.
   - Used Dave's local information dump as source for the anonymized beginner reactivation workflow.
