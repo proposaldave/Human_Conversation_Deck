@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 34 public expert lenses, 35 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 35 public expert lenses, 35 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -37,6 +37,7 @@ Public expert sources reviewed:
 - Peter Thiel, public monopoly / secrets / small-market guidance, https://blakemasters.tumblr.com/post/21169325300/peter-thiels-cs183-startup-class-4-notes-essay, https://www.wired.com/story/peter-thiel/, and https://www.bnjs.co/notes/cs183b-lecture-5-peter-thiel-business-strategy-and-monopoly-theory/, reviewed 2026-07-05
 - Roelof Botha / Sequoia, public clarity and company-building guidance, https://sequoiacap.com/article/writing-a-business-plan/ and https://www.generalist.com/p/lessons-from-20-years-of-vc-roelof-botha, reviewed 2026-07-05
 - Keith Rabois, public operating-leverage and startup-operating guidance, https://www.khoslaventures.com/team/keith-rabois/, https://ulisten.ai/channels/yc-root-access/lecture-14-how-to-operate-keith-rabois_6fQHLK1aIBs, https://www.saastr.com/keith-rabois-khosla-ventures-building-amazing-teams-video-transcript/, and https://www.lennysnewsletter.com/p/hard-truths-about-building-in-the-ai-era, reviewed 2026-07-05
+- Elad Gil, public seed-stage and fundraising-process guidance, https://blog.eladgil.com/p/how-funding-rounds-differ-seed-series and https://blog.eladgil.com/p/tactics-for-how-to-raise-vc-round-or, reviewed 2026-07-05
 
 Live deck ideas incorporated:
 - Human Conversation brings people back to real communities.
@@ -65,10 +66,10 @@ Live deck ideas incorporated:
 - Own return reasons in one operator market first.
 - Start with clubs, prove the attendance job, then expand to operators paid to bring people back.
 - The market is every community where someone owns attendance, belonging, trust, and return.
-- The manual work proves what software must own.
-- We control the lab, product, and buyer path.
-- Seed answers the service-to-software question.
-- If those proofs hold, this is not a service wrapper. It is the sales engine for community operators.
+- Seed funds the repeatable system, not the manual work.
+- The first milestone is inside our control.
+- Seed buys a repeatable return engine.
+- If those proofs hold, the next round funds scaling a software category.
 - Start with one club. Prove the loop repeats. Turn the repeatable work into software.
 - If the loop repeats, every conversation teaches the next community what to do.
 
