@@ -96,11 +96,15 @@ Pass 23 - Reid Hoffman network-effects lens
 Critique: The expansion slide still listed markets more than it explained why scale compounds. A network-effects investor needs to see what gets easier when the next community joins.
 Deck action: Reframe slide 12 around activation learning: clubs are the wedge, and every loop adds reusable patterns about hosts, trust, follow-up, and repeat participation.
 
+Pass 24 - Synthetic world-class brand strategist
+Critique: The opening category thesis still sounded slightly defensive: "not another chat app" narrows the company to a software format. The live deck's stronger brand frame is bigger and cleaner: the next social layer is not another feed.
+Deck action: Reframe slide 4 around the larger category contrast while keeping the concrete product promise: get people back in the room, with AI handling who needs a conversation, what to ask, and what happens next.
+
 Resulting 15-slide spine:
 1. Human conversation is the operating system for real-world social communities.
 2. The snapback: Technology got between us. Human conversation brings us back.
 3. One human conversation tells you how people feel.
-4. Not another chat app.
+4. The next social layer is not another feed.
 5. The wedge is one person drifting.
 6. The product is one simple loop.
 7. The conversation updates the system.
