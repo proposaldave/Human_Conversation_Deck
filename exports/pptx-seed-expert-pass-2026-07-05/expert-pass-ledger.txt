@@ -72,6 +72,10 @@ Pass 17 - Peter Thiel monopoly lens
 Critique: The category argument needs the contrarian secret: the most valuable community data is not in calendars, feeds, or dashboards. It is relationship memory people only reveal to humans.
 Deck action: Strengthen the moat and compounding slides with the small-monopoly wedge: calendars store transactions; Human Conversation stores why people return, hesitate, belong, and lead, then turns those outcomes into relationship memory no calendar owns.
 
+Pass 18 - Synthetic LP committee lens
+Critique: The one remaining Monday-partner-meeting objection is scale: is Human Conversation a venture company or a clever services layer for one pickleball club?
+Deck action: Strengthen the expansion and business-model slides so the answer is explicit: clubs are the wedge, not the ceiling; run the first loops by hand until software owns the repeatable sales engine for community builders.
+
 Resulting 15-slide spine:
 1. Human conversation is the operating system for real-world social communities.
 2. Technology got between us. Human conversation brings us back.
@@ -84,7 +88,7 @@ Resulting 15-slide spine:
 9. Same courts can produce much more community and revenue.
 10. The moat is what members only tell a human.
 11. Every return makes the graph smarter.
-12. Start in clubs. Expand wherever belonging is operational.
-13. Run the loop by hand. Productize what repeats.
+12. Clubs are the wedge, not the ceiling.
+13. Run it by hand until the software owns the loop.
 14. We are inside the community before we sell the software.
 15. Back the operating system for real-world social communities.
