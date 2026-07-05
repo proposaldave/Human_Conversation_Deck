@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 15 public expert lenses, 15 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 15 public expert lenses, 16 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -24,6 +24,7 @@ Drive sources reviewed:
 - Human_Conversation_Seed_Deck.pdf metadata; Drive did not extract text
 
 Live deck ideas incorporated:
+- AI moves the computer work into the background so communities can bring the right people back into the room.
 - Technology got between us. Human conversation brings us back.
 - The next social layer is not another feed.
 - Right people. Right room. Right conversation.

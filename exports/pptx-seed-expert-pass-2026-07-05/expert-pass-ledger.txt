@@ -128,6 +128,10 @@ Pass 31 - Mary Meeker market narrative lens
 Critique: The expansion slide had the right sequence, but the market logic was still framed as product learning. A market narrative needs the repeatable buyer job: someone is accountable for attendance, belonging, trust, and return.
 Deck action: Tighten slide 12's subtitle so clubs remain the wedge while the category expands to every community with an owner for participation and belonging.
 
+Pass 32 - Synthetic world-class fundraising storyteller AI lens
+Critique: The opening slides had the right thesis, but the first minute could make the AI role more emotionally obvious. The point is not AI replacing conversation; it is AI moving computer work out of the way so the right human conversation happens.
+Deck action: Tighten slide 2's subtitle around AI moving computer work into the background, and replace the slide 3 loneliness wording with Dave's preferred disconnection language.
+
 Resulting 15-slide spine:
 1. Human conversation is the operating system for real-world social communities.
 2. The snapback: Technology got between us. Human conversation brings us back.
