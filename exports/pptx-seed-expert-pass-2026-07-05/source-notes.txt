@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 35 public expert lenses, 35 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 35 public expert lenses, 36 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -41,9 +41,13 @@ Public expert sources reviewed:
 
 Live deck ideas incorporated:
 - Human Conversation brings people back to real communities.
+- Human Conversation is the sales engine for real-world communities.
 - AI tells operators who needs a conversation, what to ask, and what next action will bring them back.
+- It tells operators who needs a conversation, what to ask, and what action brings them back.
 - Community software records activity. It misses drift.
+- Community software misses the person drifting away.
 - The return signal lives in the call.
+- The answer appears in the human call.
 - The next social layer is not another feed.
 - AI can now turn conversation into operating software.
 - Person. Context. Next action. Return.
