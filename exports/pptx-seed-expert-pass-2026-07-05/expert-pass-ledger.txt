@@ -534,3 +534,24 @@ Resulting 15-slide spine:
 13. Run the loop by hand. Productize what repeats.
 14. We live inside the problem before we sell the software.
 15. Back the operating system that brings people back.
+
+Pass 53 - Don Valentine / Sequoia market-first lens
+Critique: The category and wedge were clear, but a market-first investor needs the deck to show the large market shift before the narrow entry point. Slide 4 should not just say the market is changing; it should say what category of software is being pulled into existence. Slide 5 should show the smallest repeatable transaction inside that category.
+Deck action: Reframe slide 4 around community software moving from screens to returns, then make slide 5 the smallest repeatable return: find the drift, learn the reason, move the person, prove the return.
+
+Resulting 15-slide spine:
+1. Human conversation is the operating system for real-world social communities.
+2. The snapback: Technology got between us. Human conversation brings us back.
+3. The signal is already in the call.
+4. AI is moving community software from screens to returns.
+5. Enter through the smallest repeatable return.
+6. The product answers the staff's next three questions.
+7. The call becomes memory, invite, and follow-through.
+8. The live lab makes the proof test real.
+9. The model is upside. The proof is repeatable returns.
+10. The moat is what members only tell a human.
+11. Every return makes the graph smarter.
+12. Each community makes the next one easier to activate.
+13. Run the loop by hand. Productize what repeats.
+14. We live inside the problem before we sell the software.
+15. Back the operating system that brings people back.

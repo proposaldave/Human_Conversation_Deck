@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 25 public expert lenses, 26 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 26 public expert lenses, 26 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -28,6 +28,7 @@ Public expert sources reviewed:
 - Peep Laja, public conversion clarity and value proposition guidance, reviewed 2026-07-05
 - Mike Maples, public startup-inflection narrative guidance, reviewed 2026-07-05
 - Nancy Duarte, public Presentation Sparkline and contrast guidance, https://www.duarte.com/blog/ultimate-guide-to-contrast/, reviewed 2026-07-05
+- Don Valentine, public Sequoia market-first / target-big-markets guidance, https://www.foundersspace.com/fund-raising/don-valentine-sequoia-capital-target-big-markets/, reviewed 2026-07-05
 
 Live deck ideas incorporated:
 - AI moves the computer work into the background so communities can bring the right people back into the room.
@@ -35,12 +36,12 @@ Live deck ideas incorporated:
 - The signal is already in the call.
 - Technology got between us. Human conversation brings us back.
 - The next social layer is not another feed.
-- The market is moving beyond feeds and dashboards.
-- Right people. Right room. Right conversation.
+- AI is moving community software from screens to returns.
+- Right person. Right reason. Real return.
 - Who needs a conversation, what to ask, and what should happen next.
 - The wedge is narrow, frequent, and emotional: one drifted member, one human call, one next action.
 - The product answers the staff's next three questions.
-- Start with one missed return we can measure.
+- Enter through the smallest repeatable return.
 - AI spots the drift. A human call learns why. The next action becomes an invite, intro, group, or leader path.
 - The call becomes memory, invite, and follow-through.
 - The live lab makes the proof test real.
