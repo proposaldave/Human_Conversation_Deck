@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 32 public expert lenses, 32 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 32 public expert lenses, 33 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -62,11 +62,10 @@ Live deck ideas incorporated:
 - Own the return-reason market before expanding.
 - Start small, own the first return loop, then expand through operators with the same attendance job.
 - The market is every community where someone owns attendance, belonging, trust, and return.
-- Start manual. Prove repeatable. Then sell the loop.
-- We can prove the loop before anyone else can sell it.
-- Sell the tool that repeats the proven workflow.
-- Seed funds one proof: the return loop repeats.
-- If that proof holds, operators buy a return engine, not another dashboard.
+- The manual work proves what software must own.
+- We control the lab, product, and buyer path.
+- Seed answers the service-to-software question.
+- If those proofs hold, this is not a service wrapper. It is the sales engine for community operators.
 - Start with one club. Prove the loop repeats. Turn the repeatable work into software.
 - If the loop repeats, every conversation teaches the next community what to do.
 

@@ -807,3 +807,24 @@ Resulting 15-slide spine:
 13. Start manual. Prove repeatable. Then sell the loop.
 14. We can prove the loop before anyone else can sell it.
 15. Seed funds one proof: the return loop repeats.
+
+Pass 66 - Synthetic elite seed-design-partner objection lens
+Critique: Slides 13-15 closed the round, but a skeptical design partner or seed investor could still ask whether this is just a high-touch service. The close needs to state how manual learning becomes product, which proof assets are controlled, and what buyer proof follows the one-club proof.
+Deck action: Reframe slide 13 as service learning that defines what software must own, slide 14 as control of lab/product/buyer path, and slide 15 as the three seed proof gates: return proof, product proof, and buyer proof.
+
+Resulting 15-slide spine:
+1. AI will make the most important interface human again.
+2. The last social era pulled community out of the room.
+3. The signal that matters is why someone comes back.
+4. AI turns human conversation into software.
+5. The wedge is one person drifting out.
+6. Who to call. What to ask. What to do next.
+7. One conversation becomes the next invite.
+8. One club is enough when usage is frequent and the dollars move.
+9. The proof must show revenue lift and workflow leverage.
+10. The secret is why someone returns.
+11. Every answer makes the next action harder to copy.
+12. Own the return-reason market before expanding.
+13. The manual work proves what software must own.
+14. We control the lab, product, and buyer path.
+15. Seed answers the service-to-software question.
