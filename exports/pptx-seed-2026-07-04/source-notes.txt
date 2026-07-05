@@ -1,0 +1,26 @@
+Human Conversation seed deck source notes
+
+Local sources reviewed:
+- briefings/HUMAN_CONVERSATION_POWERPOINT_SESSION_PACKET_2026-07-04.md
+- briefings/human_conversation_brand_language_bank_2026-06-27.md
+- briefings/2026-06-27_human_conversation_workflow_ingest.md
+- briefings/2026-06-28_human_conversation_relationship_examples.md
+- briefings/humanconversation_real_world_conversation_surfaces_map_2026-07-02.md
+- briefings/humanconversation_prompt_memory_self_improvement_loop_2026-07-02.md
+- briefings/humanconversation_correction_log_2026-07-02.md
+- briefings/humanconversation_2_0_community_builder_focus_2026-07-02.md
+- deliverables/ralph_business_plan/Ralph_NEPC_Human_Conversation_Business_Plan.md
+- deliverables/ralph_business_plan/NEPC_55_to_80_Utilization_Business_Plan.md
+- deliverables/ralph_business_plan/Ralph_NEPC_Source_Log.md
+- sites/HumanConversation/index.html and public assets
+- G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
+
+Drive sources reviewed:
+- Human Conversation Brand Language Bank
+- Human Conversation Deck Status
+- Human_Conversation_Simplified_Live_Advisor_Deck
+- Human_Conversation_Seed_Deck.pdf metadata; Drive did not extract text
+
+Claims intentionally avoided:
+- No accepted-invitation count, production acceptance rate, external-club traction, or exact current utilization claim.
+- Aggregate NEPC proof only; no private names, phone numbers, raw rosters, or staff-only player observations.
