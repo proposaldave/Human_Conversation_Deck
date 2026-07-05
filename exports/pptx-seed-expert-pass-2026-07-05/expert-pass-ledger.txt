@@ -1,0 +1,61 @@
+Human Conversation seed deck expert-pass ledger
+Date: 2026-07-05
+
+Communication job:
+By the end, a seed investor should believe Human Conversation can become a venture-scale operating system for real-world communities because it starts with one measurable club loop, captures proprietary relationship signal, and turns that signal into repeatable software.
+
+Pass 1 - Garry Tan / YC seed lens
+Critique: The current deck opens with a strong category line but takes too long to prove what the product does in one concrete loop.
+Deck action: Move the wedge and product loop earlier. Make the product answer: who needs a conversation, why now, what to ask, what happens next.
+
+Pass 2 - Andy Raskin strategic narrative lens
+Critique: The old game/new game needs to be explicit. Old game is more software, feeds, dashboards, and calendars. New game is AI moving computer work into the background so human conversation becomes the interface.
+Deck action: Add a category slide built around "Not another chat app" and "the product gets people back in the room."
+
+Pass 3 - April Dunford positioning lens
+Critique: The category cannot sound like a beautiful nonprofit thesis. It needs a buyer-use case: community builders need a sales engine for relationship-led growth.
+Deck action: Put "sales engine" into the cover/subcopy and business-model slide, while keeping human-first language intact.
+
+Pass 4 - Reid Hoffman network-effects lens
+Critique: The deck needs to show what compounds. A conversation note alone is not a moat. A returned player, better invite, new host, referral, and next call are the compounding loop.
+Deck action: Add a dedicated compounding-graph slide after the data moat.
+
+Pass 5 - Sequoia seed partner lens
+Critique: Seed investors need to see wedge, proof, business model, team, use of funds, and why this can expand beyond one club. The 12-slide version had some of these, but the live deck's 18-slide spine explains them better.
+Deck action: Move to a 14-slide seed deck with separate business model, founder-market fit, and seed plan slides.
+
+Pass 6 - Synthetic skeptical seed investor
+Critique: Any unsupported adoption rate, exact acceptance rate, external-club proof, or current utilization claim would weaken credibility.
+Deck action: Keep aggregate live-lab counts and planning-model utilization economics explicitly sourced and caveated. Do not add unverified adoption-rate proof.
+
+Pass 7 - Synthetic club-operator buyer
+Critique: The deck must make a club operator feel the work: someone drifted, staff knows why, the next invitation is better, and the club makes money from the same courts.
+Deck action: Reframe the wedge around one person drifting and keep the NEPC business impact slide.
+
+Pass 8 - Synthetic product operator
+Critique: The product needs to feel buildable, not magical. It is a queue, context, capture fields, action execution, and scorecard.
+Deck action: Make the product-loop slide concrete and use the seed plan to name memory, recommendations, actions, and reporting.
+
+Pass 9 - Synthetic CFO / data-room auditor
+Critique: The deck has to separate verified proof, planning model, and next proof package. Investors forgive early numbers when the proof hierarchy is honest.
+Deck action: Use 9,226 booking records, 1,273 invitation-court records, 174 weekly booking rhythm, and 52-62% utilization gap only as sourced 2025 aggregate operating signal. Keep 55% -> 80% / $500K / $764K as planning model, not final underwriting.
+
+Pass 10 - Synthetic category designer / story editor
+Critique: The strongest phrases are already in the live HTML deck. The PPTX should learn from it instead of paraphrasing into weaker language.
+Deck action: Pull forward "Technology got between us," "Not another chat app," "The wedge is one person drifting," "Every return makes the graph smarter," and "Back the operating system for real-world social communities."
+
+Resulting 14-slide spine:
+1. Human conversation is the operating system for real-world social communities.
+2. Technology got between us. Human conversation brings us back.
+3. One human conversation tells you how people feel.
+4. Not another chat app.
+5. The wedge is one person drifting.
+6. Human Conversation turns one call into the next community action.
+7. The live lab creates repeatable sales loops.
+8. Same courts can produce much more community and revenue.
+9. The moat is what members only tell a human.
+10. Every return makes the graph smarter.
+11. Start in clubs. Expand wherever belonging is operational.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
