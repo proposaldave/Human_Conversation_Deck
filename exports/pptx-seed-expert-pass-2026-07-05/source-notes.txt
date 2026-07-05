@@ -24,16 +24,15 @@ Drive sources reviewed:
 - Human_Conversation_Seed_Deck.pdf metadata; Drive did not extract text
 
 Live deck ideas incorporated:
-- The calendar knows what happened. It does not know why.
-- Do not automate the human moment away. Build around it.
-- The calendar showed absence. The calls revealed intent.
-- One sentence updates the system.
+- Technology got between us. Human conversation brings us back.
+- Not another chat app.
+- The wedge is one person drifting.
+- The conversation updates the system.
 - The live lab creates repeatable sales loops.
-- The moat is relationship memory no calendar owns.
-- Every call makes the community smarter.
-- AI should route people back into human conversation.
-- Run it by hand. Productize what repeats.
-- The real-world community OS starts with one human conversation.
+- The moat is what members only tell a human.
+- Every return makes the graph smarter.
+- Run the loop by hand. Productize what repeats.
+- Back the operating system for real-world social communities.
 
 Claims intentionally avoided:
 - No accepted-invitation count, production acceptance rate, external-club traction, or exact current utilization claim.
