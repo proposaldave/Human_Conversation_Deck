@@ -64,6 +64,10 @@ Pass 15 - Nancy Duarte narrative clarity lens
 Critique: The deck's middle needed to make the product workflow obvious without presenter narration. The live page does this better by walking through person, context, action, and human-interface moments.
 Deck action: Strengthen the wedge and product-loop copy with live-page specifics: came once then vanished, schedule/confidence/fit, next action, saved memory, and seed use around missed-return, invite, group, and leader loops.
 
+Pass 16 - Synthetic top-tier seed investor
+Critique: The deck explains the company, but the close needs to make the seed round feel underwriteable: what capital proves, what gets built, and what expansion milestone follows.
+Deck action: Tighten the business-impact caveat into a seed proof target and turn the final slide into three concrete use-of-seed milestones: prove live loops, build the software layer, expand beyond the first club.
+
 Resulting 15-slide spine:
 1. Human conversation is the operating system for real-world social communities.
 2. Technology got between us. Human conversation brings us back.
