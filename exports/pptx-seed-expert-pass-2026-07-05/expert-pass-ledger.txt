@@ -618,3 +618,24 @@ Resulting 15-slide spine:
 13. Earn the workflow by hand. Sell the software that repeats it.
 14. We own the proving ground before we sell the software.
 15. Back the return loop before it becomes obvious.
+
+Pass 57 - Ann Miura-Ko / Floodgate seed-market lens
+Critique: Slides 4-6 had the right category, wedge, and product sequence, but a top seed investor still needed the inflection to feel bigger than a service idea. The middle needed to say what AI newly makes possible, where the first intent signal is easiest to verify, and how that turns into a repeatable workflow.
+Deck action: Reframe slide 4 around software understanding human intent, slide 5 around verifying intent through one drifting person, and slide 6 around the first product as the workflow every operator repeats.
+
+Resulting 15-slide spine:
+1. AI is moving community work back into human conversation.
+2. The old social software pulled community onto screens.
+3. The call is where the return signal lives.
+4. AI opens the market for software that understands human intent.
+5. Start where intent is easiest to verify: one person drifting.
+6. The first product is the workflow every operator repeats.
+7. The call becomes memory, invite, and follow-through.
+8. The live lab makes the proof test real.
+9. A repeatable return unlocks the same-court upside.
+10. The moat is reason-level memory no dashboard has.
+11. Every return makes the graph smarter.
+12. The same loop travels where someone owns attendance.
+13. Earn the workflow by hand. Sell the software that repeats it.
+14. We own the proving ground before we sell the software.
+15. Back the return loop before it becomes obvious.
