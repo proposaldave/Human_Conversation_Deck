@@ -828,3 +828,24 @@ Resulting 15-slide spine:
 13. The manual work proves what software must own.
 14. We control the lab, product, and buyer path.
 15. Seed answers the service-to-software question.
+
+Pass 67 - Roelof Botha / Sequoia clarity lens
+Critique: Slides 1-3 opened with a strong thesis, but a Sequoia-style first read needs the company, pain, and eureka in the first 20 seconds. The cover should say what Human Conversation does, the problem should name the broken workflow, and the insight should make the return signal obvious.
+Deck action: Reframe slide 1 as the company sentence, slide 2 as activity software missing drift, and slide 3 as the eureka that the return signal lives in the call.
+
+Resulting 15-slide spine:
+1. Human Conversation brings people back to real communities.
+2. Community software records activity. It misses drift.
+3. The return signal lives in the call.
+4. AI turns human conversation into software.
+5. The wedge is one person drifting out.
+6. Who to call. What to ask. What to do next.
+7. One conversation becomes the next invite.
+8. One club is enough when usage is frequent and the dollars move.
+9. The proof must show revenue lift and workflow leverage.
+10. The secret is why someone returns.
+11. Every answer makes the next action harder to copy.
+12. Own the return-reason market before expanding.
+13. The manual work proves what software must own.
+14. We control the lab, product, and buyer path.
+15. Seed answers the service-to-software question.
