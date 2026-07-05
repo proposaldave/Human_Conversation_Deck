@@ -136,6 +136,10 @@ Pass 33 - Steve Jobs category simplicity lens
 Critique: The product loop was accurate but still sounded like operations software. The product needs to feel obvious at a glance: find the person, ask the right question, take the next action, and learn from what changed.
 Deck action: Simplify slide 6 from Find/Prepare/Act/Remember to Find/Ask/Act/Learn, and tighten the bottom line to separate the human conversation from the software memory and follow-through.
 
+Pass 34 - Synthetic world-class enterprise buyer AI lens
+Critique: The business-model slide had a strong service-to-software thesis, but the steps still sounded seller-internal. An enterprise buyer needs the trust path: run the workflow with staff, prove measurable outcomes, then buy the software that repeats what already works.
+Deck action: Reframe slide 13's three cards from Concierge/Playbook/Software to Concierge/Proof/Software with buyer-facing language around trusted workflow, fills, returns, adoption, and follow-through.
+
 Resulting 15-slide spine:
 1. Human conversation is the operating system for real-world social communities.
 2. The snapback: Technology got between us. Human conversation brings us back.
