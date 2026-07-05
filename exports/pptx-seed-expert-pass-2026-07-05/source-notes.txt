@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 29 public expert lenses, 29 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 29 public expert lenses, 30 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -34,10 +34,10 @@ Public expert sources reviewed:
 - Reid Hoffman, public LinkedIn pitch and network-scale guidance, https://www.reidhoffman.org/linkedin-pitch-to-greylock/, reviewed 2026-07-05
 
 Live deck ideas incorporated:
-- AI is moving community work back into human conversation.
-- Human Conversation turns each call into person, reason, action, and return.
-- The call is where the return signal lives.
-- The old social software pulled community onto screens.
+- AI will make the most important interface human again.
+- Human Conversation tells operators who needs a conversation, what to ask, and what should happen next.
+- The signal that matters is why someone comes back.
+- The last social era pulled community out of the room.
 - The next social layer is not another feed.
 - AI opens the market for software that understands human intent.
 - Person. Context. Action. Return.

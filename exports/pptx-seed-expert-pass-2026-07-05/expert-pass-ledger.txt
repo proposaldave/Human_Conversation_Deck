@@ -681,3 +681,24 @@ Resulting 15-slide spine:
 13. Earn the workflow by hand. Sell the software that repeats it.
 14. We own the proving ground before we sell the software.
 15. Back the return loop before it becomes obvious.
+
+Pass 60 - Synthetic elite seed storyteller lens
+Critique: The first three slides were clear, but a first-meeting investor should feel the thesis immediately before learning the mechanics. The opener needed a contrarian sentence, the problem needed to name the failed social era, and the insight needed to identify the unforgettable signal.
+Deck action: Reframe slide 1 as AI making the most important interface human again, slide 2 as the last social era pulling community out of the room, and slide 3 as the signal that matters: why someone comes back.
+
+Resulting 15-slide spine:
+1. AI will make the most important interface human again.
+2. The last social era pulled community out of the room.
+3. The signal that matters is why someone comes back.
+4. AI opens the market for software that understands human intent.
+5. Start where intent is easiest to verify: one person drifting.
+6. The first product is the workflow every operator repeats.
+7. The call becomes memory, invite, and follow-through.
+8. Start with one club where every return can be measured.
+9. The upside is large enough to make the proof worth running.
+10. The first network is return reasons, not profiles.
+11. Each return adds a pattern the next operator can use.
+12. The network expands through operators with the same job.
+13. Earn the workflow by hand. Sell the software that repeats it.
+14. We own the proving ground before we sell the software.
+15. Back the return loop before it becomes obvious.
