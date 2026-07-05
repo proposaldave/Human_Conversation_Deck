@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 35 public expert lenses, 36 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 36 public expert lenses, 36 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -38,6 +38,7 @@ Public expert sources reviewed:
 - Roelof Botha / Sequoia, public clarity and company-building guidance, https://sequoiacap.com/article/writing-a-business-plan/ and https://www.generalist.com/p/lessons-from-20-years-of-vc-roelof-botha, reviewed 2026-07-05
 - Keith Rabois, public operating-leverage and startup-operating guidance, https://www.khoslaventures.com/team/keith-rabois/, https://ulisten.ai/channels/yc-root-access/lecture-14-how-to-operate-keith-rabois_6fQHLK1aIBs, https://www.saastr.com/keith-rabois-khosla-ventures-building-amazing-teams-video-transcript/, and https://www.lennysnewsletter.com/p/hard-truths-about-building-in-the-ai-era, reviewed 2026-07-05
 - Elad Gil, public seed-stage and fundraising-process guidance, https://blog.eladgil.com/p/how-funding-rounds-differ-seed-series and https://blog.eladgil.com/p/tactics-for-how-to-raise-vc-round-or, reviewed 2026-07-05
+- Paul Graham, public do-things-that-do-not-scale and fundraising guidance, https://paulgraham.com/ds.html and https://paulgraham.com/fr.html, reviewed 2026-07-05
 
 Live deck ideas incorporated:
 - Human Conversation brings people back to real communities.
@@ -50,12 +51,15 @@ Live deck ideas incorporated:
 - The answer appears in the human call.
 - The next social layer is not another feed.
 - AI can now turn conversation into operating software.
+- AI turns the return loop into software.
 - Person. Context. Next action. Return.
 - Models can read context, remember intent, and trigger the next human action without putting the relationship on a screen.
 - Who needs a conversation, what to ask, and what should happen next.
 - The first use case is one person drifting out.
+- Start with one drifting person.
 - The signal is narrow, frequent, and emotional enough for AI to aim and humans to verify.
 - Drift becomes a call, a memory, and a next move.
+- Manual calls teach the product.
 - AI spots the drift. A human call learns why. The next action becomes an invite, intro, group, or leader path.
 - Every conversation becomes operating memory.
 - One logged outcome updates the playbook, queues the next move, and makes follow-up visible.

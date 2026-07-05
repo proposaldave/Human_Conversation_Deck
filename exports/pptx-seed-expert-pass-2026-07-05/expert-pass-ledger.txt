@@ -954,3 +954,24 @@ Resulting 15-slide spine:
 13. Seed funds the repeatable system, not the manual work.
 14. The first milestone is inside our control.
 15. Seed buys a repeatable return engine.
+
+Pass 73 - Paul Graham / hand-built wedge lens
+Critique: Slides 4-6 explained the loop, but a PG-style seed read would want the non-scalable wedge to be explicit: start with a tiny painful use case, do the work by hand, learn the repeatable pattern, and then automate only what proves itself.
+Deck action: Reframe slide 4 as the return loop becoming software, slide 5 as one drifting person as the sharp first wedge, and slide 6 as manual calls teaching what to automate.
+
+Resulting 15-slide spine:
+1. Human Conversation is the sales engine for real-world communities.
+2. Community software misses the person drifting away.
+3. The answer appears in the human call.
+4. AI turns the return loop into software.
+5. Start with one drifting person.
+6. Manual calls teach the product.
+7. Every conversation becomes operating memory.
+8. One club has enough volume to tune the engine.
+9. The proof is revenue lift without staff drag.
+10. Return reasons are the proprietary raw material.
+11. The moat compounds when answers become moves.
+12. Own return reasons in one operator market first.
+13. Seed funds the repeatable system, not the manual work.
+14. The first milestone is inside our control.
+15. Seed buys a repeatable return engine.
