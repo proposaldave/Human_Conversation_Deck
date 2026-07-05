@@ -1164,3 +1164,24 @@ Resulting 15-slide spine:
 13. Seed turns the manual loop into software.
 14. One club is the first milestone.
 15. Seed buys one proof cycle.
+
+Pass 83 - April Dunford public positioning lens
+Critique: The category-design pass made the ambition bigger, but a positioning read wants the first skim to make the customer, value, competitive alternative, and market context obvious. "Operating system" is powerful as ambition, but "sales engine" is clearer as the market-facing position.
+Deck action: Put the concrete sales-engine position on slide 1, turn slide 4 from a negative category claim into the positive workflow value, reframe slide 12 around operators paid to bring people back, and make slide 15 state the sellable next-market proof.
+
+Resulting 15-slide spine:
+1. The sales engine for real-world communities.
+2. Today's software sees activity after people drift.
+3. A human call reveals the return path.
+4. AI makes the next human move obvious.
+5. Start where drift is visible.
+6. Repeated manual work becomes software.
+7. Every call feeds the next one.
+8. The first loop runs inside one club.
+9. Proof is a healthier return loop.
+10. The moat is what people tell a human.
+11. Every return makes the graph smarter.
+12. Start with operators paid to bring people back.
+13. Seed turns the manual loop into software.
+14. One club is the first milestone.
+15. Seed buys one proof cycle.
