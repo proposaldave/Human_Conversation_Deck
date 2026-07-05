@@ -849,3 +849,24 @@ Resulting 15-slide spine:
 13. The manual work proves what software must own.
 14. We control the lab, product, and buyer path.
 15. Seed answers the service-to-software question.
+
+Pass 68 - Synthetic elite seed IC why-now skeptic lens
+Critique: Slides 4-6 explained the product loop, but a seed IC could still ask why this becomes investable now rather than a well-run human service. The AI inflection needs to be concrete: models can read context, remember intent, and trigger the next human action while staff stays human.
+Deck action: Reframe slide 4 as operating software now possible, slide 5 as a narrow AI-verifiable wedge, and slide 6 as the workflow that turns drift into a call, memory, and next move.
+
+Resulting 15-slide spine:
+1. Human Conversation brings people back to real communities.
+2. Community software records activity. It misses drift.
+3. The return signal lives in the call.
+4. AI can now turn conversation into operating software.
+5. The first use case is one person drifting out.
+6. Drift becomes a call, a memory, and a next move.
+7. One conversation becomes the next invite.
+8. One club is enough when usage is frequent and the dollars move.
+9. The proof must show revenue lift and workflow leverage.
+10. The secret is why someone returns.
+11. Every answer makes the next action harder to copy.
+12. Own the return-reason market before expanding.
+13. The manual work proves what software must own.
+14. We control the lab, product, and buyer path.
+15. Seed answers the service-to-software question.
