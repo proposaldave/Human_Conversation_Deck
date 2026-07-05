@@ -261,3 +261,24 @@ Resulting 15-slide spine:
 13. Earn the workflow by hand. Sell the software that repeats it.
 14. We live inside the problem before we sell the software.
 15. Back the operating system for real-world social communities.
+
+Pass 40 - Synthetic world-class seed data-room AI lens
+Critique: Slide 9 had useful business-impact evidence, but a data-room reviewer should never have to infer which numbers are model assumptions versus current proof. The slide should preserve the upside while making the underwriting boundary impossible to miss.
+Deck action: Reframe the slide eyebrow as Modeled impact, tighten each metric label around planning/model status, and replace the caveat with a clearer data-room boundary: underwriting still requires fresh utilization, fill results, margin, and staff-time evidence.
+
+Resulting 15-slide spine:
+1. Human conversation is the operating system for real-world social communities.
+2. The snapback: Technology got between us. Human conversation brings us back.
+3. One human conversation tells you how people feel.
+4. The market is moving beyond feeds.
+5. Start with the person who almost came back.
+6. The product is one simple loop.
+7. The conversation updates the system.
+8. The live lab turns execution risk into weekly proof.
+9. Clubs already have the courts. They need the follow-up engine.
+10. The moat is what members only tell a human.
+11. Every return makes the graph smarter.
+12. Each community makes the next one easier to activate.
+13. Earn the workflow by hand. Sell the software that repeats it.
+14. We live inside the problem before we sell the software.
+15. Back the operating system for real-world social communities.
