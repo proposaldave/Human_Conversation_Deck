@@ -132,6 +132,10 @@ Pass 32 - Synthetic world-class fundraising storyteller AI lens
 Critique: The opening slides had the right thesis, but the first minute could make the AI role more emotionally obvious. The point is not AI replacing conversation; it is AI moving computer work out of the way so the right human conversation happens.
 Deck action: Tighten slide 2's subtitle around AI moving computer work into the background, and replace the slide 3 loneliness wording with Dave's preferred disconnection language.
 
+Pass 33 - Steve Jobs category simplicity lens
+Critique: The product loop was accurate but still sounded like operations software. The product needs to feel obvious at a glance: find the person, ask the right question, take the next action, and learn from what changed.
+Deck action: Simplify slide 6 from Find/Prepare/Act/Remember to Find/Ask/Act/Learn, and tighten the bottom line to separate the human conversation from the software memory and follow-through.
+
 Resulting 15-slide spine:
 1. Human conversation is the operating system for real-world social communities.
 2. The snapback: Technology got between us. Human conversation brings us back.
