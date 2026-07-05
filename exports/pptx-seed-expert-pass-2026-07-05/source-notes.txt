@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 27 public expert lenses, 27 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 27 public expert lenses, 28 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -54,11 +54,11 @@ Live deck ideas incorporated:
 - Every return makes the graph smarter.
 - The same loop travels where someone owns attendance.
 - The market is every community where someone owns attendance, belonging, trust, and return.
-- Run the loop by hand. Productize what repeats.
+- Earn the workflow by hand. Sell the software that repeats it.
 - Earn the workflow by hand. Sell the software that repeats it.
 - Sell the tool that repeats the proven workflow.
-- Back the operating system that brings people back.
-- If the loop repeats, communities know who needs a conversation before people drift away.
+- Back the return loop before it becomes obvious.
+- If the loop repeats, every community operator gets a return engine, not another dashboard.
 - Start with one club. Prove the loop repeats. Turn the repeatable work into software.
 - If the loop repeats, every conversation teaches the next community what to do.
 
