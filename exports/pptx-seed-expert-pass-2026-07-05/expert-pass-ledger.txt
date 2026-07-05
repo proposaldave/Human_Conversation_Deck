@@ -60,13 +60,17 @@ Pass 14 - Synthetic final-partner pass
 Critique: The deck should read as a seed company, not a social mission deck: painful missing signal, concrete product loop, operating lab, proprietary human signal, business model, founder-market fit, and seed use.
 Deck action: Keep the deck at 15 slides, preserve source caveats, add no unsupported numbers, and keep the concrete product-demo slide.
 
+Pass 15 - Nancy Duarte narrative clarity lens
+Critique: The deck's middle needed to make the product workflow obvious without presenter narration. The live page does this better by walking through person, context, action, and human-interface moments.
+Deck action: Strengthen the wedge and product-loop copy with live-page specifics: came once then vanished, schedule/confidence/fit, next action, saved memory, and seed use around missed-return, invite, group, and leader loops.
+
 Resulting 15-slide spine:
 1. Human conversation is the operating system for real-world social communities.
 2. Technology got between us. Human conversation brings us back.
 3. One human conversation tells you how people feel.
 4. Not another chat app.
 5. The wedge is one person drifting.
-6. Human Conversation turns one call into the next community action.
+6. Human Conversation answers the four questions staff never have time to chase.
 7. The conversation updates the system.
 8. The live lab creates repeatable sales loops.
 9. Same courts can produce much more community and revenue.
