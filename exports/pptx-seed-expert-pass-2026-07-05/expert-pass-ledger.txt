@@ -1038,3 +1038,24 @@ Resulting 15-slide spine:
 13. Seed proves the loop can become software.
 14. The first proof cycle is inside our control.
 15. The round answers one question.
+
+Pass 77 - Nancy Duarte public story-contrast opening lens
+Critique: Slides 1-3 were individually clear, but the opening did not yet create a strong enough contrast arc. A Duarte-style opening should move investors from the desired changed world, to the current broken state, to the insight that bridges the gap.
+Deck action: Reframe slide 1 as the new promise, slide 2 as the current-state contrast, and slide 3 as the return-path bridge.
+
+Resulting 15-slide spine:
+1. The sales engine for communities that need people back.
+2. Today's software sees activity after people drift.
+3. A human call reveals the return path.
+4. AI turns the return loop into software.
+5. Start with one drifting person.
+6. Manual calls teach the product.
+7. Every call updates the next action.
+8. One club repeats the loop every week.
+9. Proof means more revenue without more drag.
+10. The proprietary asset is why people return.
+11. The product gets pulled forward by each return.
+12. Win one operator market before expanding.
+13. Seed proves the loop can become software.
+14. The first proof cycle is inside our control.
+15. The round answers one question.

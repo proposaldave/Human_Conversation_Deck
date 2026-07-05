@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 37 public expert lenses, 38 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 38 public expert lenses, 38 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -27,7 +27,7 @@ Public expert sources reviewed:
 - Sarah Tavel, public Hierarchy of Engagement framework, reviewed 2026-07-05
 - Peep Laja, public conversion clarity and value proposition guidance, reviewed 2026-07-05
 - Mike Maples, public startup-inflection narrative guidance, reviewed 2026-07-05
-- Nancy Duarte, public Presentation Sparkline and contrast guidance, https://www.duarte.com/blog/ultimate-guide-to-contrast/, reviewed 2026-07-05
+- Nancy Duarte, public Presentation Sparkline and contrast guidance plus second-pass story-contrast opening lens, https://www.duarte.com/blog/ultimate-guide-to-contrast/, reviewed 2026-07-05
 - Don Valentine, public Sequoia market-first / target-big-markets guidance, https://www.foundersspace.com/fund-raising/don-valentine-sequoia-capital-target-big-markets/, reviewed 2026-07-05
 - Andy Raskin, public strategic narrative / greatest sales deck guidance, https://www.linkedin.com/pulse/greatest-sales-deck-ive-ever-seen-andy-raskin, reviewed 2026-07-05
 - Ann Miura-Ko, public Floodgate mass-cognition / seed-market lens, https://www.floodgate.com/insights, reviewed 2026-07-05
@@ -44,12 +44,15 @@ Public expert sources reviewed:
 Live deck ideas incorporated:
 - Human Conversation brings people back to real communities.
 - Human Conversation is the sales engine for real-world communities.
+- The sales engine for communities that need people back.
 - AI tells operators who needs a conversation, what to ask, and what next action will bring them back.
 - It tells operators who needs a conversation, what to ask, and what action brings them back.
 - Community software records activity. It misses drift.
 - Community software misses the person drifting away.
+- Today's software sees activity after people drift.
 - The return signal lives in the call.
 - The answer appears in the human call.
+- A human call reveals the return path.
 - The next social layer is not another feed.
 - AI can now turn conversation into operating software.
 - AI turns the return loop into software.
