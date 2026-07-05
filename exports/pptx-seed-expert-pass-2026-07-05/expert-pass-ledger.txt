@@ -450,3 +450,24 @@ Resulting 15-slide spine:
 13. Run the loop by hand. Productize what repeats.
 14. We live inside the problem before we sell the software.
 15. Back the operating system for real-world social communities.
+
+Pass 49 - Mike Maples seed narrative lens
+Critique: Slides 3-5 had the right pieces, but the timing and wedge logic could be more fundable. A seed narrative should show the inflection first, then the narrow beachhead where the company can learn faster than anyone else.
+Deck action: Keep slide 3's insight intact, sharpen slide 4 into the inflection from feeds and dashboards to background AI coordination, and reframe slide 5 so the beachhead is measurable: one drifted member, one human call, one next action.
+
+Resulting 15-slide spine:
+1. Human conversation is the operating system for real-world social communities.
+2. The snapback: Technology got between us. Human conversation brings us back.
+3. The signal is already in the call.
+4. The market is moving beyond feeds and dashboards.
+5. Start where the missed return is measurable.
+6. The product gives staff the next right move.
+7. The conversation updates the system.
+8. The live lab creates a weekly proof loop.
+9. The economic case is unused capacity converted into returns.
+10. The moat is what members only tell a human.
+11. Every return makes the graph smarter.
+12. Each community makes the next one easier to activate.
+13. Run the loop by hand. Productize what repeats.
+14. We live inside the problem before we sell the software.
+15. Back the operating system for real-world social communities.

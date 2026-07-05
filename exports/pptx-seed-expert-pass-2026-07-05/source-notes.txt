@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 23 public expert lenses, 24 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 24 public expert lenses, 24 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -26,6 +26,7 @@ Drive sources reviewed:
 Public expert sources reviewed:
 - Sarah Tavel, public Hierarchy of Engagement framework, reviewed 2026-07-05
 - Peep Laja, public conversion clarity and value proposition guidance, reviewed 2026-07-05
+- Mike Maples, public startup-inflection narrative guidance, reviewed 2026-07-05
 
 Live deck ideas incorporated:
 - AI moves the computer work into the background so communities can bring the right people back into the room.
@@ -33,9 +34,10 @@ Live deck ideas incorporated:
 - The signal is already in the call.
 - Technology got between us. Human conversation brings us back.
 - The next social layer is not another feed.
-- The market is moving beyond feeds.
+- The market is moving beyond feeds and dashboards.
 - Right people. Right room. Right conversation.
 - Who needs a conversation, what to ask, and what should happen next.
+- The wedge is narrow, frequent, and emotional: one drifted member, one human call, one next action.
 - The product gives staff the next right move.
 - Start with the person who almost came back.
 - AI spots the drift. A human call learns why. The next action becomes an invite, intro, group, or leader path.
