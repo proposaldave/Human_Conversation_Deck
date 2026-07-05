@@ -765,3 +765,24 @@ Resulting 15-slide spine:
 13. Start manual. Prove repeatable. Then sell the loop.
 14. We can prove the loop before anyone else can sell it.
 15. Seed funds one proof: the return loop repeats.
+
+Pass 64 - Synthetic elite seed-partner narrative compression lens
+Critique: Slides 4-5 had the right category and wedge, but they still sounded like strategy language. A seed partner should be able to say the middle of the deck back after one read: AI turns conversation into software, and the wedge is one person drifting out.
+Deck action: Compress slide 4 into the category claim and slide 5 into the wedge claim while leaving the product mechanics on slide 6.
+
+Resulting 15-slide spine:
+1. AI will make the most important interface human again.
+2. The last social era pulled community out of the room.
+3. The signal that matters is why someone comes back.
+4. AI turns human conversation into software.
+5. The wedge is one person drifting out.
+6. Who to call. What to ask. What to do next.
+7. One conversation becomes the next invite.
+8. One club is enough when usage is frequent and the dollars move.
+9. The proof must show revenue lift and workflow leverage.
+10. The first network is return reasons, not profiles.
+11. Each return adds a pattern the next operator can use.
+12. The network expands through operators with the same job.
+13. Start manual. Prove repeatable. Then sell the loop.
+14. We can prove the loop before anyone else can sell it.
+15. Seed funds one proof: the return loop repeats.

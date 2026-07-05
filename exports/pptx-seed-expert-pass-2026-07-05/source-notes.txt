@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 31 public expert lenses, 31 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 31 public expert lenses, 32 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -41,12 +41,13 @@ Live deck ideas incorporated:
 - The signal that matters is why someone comes back.
 - The last social era pulled community out of the room.
 - The next social layer is not another feed.
-- AI opens the market for software that understands human intent.
-- Person. Context. Action. Return.
+- AI turns human conversation into software.
+- Person. Context. Next action. Return.
+- The computer work moves into the background. The relationship work happens in the room.
 - Who needs a conversation, what to ask, and what should happen next.
-- The wedge is narrow, frequent, and emotional: one drifted member, one human call, one next action.
+- The wedge is one person drifting out.
+- One missed return creates the repeatable loop: spot the drift, learn why, make the move, measure return.
 - Who to call. What to ask. What to do next.
-- Start where intent is easiest to verify: one person drifting.
 - AI spots the drift. A human call learns why. The next action becomes an invite, intro, group, or leader path.
 - One conversation becomes the next invite.
 - Start with one club where every return can be measured.
