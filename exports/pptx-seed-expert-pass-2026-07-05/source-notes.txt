@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 38 public expert lenses, 39 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 39 public expert lenses, 39 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -40,6 +40,7 @@ Public expert sources reviewed:
 - Elad Gil, public seed-stage and fundraising-process guidance, https://blog.eladgil.com/p/how-funding-rounds-differ-seed-series and https://blog.eladgil.com/p/tactics-for-how-to-raise-vc-round-or, reviewed 2026-07-05
 - Paul Graham, public do-things-that-do-not-scale and fundraising guidance, https://paulgraham.com/ds.html and https://paulgraham.com/fr.html, reviewed 2026-07-05
 - Marc Andreessen, public product-market fit, software-category, and market-taking guidance, https://pmarchive.com/guide_to_startups_part4.html, https://a16z.com/why-software-is-eating-the-world/, and https://a16z.com/where-to-go-after-product-market-fit-an-interview-with-marc-andreessen/, reviewed 2026-07-05
+- Brian Balfour, public growth-loop guidance, https://www.reforge.com/blog/growth-loops, reviewed 2026-07-05
 
 Live deck ideas incorporated:
 - Human Conversation brings people back to real communities.
@@ -73,12 +74,18 @@ Live deck ideas incorporated:
 - Record the return reason.
 - Every conversation becomes operating memory.
 - Every call updates the next action.
+- Every call feeds the next one.
+- The output of one call becomes the input for the next prompt, invite, intro, and follow-up.
 - One logged outcome updates the playbook, queues the next move, and makes follow-up visible.
 - Start with one club where every return can be measured.
 - One club has enough volume to tune the engine.
 - One club repeats the loop every week.
+- The first loop runs inside one club.
+- Weekly bookings, invites, returns, and utilization create enough cycles to see whether the loop gets healthier.
 - The proof is revenue lift without staff drag.
 - Proof means more revenue without more drag.
+- Proof is a healthier return loop.
+- Seed gate: utilization rises, margin holds, and staff minutes do not climb.
 - Seed gate: utilization, margin, and staff minutes must improve together.
 - Turn one proven club loop into repeatable software.
 - Return reasons are the proprietary raw material.

@@ -1080,3 +1080,24 @@ Resulting 15-slide spine:
 13. Seed proves the loop can become software.
 14. The first proof cycle is inside our control.
 15. The round answers one question.
+
+Pass 79 - Brian Balfour public growth-loop lens
+Critique: Slides 7-9 were clear as a sequence, but not strong enough as a compounding loop. A growth-loop read needs to see outputs becoming inputs, one loop repeated enough times to measure, and proof framed as loop health rather than isolated activity.
+Deck action: Reframe slide 7 as call output feeding the next input, slide 8 as the first loop running inside one club, and slide 9 as healthier return-loop proof.
+
+Resulting 15-slide spine:
+1. The sales engine for communities that need people back.
+2. Today's software sees activity after people drift.
+3. A human call reveals the return path.
+4. Software points to the next conversation.
+5. Start where drift is visible.
+6. Repeated manual work becomes software.
+7. Every call feeds the next one.
+8. The first loop runs inside one club.
+9. Proof is a healthier return loop.
+10. The proprietary asset is why people return.
+11. The product gets pulled forward by each return.
+12. Win one operator market before expanding.
+13. Seed proves the loop can become software.
+14. The first proof cycle is inside our control.
+15. The round answers one question.
