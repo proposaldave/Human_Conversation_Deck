@@ -1017,3 +1017,24 @@ Resulting 15-slide spine:
 13. Seed funds the repeatable system, not the manual work.
 14. The first milestone is inside our control.
 15. Seed buys a repeatable return engine.
+
+Pass 76 - Synthetic elite partner-meeting close lens
+Critique: Slides 13-15 had the right proof gates, but the close should make investors hear the single underwriting question. A partner-meeting close needs to say what seed de-risks: whether one controlled club can prove a return loop that becomes software and sells to the next operator.
+Deck action: Reframe slide 13 as seed proving the loop can become software, slide 14 as the controlled proof cycle, and slide 15 as the one question the round answers.
+
+Resulting 15-slide spine:
+1. Human Conversation is the sales engine for real-world communities.
+2. Community software misses the person drifting away.
+3. The answer appears in the human call.
+4. AI turns the return loop into software.
+5. Start with one drifting person.
+6. Manual calls teach the product.
+7. Every call updates the next action.
+8. One club repeats the loop every week.
+9. Proof means more revenue without more drag.
+10. The proprietary asset is why people return.
+11. The product gets pulled forward by each return.
+12. Win one operator market before expanding.
+13. Seed proves the loop can become software.
+14. The first proof cycle is inside our control.
+15. The round answers one question.
