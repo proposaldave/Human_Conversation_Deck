@@ -104,6 +104,10 @@ Pass 25 - Brian Chesky product/story lens
 Critique: The product sequence should begin with a designed human moment, not a process abstraction. A founder-grade product story makes the audience feel the person almost lost before it shows the loop.
 Deck action: Reframe slide 5 as a short storyboard: notice the missed return, listen for the real reason, invite them into the right group, and remember the outcome for the next call.
 
+Pass 26 - Synthetic world-class enterprise buyer lens
+Critique: The business-impact slide showed model upside but did not say the buyer problem plainly enough. A club owner already has expensive courts and staff; the missing product is the follow-up engine that turns latent demand into filled courts and stronger relationships.
+Deck action: Reframe slide 9 around the buyer's economic job: clubs already have the courts, they need the follow-up engine. Tighten the proof target around utilization lift, fill results, margin, and staff time.
+
 Resulting 15-slide spine:
 1. Human conversation is the operating system for real-world social communities.
 2. The snapback: Technology got between us. Human conversation brings us back.
@@ -113,7 +117,7 @@ Resulting 15-slide spine:
 6. The product is one simple loop.
 7. The conversation updates the system.
 8. The live lab turns execution risk into weekly proof.
-9. Same courts can produce much more community and revenue.
+9. Clubs already have the courts. They need the follow-up engine.
 10. The moat is what members only tell a human.
 11. Every return makes the graph smarter.
 12. Each community makes the next one easier to activate.
