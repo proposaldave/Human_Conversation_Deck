@@ -84,6 +84,10 @@ Pass 20 - Synthetic world-class product strategist
 Critique: The product slide still read like a diagnostic checklist. A great seed deck makes the product feel inevitable in one breath: find the person, prepare the conversation, act, and remember.
 Deck action: Simplify slide 6 into one product loop: Find, Prepare, Act, Remember. Make the human interface explicit and show that the software owns list, context, action, and memory.
 
+Pass 21 - Ben Horowitz operator lens
+Critique: The deck should admit that the hard part is execution cadence, not idea quality. Investors trust the plan more when NEPC is framed as the place where loop speed and corrections happen every week.
+Deck action: Reframe the live lab slide around execution risk and weekly proof: spot the opportunity, call the person, act, measure, correct.
+
 Resulting 15-slide spine:
 1. Human conversation is the operating system for real-world social communities.
 2. The snapback: Technology got between us. Human conversation brings us back.
@@ -92,7 +96,7 @@ Resulting 15-slide spine:
 5. The wedge is one person drifting.
 6. The product is one simple loop.
 7. The conversation updates the system.
-8. The live lab creates repeatable sales loops.
+8. The live lab turns execution risk into weekly proof.
 9. Same courts can produce much more community and revenue.
 10. The moat is what members only tell a human.
 11. Every return makes the graph smarter.
