@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 36 public expert lenses, 36 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 36 public expert lenses, 37 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -62,10 +62,13 @@ Live deck ideas incorporated:
 - Manual calls teach the product.
 - AI spots the drift. A human call learns why. The next action becomes an invite, intro, group, or leader path.
 - Every conversation becomes operating memory.
+- Every call updates the next action.
 - One logged outcome updates the playbook, queues the next move, and makes follow-up visible.
 - Start with one club where every return can be measured.
 - One club has enough volume to tune the engine.
+- One club repeats the loop every week.
 - The proof is revenue lift without staff drag.
+- Proof means more revenue without more drag.
 - Seed gate: utilization, margin, and staff minutes must improve together.
 - Turn one proven club loop into repeatable software.
 - Return reasons are the proprietary raw material.

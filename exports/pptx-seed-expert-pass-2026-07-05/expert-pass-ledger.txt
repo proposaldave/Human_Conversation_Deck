@@ -975,3 +975,24 @@ Resulting 15-slide spine:
 13. Seed funds the repeatable system, not the manual work.
 14. The first milestone is inside our control.
 15. Seed buys a repeatable return engine.
+
+Pass 74 - Synthetic elite seed-IC operator lens
+Critique: Slides 7-9 had credible ingredients, but the proof section could still feel like static evidence. A seed IC operator wants the closed loop: each call changes the next action, one club repeats the loop weekly, and the proof ties revenue lift to low operational drag.
+Deck action: Reframe slide 7 as every call updating the next action, slide 8 as one club repeating the loop every week, and slide 9 as more revenue without more drag.
+
+Resulting 15-slide spine:
+1. Human Conversation is the sales engine for real-world communities.
+2. Community software misses the person drifting away.
+3. The answer appears in the human call.
+4. AI turns the return loop into software.
+5. Start with one drifting person.
+6. Manual calls teach the product.
+7. Every call updates the next action.
+8. One club repeats the loop every week.
+9. Proof means more revenue without more drag.
+10. Return reasons are the proprietary raw material.
+11. The moat compounds when answers become moves.
+12. Own return reasons in one operator market first.
+13. Seed funds the repeatable system, not the manual work.
+14. The first milestone is inside our control.
+15. Seed buys a repeatable return engine.
