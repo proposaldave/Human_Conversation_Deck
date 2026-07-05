@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 39 public expert lenses, 40 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 40 public expert lenses, 40 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -41,6 +41,7 @@ Public expert sources reviewed:
 - Paul Graham, public do-things-that-do-not-scale and fundraising guidance, https://paulgraham.com/ds.html and https://paulgraham.com/fr.html, reviewed 2026-07-05
 - Marc Andreessen, public product-market fit, software-category, and market-taking guidance, https://pmarchive.com/guide_to_startups_part4.html, https://a16z.com/why-software-is-eating-the-world/, and https://a16z.com/where-to-go-after-product-market-fit-an-interview-with-marc-andreessen/, reviewed 2026-07-05
 - Brian Balfour, public growth-loop guidance, https://www.reforge.com/blog/growth-loops, reviewed 2026-07-05
+- Mark Suster, public Cash In / Cash Out / Milestones Achieved fundraising diligence guidance, https://www.inc.com/mark-suster/every-potential-investor-will-ask-you-about-these-3-things-heres-how-to-be-prepared.html, reviewed 2026-07-05
 
 Live deck ideas incorporated:
 - Human Conversation brings people back to real communities.
@@ -105,11 +106,16 @@ Live deck ideas incorporated:
 - The market is every community where someone owns attendance, belonging, trust, and return.
 - Seed funds the repeatable system, not the manual work.
 - Seed proves the loop can become software.
+- Seed turns the manual loop into software.
 - The first milestone is inside our control.
 - The first proof cycle is inside our control.
+- One club is the first milestone.
 - Seed buys a repeatable return engine.
 - The round answers one question.
+- Seed buys one proof cycle.
+- Prove one club can repeat the return loop often enough to become software the next operator buys.
 - If those proofs hold, the next round funds scaling a software category.
+- If yes, the next round scales the category, not the experiment.
 - Start with one club. Prove the loop repeats. Turn the repeatable work into software.
 - If the loop repeats, every conversation teaches the next community what to do.
 
