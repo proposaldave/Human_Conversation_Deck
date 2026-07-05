@@ -1,296 +1,296 @@
-{"kind":"deck","id":"pr/u1ndk1","name":"Deck"}
-{"kind":"layout","layoutId":"45b0f3aa-4eef-43b1-b7ed-ec1b6da7dc7c","name":"Master","type":"master"}
-{"kind":"layout","layoutId":"94c6859b-7225-43fa-ad86-4f3265971bfe","name":"Title Slide","type":"title"}
-{"kind":"slide","id":"sl/sjsu0x","slide":1,"title":"SEED DECK","textShapes":10}
-{"kind":"shape","id":"sh/i9s36hcr","slide":1,"name":"image-wash","bbox":[0,0,1280,720]}
-{"kind":"textbox","id":"sh/bulwval8","slide":1,"name":"eyebrow","text":"SEED DECK","textPreview":"SEED DECK","textChars":9,"textLines":1,"bbox":[52,32,520,22]}
-{"kind":"textbox","id":"sh/032lszqt","slide":1,"name":"brand-domain","text":"HumanConversation.com","textPreview":"HumanConversation.com","textChars":21,"textLines":1,"bbox":[1002,34,226,24]}
-{"kind":"textbox","id":"sh/tovahoza","slide":1,"name":"title","text":"Human conversation is the operating system for real-world social communities.","textPreview":"Human conversation is the operating system for real-world social communities.","textChars":77,"textLines":1,"bbox":[52,96,730,250]}
-{"kind":"textbox","id":"sh/ixczed8v","slide":1,"name":"subtitle","text":"The sales engine that tells community builders who to call, what to ask, and what brings people back.","textPreview":"The sales engine that tells community builders who to call, what to ask, and what brings people back.","textChars":101,"textLines":1,"bbox":[56,414,700,112]}
-{"kind":"shape","id":"sh/bi9s36hc","slide":1,"name":"chip-Person","bbox":[56,548,142,42]}
-{"kind":"textbox","id":"sh/0rqd4vmt","slide":1,"name":"chip-text-Person","text":"Person","textPreview":"Person","textChars":6,"textLines":1,"bbox":[72,557,110,24]}
-{"kind":"shape","id":"sh/tcj6tova","slide":1,"name":"chip-Context","bbox":[216,548,154,42]}
-{"kind":"textbox","id":"sh/hwfyxobm","slide":1,"name":"chip-text-Context","text":"Context","textPreview":"Context","textChars":7,"textLines":1,"bbox":[232,557,122,24]}
-{"kind":"shape","id":"sh/obm58z25","slide":1,"name":"chip-Action","bbox":[388,548,138,42]}
-{"kind":"textbox","id":"sh/zqtcj6to","slide":1,"name":"chip-text-Action","text":"Action","textPreview":"Action","textChars":6,"textLines":1,"bbox":[404,557,106,24]}
-{"kind":"shape","id":"sh/65wjudg7","slide":1,"name":"chip-Return","bbox":[544,548,138,42]}
-{"kind":"textbox","id":"sh/hk3q5o7q","slide":1,"name":"chip-text-Return","text":"Return","textPreview":"Return","textChars":6,"textLines":1,"bbox":[560,557,106,24]}
-{"kind":"textbox","id":"sh/oza1gvy9","slide":1,"name":"title-context","text":"Formerly Give n Take. Same live lab. Sharper category.","textPreview":"Formerly Give n Take. Same live lab. Sharper category.","textChars":54,"textLines":1,"bbox":[56,606,620,24]}
-{"kind":"textbox","id":"sh/zed8v6ps","slide":1,"name":"slide-number","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[52,656,50,24]}
-{"kind":"image","id":"im/4zidonyd","slide":1,"name":"","alt":"background","bbox":[0,0,1280,720]}
-{"kind":"notes","id":"nt/sjsu0x","slide":1,"text":""}
-{"kind":"slide","id":"sl/mp79q7","slide":2,"title":"THE SNAPBACK","textShapes":5}
-{"kind":"shape","id":"sh/uxc3ylc7","slide":2,"name":"image-wash","bbox":[0,0,1280,720]}
-{"kind":"textbox","id":"sh/ji5snelo","slide":2,"name":"eyebrow","text":"THE SNAPBACK","textPreview":"THE SNAPBACK","textChars":12,"textLines":1,"bbox":[52,32,520,22]}
-{"kind":"textbox","id":"sh/crmhk3q5","slide":2,"name":"brand-domain","text":"HumanConversation.com","textPreview":"HumanConversation.com","textChars":21,"textLines":1,"bbox":[1002,34,226,24]}
-{"kind":"textbox","id":"sh/1cfa9w3m","slide":2,"name":"title","text":"Technology got between us. Human conversation brings us back.","textPreview":"Technology got between us. Human conversation brings us back.","textChars":61,"textLines":1,"bbox":[52,126,700,250]}
-{"kind":"textbox","id":"sh/ulwval87","slide":2,"name":"subtitle","text":"AI moves the computer work into the background so communities can bring the right people back into the room.","textPreview":"AI moves the computer work into the background so communities can bring the right people back into the room.","textChars":108,"textLines":1,"bbox":[56,416,670,112]}
-{"kind":"textbox","id":"sh/j6tovaho","slide":2,"name":"slide-number","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[52,656,50,24]}
-{"kind":"image","id":"im/c3ylc7u5","slide":2,"name":"","alt":"background","bbox":[0,0,1280,720]}
-{"kind":"notes","id":"nt/mp79q7","slide":2,"text":""}
-{"kind":"slide","id":"sl/uz1fjo","slide":3,"title":"THE INSIGHT","textShapes":5}
-{"kind":"shape","id":"sh/o7qpg3ex","slide":3,"name":"image-wash","bbox":[0,0,1280,720]}
-{"kind":"textbox","id":"sh/dsji5sne","slide":3,"name":"eyebrow","text":"THE INSIGHT","textPreview":"THE INSIGHT","textChars":11,"textLines":1,"bbox":[52,32,520,22]}
-{"kind":"textbox","id":"sh/6dcbulwv","slide":3,"name":"brand-domain","text":"HumanConversation.com","textPreview":"HumanConversation.com","textChars":21,"textLines":1,"bbox":[1002,34,226,24]}
-{"kind":"textbox","id":"sh/vy90je9c","slide":3,"name":"title","text":"One human conversation tells you how people feel.","textPreview":"One human conversation tells you how people feel.","textChars":49,"textLines":1,"bbox":[52,134,760,250]}
-{"kind":"textbox","id":"sh/oj2t83it","slide":3,"name":"subtitle","text":"Tone, pauses, warmth, hesitation, disconnection, trust: the signal is already in the call.","textPreview":"Tone, pauses, warmth, hesitation, disconnection, trust: the signal is already in the call.","textChars":90,"textLines":1,"bbox":[56,402,640,112]}
-{"kind":"textbox","id":"sh/d4vmtwra","slide":3,"name":"slide-number","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[52,656,50,24]}
-{"kind":"image","id":"im/mtwra5gb","slide":3,"name":"","alt":"background","bbox":[0,0,1280,720]}
-{"kind":"notes","id":"nt/uz1fjo","slide":3,"text":""}
-{"kind":"slide","id":"sl/aj236h","slide":4,"title":"CATEGORY THESIS","textShapes":10}
-{"kind":"shape","id":"sh/bq1oryts","slide":4,"name":"image-wash","bbox":[0,0,1280,720]}
-{"kind":"textbox","id":"sh/m58z25kb","slide":4,"name":"eyebrow","text":"CATEGORY THESIS","textPreview":"CATEGORY THESIS","textChars":15,"textLines":1,"bbox":[52,32,520,22]}
-{"kind":"textbox","id":"sh/t83itgfm","slide":4,"name":"brand-domain","text":"HumanConversation.com","textPreview":"HumanConversation.com","textChars":21,"textLines":1,"bbox":[1002,34,226,24]}
-{"kind":"textbox","id":"sh/4nap4r65","slide":4,"name":"title","text":"The market is moving beyond feeds.","textPreview":"The market is moving beyond feeds.","textChars":34,"textLines":1,"bbox":[52,104,820,250]}
-{"kind":"textbox","id":"sh/b2hwfyxo","slide":4,"name":"category-answer","text":"Right people. Right room. Right conversation.","textPreview":"Right people. Right room. Right conversation.","textChars":45,"textLines":1,"bbox":[56,308,820,76]}
-{"kind":"textbox","id":"sh/mhk3q5o7","slide":4,"name":"subtitle","text":"AI moves coordination into the background; the visible product is the right person, room, and conversation.","textPreview":"AI moves coordination into the background; the visible product is the right person, room, and conversation.","textChars":107,"textLines":1,"bbox":[56,410,700,112]}
-{"kind":"shape","id":"sh/tgfmlkjm","slide":4,"name":"chip-Person","bbox":[56,550,142,42]}
-{"kind":"textbox","id":"sh/4vmtwra5","slide":4,"name":"chip-text-Person","text":"Person","textPreview":"Person","textChars":6,"textLines":1,"bbox":[72,559,110,24]}
-{"kind":"shape","id":"sh/i5sneloj","slide":4,"name":"chip-Context","bbox":[216,550,164,42]}
-{"kind":"textbox","id":"sh/7qpg3ex0","slide":4,"name":"chip-text-Context","text":"Context","textPreview":"Context","textChars":7,"textLines":1,"bbox":[232,559,132,24]}
-{"kind":"shape","id":"sh/0bi9s36h","slide":4,"name":"chip-Action","bbox":[398,550,140,42]}
-{"kind":"textbox","id":"sh/pwb2hwfy","slide":4,"name":"chip-text-Action","text":"Action","textPreview":"Action","textChars":6,"textLines":1,"bbox":[414,559,108,24]}
-{"kind":"shape","id":"sh/ed8v6psf","slide":4,"name":"chip-Return","bbox":[556,550,144,42]}
-{"kind":"textbox","id":"sh/7y1kre1w","slide":4,"name":"chip-text-Return","text":"Return","textPreview":"Return","textChars":6,"textLines":1,"bbox":[572,559,112,24]}
-{"kind":"textbox","id":"sh/wjudg7ad","slide":4,"name":"slide-number","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[52,656,50,24]}
-{"kind":"image","id":"im/d4vmtwra","slide":4,"name":"","alt":"background","bbox":[0,0,1280,720]}
-{"kind":"notes","id":"nt/aj236h","slide":4,"text":""}
-{"kind":"slide","id":"sl/dosqu1","slide":5,"title":"LIVE WEDGE","textShapes":13}
-{"kind":"shape","id":"sh/gvy90je9","slide":5,"name":"image-wash","bbox":[0,0,1280,720]}
-{"kind":"textbox","id":"sh/9gr2p8nq","slide":5,"name":"eyebrow","text":"LIVE WEDGE","textPreview":"LIVE WEDGE","textChars":10,"textLines":1,"bbox":[52,32,520,22]}
-{"kind":"textbox","id":"sh/2hwfyxob","slide":5,"name":"brand-domain","text":"HumanConversation.com","textPreview":"HumanConversation.com","textChars":21,"textLines":1,"bbox":[1002,34,226,24]}
-{"kind":"textbox","id":"sh/r2p8nqxs","slide":5,"name":"title","text":"Start with the person who almost came back.","textPreview":"Start with the person who almost came back.","textChars":43,"textLines":1,"bbox":[52,108,820,250]}
-{"kind":"textbox","id":"sh/kjm1cfa9","slide":5,"name":"subtitle","text":"AI spots the drift. A human call learns why. The next action becomes an invite, intro, group, or leader path.","textPreview":"AI spots the drift. A human call learns why. The next action becomes an invite, intro, group, or leader path.","textChars":109,"textLines":1,"bbox":[56,370,740,112]}
-{"kind":"shape","id":"sh/94fu18jq","slide":5,"name":"wedge-Spot","bbox":[72,522,250,94]}
-{"kind":"textbox","id":"sh/25kb6xkf","slide":5,"name":"wedge-head-Spot","text":"Spot","textPreview":"Spot","textChars":4,"textLines":1,"bbox":[90,540,210,28]}
-{"kind":"textbox","id":"sh/rqd4vmtw","slide":5,"name":"wedge-body-Spot","text":"Came once, then disappeared.","textPreview":"Came once, then disappeared.","textChars":28,"textLines":1,"bbox":[90,570,210,34]}
-{"kind":"shape","id":"sh/jm1cfa9w","slide":5,"name":"wedge-Call","bbox":[342,522,250,94]}
-{"kind":"textbox","id":"sh/u18jqh0f","slide":5,"name":"wedge-head-Call","text":"Call","textPreview":"Call","textChars":4,"textLines":1,"bbox":[360,540,210,28]}
-{"kind":"textbox","id":"sh/1orytsvu","slide":5,"name":"wedge-body-Call","text":"Learn schedule, confidence, fit.","textPreview":"Learn schedule, confidence, fit.","textChars":32,"textLines":1,"bbox":[360,570,210,34]}
-{"kind":"shape","id":"sh/c7u54zid","slide":5,"name":"wedge-Act","bbox":[612,522,250,94]}
-{"kind":"textbox","id":"sh/judg7ads","slide":5,"name":"wedge-head-Act","text":"Act","textPreview":"Act","textChars":3,"textLines":1,"bbox":[630,540,210,28]}
-{"kind":"textbox","id":"sh/u9knih4b","slide":5,"name":"wedge-body-Act","text":"Invite, intro, group, or leader path.","textPreview":"Invite, intro, group, or leader path.","textChars":37,"textLines":1,"bbox":[630,570,210,34]}
-{"kind":"shape","id":"sh/1032lszq","slide":5,"name":"wedge-Learn","bbox":[882,522,250,94]}
-{"kind":"textbox","id":"sh/cfa9w3m9","slide":5,"name":"wedge-head-Learn","text":"Learn","textPreview":"Learn","textChars":5,"textLines":1,"bbox":[900,540,210,28]}
-{"kind":"textbox","id":"sh/nyd0z610","slide":5,"name":"wedge-body-Learn","text":"Outcome improves the next move.","textPreview":"Outcome improves the next move.","textChars":31,"textLines":1,"bbox":[900,570,210,34]}
-{"kind":"textbox","id":"sh/udg7adsj","slide":5,"name":"slide-number","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[52,656,50,24]}
-{"kind":"image","id":"im/mlkjm1cf","slide":5,"name":"","alt":"background","bbox":[0,0,1280,720]}
-{"kind":"notes","id":"nt/dosqu1","slide":5,"text":""}
-{"kind":"slide","id":"sl/mwcvgp","slide":6,"title":"PRODUCT LOOP","textShapes":17}
-{"kind":"textbox","id":"sh/k3q5o7qp","slide":6,"name":"eyebrow","text":"PRODUCT LOOP","textPreview":"PRODUCT LOOP","textChars":12,"textLines":1,"bbox":[52,32,520,22]}
-{"kind":"textbox","id":"sh/vixczed8","slide":6,"name":"brand-domain","text":"HumanConversation.com","textPreview":"HumanConversation.com","textChars":21,"textLines":1,"bbox":[1002,34,226,24]}
-{"kind":"textbox","id":"sh/2x4nap4r","slide":6,"name":"title","text":"The product is one simple loop.","textPreview":"The product is one simple loop.","textChars":31,"textLines":1,"bbox":[52,82,760,250]}
-{"kind":"shape","id":"sh/dcbulwva","slide":6,"name":"loop-01","bbox":[74,312,260,236]}
-{"kind":"textbox","id":"sh/kre1w7mp","slide":6,"name":"loop-num-01","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[98,330,64,34]}
-{"kind":"textbox","id":"sh/val87ed8","slide":6,"name":"loop-head-01","text":"Find","textPreview":"Find","textChars":4,"textLines":1,"bbox":[98,386,208,38]}
-{"kind":"textbox","id":"sh/6psfil0r","slide":6,"name":"loop-body-01","text":"Who needs a conversation?","textPreview":"Who needs a conversation?","textChars":25,"textLines":1,"bbox":[98,444,205,82]}
-{"kind":"shape","id":"sh/d8bat47y","slide":6,"name":"loop-02","bbox":[366,312,260,236]}
-{"kind":"textbox","id":"sh/knih4byh","slide":6,"name":"loop-num-02","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[390,330,64,34]}
-{"kind":"textbox","id":"sh/uxc3ylc7","slide":6,"name":"loop-head-02","text":"Ask","textPreview":"Ask","textChars":3,"textLines":1,"bbox":[390,386,208,38]}
-{"kind":"textbox","id":"sh/ji5snelo","slide":6,"name":"loop-body-02","text":"What should the caller ask?","textPreview":"What should the caller ask?","textChars":27,"textLines":1,"bbox":[390,444,205,82]}
-{"kind":"shape","id":"sh/c3ylc7u5","slide":6,"name":"loop-03","bbox":[658,312,260,236]}
-{"kind":"textbox","id":"sh/1kre1w7m","slide":6,"name":"loop-num-03","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[682,330,64,34]}
-{"kind":"textbox","id":"sh/ulwval87","slide":6,"name":"loop-head-03","text":"Act","textPreview":"Act","textChars":3,"textLines":1,"bbox":[682,386,208,38]}
-{"kind":"textbox","id":"sh/j6tovaho","slide":6,"name":"loop-body-03","text":"What should happen next?","textPreview":"What should happen next?","textChars":24,"textLines":1,"bbox":[682,444,205,82]}
-{"kind":"shape","id":"sh/crmhk3q5","slide":6,"name":"loop-04","bbox":[950,312,260,236]}
-{"kind":"textbox","id":"sh/1cfa9w3m","slide":6,"name":"loop-num-04","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[974,330,64,34]}
-{"kind":"textbox","id":"sh/qh0fepkz","slide":6,"name":"loop-head-04","text":"Learn","textPreview":"Learn","textChars":5,"textLines":1,"bbox":[974,386,208,38]}
-{"kind":"textbox","id":"sh/j2t83itg","slide":6,"name":"loop-body-04","text":"What did the conversation change?","textPreview":"What did the conversation change?","textChars":33,"textLines":1,"bbox":[974,444,205,82]}
-{"kind":"textbox","id":"sh/bq1oryts","slide":6,"name":"loop-line","text":"The person talks. The software remembers, recommends, and follows through.","textPreview":"The person talks. The software remembers, recommends, and follows through.","textChars":74,"textLines":1,"bbox":[110,594,1060,34]}
-{"kind":"textbox","id":"sh/m58z25kb","slide":6,"name":"slide-number","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[52,656,50,24]}
-{"kind":"notes","id":"nt/mwcvgp","slide":6,"text":""}
-{"kind":"slide","id":"sl/q4pk7p","slide":7,"title":"HUMAN INTERFACE","textShapes":13}
-{"kind":"shape","id":"sh/cbulwval","slide":7,"name":"image-wash","bbox":[0,0,1280,720]}
-{"kind":"textbox","id":"sh/5sneloj2","slide":7,"name":"eyebrow","text":"HUMAN INTERFACE","textPreview":"HUMAN INTERFACE","textChars":15,"textLines":1,"bbox":[52,32,520,22]}
-{"kind":"textbox","id":"sh/ytsvu9kn","slide":7,"name":"brand-domain","text":"HumanConversation.com","textPreview":"HumanConversation.com","textChars":21,"textLines":1,"bbox":[1002,34,226,24]}
-{"kind":"textbox","id":"sh/neloj2t8","slide":7,"name":"title","text":"The conversation updates the system.","textPreview":"The conversation updates the system.","textChars":36,"textLines":1,"bbox":[52,100,710,250]}
-{"kind":"textbox","id":"sh/czed8v6p","slide":7,"name":"subtitle","text":"The staff member says the outcome. AI handles the computer work.","textPreview":"The staff member says the outcome. AI handles the computer work.","textChars":64,"textLines":1,"bbox":[56,330,620,112]}
-{"kind":"shape","id":"sh/5kb6xkf6","slide":7,"name":"ai-panel","bbox":[786,136,390,424]}
-{"kind":"textbox","id":"sh/yhgn29gr","slide":7,"name":"ai-panel-title","text":"Human Conversation AI","textPreview":"Human Conversation AI","textChars":21,"textLines":1,"bbox":[812,160,230,28]}
-{"kind":"textbox","id":"sh/n29gr2p8","slide":7,"name":"ai-panel-status","text":"CONNECTED","textPreview":"CONNECTED","textChars":9,"textLines":1,"bbox":[1048,162,104,24]}
-{"kind":"shape","id":"sh/fyxobm58","slide":7,"name":"ai-card-Heard","bbox":[812,210,338,86]}
-{"kind":"textbox","id":"sh/qd4vmtwr","slide":7,"name":"ai-card-head-Heard","text":"Heard","textPreview":"Heard","textChars":5,"textLines":1,"bbox":[832,224,290,20]}
-{"kind":"textbox","id":"sh/x4nap4r6","slide":7,"name":"ai-card-body-Heard","text":"Beginner class went well. Free Thursdays. Wants an easy first group.","textPreview":"Beginner class went well. Free Thursdays. Wants an easy first group.","textChars":68,"textLines":1,"bbox":[832,248,286,36]}
-{"kind":"shape","id":"sh/8jqh0fep","slide":7,"name":"ai-card-Staff says","bbox":[812,316,338,86]}
-{"kind":"textbox","id":"sh/fa9w3m94","slide":7,"name":"ai-card-head-Staff says","text":"Staff says","textPreview":"Staff says","textChars":10,"textLines":1,"bbox":[832,330,290,20]}
-{"kind":"textbox","id":"sh/qpg3ex0n","slide":7,"name":"ai-card-body-Staff says","text":"Add to Thursday beginner social.","textPreview":"Add to Thursday beginner social.","textChars":32,"textLines":1,"bbox":[832,354,286,36]}
-{"kind":"shape","id":"sh/xczed8v6","slide":7,"name":"ai-card-AI","bbox":[812,422,338,86]}
-{"kind":"textbox","id":"sh/8v6psfil","slide":7,"name":"ai-card-head-AI","text":"AI","textPreview":"AI","textChars":2,"textLines":1,"bbox":[832,436,290,20]}
-{"kind":"textbox","id":"sh/je9cvixc","slide":7,"name":"ai-card-body-AI","text":"Done. Invite queued. Memory saved.","textPreview":"Done. Invite queued. Memory saved.","textChars":34,"textLines":1,"bbox":[832,460,286,36]}
-{"kind":"textbox","id":"sh/qtcj6tov","slide":7,"name":"slide-number","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[52,656,50,24]}
-{"kind":"image","id":"im/i5sneloj","slide":7,"name":"","alt":"background","bbox":[0,0,1280,720]}
-{"kind":"notes","id":"nt/q4pk7p","slide":7,"text":""}
-{"kind":"slide","id":"sl/jejh9e","slide":8,"title":"NEPC LIVE LAB","textShapes":14}
-{"kind":"shape","id":"sh/qpg3ex0n","slide":8,"name":"image-wash","bbox":[0,0,1280,720]}
-{"kind":"textbox","id":"sh/fa9w3m94","slide":8,"name":"eyebrow","text":"NEPC LIVE LAB","textPreview":"NEPC LIVE LAB","textChars":13,"textLines":1,"bbox":[52,32,520,22]}
-{"kind":"textbox","id":"sh/8jqh0fep","slide":8,"name":"brand-domain","text":"HumanConversation.com","textPreview":"HumanConversation.com","textChars":21,"textLines":1,"bbox":[1002,34,226,24]}
-{"kind":"textbox","id":"sh/x4nap4r6","slide":8,"name":"title","text":"The live lab turns execution risk into weekly proof.","textPreview":"The live lab turns execution risk into weekly proof.","textChars":52,"textLines":1,"bbox":[52,94,760,250]}
-{"kind":"textbox","id":"sh/qd4vmtwr","slide":8,"name":"subtitle","text":"The hard part is loop speed: spot the opportunity, call the person, act, measure, correct.","textPreview":"The hard part is loop speed: spot the opportunity, call the person, act, measure, correct.","textChars":90,"textLines":1,"bbox":[56,344,720,112]}
-{"kind":"shape","id":"sh/fyxobm58","slide":8,"name":"stat-9,226","bbox":[70,478,250,118]}
-{"kind":"textbox","id":"sh/87ed8bat","slide":8,"name":"stat-value-9,226","text":"9,226","textPreview":"9,226","textChars":5,"textLines":1,"bbox":[88,496,214,44]}
-{"kind":"textbox","id":"sh/xs72x4na","slide":8,"name":"stat-label-9,226","text":"historical booking rows","textPreview":"historical booking rows","textChars":23,"textLines":1,"bbox":[88,546,214,34]}
-{"kind":"shape","id":"sh/xkf6dcbu","slide":8,"name":"stat-1,273","bbox":[344,478,250,118]}
-{"kind":"textbox","id":"sh/4zidonyd","slide":8,"name":"stat-value-1,273","text":"1,273","textPreview":"1,273","textChars":5,"textLines":1,"bbox":[362,496,214,44]}
-{"kind":"textbox","id":"sh/fepkzupw","slide":8,"name":"stat-label-1,273","text":"invite-linked court rows","textPreview":"invite-linked court rows","textChars":24,"textLines":1,"bbox":[362,546,214,34]}
-{"kind":"shape","id":"sh/mtwra5gb","slide":8,"name":"stat-174","bbox":[618,478,250,118]}
-{"kind":"textbox","id":"sh/xc3ylc7u","slide":8,"name":"stat-value-174","text":"174","textPreview":"174","textChars":3,"textLines":1,"bbox":[636,496,214,44]}
-{"kind":"textbox","id":"sh/4r65wjud","slide":8,"name":"stat-label-174","text":"average weekly bookings","textPreview":"average weekly bookings","textChars":23,"textLines":1,"bbox":[636,546,214,34]}
-{"kind":"shape","id":"sh/f6dcbulw","slide":8,"name":"stat-52-62%","bbox":[892,478,250,118]}
-{"kind":"textbox","id":"sh/mlkjm1cf","slide":8,"name":"stat-value-52-62%","text":"52-62%","textPreview":"52-62%","textChars":6,"textLines":1,"bbox":[910,496,214,44]}
-{"kind":"textbox","id":"sh/x0nuxc3y","slide":8,"name":"stat-label-52-62%","text":"observed soft-slot utilization","textPreview":"observed soft-slot utilization","textChars":30,"textLines":1,"bbox":[910,546,214,34]}
-{"kind":"textbox","id":"sh/4fu18jqh","slide":8,"name":"source-note","text":"Source: anonymized aggregate CourtReserve exports, 2025 Middleton/Rye booking and utilization rows; no member-level data shown.","textPreview":"Source: anonymized aggregate CourtReserve exports, 2025 Middleton/Rye booking and utilization rows; no member-level data shown.","textChars":127,"textLines":1,"bbox":[150,656,928,24]}
-{"kind":"textbox","id":"sh/4nap4r65","slide":8,"name":"slide-number","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[52,656,50,24]}
-{"kind":"image","id":"im/gr2p8nqx","slide":8,"name":"","alt":"background","bbox":[0,0,1280,720]}
-{"kind":"notes","id":"nt/jejh9e","slide":8,"text":""}
-{"kind":"slide","id":"sl/iigjuf","slide":9,"title":"MODELED IMPACT","textShapes":14}
-{"kind":"textbox","id":"sh/at47y1kr","slide":9,"name":"eyebrow","text":"MODELED IMPACT","textPreview":"MODELED IMPACT","textChars":14,"textLines":1,"bbox":[52,32,520,22]}
-{"kind":"textbox","id":"sh/lkjm1cfa","slide":9,"name":"brand-domain","text":"HumanConversation.com","textPreview":"HumanConversation.com","textChars":21,"textLines":1,"bbox":[1002,34,226,24]}
-{"kind":"textbox","id":"sh/szqtcj6t","slide":9,"name":"title","text":"The budget is unused court time and missed returns.","textPreview":"The budget is unused court time and missed returns.","textChars":51,"textLines":1,"bbox":[52,82,820,250]}
-{"kind":"shape","id":"sh/32lszqtc","slide":9,"name":"impact-band","bbox":[74,294,1132,262]}
-{"kind":"shape","id":"sh/ahoza1gv","slide":9,"name":"stat-55% to 80%","bbox":[108,330,250,118]}
-{"kind":"textbox","id":"sh/l87ed8ba","slide":9,"name":"stat-value-55% to 80%","text":"55% to 80%","textPreview":"55% to 80%","textChars":10,"textLines":1,"bbox":[126,348,214,44]}
-{"kind":"textbox","id":"sh/sneloj2t","slide":9,"name":"stat-label-55% to 80%","text":"planning utilization target","textPreview":"planning utilization target","textChars":27,"textLines":1,"bbox":[126,398,214,34]}
-{"kind":"shape","id":"sh/3q5o7qpg","slide":9,"name":"stat-$10K","bbox":[386,330,250,118]}
-{"kind":"textbox","id":"sh/e9cvixcz","slide":9,"name":"stat-value-$10K","text":"$10K","textPreview":"$10K","textChars":4,"textLines":1,"bbox":[404,348,214,44]}
-{"kind":"textbox","id":"sh/87ed8bat","slide":9,"name":"stat-label-$10K","text":"planning value per utilization point","textPreview":"planning value per utilization point","textChars":36,"textLines":1,"bbox":[404,398,214,34]}
-{"kind":"shape","id":"sh/xs72x4na","slide":9,"name":"stat-$500K","bbox":[664,330,250,118]}
-{"kind":"textbox","id":"sh/q1orytsv","slide":9,"name":"stat-value-$500K","text":"$500K","textPreview":"$500K","textChars":5,"textLines":1,"bbox":[682,348,214,44]}
-{"kind":"textbox","id":"sh/fmlkjm1c","slide":9,"name":"stat-label-$500K","text":"modeled annual same-court upside","textPreview":"modeled annual same-court upside","textChars":32,"textLines":1,"bbox":[682,398,214,34]}
-{"kind":"shape","id":"sh/8z25kb6x","slide":9,"name":"stat-$764K","bbox":[942,330,230,118]}
-{"kind":"textbox","id":"sh/1gvy90je","slide":9,"name":"stat-value-$764K","text":"$764K","textPreview":"$764K","textChars":5,"textLines":1,"bbox":[960,348,194,44]}
-{"kind":"textbox","id":"sh/qtcj6tov","slide":9,"name":"stat-label-$764K","text":"modeled net-profit target after cost","textPreview":"modeled net-profit target after cost","textChars":36,"textLines":1,"bbox":[960,398,194,34]}
-{"kind":"textbox","id":"sh/je9cvixc","slide":9,"name":"impact-caveat","text":"Buyer proof target: show the loop lifts utilization, returns, margin, and staff time before scaling beyond the first club.","textPreview":"Buyer proof target: show the loop lifts utilization, returns, margin, and staff time before scaling beyond the first club.","textChars":122,"textLines":1,"bbox":[128,596,1024,42]}
-{"kind":"textbox","id":"sh/8v6psfil","slide":9,"name":"source-note","text":"Source: NEPC 55% -> 80% Court Utilization Business Plan, prepared 2026-06-30.","textPreview":"Source: NEPC 55% -> 80% Court Utilization Business Plan, prepared 2026-06-30.","textChars":77,"textLines":1,"bbox":[150,656,928,24]}
-{"kind":"textbox","id":"sh/xczed8v6","slide":9,"name":"slide-number","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[52,656,50,24]}
-{"kind":"notes","id":"nt/iigjuf","slide":9,"text":""}
-{"kind":"slide","id":"sl/yljkxk","slide":10,"title":"STAFF-ONLY SIGNAL","textShapes":17}
-{"kind":"shape","id":"sh/kjm1cfa9","slide":10,"name":"image-wash","bbox":[0,0,1280,720]}
-{"kind":"textbox","id":"sh/94fu18jq","slide":10,"name":"eyebrow","text":"STAFF-ONLY SIGNAL","textPreview":"STAFF-ONLY SIGNAL","textChars":17,"textLines":1,"bbox":[52,32,520,22]}
-{"kind":"textbox","id":"sh/2p8nqxs7","slide":10,"name":"brand-domain","text":"HumanConversation.com","textPreview":"HumanConversation.com","textChars":21,"textLines":1,"bbox":[1002,34,226,24]}
-{"kind":"textbox","id":"sh/ra5gbq1o","slide":10,"name":"title","text":"The moat is what members only tell a human.","textPreview":"The moat is what members only tell a human.","textChars":43,"textLines":1,"bbox":[52,88,820,250]}
-{"kind":"textbox","id":"sh/gvy90je9","slide":10,"name":"subtitle","text":"Calendars store transactions. Human Conversation stores the reasons people return, hesitate, belong, and lead.","textPreview":"Calendars store transactions. Human Conversation stores the reasons people return, hesitate, belong, and lead.","textChars":110,"textLines":1,"bbox":[56,230,720,112]}
-{"kind":"shape","id":"sh/9gr2p8nq","slide":10,"name":"metric-Schedule","bbox":[76,356,338,118]}
-{"kind":"shape","id":"sh/2t83itgf","slide":10,"name":"metric-rule-Schedule","bbox":[76,356,338,6]}
-{"kind":"textbox","id":"sh/re1w7mp0","slide":10,"name":"metric-head-Schedule","text":"Schedule","textPreview":"Schedule","textChars":8,"textLines":1,"bbox":[98,378,282,30]}
-{"kind":"textbox","id":"sh/bulwval8","slide":10,"name":"metric-body-Schedule","text":"When they can actually show up","textPreview":"When they can actually show up","textChars":30,"textLines":1,"bbox":[98,418,282,36]}
-{"kind":"shape","id":"sh/i9s36hcr","slide":10,"name":"metric-Friction","bbox":[462,356,338,118]}
-{"kind":"shape","id":"sh/p0bi9s36","slide":10,"name":"metric-rule-Friction","bbox":[462,356,338,6]}
-{"kind":"textbox","id":"sh/0fepkzup","slide":10,"name":"metric-head-Friction","text":"Friction","textPreview":"Friction","textChars":8,"textLines":1,"bbox":[484,378,282,30]}
-{"kind":"textbox","id":"sh/bi9s36hc","slide":10,"name":"metric-body-Friction","text":"Why they stopped coming","textPreview":"Why they stopped coming","textChars":23,"textLines":1,"bbox":[484,418,282,36]}
-{"kind":"shape","id":"sh/ixczed8v","slide":10,"name":"metric-Pull","bbox":[848,356,338,118]}
-{"kind":"shape","id":"sh/tovahoza","slide":10,"name":"metric-rule-Pull","bbox":[848,356,338,6]}
-{"kind":"textbox","id":"sh/032lszqt","slide":10,"name":"metric-head-Pull","text":"Pull","textPreview":"Pull","textChars":4,"textLines":1,"bbox":[870,378,282,30]}
-{"kind":"textbox","id":"sh/b6xkf6dc","slide":10,"name":"metric-body-Pull","text":"What they want next","textPreview":"What they want next","textChars":19,"textLines":1,"bbox":[870,418,282,36]}
-{"kind":"shape","id":"sh/il0rqd4v","slide":10,"name":"metric-Belonging","bbox":[76,498,338,118]}
-{"kind":"shape","id":"sh/ulwval87","slide":10,"name":"metric-rule-Belonging","bbox":[76,498,338,6]}
-{"kind":"textbox","id":"sh/j6tovaho","slide":10,"name":"metric-head-Belonging","text":"Belonging","textPreview":"Belonging","textChars":9,"textLines":1,"bbox":[98,520,282,30]}
-{"kind":"textbox","id":"sh/crmhk3q5","slide":10,"name":"metric-body-Belonging","text":"Who makes them feel known","textPreview":"Who makes them feel known","textChars":25,"textLines":1,"bbox":[98,560,282,36]}
-{"kind":"shape","id":"sh/1cfa9w3m","slide":10,"name":"metric-Confidence","bbox":[462,498,338,118]}
-{"kind":"shape","id":"sh/uxc3ylc7","slide":10,"name":"metric-rule-Confidence","bbox":[462,498,338,6]}
-{"kind":"textbox","id":"sh/ji5snelo","slide":10,"name":"metric-head-Confidence","text":"Confidence","textPreview":"Confidence","textChars":10,"textLines":1,"bbox":[484,520,282,30]}
-{"kind":"textbox","id":"sh/c3ylc7u5","slide":10,"name":"metric-body-Confidence","text":"What makes them hesitate","textPreview":"What makes them hesitate","textChars":24,"textLines":1,"bbox":[484,560,282,36]}
-{"kind":"shape","id":"sh/1kre1w7m","slide":10,"name":"metric-Leadership","bbox":[848,498,338,118]}
-{"kind":"shape","id":"sh/q5o7qpg3","slide":10,"name":"metric-rule-Leadership","bbox":[848,498,338,6]}
-{"kind":"textbox","id":"sh/jqh0fepk","slide":10,"name":"metric-head-Leadership","text":"Leadership","textPreview":"Leadership","textChars":10,"textLines":1,"bbox":[870,520,282,30]}
-{"kind":"textbox","id":"sh/p8nqxs72","slide":10,"name":"metric-body-Leadership","text":"Who can bring others back","textPreview":"Who can bring others back","textChars":25,"textLines":1,"bbox":[870,560,282,36]}
-{"kind":"textbox","id":"sh/0nuxc3yl","slide":10,"name":"slide-number","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[52,656,50,24]}
-{"kind":"image","id":"im/ixczed8v","slide":10,"name":"","alt":"background","bbox":[0,0,1280,720]}
-{"kind":"notes","id":"nt/yljkxk","slide":10,"text":""}
-{"kind":"slide","id":"sl/axavg9","slide":11,"title":"COMPOUNDING GRAPH","textShapes":8}
-{"kind":"shape","id":"sh/36hcrmhk","slide":11,"name":"image-wash","bbox":[0,0,1280,720]}
-{"kind":"textbox","id":"sh/eloj2t83","slide":11,"name":"eyebrow","text":"COMPOUNDING GRAPH","textPreview":"COMPOUNDING GRAPH","textChars":17,"textLines":1,"bbox":[52,32,520,22]}
-{"kind":"textbox","id":"sh/l0rqd4vm","slide":11,"name":"brand-domain","text":"HumanConversation.com","textPreview":"HumanConversation.com","textChars":21,"textLines":1,"bbox":[1002,34,226,24]}
-{"kind":"textbox","id":"sh/wfyxobm5","slide":11,"name":"title","text":"Every return makes the graph smarter.","textPreview":"Every return makes the graph smarter.","textChars":37,"textLines":1,"bbox":[52,104,700,250]}
-{"kind":"textbox","id":"sh/7u54zido","slide":11,"name":"subtitle","text":"The core action is the human call. Each answer improves the next invite; each return teaches the system who else needs a conversation.","textPreview":"The core action is the human call. Each answer improves the next invite; each return teaches the system who else needs a conversation.","textChars":134,"textLines":1,"bbox":[56,388,700,112]}
-{"kind":"shape","id":"sh/ed8bat47","slide":11,"name":"chip-Call learns","bbox":[56,540,160,42]}
-{"kind":"textbox","id":"sh/psfil0rq","slide":11,"name":"chip-text-Call learns","text":"Call learns","textPreview":"Call learns","textChars":11,"textLines":1,"bbox":[72,549,128,24]}
-{"kind":"shape","id":"sh/w7mp0bi9","slide":11,"name":"chip-Invite improves","bbox":[234,540,214,42]}
-{"kind":"textbox","id":"sh/eloj2t83","slide":11,"name":"chip-text-Invite improves","text":"Invite improves","textPreview":"Invite improves","textChars":15,"textLines":1,"bbox":[250,549,182,24]}
-{"kind":"shape","id":"sh/36hcrmhk","slide":11,"name":"chip-Return teaches","bbox":[466,540,214,42]}
-{"kind":"textbox","id":"sh/wra5gbq1","slide":11,"name":"chip-text-Return teaches","text":"Return teaches","textPreview":"Return teaches","textChars":14,"textLines":1,"bbox":[482,549,182,24]}
-{"kind":"textbox","id":"sh/lc7u54zi","slide":11,"name":"slide-number","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[52,656,50,24]}
-{"kind":"image","id":"im/donyd0z6","slide":11,"name":"","alt":"background","bbox":[0,0,1280,720]}
-{"kind":"notes","id":"nt/axavg9","slide":11,"text":""}
-{"kind":"slide","id":"sl/5pa7nk","slide":12,"title":"EXPANSION","textShapes":11}
-{"kind":"shape","id":"sh/judg7ads","slide":12,"name":"image-wash","bbox":[0,0,1280,720]}
-{"kind":"textbox","id":"sh/u9knih4b","slide":12,"name":"eyebrow","text":"EXPANSION","textPreview":"EXPANSION","textChars":9,"textLines":1,"bbox":[52,32,520,22]}
-{"kind":"textbox","id":"sh/1orytsvu","slide":12,"name":"brand-domain","text":"HumanConversation.com","textPreview":"HumanConversation.com","textChars":21,"textLines":1,"bbox":[1002,34,226,24]}
-{"kind":"textbox","id":"sh/c7u54zid","slide":12,"name":"title","text":"Each community makes the next one easier to activate.","textPreview":"Each community makes the next one easier to activate.","textChars":53,"textLines":1,"bbox":[52,100,820,250]}
-{"kind":"textbox","id":"sh/jm1cfa9w","slide":12,"name":"subtitle","text":"Start where the loop repeats weekly. Then reuse what it learns about hosts, trust, follow-up, and return.","textPreview":"Start where the loop repeats weekly. Then reuse what it learns about hosts, trust, follow-up, and return.","textChars":105,"textLines":1,"bbox":[56,374,700,112]}
-{"kind":"shape","id":"sh/u18jqh0f","slide":12,"name":"chip-Pickleball clubs","bbox":[74,516,178,42]}
-{"kind":"textbox","id":"sh/5gbq1ory","slide":12,"name":"chip-text-Pickleball clubs","text":"Pickleball clubs","textPreview":"Pickleball clubs","textChars":16,"textLines":1,"bbox":[90,525,146,24]}
-{"kind":"shape","id":"sh/cvixczed","slide":12,"name":"chip-Fitness studios","bbox":[270,516,210,42]}
-{"kind":"textbox","id":"sh/m1cfa9w3","slide":12,"name":"chip-text-Fitness studios","text":"Fitness studios","textPreview":"Fitness studios","textChars":15,"textLines":1,"bbox":[286,525,178,24]}
-{"kind":"shape","id":"sh/bm58z25k","slide":12,"name":"chip-Coworking","bbox":[498,516,178,42]}
-{"kind":"textbox","id":"sh/47y1kre1","slide":12,"name":"chip-text-Coworking","text":"Coworking","textPreview":"Coworking","textChars":9,"textLines":1,"bbox":[514,525,146,24]}
-{"kind":"shape","id":"sh/tsvu9kni","slide":12,"name":"chip-Faith communities","bbox":[74,574,210,42]}
-{"kind":"textbox","id":"sh/mp0bi9s3","slide":12,"name":"chip-text-Faith communities","text":"Faith communities","textPreview":"Faith communities","textChars":17,"textLines":1,"bbox":[90,583,178,24]}
-{"kind":"shape","id":"sh/bat47y1k","slide":12,"name":"chip-Alumni groups","bbox":[302,574,178,42]}
-{"kind":"textbox","id":"sh/4vmtwra5","slide":12,"name":"chip-text-Alumni groups","text":"Alumni groups","textPreview":"Alumni groups","textChars":13,"textLines":1,"bbox":[318,583,146,24]}
-{"kind":"shape","id":"sh/tgfmlkjm","slide":12,"name":"chip-Local events","bbox":[498,574,210,42]}
-{"kind":"textbox","id":"sh/mhk3q5o7","slide":12,"name":"chip-text-Local events","text":"Local events","textPreview":"Local events","textChars":12,"textLines":1,"bbox":[514,583,178,24]}
-{"kind":"textbox","id":"sh/b2hwfyxo","slide":12,"name":"slide-number","text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[52,656,50,24]}
-{"kind":"image","id":"im/hk3q5o7q","slide":12,"name":"","alt":"background","bbox":[0,0,1280,720]}
-{"kind":"notes","id":"nt/5pa7nk","slide":12,"text":""}
-{"kind":"slide","id":"sl/4le4m3","slide":13,"title":"BUSINESS MODEL","textShapes":10}
-{"kind":"shape","id":"sh/ahoza1gv","slide":13,"name":"image-wash","bbox":[0,0,1280,720]}
-{"kind":"textbox","id":"sh/32lszqtc","slide":13,"name":"eyebrow","text":"BUSINESS MODEL","textPreview":"BUSINESS MODEL","textChars":14,"textLines":1,"bbox":[52,32,520,22]}
-{"kind":"textbox","id":"sh/szqtcj6t","slide":13,"name":"brand-domain","text":"HumanConversation.com","textPreview":"HumanConversation.com","textChars":21,"textLines":1,"bbox":[1002,34,226,24]}
-{"kind":"textbox","id":"sh/lkjm1cfa","slide":13,"name":"title","text":"Run the loop by hand. Productize what repeats.","textPreview":"Run the loop by hand. Productize what repeats.","textChars":46,"textLines":1,"bbox":[52,98,820,250]}
-{"kind":"shape","id":"sh/at47y1kr","slide":13,"name":"model-Concierge","bbox":[74,430,340,150]}
-{"kind":"shape","id":"sh/3ex0nuxc","slide":13,"name":"model-rule-Concierge","bbox":[74,430,340,6]}
-{"kind":"textbox","id":"sh/w3m94fu1","slide":13,"name":"model-head-Concierge","text":"Concierge","textPreview":"Concierge","textChars":9,"textLines":1,"bbox":[98,462,290,30]}
-{"kind":"textbox","id":"sh/loj2t83i","slide":13,"name":"model-body-Concierge","text":"Do the calls that bring members back.","textPreview":"Do the calls that bring members back.","textChars":37,"textLines":1,"bbox":[98,506,290,42]}
-{"kind":"shape","id":"sh/9knih4by","slide":13,"name":"model-Learning loop","bbox":[464,430,340,150]}
-{"kind":"shape","id":"sh/kzupwb2h","slide":13,"name":"model-rule-Learning loop","bbox":[464,430,340,6]}
-{"kind":"textbox","id":"sh/re1w7mp0","slide":13,"name":"model-head-Learning loop","text":"Learning loop","textPreview":"Learning loop","textChars":13,"textLines":1,"bbox":[488,462,290,30]}
-{"kind":"textbox","id":"sh/2t83itgf","slide":13,"name":"model-body-Learning loop","text":"Track fills, returns, adoption, and follow-through.","textPreview":"Track fills, returns, adoption, and follow-through.","textChars":51,"textLines":1,"bbox":[488,506,290,42]}
-{"kind":"shape","id":"sh/9w3m94fu","slide":13,"name":"model-Software","bbox":[854,430,340,150]}
-{"kind":"shape","id":"sh/kb6xkf6d","slide":13,"name":"model-rule-Software","bbox":[854,430,340,6]}
-{"kind":"textbox","id":"sh/rqd4vmtw","slide":13,"name":"model-head-Software","text":"Software","textPreview":"Software","textChars":8,"textLines":1,"bbox":[878,462,290,30]}
-{"kind":"textbox","id":"sh/25kb6xkf","slide":13,"name":"model-body-Software","text":"Sell the sales engine inside the workflow.","textPreview":"Sell the sales engine inside the workflow.","textChars":42,"textLines":1,"bbox":[878,506,290,42]}
-{"kind":"textbox","id":"sh/94fu18jq","slide":13,"name":"slide-number","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[52,656,50,24]}
-{"kind":"image","id":"im/8jqh0fep","slide":13,"name":"","alt":"background","bbox":[0,0,1280,720]}
-{"kind":"notes","id":"nt/4le4m3","slide":13,"text":""}
-{"kind":"slide","id":"sl/etg8ob","slide":14,"title":"FOUNDER-MARKET FIT","textShapes":10}
-{"kind":"shape","id":"sh/wjudg7ad","slide":14,"name":"image-wash","bbox":[0,0,1280,720]}
-{"kind":"textbox","id":"sh/p4r65wju","slide":14,"name":"eyebrow","text":"FOUNDER-MARKET FIT","textPreview":"FOUNDER-MARKET FIT","textChars":18,"textLines":1,"bbox":[52,32,520,22]}
-{"kind":"textbox","id":"sh/i5sneloj","slide":14,"name":"brand-domain","text":"HumanConversation.com","textPreview":"HumanConversation.com","textChars":21,"textLines":1,"bbox":[1002,34,226,24]}
-{"kind":"textbox","id":"sh/7qpg3ex0","slide":14,"name":"title","text":"We live inside the problem before we sell the software.","textPreview":"We live inside the problem before we sell the software.","textChars":55,"textLines":1,"bbox":[52,98,760,250]}
-{"kind":"shape","id":"sh/0bi9s36h","slide":14,"name":"team-Dave","bbox":[74,430,340,150]}
-{"kind":"shape","id":"sh/pwb2hwfy","slide":14,"name":"team-rule-Dave","bbox":[74,430,340,6]}
-{"kind":"textbox","id":"sh/itgfmlkj","slide":14,"name":"team-head-Dave","text":"Dave","textPreview":"Dave","textChars":4,"textLines":1,"bbox":[98,462,290,30]}
-{"kind":"textbox","id":"sh/7ed8bat4","slide":14,"name":"team-body-Dave","text":"Sees the missed return and hears the real reason.","textPreview":"Sees the missed return and hears the real reason.","textChars":49,"textLines":1,"bbox":[98,506,290,42]}
-{"kind":"shape","id":"sh/r2p8nqxs","slide":14,"name":"team-Steve","bbox":[464,430,340,150]}
-{"kind":"shape","id":"sh/2hwfyxob","slide":14,"name":"team-rule-Steve","bbox":[464,430,340,6]}
-{"kind":"textbox","id":"sh/94fu18jq","slide":14,"name":"team-head-Steve","text":"Steve","textPreview":"Steve","textChars":5,"textLines":1,"bbox":[488,462,290,30]}
-{"kind":"textbox","id":"sh/kjm1cfa9","slide":14,"name":"team-body-Steve","text":"Turns daily judgment into the product loop.","textPreview":"Turns daily judgment into the product loop.","textChars":43,"textLines":1,"bbox":[488,506,290,42]}
-{"kind":"shape","id":"sh/ra5gbq1o","slide":14,"name":"team-NEPC","bbox":[854,430,340,150]}
-{"kind":"shape","id":"sh/2p8nqxs7","slide":14,"name":"team-rule-NEPC","bbox":[854,430,340,6]}
-{"kind":"textbox","id":"sh/9gr2p8nq","slide":14,"name":"team-head-NEPC","text":"NEPC","textPreview":"NEPC","textChars":4,"textLines":1,"bbox":[878,462,290,30]}
-{"kind":"textbox","id":"sh/gvy90je9","slide":14,"name":"team-body-NEPC","text":"Live lab where every week tests the loop.","textPreview":"Live lab where every week tests the loop.","textChars":41,"textLines":1,"bbox":[878,506,290,42]}
-{"kind":"textbox","id":"sh/re1w7mp0","slide":14,"name":"slide-number","text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[52,656,50,24]}
-{"kind":"image","id":"im/idonyd0z","slide":14,"name":"","alt":"background","bbox":[0,0,1280,720]}
-{"kind":"notes","id":"nt/etg8ob","slide":14,"text":""}
-{"kind":"slide","id":"sl/eutq39","slide":15,"title":"SEED ROUND","textShapes":12}
-{"kind":"shape","id":"sh/q1orytsv","slide":15,"name":"image-wash","bbox":[0,0,1280,720]}
-{"kind":"textbox","id":"sh/fmlkjm1c","slide":15,"name":"eyebrow","text":"SEED ROUND","textPreview":"SEED ROUND","textChars":10,"textLines":1,"bbox":[52,32,520,22]}
-{"kind":"textbox","id":"sh/8z25kb6x","slide":15,"name":"brand-domain","text":"HumanConversation.com","textPreview":"HumanConversation.com","textChars":21,"textLines":1,"bbox":[1002,34,226,24]}
-{"kind":"textbox","id":"sh/1gvy90je","slide":15,"name":"title","text":"Back the operating system for real-world social communities.","textPreview":"Back the operating system for real-world social communities.","textChars":60,"textLines":1,"bbox":[52,104,820,250]}
-{"kind":"textbox","id":"sh/qtcj6tov","slide":15,"name":"subtitle","text":"The seed round tests one question: does the loop repeat fast enough to become software?","textPreview":"The seed round tests one question: does the loop repeat fast enough to become software?","textChars":87,"textLines":1,"bbox":[56,386,760,112]}
-{"kind":"shape","id":"sh/je9cvixc","slide":15,"name":"seed-card-Return proof","bbox":[82,514,258,116]}
-{"kind":"shape","id":"sh/8v6psfil","slide":15,"name":"seed-card-rule-Return proof","bbox":[82,514,258,6]}
-{"kind":"textbox","id":"sh/xczed8v6","slide":15,"name":"seed-card-head-Return proof","text":"Return proof","textPreview":"Return proof","textChars":12,"textLines":1,"bbox":[104,540,206,28]}
-{"kind":"textbox","id":"sh/donyd0z6","slide":15,"name":"seed-card-body-Return proof","text":"Do conversations bring the right people back?","textPreview":"Do conversations bring the right people back?","textChars":45,"textLines":1,"bbox":[104,578,208,40]}
-{"kind":"shape","id":"sh/k3q5o7qp","slide":15,"name":"seed-card-Product proof","bbox":[368,514,258,116]}
-{"kind":"shape","id":"sh/vixczed8","slide":15,"name":"seed-card-rule-Product proof","bbox":[368,514,258,6]}
-{"kind":"textbox","id":"sh/2x4nap4r","slide":15,"name":"seed-card-head-Product proof","text":"Product proof","textPreview":"Product proof","textChars":13,"textLines":1,"bbox":[390,540,206,28]}
-{"kind":"textbox","id":"sh/dcbulwva","slide":15,"name":"seed-card-body-Product proof","text":"Can judgment become repeatable recommendations?","textPreview":"Can judgment become repeatable recommendations?","textChars":47,"textLines":1,"bbox":[390,578,208,40]}
-{"kind":"shape","id":"sh/kre1w7mp","slide":15,"name":"seed-card-Expansion proof","bbox":[654,514,258,116]}
-{"kind":"shape","id":"sh/val87ed8","slide":15,"name":"seed-card-rule-Expansion proof","bbox":[654,514,258,6]}
-{"kind":"textbox","id":"sh/6psfil0r","slide":15,"name":"seed-card-head-Expansion proof","text":"Expansion proof","textPreview":"Expansion proof","textChars":15,"textLines":1,"bbox":[676,540,206,28]}
-{"kind":"textbox","id":"sh/d8bat47y","slide":15,"name":"seed-card-body-Expansion proof","text":"Can the playbook travel beyond NEPC?","textPreview":"Can the playbook travel beyond NEPC?","textChars":36,"textLines":1,"bbox":[676,578,208,40]}
-{"kind":"textbox","id":"sh/knih4byh","slide":15,"name":"seed-note","text":"If the answer is yes, every conversation teaches the next community what to do.","textPreview":"If the answer is yes, every conversation teaches the next community what to do.","textChars":79,"textLines":1,"bbox":[82,652,900,26]}
-{"kind":"textbox","id":"sh/wjudg7ad","slide":15,"name":"slide-number","text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[52,656,50,24]}
-{"kind":"image","id":"im/o7qpg3ex","slide":15,"name":"","alt":"background","bbox":[0,0,1280,720]}
-{"kind":"notes","id":"nt/eutq39","slide":15,"text":""}
+{"kind":"deck","id":"pr/so4fq8","name":"Deck"}
+{"kind":"layout","layoutId":"e685c14d-26e6-463a-9beb-669a39cb62f9","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"24debf46-8bc9-4f33-be2e-1496a3901684","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/dpnk7m","slide":1,"title":"SEED DECK","textShapes":10}
+{"kind":"shape","id":"sh/sfil0rqd","slide":1,"name":"image-wash","bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/h0fepkzu","slide":1,"name":"eyebrow","text":"SEED DECK","textPreview":"SEED DECK","textChars":9,"textLines":1,"bbox":[52,32,520,22]}
+{"kind":"textbox","id":"sh/al87ed8b","slide":1,"name":"brand-domain","text":"HumanConversation.com","textPreview":"HumanConversation.com","textChars":21,"textLines":1,"bbox":[1002,34,226,24]}
+{"kind":"textbox","id":"sh/z61032ls","slide":1,"name":"title","text":"Human conversation is the operating system for real-world social communities.","textPreview":"Human conversation is the operating system for real-world social communities.","textChars":77,"textLines":1,"bbox":[52,96,730,250]}
+{"kind":"textbox","id":"sh/orytsvu9","slide":1,"name":"subtitle","text":"The sales engine that gives community builders the next person, context, and action.","textPreview":"The sales engine that gives community builders the next person, context, and action.","textChars":84,"textLines":1,"bbox":[56,414,700,112]}
+{"kind":"shape","id":"sh/hcrmhk3q","slide":1,"name":"chip-Person","bbox":[56,548,142,42]}
+{"kind":"textbox","id":"sh/6xkf6dcb","slide":1,"name":"chip-text-Person","text":"Person","textPreview":"Person","textChars":6,"textLines":1,"bbox":[72,557,110,24]}
+{"kind":"shape","id":"sh/zed8v6ps","slide":1,"name":"chip-Context","bbox":[216,548,154,42]}
+{"kind":"textbox","id":"sh/n29gr2p8","slide":1,"name":"chip-text-Context","text":"Context","textPreview":"Context","textChars":7,"textLines":1,"bbox":[232,557,122,24]}
+{"kind":"shape","id":"sh/yhgn29gr","slide":1,"name":"chip-Action","bbox":[388,548,138,42]}
+{"kind":"textbox","id":"sh/58z25kb6","slide":1,"name":"chip-text-Action","text":"Action","textPreview":"Action","textChars":6,"textLines":1,"bbox":[404,557,106,24]}
+{"kind":"shape","id":"sh/gn29gr2p","slide":1,"name":"chip-Return","bbox":[544,548,138,42]}
+{"kind":"textbox","id":"sh/nuxc3ylc","slide":1,"name":"chip-text-Return","text":"Return","textPreview":"Return","textChars":6,"textLines":1,"bbox":[560,557,106,24]}
+{"kind":"textbox","id":"sh/y90je9cv","slide":1,"name":"title-context","text":"Formerly Give n Take. Same live lab. Sharper category.","textPreview":"Formerly Give n Take. Same live lab. Sharper category.","textChars":54,"textLines":1,"bbox":[56,606,620,24]}
+{"kind":"textbox","id":"sh/5wjudg7a","slide":1,"name":"slide-number","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[52,656,50,24]}
+{"kind":"image","id":"im/mhk3q5o7","slide":1,"name":"","alt":"background","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/dpnk7m","slide":1,"text":""}
+{"kind":"slide","id":"sl/4atvuh","slide":2,"title":"THE SNAPBACK","textShapes":5}
+{"kind":"shape","id":"sh/tovahoza","slide":2,"name":"image-wash","bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/032lszqt","slide":2,"name":"eyebrow","text":"THE SNAPBACK","textPreview":"THE SNAPBACK","textChars":12,"textLines":1,"bbox":[52,32,520,22]}
+{"kind":"textbox","id":"sh/bulwval8","slide":2,"name":"brand-domain","text":"HumanConversation.com","textPreview":"HumanConversation.com","textChars":21,"textLines":1,"bbox":[1002,34,226,24]}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":2,"name":"title","text":"Technology got between us. Human conversation brings us back.","textPreview":"Technology got between us. Human conversation brings us back.","textChars":61,"textLines":1,"bbox":[52,126,700,250]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":2,"name":"subtitle","text":"AI moves the computer work into the background so communities can bring the right people back into the room.","textPreview":"AI moves the computer work into the background so communities can bring the right people back into the room.","textChars":108,"textLines":1,"bbox":[56,416,670,112]}
+{"kind":"textbox","id":"sh/0fepkzup","slide":2,"name":"slide-number","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[52,656,50,24]}
+{"kind":"image","id":"im/3ex0nuxc","slide":2,"name":"","alt":"background","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/4atvuh","slide":2,"text":""}
+{"kind":"slide","id":"sl/cvokdp","slide":3,"title":"THE INSIGHT","textShapes":5}
+{"kind":"shape","id":"sh/oj2t83it","slide":3,"name":"image-wash","bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":3,"name":"eyebrow","text":"THE INSIGHT","textPreview":"THE INSIGHT","textChars":11,"textLines":1,"bbox":[52,32,520,22]}
+{"kind":"textbox","id":"sh/61032lsz","slide":3,"name":"brand-domain","text":"HumanConversation.com","textPreview":"HumanConversation.com","textChars":21,"textLines":1,"bbox":[1002,34,226,24]}
+{"kind":"textbox","id":"sh/vmtwra5g","slide":3,"name":"title","text":"The signal is already in the call.","textPreview":"The signal is already in the call.","textChars":34,"textLines":1,"bbox":[52,134,760,250]}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":3,"name":"subtitle","text":"Tone, pauses, warmth, hesitation, disconnection, trust: one call shows who needs a conversation.","textPreview":"Tone, pauses, warmth, hesitation, disconnection, trust: one call shows who needs a conversation.","textChars":96,"textLines":1,"bbox":[56,402,640,112]}
+{"kind":"textbox","id":"sh/dsji5sne","slide":3,"name":"slide-number","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[52,656,50,24]}
+{"kind":"image","id":"im/e9cvixcz","slide":3,"name":"","alt":"background","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/cvokdp","slide":3,"text":""}
+{"kind":"slide","id":"sl/ab0lkm","slide":4,"title":"CATEGORY THESIS","textShapes":10}
+{"kind":"shape","id":"sh/wjudg7ad","slide":4,"name":"image-wash","bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/p4r65wju","slide":4,"name":"eyebrow","text":"CATEGORY THESIS","textPreview":"CATEGORY THESIS","textChars":15,"textLines":1,"bbox":[52,32,520,22]}
+{"kind":"textbox","id":"sh/i5sneloj","slide":4,"name":"brand-domain","text":"HumanConversation.com","textPreview":"HumanConversation.com","textChars":21,"textLines":1,"bbox":[1002,34,226,24]}
+{"kind":"textbox","id":"sh/7qpg3ex0","slide":4,"name":"title","text":"The market is moving beyond feeds.","textPreview":"The market is moving beyond feeds.","textChars":34,"textLines":1,"bbox":[52,104,820,250]}
+{"kind":"textbox","id":"sh/0bi9s36h","slide":4,"name":"category-answer","text":"Right people. Right room. Right conversation.","textPreview":"Right people. Right room. Right conversation.","textChars":45,"textLines":1,"bbox":[56,308,820,76]}
+{"kind":"textbox","id":"sh/pwb2hwfy","slide":4,"name":"subtitle","text":"AI moves coordination into the background; the visible product is the right person, room, and conversation.","textPreview":"AI moves coordination into the background; the visible product is the right person, room, and conversation.","textChars":107,"textLines":1,"bbox":[56,410,700,112]}
+{"kind":"shape","id":"sh/itgfmlkj","slide":4,"name":"chip-Person","bbox":[56,550,142,42]}
+{"kind":"textbox","id":"sh/7ed8bat4","slide":4,"name":"chip-text-Person","text":"Person","textPreview":"Person","textChars":6,"textLines":1,"bbox":[72,559,110,24]}
+{"kind":"shape","id":"sh/r2p8nqxs","slide":4,"name":"chip-Context","bbox":[216,550,164,42]}
+{"kind":"textbox","id":"sh/2hwfyxob","slide":4,"name":"chip-text-Context","text":"Context","textPreview":"Context","textChars":7,"textLines":1,"bbox":[232,559,132,24]}
+{"kind":"shape","id":"sh/94fu18jq","slide":4,"name":"chip-Action","bbox":[398,550,140,42]}
+{"kind":"textbox","id":"sh/kjm1cfa9","slide":4,"name":"chip-text-Action","text":"Action","textPreview":"Action","textChars":6,"textLines":1,"bbox":[414,559,108,24]}
+{"kind":"shape","id":"sh/ra5gbq1o","slide":4,"name":"chip-Return","bbox":[556,550,144,42]}
+{"kind":"textbox","id":"sh/2p8nqxs7","slide":4,"name":"chip-text-Return","text":"Return","textPreview":"Return","textChars":6,"textLines":1,"bbox":[572,559,112,24]}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":4,"name":"slide-number","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[52,656,50,24]}
+{"kind":"image","id":"im/ixczed8v","slide":4,"name":"","alt":"background","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/ab0lkm","slide":4,"text":""}
+{"kind":"slide","id":"sl/e81l9z","slide":5,"title":"LIVE WEDGE","textShapes":13}
+{"kind":"shape","id":"sh/wra5gbq1","slide":5,"name":"image-wash","bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":5,"name":"eyebrow","text":"LIVE WEDGE","textPreview":"LIVE WEDGE","textChars":10,"textLines":1,"bbox":[52,32,520,22]}
+{"kind":"textbox","id":"sh/ed8bat47","slide":5,"name":"brand-domain","text":"HumanConversation.com","textPreview":"HumanConversation.com","textChars":21,"textLines":1,"bbox":[1002,34,226,24]}
+{"kind":"textbox","id":"sh/7u54zido","slide":5,"name":"title","text":"Start with the person who almost came back.","textPreview":"Start with the person who almost came back.","textChars":43,"textLines":1,"bbox":[52,108,820,250]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":5,"name":"subtitle","text":"AI spots the drift. A human call learns why. The next action becomes an invite, intro, group, or leader path.","textPreview":"AI spots the drift. A human call learns why. The next action becomes an invite, intro, group, or leader path.","textChars":109,"textLines":1,"bbox":[56,370,740,112]}
+{"kind":"shape","id":"sh/l0rqd4vm","slide":5,"name":"wedge-Spot","bbox":[72,522,250,94]}
+{"kind":"textbox","id":"sh/e1w7mp0b","slide":5,"name":"wedge-head-Spot","text":"Spot","textPreview":"Spot","textChars":4,"textLines":1,"bbox":[90,540,210,28]}
+{"kind":"textbox","id":"sh/7mp0bi9s","slide":5,"name":"wedge-body-Spot","text":"Came once, then disappeared.","textPreview":"Came once, then disappeared.","textChars":28,"textLines":1,"bbox":[90,570,210,34]}
+{"kind":"shape","id":"sh/zed8v6ps","slide":5,"name":"wedge-Call","bbox":[342,522,250,94]}
+{"kind":"textbox","id":"sh/6xkf6dcb","slide":5,"name":"wedge-head-Call","text":"Call","textPreview":"Call","textChars":4,"textLines":1,"bbox":[360,540,210,28]}
+{"kind":"textbox","id":"sh/hk3q5o7q","slide":5,"name":"wedge-body-Call","text":"Learn schedule, confidence, fit.","textPreview":"Learn schedule, confidence, fit.","textChars":32,"textLines":1,"bbox":[360,570,210,34]}
+{"kind":"shape","id":"sh/oza1gvy9","slide":5,"name":"wedge-Act","bbox":[612,522,250,94]}
+{"kind":"textbox","id":"sh/zqtcj6to","slide":5,"name":"wedge-head-Act","text":"Act","textPreview":"Act","textChars":3,"textLines":1,"bbox":[630,540,210,28]}
+{"kind":"textbox","id":"sh/65wjudg7","slide":5,"name":"wedge-body-Act","text":"Invite, intro, group, or leader path.","textPreview":"Invite, intro, group, or leader path.","textChars":37,"textLines":1,"bbox":[630,570,210,34]}
+{"kind":"shape","id":"sh/hwfyxobm","slide":5,"name":"wedge-Learn","bbox":[882,522,250,94]}
+{"kind":"textbox","id":"sh/obm58z25","slide":5,"name":"wedge-head-Learn","text":"Learn","textPreview":"Learn","textChars":5,"textLines":1,"bbox":[900,540,210,28]}
+{"kind":"textbox","id":"sh/zupwb2hw","slide":5,"name":"wedge-body-Learn","text":"Outcome improves the next move.","textPreview":"Outcome improves the next move.","textChars":31,"textLines":1,"bbox":[900,570,210,34]}
+{"kind":"textbox","id":"sh/a9w3m94f","slide":5,"name":"slide-number","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[52,656,50,24]}
+{"kind":"image","id":"im/ixczed8v","slide":5,"name":"","alt":"background","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/e81l9z","slide":5,"text":""}
+{"kind":"slide","id":"sl/oqvx4b","slide":6,"title":"PRODUCT LOOP","textShapes":17}
+{"kind":"textbox","id":"sh/mp0bi9s3","slide":6,"name":"eyebrow","text":"PRODUCT LOOP","textPreview":"PRODUCT LOOP","textChars":12,"textLines":1,"bbox":[52,32,520,22]}
+{"kind":"textbox","id":"sh/tgfmlkjm","slide":6,"name":"brand-domain","text":"HumanConversation.com","textPreview":"HumanConversation.com","textChars":21,"textLines":1,"bbox":[1002,34,226,24]}
+{"kind":"textbox","id":"sh/4vmtwra5","slide":6,"name":"title","text":"The product is one simple loop.","textPreview":"The product is one simple loop.","textChars":31,"textLines":1,"bbox":[52,82,760,250]}
+{"kind":"shape","id":"sh/bm58z25k","slide":6,"name":"loop-01","bbox":[74,312,260,236]}
+{"kind":"textbox","id":"sh/m1cfa9w3","slide":6,"name":"loop-num-01","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[98,330,64,34]}
+{"kind":"textbox","id":"sh/tsvu9kni","slide":6,"name":"loop-head-01","text":"Find","textPreview":"Find","textChars":4,"textLines":1,"bbox":[98,386,208,38]}
+{"kind":"textbox","id":"sh/47y1kre1","slide":6,"name":"loop-body-01","text":"Who needs a conversation?","textPreview":"Who needs a conversation?","textChars":25,"textLines":1,"bbox":[98,444,205,82]}
+{"kind":"shape","id":"sh/bq1oryts","slide":6,"name":"loop-02","bbox":[366,312,260,236]}
+{"kind":"textbox","id":"sh/m58z25kb","slide":6,"name":"loop-num-02","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[390,330,64,34]}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":6,"name":"loop-head-02","text":"Ask","textPreview":"Ask","textChars":3,"textLines":1,"bbox":[390,386,208,38]}
+{"kind":"textbox","id":"sh/dsji5sne","slide":6,"name":"loop-body-02","text":"What should the caller ask?","textPreview":"What should the caller ask?","textChars":27,"textLines":1,"bbox":[390,444,205,82]}
+{"kind":"shape","id":"sh/61032lsz","slide":6,"name":"loop-03","bbox":[658,312,260,236]}
+{"kind":"textbox","id":"sh/vmtwra5g","slide":6,"name":"loop-num-03","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[682,330,64,34]}
+{"kind":"textbox","id":"sh/oj2t83it","slide":6,"name":"loop-head-03","text":"Act","textPreview":"Act","textChars":3,"textLines":1,"bbox":[682,386,208,38]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":6,"name":"loop-body-03","text":"What should happen next?","textPreview":"What should happen next?","textChars":24,"textLines":1,"bbox":[682,444,205,82]}
+{"kind":"shape","id":"sh/6dcbulwv","slide":6,"name":"loop-04","bbox":[950,312,260,236]}
+{"kind":"textbox","id":"sh/vy90je9c","slide":6,"name":"loop-num-04","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[974,330,64,34]}
+{"kind":"textbox","id":"sh/onyd0z61","slide":6,"name":"loop-head-04","text":"Learn","textPreview":"Learn","textChars":5,"textLines":1,"bbox":[974,386,208,38]}
+{"kind":"textbox","id":"sh/d8v6psfi","slide":6,"name":"loop-body-04","text":"What did the conversation change?","textPreview":"What did the conversation change?","textChars":33,"textLines":1,"bbox":[974,444,205,82]}
+{"kind":"textbox","id":"sh/1cfa9w3m","slide":6,"name":"loop-line","text":"The person talks. The software remembers, recommends, and follows through.","textPreview":"The person talks. The software remembers, recommends, and follows through.","textChars":74,"textLines":1,"bbox":[110,594,1060,34]}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":6,"name":"slide-number","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[52,656,50,24]}
+{"kind":"notes","id":"nt/oqvx4b","slide":6,"text":""}
+{"kind":"slide","id":"sl/sbb632","slide":7,"title":"HUMAN INTERFACE","textShapes":13}
+{"kind":"shape","id":"sh/hk3q5o7q","slide":7,"name":"image-wash","bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/oza1gvy9","slide":7,"name":"eyebrow","text":"HUMAN INTERFACE","textPreview":"HUMAN INTERFACE","textChars":15,"textLines":1,"bbox":[52,32,520,22]}
+{"kind":"textbox","id":"sh/zqtcj6to","slide":7,"name":"brand-domain","text":"HumanConversation.com","textPreview":"HumanConversation.com","textChars":21,"textLines":1,"bbox":[1002,34,226,24]}
+{"kind":"textbox","id":"sh/65wjudg7","slide":7,"name":"title","text":"The conversation updates the system.","textPreview":"The conversation updates the system.","textChars":36,"textLines":1,"bbox":[52,100,710,250]}
+{"kind":"textbox","id":"sh/hwfyxobm","slide":7,"name":"subtitle","text":"The staff member says the outcome. AI handles the computer work.","textPreview":"The staff member says the outcome. AI handles the computer work.","textChars":64,"textLines":1,"bbox":[56,330,620,112]}
+{"kind":"shape","id":"sh/obm58z25","slide":7,"name":"ai-panel","bbox":[786,136,390,424]}
+{"kind":"textbox","id":"sh/zupwb2hw","slide":7,"name":"ai-panel-title","text":"Human Conversation AI","textPreview":"Human Conversation AI","textChars":21,"textLines":1,"bbox":[812,160,230,28]}
+{"kind":"textbox","id":"sh/a9w3m94f","slide":7,"name":"ai-panel-status","text":"CONNECTED","textPreview":"CONNECTED","textChars":9,"textLines":1,"bbox":[1048,162,104,24]}
+{"kind":"shape","id":"sh/8bat47y1","slide":7,"name":"ai-card-Heard","bbox":[812,210,338,86]}
+{"kind":"textbox","id":"sh/1w7mp0bi","slide":7,"name":"ai-card-head-Heard","text":"Heard","textPreview":"Heard","textChars":5,"textLines":1,"bbox":[832,224,290,20]}
+{"kind":"textbox","id":"sh/q5o7qpg3","slide":7,"name":"ai-card-body-Heard","text":"Beginner class went well. Free Thursdays. Wants an easy first group.","textPreview":"Beginner class went well. Free Thursdays. Wants an easy first group.","textChars":68,"textLines":1,"bbox":[832,248,286,36]}
+{"kind":"shape","id":"sh/jqh0fepk","slide":7,"name":"ai-card-Staff says","bbox":[812,316,338,86]}
+{"kind":"textbox","id":"sh/8nqxs72x","slide":7,"name":"ai-card-head-Staff says","text":"Staff says","textPreview":"Staff says","textChars":10,"textLines":1,"bbox":[832,330,290,20]}
+{"kind":"textbox","id":"sh/18jqh0fe","slide":7,"name":"ai-card-body-Staff says","text":"Add to Thursday beginner social.","textPreview":"Add to Thursday beginner social.","textChars":32,"textLines":1,"bbox":[832,354,286,36]}
+{"kind":"shape","id":"sh/qh0fepkz","slide":7,"name":"ai-card-AI","bbox":[812,422,338,86]}
+{"kind":"textbox","id":"sh/j2t83itg","slide":7,"name":"ai-card-head-AI","text":"AI","textPreview":"AI","textChars":2,"textLines":1,"bbox":[832,436,290,20]}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":7,"name":"ai-card-body-AI","text":"Done. Invite queued. Memory saved.","textPreview":"Done. Invite queued. Memory saved.","textChars":34,"textLines":1,"bbox":[832,460,286,36]}
+{"kind":"textbox","id":"sh/1cfa9w3m","slide":7,"name":"slide-number","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[52,656,50,24]}
+{"kind":"image","id":"im/fa9w3m94","slide":7,"name":"","alt":"background","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/sbb632","slide":7,"text":""}
+{"kind":"slide","id":"sl/pnxwpz","slide":8,"title":"NEPC LIVE LAB","textShapes":14}
+{"kind":"shape","id":"sh/yxobm58z","slide":8,"name":"image-wash","bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/nih4byhg","slide":8,"name":"eyebrow","text":"NEPC LIVE LAB","textPreview":"NEPC LIVE LAB","textChars":13,"textLines":1,"bbox":[52,32,520,22]}
+{"kind":"textbox","id":"sh/gr2p8nqx","slide":8,"name":"brand-domain","text":"HumanConversation.com","textPreview":"HumanConversation.com","textChars":21,"textLines":1,"bbox":[1002,34,226,24]}
+{"kind":"textbox","id":"sh/9cvixcze","slide":8,"name":"title","text":"The live lab turns execution risk into weekly proof.","textPreview":"The live lab turns execution risk into weekly proof.","textChars":52,"textLines":1,"bbox":[52,94,760,250]}
+{"kind":"textbox","id":"sh/ylc7u54z","slide":8,"name":"subtitle","text":"The hard part is loop speed: spot the opportunity, call the person, act, measure, correct.","textPreview":"The hard part is loop speed: spot the opportunity, call the person, act, measure, correct.","textChars":90,"textLines":1,"bbox":[56,344,720,112]}
+{"kind":"shape","id":"sh/r65wjudg","slide":8,"name":"stat-9,226","bbox":[70,478,250,118]}
+{"kind":"textbox","id":"sh/gfmlkjm1","slide":8,"name":"stat-value-9,226","text":"9,226","textPreview":"9,226","textChars":5,"textLines":1,"bbox":[88,496,214,44]}
+{"kind":"textbox","id":"sh/90je9cvi","slide":8,"name":"stat-label-9,226","text":"historical booking rows","textPreview":"historical booking rows","textChars":23,"textLines":1,"bbox":[88,546,214,34]}
+{"kind":"shape","id":"sh/lc7u54zi","slide":8,"name":"stat-1,273","bbox":[344,478,250,118]}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":8,"name":"stat-value-1,273","text":"1,273","textPreview":"1,273","textChars":5,"textLines":1,"bbox":[362,496,214,44]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":8,"name":"stat-label-1,273","text":"invite-linked court rows","textPreview":"invite-linked court rows","textChars":24,"textLines":1,"bbox":[362,546,214,34]}
+{"kind":"shape","id":"sh/eloj2t83","slide":8,"name":"stat-174","bbox":[618,478,250,118]}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":8,"name":"stat-value-174","text":"174","textPreview":"174","textChars":3,"textLines":1,"bbox":[636,496,214,44]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":8,"name":"stat-label-174","text":"average weekly bookings","textPreview":"average weekly bookings","textChars":23,"textLines":1,"bbox":[636,546,214,34]}
+{"kind":"shape","id":"sh/7u54zido","slide":8,"name":"stat-52-62%","bbox":[892,478,250,118]}
+{"kind":"textbox","id":"sh/ed8bat47","slide":8,"name":"stat-value-52-62%","text":"52-62%","textPreview":"52-62%","textChars":6,"textLines":1,"bbox":[910,496,214,44]}
+{"kind":"textbox","id":"sh/psfil0rq","slide":8,"name":"stat-label-52-62%","text":"observed soft-slot utilization","textPreview":"observed soft-slot utilization","textChars":30,"textLines":1,"bbox":[910,546,214,34]}
+{"kind":"textbox","id":"sh/w7mp0bi9","slide":8,"name":"source-note","text":"Source: anonymized aggregate CourtReserve exports, 2025 Middleton/Rye booking and utilization rows; no member-level data shown.","textPreview":"Source: anonymized aggregate CourtReserve exports, 2025 Middleton/Rye booking and utilization rows; no member-level data shown.","textChars":127,"textLines":1,"bbox":[150,656,928,24]}
+{"kind":"textbox","id":"sh/wb2hwfyx","slide":8,"name":"slide-number","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[52,656,50,24]}
+{"kind":"image","id":"im/wjudg7ad","slide":8,"name":"","alt":"background","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/pnxwpz","slide":8,"text":""}
+{"kind":"slide","id":"sl/8em5yu","slide":9,"title":"MODELED IMPACT","textShapes":14}
+{"kind":"textbox","id":"sh/f6dcbulw","slide":9,"name":"eyebrow","text":"MODELED IMPACT","textPreview":"MODELED IMPACT","textChars":14,"textLines":1,"bbox":[52,32,520,22]}
+{"kind":"textbox","id":"sh/4r65wjud","slide":9,"name":"brand-domain","text":"HumanConversation.com","textPreview":"HumanConversation.com","textChars":21,"textLines":1,"bbox":[1002,34,226,24]}
+{"kind":"textbox","id":"sh/xc3ylc7u","slide":9,"name":"title","text":"The budget is unused court time and missed returns.","textPreview":"The budget is unused court time and missed returns.","textChars":51,"textLines":1,"bbox":[52,82,820,250]}
+{"kind":"shape","id":"sh/mtwra5gb","slide":9,"name":"impact-band","bbox":[74,294,1132,262]}
+{"kind":"shape","id":"sh/fepkzupw","slide":9,"name":"stat-55% to 80%","bbox":[108,330,250,118]}
+{"kind":"textbox","id":"sh/4zidonyd","slide":9,"name":"stat-value-55% to 80%","text":"55% to 80%","textPreview":"55% to 80%","textChars":10,"textLines":1,"bbox":[126,348,214,44]}
+{"kind":"textbox","id":"sh/xkf6dcbu","slide":9,"name":"stat-label-55% to 80%","text":"planning utilization target","textPreview":"planning utilization target","textChars":27,"textLines":1,"bbox":[126,398,214,34]}
+{"kind":"shape","id":"sh/qxs72x4n","slide":9,"name":"stat-$10K","bbox":[386,330,250,118]}
+{"kind":"textbox","id":"sh/fil0rqd4","slide":9,"name":"stat-value-$10K","text":"$10K","textPreview":"$10K","textChars":4,"textLines":1,"bbox":[404,348,214,44]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":9,"name":"stat-label-$10K","text":"planning value per utilization point","textPreview":"planning value per utilization point","textChars":36,"textLines":1,"bbox":[404,398,214,34]}
+{"kind":"shape","id":"sh/mtwra5gb","slide":9,"name":"stat-$500K","bbox":[664,330,250,118]}
+{"kind":"textbox","id":"sh/xkf6dcbu","slide":9,"name":"stat-value-$500K","text":"$500K","textPreview":"$500K","textChars":5,"textLines":1,"bbox":[682,348,214,44]}
+{"kind":"textbox","id":"sh/4zidonyd","slide":9,"name":"stat-label-$500K","text":"modeled annual same-court upside","textPreview":"modeled annual same-court upside","textChars":32,"textLines":1,"bbox":[682,398,214,34]}
+{"kind":"shape","id":"sh/f6dcbulw","slide":9,"name":"stat-$764K","bbox":[942,330,230,118]}
+{"kind":"textbox","id":"sh/mlkjm1cf","slide":9,"name":"stat-value-$764K","text":"$764K","textPreview":"$764K","textChars":5,"textLines":1,"bbox":[960,348,194,44]}
+{"kind":"textbox","id":"sh/xc3ylc7u","slide":9,"name":"stat-label-$764K","text":"modeled net-profit target after cost","textPreview":"modeled net-profit target after cost","textChars":36,"textLines":1,"bbox":[960,398,194,34]}
+{"kind":"textbox","id":"sh/4r65wjud","slide":9,"name":"impact-caveat","text":"Buyer proof target: show the loop lifts utilization, returns, margin, and staff time before scaling beyond the first club.","textPreview":"Buyer proof target: show the loop lifts utilization, returns, margin, and staff time before scaling beyond the first club.","textChars":122,"textLines":1,"bbox":[128,596,1024,42]}
+{"kind":"textbox","id":"sh/fu18jqh0","slide":9,"name":"source-note","text":"Source: NEPC 55% -> 80% Court Utilization Business Plan, prepared 2026-06-30.","textPreview":"Source: NEPC 55% -> 80% Court Utilization Business Plan, prepared 2026-06-30.","textChars":77,"textLines":1,"bbox":[150,656,928,24]}
+{"kind":"textbox","id":"sh/m94fu18j","slide":9,"name":"slide-number","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[52,656,50,24]}
+{"kind":"notes","id":"nt/8em5yu","slide":9,"text":""}
+{"kind":"slide","id":"sl/bgsbcr","slide":10,"title":"STAFF-ONLY SIGNAL","textShapes":17}
+{"kind":"shape","id":"sh/4byhgn29","slide":10,"name":"image-wash","bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/twra5gbq","slide":10,"name":"eyebrow","text":"STAFF-ONLY SIGNAL","textPreview":"STAFF-ONLY SIGNAL","textChars":17,"textLines":1,"bbox":[52,32,520,22]}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":10,"name":"brand-domain","text":"HumanConversation.com","textPreview":"HumanConversation.com","textChars":21,"textLines":1,"bbox":[1002,34,226,24]}
+{"kind":"textbox","id":"sh/b2hwfyxo","slide":10,"name":"title","text":"The moat is what members only tell a human.","textPreview":"The moat is what members only tell a human.","textChars":43,"textLines":1,"bbox":[52,88,820,250]}
+{"kind":"textbox","id":"sh/4nap4r65","slide":10,"name":"subtitle","text":"Calendars store transactions. Human Conversation stores the reasons people return, hesitate, belong, and lead.","textPreview":"Calendars store transactions. Human Conversation stores the reasons people return, hesitate, belong, and lead.","textChars":110,"textLines":1,"bbox":[56,230,720,112]}
+{"kind":"shape","id":"sh/t83itgfm","slide":10,"name":"metric-Schedule","bbox":[76,356,338,118]}
+{"kind":"shape","id":"sh/mp0bi9s3","slide":10,"name":"metric-rule-Schedule","bbox":[76,356,338,6]}
+{"kind":"textbox","id":"sh/bat47y1k","slide":10,"name":"metric-head-Schedule","text":"Schedule","textPreview":"Schedule","textChars":8,"textLines":1,"bbox":[98,378,282,30]}
+{"kind":"textbox","id":"sh/ji5snelo","slide":10,"name":"metric-body-Schedule","text":"When they can actually show up","textPreview":"When they can actually show up","textChars":30,"textLines":1,"bbox":[98,418,282,36]}
+{"kind":"shape","id":"sh/uxc3ylc7","slide":10,"name":"metric-Friction","bbox":[462,356,338,118]}
+{"kind":"shape","id":"sh/1kre1w7m","slide":10,"name":"metric-rule-Friction","bbox":[462,356,338,6]}
+{"kind":"textbox","id":"sh/c3ylc7u5","slide":10,"name":"metric-head-Friction","text":"Friction","textPreview":"Friction","textChars":8,"textLines":1,"bbox":[484,378,282,30]}
+{"kind":"textbox","id":"sh/j6tovaho","slide":10,"name":"metric-body-Friction","text":"Why they stopped coming","textPreview":"Why they stopped coming","textChars":23,"textLines":1,"bbox":[484,418,282,36]}
+{"kind":"shape","id":"sh/ulwval87","slide":10,"name":"metric-Pull","bbox":[848,356,338,118]}
+{"kind":"shape","id":"sh/1cfa9w3m","slide":10,"name":"metric-rule-Pull","bbox":[848,356,338,6]}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":10,"name":"metric-head-Pull","text":"Pull","textPreview":"Pull","textChars":4,"textLines":1,"bbox":[870,378,282,30]}
+{"kind":"textbox","id":"sh/j2t83itg","slide":10,"name":"metric-body-Pull","text":"What they want next","textPreview":"What they want next","textChars":19,"textLines":1,"bbox":[870,418,282,36]}
+{"kind":"shape","id":"sh/qh0fepkz","slide":10,"name":"metric-Belonging","bbox":[76,498,338,118]}
+{"kind":"shape","id":"sh/i5sneloj","slide":10,"name":"metric-rule-Belonging","bbox":[76,498,338,6]}
+{"kind":"textbox","id":"sh/7qpg3ex0","slide":10,"name":"metric-head-Belonging","text":"Belonging","textPreview":"Belonging","textChars":9,"textLines":1,"bbox":[98,520,282,30]}
+{"kind":"textbox","id":"sh/0bi9s36h","slide":10,"name":"metric-body-Belonging","text":"Who makes them feel known","textPreview":"Who makes them feel known","textChars":25,"textLines":1,"bbox":[98,560,282,36]}
+{"kind":"shape","id":"sh/pwb2hwfy","slide":10,"name":"metric-Confidence","bbox":[462,498,338,118]}
+{"kind":"shape","id":"sh/ed8v6psf","slide":10,"name":"metric-rule-Confidence","bbox":[462,498,338,6]}
+{"kind":"textbox","id":"sh/7y1kre1w","slide":10,"name":"metric-head-Confidence","text":"Confidence","textPreview":"Confidence","textChars":10,"textLines":1,"bbox":[484,520,282,30]}
+{"kind":"textbox","id":"sh/wjudg7ad","slide":10,"name":"metric-body-Confidence","text":"What makes them hesitate","textPreview":"What makes them hesitate","textChars":24,"textLines":1,"bbox":[484,560,282,36]}
+{"kind":"shape","id":"sh/p4r65wju","slide":10,"name":"metric-Leadership","bbox":[848,498,338,118]}
+{"kind":"shape","id":"sh/ih4byhgn","slide":10,"name":"metric-rule-Leadership","bbox":[848,498,338,6]}
+{"kind":"textbox","id":"sh/72x4nap4","slide":10,"name":"metric-head-Leadership","text":"Leadership","textPreview":"Leadership","textChars":10,"textLines":1,"bbox":[870,520,282,30]}
+{"kind":"textbox","id":"sh/xc3ylc7u","slide":10,"name":"metric-body-Leadership","text":"Who can bring others back","textPreview":"Who can bring others back","textChars":25,"textLines":1,"bbox":[870,560,282,36]}
+{"kind":"textbox","id":"sh/4r65wjud","slide":10,"name":"slide-number","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[52,656,50,24]}
+{"kind":"image","id":"im/eloj2t83","slide":10,"name":"","alt":"background","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/bgsbcr","slide":10,"text":""}
+{"kind":"slide","id":"sl/wrn4qm","slide":11,"title":"COMPOUNDING GRAPH","textShapes":8}
+{"kind":"shape","id":"sh/6hcrmhk3","slide":11,"name":"image-wash","bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/z25kb6xk","slide":11,"name":"eyebrow","text":"COMPOUNDING GRAPH","textPreview":"COMPOUNDING GRAPH","textChars":17,"textLines":1,"bbox":[52,32,520,22]}
+{"kind":"textbox","id":"sh/ovahoza1","slide":11,"name":"brand-domain","text":"HumanConversation.com","textPreview":"HumanConversation.com","textChars":21,"textLines":1,"bbox":[1002,34,226,24]}
+{"kind":"textbox","id":"sh/dg7adsji","slide":11,"name":"title","text":"Every return makes the graph smarter.","textPreview":"Every return makes the graph smarter.","textChars":37,"textLines":1,"bbox":[52,104,700,250]}
+{"kind":"textbox","id":"sh/6tovahoz","slide":11,"name":"subtitle","text":"The core action is the human call. Each answer improves the next invite; each return teaches the system who else needs a conversation.","textPreview":"The core action is the human call. Each answer improves the next invite; each return teaches the system who else needs a conversation.","textChars":134,"textLines":1,"bbox":[56,388,700,112]}
+{"kind":"shape","id":"sh/vahoza1g","slide":11,"name":"chip-Call learns","bbox":[56,540,160,42]}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":11,"name":"chip-text-Call learns","text":"Call learns","textPreview":"Call learns","textChars":11,"textLines":1,"bbox":[72,549,128,24]}
+{"kind":"shape","id":"sh/dsji5sne","slide":11,"name":"chip-Invite improves","bbox":[234,540,214,42]}
+{"kind":"textbox","id":"sh/pwb2hwfy","slide":11,"name":"chip-text-Invite improves","text":"Invite improves","textPreview":"Invite improves","textChars":15,"textLines":1,"bbox":[250,549,182,24]}
+{"kind":"shape","id":"sh/0bi9s36h","slide":11,"name":"chip-Return teaches","bbox":[466,540,214,42]}
+{"kind":"textbox","id":"sh/7qpg3ex0","slide":11,"name":"chip-text-Return teaches","text":"Return teaches","textPreview":"Return teaches","textChars":14,"textLines":1,"bbox":[482,549,182,24]}
+{"kind":"textbox","id":"sh/i5sneloj","slide":11,"name":"slide-number","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[52,656,50,24]}
+{"kind":"image","id":"im/kf6dcbul","slide":11,"name":"","alt":"background","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/wrn4qm","slide":11,"text":""}
+{"kind":"slide","id":"sl/63g58a","slide":12,"title":"EXPANSION","textShapes":11}
+{"kind":"shape","id":"sh/dsji5sne","slide":12,"name":"image-wash","bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":12,"name":"eyebrow","text":"EXPANSION","textPreview":"EXPANSION","textChars":9,"textLines":1,"bbox":[52,32,520,22]}
+{"kind":"textbox","id":"sh/vy90je9c","slide":12,"name":"brand-domain","text":"HumanConversation.com","textPreview":"HumanConversation.com","textChars":21,"textLines":1,"bbox":[1002,34,226,24]}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":12,"name":"title","text":"Each community makes the next one easier to activate.","textPreview":"Each community makes the next one easier to activate.","textChars":53,"textLines":1,"bbox":[52,100,820,250]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":12,"name":"subtitle","text":"Start where the loop repeats weekly. Then reuse what it learns about hosts, trust, follow-up, and return.","textPreview":"Start where the loop repeats weekly. Then reuse what it learns about hosts, trust, follow-up, and return.","textChars":105,"textLines":1,"bbox":[56,374,700,112]}
+{"kind":"shape","id":"sh/oj2t83it","slide":12,"name":"chip-Pickleball clubs","bbox":[74,516,178,42]}
+{"kind":"textbox","id":"sh/z25kb6xk","slide":12,"name":"chip-text-Pickleball clubs","text":"Pickleball clubs","textPreview":"Pickleball clubs","textChars":16,"textLines":1,"bbox":[90,525,146,24]}
+{"kind":"shape","id":"sh/6hcrmhk3","slide":12,"name":"chip-Fitness studios","bbox":[270,516,210,42]}
+{"kind":"textbox","id":"sh/gr2p8nqx","slide":12,"name":"chip-text-Fitness studios","text":"Fitness studios","textPreview":"Fitness studios","textChars":15,"textLines":1,"bbox":[286,525,178,24]}
+{"kind":"shape","id":"sh/9cvixcze","slide":12,"name":"chip-Coworking","bbox":[498,516,178,42]}
+{"kind":"textbox","id":"sh/ylc7u54z","slide":12,"name":"chip-text-Coworking","text":"Coworking","textPreview":"Coworking","textChars":9,"textLines":1,"bbox":[514,525,146,24]}
+{"kind":"shape","id":"sh/r65wjudg","slide":12,"name":"chip-Faith communities","bbox":[74,574,210,42]}
+{"kind":"textbox","id":"sh/g3ex0nux","slide":12,"name":"chip-text-Faith communities","text":"Faith communities","textPreview":"Faith communities","textChars":17,"textLines":1,"bbox":[90,583,178,24]}
+{"kind":"shape","id":"sh/5o7qpg3e","slide":12,"name":"chip-Alumni groups","bbox":[302,574,178,42]}
+{"kind":"textbox","id":"sh/yxobm58z","slide":12,"name":"chip-text-Alumni groups","text":"Alumni groups","textPreview":"Alumni groups","textChars":13,"textLines":1,"bbox":[318,583,146,24]}
+{"kind":"shape","id":"sh/nih4byhg","slide":12,"name":"chip-Local events","bbox":[498,574,210,42]}
+{"kind":"textbox","id":"sh/g7adsji5","slide":12,"name":"chip-text-Local events","text":"Local events","textPreview":"Local events","textChars":12,"textLines":1,"bbox":[514,583,178,24]}
+{"kind":"textbox","id":"sh/9s36hcrm","slide":12,"name":"slide-number","text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[52,656,50,24]}
+{"kind":"image","id":"im/bm58z25k","slide":12,"name":"","alt":"background","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/63g58a","slide":12,"text":""}
+{"kind":"slide","id":"sl/041l4h","slide":13,"title":"BUSINESS MODEL","textShapes":10}
+{"kind":"shape","id":"sh/ixczed8v","slide":13,"name":"image-wash","bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":13,"name":"eyebrow","text":"BUSINESS MODEL","textPreview":"BUSINESS MODEL","textChars":14,"textLines":1,"bbox":[52,32,520,22]}
+{"kind":"textbox","id":"sh/0fepkzup","slide":13,"name":"brand-domain","text":"HumanConversation.com","textPreview":"HumanConversation.com","textChars":21,"textLines":1,"bbox":[1002,34,226,24]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":13,"name":"title","text":"Run the loop by hand. Productize what repeats.","textPreview":"Run the loop by hand. Productize what repeats.","textChars":46,"textLines":1,"bbox":[52,98,820,250]}
+{"kind":"shape","id":"sh/i9s36hcr","slide":13,"name":"model-Concierge","bbox":[74,430,340,150]}
+{"kind":"shape","id":"sh/bulwval8","slide":13,"name":"model-rule-Concierge","bbox":[74,430,340,6]}
+{"kind":"textbox","id":"sh/0je9cvix","slide":13,"name":"model-head-Concierge","text":"Concierge","textPreview":"Concierge","textChars":9,"textLines":1,"bbox":[98,462,290,30]}
+{"kind":"textbox","id":"sh/t47y1kre","slide":13,"name":"model-body-Concierge","text":"Do the calls that bring members back.","textPreview":"Do the calls that bring members back.","textChars":37,"textLines":1,"bbox":[98,506,290,42]}
+{"kind":"shape","id":"sh/9s36hcrm","slide":13,"name":"model-Learning loop","bbox":[464,430,340,150]}
+{"kind":"shape","id":"sh/g7adsji5","slide":13,"name":"model-rule-Learning loop","bbox":[464,430,340,6]}
+{"kind":"textbox","id":"sh/rmhk3q5o","slide":13,"name":"model-head-Learning loop","text":"Learning loop","textPreview":"Learning loop","textChars":13,"textLines":1,"bbox":[488,462,290,30]}
+{"kind":"textbox","id":"sh/y1kre1w7","slide":13,"name":"model-body-Learning loop","text":"Track fills, returns, adoption, and follow-through.","textPreview":"Track fills, returns, adoption, and follow-through.","textChars":51,"textLines":1,"bbox":[488,506,290,42]}
+{"kind":"shape","id":"sh/90je9cvi","slide":13,"name":"model-Software","bbox":[854,430,340,150]}
+{"kind":"shape","id":"sh/gfmlkjm1","slide":13,"name":"model-rule-Software","bbox":[854,430,340,6]}
+{"kind":"textbox","id":"sh/rytsvu9k","slide":13,"name":"model-head-Software","text":"Software","textPreview":"Software","textChars":8,"textLines":1,"bbox":[878,462,290,30]}
+{"kind":"textbox","id":"sh/yd0z6103","slide":13,"name":"model-body-Software","text":"Sell the sales engine inside the workflow.","textPreview":"Sell the sales engine inside the workflow.","textChars":42,"textLines":1,"bbox":[878,506,290,42]}
+{"kind":"textbox","id":"sh/9cvixcze","slide":13,"name":"slide-number","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[52,656,50,24]}
+{"kind":"image","id":"im/cvixczed","slide":13,"name":"","alt":"background","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/041l4h","slide":13,"text":""}
+{"kind":"slide","id":"sl/2nfn5q","slide":14,"title":"FOUNDER-MARKET FIT","textShapes":10}
+{"kind":"shape","id":"sh/3m94fu18","slide":14,"name":"image-wash","bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":14,"name":"eyebrow","text":"FOUNDER-MARKET FIT","textPreview":"FOUNDER-MARKET FIT","textChars":18,"textLines":1,"bbox":[52,32,520,22]}
+{"kind":"textbox","id":"sh/h4byhgn2","slide":14,"name":"brand-domain","text":"HumanConversation.com","textPreview":"HumanConversation.com","textChars":21,"textLines":1,"bbox":[1002,34,226,24]}
+{"kind":"textbox","id":"sh/sji5snel","slide":14,"name":"title","text":"We live inside the problem before we sell the software.","textPreview":"We live inside the problem before we sell the software.","textChars":55,"textLines":1,"bbox":[52,98,760,250]}
+{"kind":"shape","id":"sh/3ylc7u54","slide":14,"name":"team-Dave","bbox":[74,430,340,150]}
+{"kind":"shape","id":"sh/adsji5sn","slide":14,"name":"team-rule-Dave","bbox":[74,430,340,6]}
+{"kind":"textbox","id":"sh/hgn29gr2","slide":14,"name":"team-head-Dave","text":"Dave","textPreview":"Dave","textChars":4,"textLines":1,"bbox":[98,462,290,30]}
+{"kind":"textbox","id":"sh/svu9knih","slide":14,"name":"team-body-Dave","text":"Sees the missed return and hears the real reason.","textPreview":"Sees the missed return and hears the real reason.","textChars":49,"textLines":1,"bbox":[98,506,290,42]}
+{"kind":"shape","id":"sh/ed8bat47","slide":14,"name":"team-Steve","bbox":[464,430,340,150]}
+{"kind":"shape","id":"sh/7u54zido","slide":14,"name":"team-rule-Steve","bbox":[464,430,340,6]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":14,"name":"team-head-Steve","text":"Steve","textPreview":"Steve","textChars":5,"textLines":1,"bbox":[488,462,290,30]}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":14,"name":"team-body-Steve","text":"Turns daily judgment into the product loop.","textPreview":"Turns daily judgment into the product loop.","textChars":43,"textLines":1,"bbox":[488,506,290,42]}
+{"kind":"shape","id":"sh/eloj2t83","slide":14,"name":"team-NEPC","bbox":[854,430,340,150]}
+{"kind":"shape","id":"sh/36hcrmhk","slide":14,"name":"team-rule-NEPC","bbox":[854,430,340,6]}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":14,"name":"team-head-NEPC","text":"NEPC","textPreview":"NEPC","textChars":4,"textLines":1,"bbox":[878,462,290,30]}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":14,"name":"team-body-NEPC","text":"Live lab where every week tests the loop.","textPreview":"Live lab where every week tests the loop.","textChars":41,"textLines":1,"bbox":[878,506,290,42]}
+{"kind":"textbox","id":"sh/epkzupwb","slide":14,"name":"slide-number","text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[52,656,50,24]}
+{"kind":"image","id":"im/tsvu9kni","slide":14,"name":"","alt":"background","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/2nfn5q","slide":14,"text":""}
+{"kind":"slide","id":"sl/5ctqzp","slide":15,"title":"SEED ROUND","textShapes":12}
+{"kind":"shape","id":"sh/upwb2hwf","slide":15,"name":"image-wash","bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/nap4r65w","slide":15,"name":"eyebrow","text":"SEED ROUND","textPreview":"SEED ROUND","textChars":10,"textLines":1,"bbox":[52,32,520,22]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":15,"name":"brand-domain","text":"HumanConversation.com","textPreview":"HumanConversation.com","textChars":21,"textLines":1,"bbox":[1002,34,226,24]}
+{"kind":"textbox","id":"sh/54zidony","slide":15,"name":"title","text":"Back the operating system for real-world social communities.","textPreview":"Back the operating system for real-world social communities.","textChars":60,"textLines":1,"bbox":[52,104,820,250]}
+{"kind":"textbox","id":"sh/udg7adsj","slide":15,"name":"subtitle","text":"The seed round tests one question: does the loop repeat fast enough to become software?","textPreview":"The seed round tests one question: does the loop repeat fast enough to become software?","textChars":87,"textLines":1,"bbox":[56,386,760,112]}
+{"kind":"shape","id":"sh/nyd0z610","slide":15,"name":"seed-card-Return proof","bbox":[82,514,258,116]}
+{"kind":"shape","id":"sh/cfa9w3m9","slide":15,"name":"seed-card-rule-Return proof","bbox":[82,514,258,6]}
+{"kind":"textbox","id":"sh/1032lszq","slide":15,"name":"seed-card-head-Return proof","text":"Return proof","textPreview":"Return proof","textChars":12,"textLines":1,"bbox":[104,540,206,28]}
+{"kind":"textbox","id":"sh/xs72x4na","slide":15,"name":"seed-card-body-Return proof","text":"Do conversations bring the right people back?","textPreview":"Do conversations bring the right people back?","textChars":45,"textLines":1,"bbox":[104,578,208,40]}
+{"kind":"shape","id":"sh/87ed8bat","slide":15,"name":"seed-card-Product proof","bbox":[368,514,258,116]}
+{"kind":"shape","id":"sh/fmlkjm1c","slide":15,"name":"seed-card-rule-Product proof","bbox":[368,514,258,6]}
+{"kind":"textbox","id":"sh/q1orytsv","slide":15,"name":"seed-card-head-Product proof","text":"Product proof","textPreview":"Product proof","textChars":13,"textLines":1,"bbox":[390,540,206,28]}
+{"kind":"textbox","id":"sh/1gvy90je","slide":15,"name":"seed-card-body-Product proof","text":"Can judgment become repeatable recommendations?","textPreview":"Can judgment become repeatable recommendations?","textChars":47,"textLines":1,"bbox":[390,578,208,40]}
+{"kind":"shape","id":"sh/8z25kb6x","slide":15,"name":"seed-card-Expansion proof","bbox":[654,514,258,116]}
+{"kind":"shape","id":"sh/je9cvixc","slide":15,"name":"seed-card-rule-Expansion proof","bbox":[654,514,258,6]}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":15,"name":"seed-card-head-Expansion proof","text":"Expansion proof","textPreview":"Expansion proof","textChars":15,"textLines":1,"bbox":[676,540,206,28]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":15,"name":"seed-card-body-Expansion proof","text":"Can the playbook travel beyond NEPC?","textPreview":"Can the playbook travel beyond NEPC?","textChars":36,"textLines":1,"bbox":[676,578,208,40]}
+{"kind":"textbox","id":"sh/8v6psfil","slide":15,"name":"seed-note","text":"If the answer is yes, every conversation teaches the next community what to do.","textPreview":"If the answer is yes, every conversation teaches the next community what to do.","textChars":79,"textLines":1,"bbox":[82,652,900,26]}
+{"kind":"textbox","id":"sh/47y1kre1","slide":15,"name":"slide-number","text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[52,656,50,24]}
+{"kind":"image","id":"im/kb6xkf6d","slide":15,"name":"","alt":"background","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/5ctqzp","slide":15,"text":""}
