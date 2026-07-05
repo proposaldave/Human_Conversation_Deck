@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 42 public expert lenses, 43 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 43 public expert lenses, 43 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -44,6 +44,7 @@ Public expert sources reviewed:
 - Mark Suster, public Cash In / Cash Out / Milestones Achieved fundraising diligence guidance, https://www.inc.com/mark-suster/every-potential-investor-will-ask-you-about-these-3-things-heres-how-to-be-prepared.html, reviewed 2026-07-05
 - April Dunford, public positioning quickstart guidance, https://www.aprildunford.com/post/a-quickstart-guide-to-positioning, reviewed 2026-07-05
 - Guy Kawasaki, public 10/20/30 pitch rule, https://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/, reviewed 2026-07-05
+- Michael Seibel / YC seed pitch clarity guidance, https://www.saastr.com/how-to-pitch-your-seed-stage-startup-with-y-combinators-michael-seibel/, reviewed 2026-07-05
 
 Live deck ideas incorporated:
 - Human Conversation brings people back to real communities.
@@ -65,6 +66,7 @@ Live deck ideas incorporated:
 - The next social layer is not another feed.
 - Not another chat app.
 - AI makes the next human move obvious.
+- AI flags the person, gives the reason to call, and queues the return move.
 - AI can now turn conversation into operating software.
 - AI handles the computer work: who needs a conversation, what to ask, and what should happen next.
 - AI turns the return loop into software.
@@ -80,6 +82,7 @@ Live deck ideas incorporated:
 - Drift becomes a call, a memory, and a next move.
 - Manual calls teach the product.
 - Repeated manual work becomes software.
+- Hand-run calls teach the product. Repeated moves become software.
 - AI spots the drift. A human call learns why. The next action becomes an invite, intro, group, or leader path.
 - Ask what would help them return.
 - Record the return reason.
@@ -131,6 +134,7 @@ Live deck ideas incorporated:
 - The first milestone is inside our control.
 - The first proof cycle is inside our control.
 - One club is the first milestone.
+- The team is inside the first proof environment.
 - Seed buys a repeatable return engine.
 - The round answers one question.
 - Seed buys one proof cycle.

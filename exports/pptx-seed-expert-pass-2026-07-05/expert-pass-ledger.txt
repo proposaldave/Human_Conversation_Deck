@@ -1246,3 +1246,23 @@ Resulting 14-slide spine:
 12. Seed turns the manual loop into software.
 13. One club is the first milestone.
 14. Seed buys one proof cycle.
+
+Pass 87 - Michael Seibel / YC public seed-pitch clarity lens
+Critique: A YC seed pitch needs to be easy to repeat after one read: what the product does, why the team can do it, and what the seed milestone proves. The deck had the right story, but the product-loop and founder-market-fit slides still used abstract labels where concrete examples and roles would be stronger.
+Deck action: Make slide 4 explain the product as a repeatable action example, simplify slide 6 into Find / Call / Queue, and rename slide 13 so the team advantage is explicit: the team is inside the first proof environment.
+
+Resulting 14-slide spine:
+1. The sales engine for real-world communities.
+2. Technology got between us.
+3. The return signal lives in the call.
+4. AI makes the next human move obvious.
+5. Start where drift is visible.
+6. Repeated manual work becomes software.
+7. Every call feeds the next one.
+8. One club creates enough loops to learn.
+9. The seed gate is three numbers moving together.
+10. The moat is what people tell a human.
+11. Start with operators paid to bring people back.
+12. Seed turns the manual loop into software.
+13. The team is inside the first proof environment.
+14. Seed buys one proof cycle.
