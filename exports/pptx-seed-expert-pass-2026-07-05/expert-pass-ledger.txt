@@ -157,6 +157,27 @@ Resulting 15-slide spine:
 14. We live inside the problem before we sell the software.
 15. Back the operating system for real-world social communities.
 
+Pass 47 - Alistair Croll traction narrative lens
+Critique: Slides 8 and 9 were credible but still separated traction evidence from the economic model. A metrics-first seed deck should show the repeated behavior loop, then make the next proof gate explicit so the upside is exciting without pretending the model is already audited performance.
+Deck action: Reframe slide 8 from generic weekly proof into a weekly proof loop: find unused capacity, call drifting members, act, measure returns, and correct the playbook. Reframe slide 9 around the economic case of unused capacity converted into returns, with the proof gate stated as utilization, member returns, margin, and staff time.
+
+Resulting 15-slide spine:
+1. Human conversation is the operating system for real-world social communities.
+2. The snapback: Technology got between us. Human conversation brings us back.
+3. The signal is already in the call.
+4. The market is moving beyond feeds.
+5. Start with the person who almost came back.
+6. The product gives staff the next right move.
+7. The conversation updates the system.
+8. The live lab creates a weekly proof loop.
+9. The economic case is unused capacity converted into returns.
+10. The moat is what members only tell a human.
+11. Every return makes the graph smarter.
+12. Each community makes the next one easier to activate.
+13. Run the loop by hand. Productize what repeats.
+14. We live inside the problem before we sell the software.
+15. Back the operating system for real-world social communities.
+
 Pass 41 - Bill Gurley business-model rigor lens
 Critique: The business-model slide was directionally right, but still too easy to read as a services bridge. A rigorous venture model should show the conversion mechanism: do the work manually, isolate the repeatable loop, then sell the software embedded in that workflow.
 Deck action: Align slide 13 with the live deck's wedge-to-software framing. Reframe the title as running the loop by hand and productizing what repeats, replace Proof with Learning loop, and make the software card sell the sales engine inside the workflow rather than a generic tool.

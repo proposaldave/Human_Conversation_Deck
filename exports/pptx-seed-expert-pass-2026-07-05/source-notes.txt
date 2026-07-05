@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 22 public expert lenses, 23 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 23 public expert lenses, 23 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -40,8 +40,9 @@ Live deck ideas incorporated:
 - Start with the person who almost came back.
 - AI spots the drift. A human call learns why. The next action becomes an invite, intro, group, or leader path.
 - The conversation updates the system.
-- The live lab turns execution risk into weekly proof.
-- The budget is unused court time and missed returns.
+- The live lab creates a weekly proof loop.
+- The economic case is unused capacity converted into returns.
+- Next proof gate: one repeatable loop that lifts utilization, member returns, margin, and staff time.
 - Turn one proven club loop into repeatable software.
 - The moat is what members only tell a human.
 - Calendars know when someone came. Human Conversation learns why they return, hesitate, belong, and lead.
