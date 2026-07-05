@@ -124,6 +124,10 @@ Pass 30 - Synthetic world-class data-room diligence AI lens
 Critique: The live-lab proof slide had useful numbers, but the labels still sounded like a pitch instead of a diligence-ready source boundary. Historical operating rows, modeled planning targets, and current audited performance must never blur together.
 Deck action: Tighten slide 8's metric labels and source footer so investors see historical CourtReserve operating rows and observed soft-slot utilization, not an implied certified current KPI.
 
+Pass 31 - Mary Meeker market narrative lens
+Critique: The expansion slide had the right sequence, but the market logic was still framed as product learning. A market narrative needs the repeatable buyer job: someone is accountable for attendance, belonging, trust, and return.
+Deck action: Tighten slide 12's subtitle so clubs remain the wedge while the category expands to every community with an owner for participation and belonging.
+
 Resulting 15-slide spine:
 1. Human conversation is the operating system for real-world social communities.
 2. The snapback: Technology got between us. Human conversation brings us back.
