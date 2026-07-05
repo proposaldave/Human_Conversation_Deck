@@ -112,6 +112,10 @@ Pass 27 - Marc Benioff enterprise GTM lens
 Critique: The business-model slide needed to make the services-to-software path credible. Enterprise buyers trust software that already fits their daily workflow, and investors need to see how manual learning becomes a repeatable sales motion.
 Deck action: Reframe slide 13 as enterprise GTM: earn the workflow by hand, turn outcomes into a playbook, then sell the software that repeats the workflow inside the buyer's daily rhythm.
 
+Pass 28 - Synthetic world-class seed partner Monday-meeting lens
+Critique: The deck was strong, but the category thesis needed a sentence a partner can repeat cleanly in Monday meeting. "Gets people back in the room" is true; "right people, right room, right conversation" is more ownable and fundable.
+Deck action: Strengthen slide 4's gold answer line with the live-deck concept: Right people. Right room. Right conversation. Keep the category contrast and concrete AI workflow underneath.
+
 Resulting 15-slide spine:
 1. Human conversation is the operating system for real-world social communities.
 2. The snapback: Technology got between us. Human conversation brings us back.
