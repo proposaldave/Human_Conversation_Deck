@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 28 public expert lenses, 28 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 28 public expert lenses, 29 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -46,14 +46,14 @@ Live deck ideas incorporated:
 - Start where intent is easiest to verify: one person drifting.
 - AI spots the drift. A human call learns why. The next action becomes an invite, intro, group, or leader path.
 - The call becomes memory, invite, and follow-through.
-- The live lab makes the proof test real.
-- A repeatable return unlocks the same-court upside.
-- Proof gate: repeat the loop until utilization, margin, and staff time move together.
+- Start with one club where every return can be measured.
+- The upside is large enough to make the proof worth running.
+- Investment test: returns must move utilization, margin, and staff time together.
 - Turn one proven club loop into repeatable software.
-- The moat is reason-level memory no dashboard has.
-- Attendance says what happened. Human calls capture why, who matters, and what brings someone back.
-- Every return makes the graph smarter.
-- The same loop travels where someone owns attendance.
+- The proprietary data is the reason someone returns.
+- Attendance says what happened. Human calls reveal why it happened and what changes the next invitation.
+- Each observed return teaches the next action.
+- Expansion waits for markets where return is owned.
 - The market is every community where someone owns attendance, belonging, trust, and return.
 - Earn the workflow by hand. Sell the software that repeats it.
 - Earn the workflow by hand. Sell the software that repeats it.
