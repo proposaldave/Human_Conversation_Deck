@@ -1185,3 +1185,24 @@ Resulting 15-slide spine:
 13. Seed turns the manual loop into software.
 14. One club is the first milestone.
 15. Seed buys one proof cycle.
+
+Pass 84 - Synthetic elite seed-IC proof skeptic lens
+Critique: The deck's proof section had attractive numbers, but an IC skeptic needs to see the experiment design and pass/fail gate. "Healthier return loop" is directionally right; the underwriteable proof is enough repeated loops, modeled economics marked as modeled, and a gate that requires utilization, margin, and staff load to move together.
+Deck action: Reframe slide 8 around one club producing enough learning loops, slide 9 around the three-number seed gate, slide 10 around belonging as staff-only signal, and slide 15 around a measured sales engine.
+
+Resulting 15-slide spine:
+1. The sales engine for real-world communities.
+2. Today's software sees activity after people drift.
+3. A human call reveals the return path.
+4. AI makes the next human move obvious.
+5. Start where drift is visible.
+6. Repeated manual work becomes software.
+7. Every call feeds the next one.
+8. One club creates enough loops to learn.
+9. The seed gate is three numbers moving together.
+10. The moat is what people tell a human.
+11. Every return makes the graph smarter.
+12. Start with operators paid to bring people back.
+13. Seed turns the manual loop into software.
+14. One club is the first milestone.
+15. Seed buys one proof cycle.

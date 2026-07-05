@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 41 public expert lenses, 41 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 41 public expert lenses, 42 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -89,17 +89,23 @@ Live deck ideas incorporated:
 - One club has enough volume to tune the engine.
 - One club repeats the loop every week.
 - The first loop runs inside one club.
+- One club creates enough loops to learn.
+- Booking history, invite traces, weekly volume, and unused demand make the return loop testable.
 - Weekly bookings, invites, returns, and utilization create enough cycles to see whether the loop gets healthier.
 - The proof is revenue lift without staff drag.
 - Proof means more revenue without more drag.
 - Proof is a healthier return loop.
+- The seed gate is three numbers moving together.
 - Seed gate: utilization rises, margin holds, and staff minutes do not climb.
 - Seed gate: utilization, margin, and staff minutes must improve together.
+- Pass only if utilization rises, margin holds, and staff minutes do not climb.
 - Turn one proven club loop into repeatable software.
 - Return reasons are the proprietary raw material.
 - The proprietary asset is why people return.
 - The moat is what people tell a human.
 - Bookings show activity. Human conversations reveal the reason, context, move, result, helper, and pattern ordinary systems cannot infer.
+- Bookings show activity. Human conversations reveal the reason, context, move, result, belonging, and pattern ordinary systems cannot infer.
+- Belonging: who makes them feel known.
 - The answer only exists after a trusted human asks, hears, and records what would bring someone back.
 - The moat compounds when answers become moves.
 - The product gets pulled forward by each return.
@@ -126,6 +132,7 @@ Live deck ideas incorporated:
 - Prove one club can repeat the return loop often enough to become software the next operator buys.
 - Start with one club. Build the sales engine for every community where people need to feel known.
 - Prove the sales engine in one club, then sell it to the next operator market.
+- If yes, the next round scales a measured sales engine.
 - If those proofs hold, the next round funds scaling a software category.
 - If yes, the next round scales the category, not the experiment.
 - Start with one club. Prove the loop repeats. Turn the repeatable work into software.
