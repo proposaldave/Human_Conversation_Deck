@@ -154,5 +154,26 @@ Resulting 15-slide spine:
 11. Every return makes the graph smarter.
 12. Each community makes the next one easier to activate.
 13. Earn the workflow by hand. Sell the software that repeats it.
-14. We are inside the community before we sell the software.
+14. We live inside the problem before we sell the software.
+15. Back the operating system for real-world social communities.
+
+Pass 35 - Paul Graham founder clarity lens
+Critique: The founder-market slide said the team is close to the community, but it did not make the founder advantage plain enough. A seed investor should see why Dave and Steve are living inside the problem instead of researching it from outside.
+Deck action: Reframe slide 14 around living inside the problem before selling the software, with Dave hearing missed-return reasons, Steve turning daily judgment into product, and NEPC testing the loop every week.
+
+Resulting 15-slide spine:
+1. Human conversation is the operating system for real-world social communities.
+2. The snapback: Technology got between us. Human conversation brings us back.
+3. One human conversation tells you how people feel.
+4. The next social layer is not another feed.
+5. Start with the person who almost came back.
+6. The product is one simple loop.
+7. The conversation updates the system.
+8. The live lab turns execution risk into weekly proof.
+9. Clubs already have the courts. They need the follow-up engine.
+10. The moat is what members only tell a human.
+11. Every return makes the graph smarter.
+12. Each community makes the next one easier to activate.
+13. Earn the workflow by hand. Sell the software that repeats it.
+14. We live inside the problem before we sell the software.
 15. Back the operating system for real-world social communities.
