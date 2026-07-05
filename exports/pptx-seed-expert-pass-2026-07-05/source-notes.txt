@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 5 public expert lenses and 5 synthetic AI reviewer lenses
+- expert-pass-ledger.txt with 6 public expert lenses and 6 synthetic AI reviewer lenses
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -26,6 +26,7 @@ Drive sources reviewed:
 Live deck ideas incorporated:
 - Not another chat app.
 - The wedge is one person drifting.
+- The conversation updates the system.
 - The live lab creates repeatable sales loops.
 - Every return makes the graph smarter.
 - Run the loop by hand. Productize what repeats.

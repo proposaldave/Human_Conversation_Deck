@@ -44,18 +44,27 @@ Pass 10 - Synthetic category designer / story editor
 Critique: The strongest phrases are already in the live HTML deck. The PPTX should learn from it instead of paraphrasing into weaker language.
 Deck action: Pull forward "Technology got between us," "Not another chat app," "The wedge is one person drifting," "Every return makes the graph smarter," and "Back the operating system for real-world social communities."
 
-Resulting 14-slide spine:
+Pass 11 - Steve Jobs product-demo clarity lens
+Critique: A great pitch makes the product feel obvious in one concrete moment. The deck should show the system hearing a human outcome and turning it into an action.
+Deck action: Add the live-deck product-interface beat: heard signal, staff command, AI action.
+
+Pass 12 - Synthetic product-demo investor
+Critique: Without a product-demo slide, the story risks reading as services plus brand. A seed investor needs to see the repeatable workflow that becomes software.
+Deck action: Insert a tangible "conversation updates the system" slide between product loop and proof.
+
+Resulting 15-slide spine:
 1. Human conversation is the operating system for real-world social communities.
 2. Technology got between us. Human conversation brings us back.
 3. One human conversation tells you how people feel.
 4. Not another chat app.
 5. The wedge is one person drifting.
 6. Human Conversation turns one call into the next community action.
-7. The live lab creates repeatable sales loops.
-8. Same courts can produce much more community and revenue.
-9. The moat is what members only tell a human.
-10. Every return makes the graph smarter.
-11. Start in clubs. Expand wherever belonging is operational.
-12. Run the loop by hand. Productize what repeats.
-13. We are inside the community before we sell the software.
-14. Back the operating system for real-world social communities.
+7. The conversation updates the system.
+8. The live lab creates repeatable sales loops.
+9. Same courts can produce much more community and revenue.
+10. The moat is what members only tell a human.
+11. Every return makes the graph smarter.
+12. Start in clubs. Expand wherever belonging is operational.
+13. Run the loop by hand. Productize what repeats.
+14. We are inside the community before we sell the software.
+15. Back the operating system for real-world social communities.
