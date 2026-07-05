@@ -157,6 +157,27 @@ Resulting 15-slide spine:
 14. We live inside the problem before we sell the software.
 15. Back the operating system for real-world social communities.
 
+Pass 37 - Andy Rachleff market-timing lens
+Critique: The category slide was clear about not being another feed, but it still read like positioning. A great market-timing slide should make the pull obvious: communities are moving past engagement software and need tools that return people to real rooms.
+Deck action: Reframe slide 4 from a category negation to a market-pull statement, and make the AI role explicit: coordination disappears into the background while the visible product is the right person, room, and conversation.
+
+Resulting 15-slide spine:
+1. Human conversation is the operating system for real-world social communities.
+2. The snapback: Technology got between us. Human conversation brings us back.
+3. One human conversation tells you how people feel.
+4. The market is moving beyond feeds.
+5. Start with the person who almost came back.
+6. The product is one simple loop.
+7. The conversation updates the system.
+8. The live lab turns execution risk into weekly proof.
+9. Clubs already have the courts. They need the follow-up engine.
+10. The moat is what members only tell a human.
+11. Every return makes the graph smarter.
+12. Each community makes the next one easier to activate.
+13. Earn the workflow by hand. Sell the software that repeats it.
+14. We live inside the problem before we sell the software.
+15. Back the operating system for real-world social communities.
+
 Pass 36 - Synthetic world-class seed partner objection-handling AI lens
 Critique: The close had the right category ambition, but the proof gates still felt like internal workstreams. A seed partner needs each gate to answer the obvious objections: will people return, can this become product, and can it travel beyond NEPC.
 Deck action: Keep slide 15's operating-system close, but sharpen the three seed cards into investor-proof questions: return proof, product proof, and expansion proof. Replace the colder training-data note with a warmer learning-compounding line.
