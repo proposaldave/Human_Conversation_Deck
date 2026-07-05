@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 33 public expert lenses, 34 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 34 public expert lenses, 34 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -36,6 +36,7 @@ Public expert sources reviewed:
 - Bill Gurley, public market and revenue-quality guidance, https://abovethecrowd.com/2012/11/13/all-markets-are-not-created-equal-10-factors-to-consider-when-evaluating-digital-marketplaces/ and https://abovethecrowd.com/2011/05/24/all-revenue-is-not-created-equal-the-keys-to-the-10x-revenue-club/, reviewed 2026-07-05
 - Peter Thiel, public monopoly / secrets / small-market guidance, https://blakemasters.tumblr.com/post/21169325300/peter-thiels-cs183-startup-class-4-notes-essay, https://www.wired.com/story/peter-thiel/, and https://www.bnjs.co/notes/cs183b-lecture-5-peter-thiel-business-strategy-and-monopoly-theory/, reviewed 2026-07-05
 - Roelof Botha / Sequoia, public clarity and company-building guidance, https://sequoiacap.com/article/writing-a-business-plan/ and https://www.generalist.com/p/lessons-from-20-years-of-vc-roelof-botha, reviewed 2026-07-05
+- Keith Rabois, public operating-leverage and startup-operating guidance, https://www.khoslaventures.com/team/keith-rabois/, https://ulisten.ai/channels/yc-root-access/lecture-14-how-to-operate-keith-rabois_6fQHLK1aIBs, https://www.saastr.com/keith-rabois-khosla-ventures-building-amazing-teams-video-transcript/, and https://www.lennysnewsletter.com/p/hard-truths-about-building-in-the-ai-era, reviewed 2026-07-05
 
 Live deck ideas incorporated:
 - Human Conversation brings people back to real communities.
@@ -51,11 +52,12 @@ Live deck ideas incorporated:
 - The signal is narrow, frequent, and emotional enough for AI to aim and humans to verify.
 - Drift becomes a call, a memory, and a next move.
 - AI spots the drift. A human call learns why. The next action becomes an invite, intro, group, or leader path.
-- One conversation becomes the next invite.
+- Every conversation becomes operating memory.
+- One logged outcome updates the playbook, queues the next move, and makes follow-up visible.
 - Start with one club where every return can be measured.
-- One club is enough when usage is frequent and the dollars move.
-- The proof must show revenue lift and workflow leverage.
-- Seed gate: utilization, margin, and staff time must move together.
+- One club has enough volume to tune the engine.
+- The proof is revenue lift without staff drag.
+- Seed gate: utilization, margin, and staff minutes must improve together.
 - Turn one proven club loop into repeatable software.
 - The secret is why someone returns.
 - No profile, clickstream, or booking system can see it. A human has to earn the answer.

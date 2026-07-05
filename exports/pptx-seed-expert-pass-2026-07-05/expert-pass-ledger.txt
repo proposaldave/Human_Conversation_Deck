@@ -870,3 +870,24 @@ Resulting 15-slide spine:
 13. The manual work proves what software must own.
 14. We control the lab, product, and buyer path.
 15. Seed answers the service-to-software question.
+
+Pass 69 - Keith Rabois / operational leverage lens
+Critique: Slides 7-9 had the right proof ingredients, but the operating read could be sharper. A Rabois-style operator/investor would want to see an engine: one logged input, a reusable memory, enough operating volume to tune it, and proof that revenue grows without staff drag.
+Deck action: Reframe slide 7 as operating memory, slide 8 as one-club volume for tuning the engine, and slide 9 as revenue lift without staff drag.
+
+Resulting 15-slide spine:
+1. Human Conversation brings people back to real communities.
+2. Community software records activity. It misses drift.
+3. The return signal lives in the call.
+4. AI can now turn conversation into operating software.
+5. The first use case is one person drifting out.
+6. Drift becomes a call, a memory, and a next move.
+7. Every conversation becomes operating memory.
+8. One club has enough volume to tune the engine.
+9. The proof is revenue lift without staff drag.
+10. The secret is why someone returns.
+11. Every answer makes the next action harder to copy.
+12. Own the return-reason market before expanding.
+13. The manual work proves what software must own.
+14. We control the lab, product, and buyer path.
+15. Seed answers the service-to-software question.
