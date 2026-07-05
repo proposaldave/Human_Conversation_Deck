@@ -92,6 +92,10 @@ Pass 22 - Synthetic world-class seed CFO
 Critique: The close should not make investors infer what the seed round de-risks. A CFO-quality seed ask frames capital as staged proof gates, not vague growth spend or a fake precision raise amount.
 Deck action: Keep the category close, but sharpen the seed-use copy into three proof gates: live loops, software layer, and repeatable expansion. Add the underwriting principle: every call creates the next action, recommendation, and proof point.
 
+Pass 23 - Reid Hoffman network-effects lens
+Critique: The expansion slide still listed markets more than it explained why scale compounds. A network-effects investor needs to see what gets easier when the next community joins.
+Deck action: Reframe slide 12 around activation learning: clubs are the wedge, and every loop adds reusable patterns about hosts, trust, follow-up, and repeat participation.
+
 Resulting 15-slide spine:
 1. Human conversation is the operating system for real-world social communities.
 2. The snapback: Technology got between us. Human conversation brings us back.
@@ -104,7 +108,7 @@ Resulting 15-slide spine:
 9. Same courts can produce much more community and revenue.
 10. The moat is what members only tell a human.
 11. Every return makes the graph smarter.
-12. Clubs are the wedge, not the ceiling.
+12. Each community makes the next one easier to activate.
 13. Run it by hand until the software owns the loop.
 14. We are inside the community before we sell the software.
 15. Back the operating system for real-world social communities.
