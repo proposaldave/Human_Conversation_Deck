@@ -492,3 +492,24 @@ Resulting 15-slide spine:
 13. Run the loop by hand. Productize what repeats.
 14. We live inside the problem before we sell the software.
 15. Back the operating system for real-world social communities.
+
+Pass 51 - Nancy Duarte narrative-flow lens
+Critique: The first and last slides had strong content, but the opening did not create enough contrast and the closing did not fully resolve the promise into a future state. Duarte's public sparkline/contrast guidance says persuasive talks should move between what is and what could be, then close on the transformed world.
+Deck action: Keep the cover's category sentence, sharpen the subtitle into present-state guessing versus future-state action, and rewrite the seed close so the last emotional beat is bringing people back before they drift away.
+
+Resulting 15-slide spine:
+1. Human conversation is the operating system for real-world social communities.
+2. The snapback: Technology got between us. Human conversation brings us back.
+3. The signal is already in the call.
+4. The market is moving beyond feeds and dashboards.
+5. Start where the missed return is measurable.
+6. The product gives staff the next right move.
+7. The conversation updates the system.
+8. The live lab makes the proof test real.
+9. The model is upside. The proof is repeatable returns.
+10. The moat is what members only tell a human.
+11. Every return makes the graph smarter.
+12. Each community makes the next one easier to activate.
+13. Run the loop by hand. Productize what repeats.
+14. We live inside the problem before we sell the software.
+15. Back the operating system that brings people back.
