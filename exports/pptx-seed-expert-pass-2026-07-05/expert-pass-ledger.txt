@@ -76,9 +76,13 @@ Pass 18 - Synthetic LP committee lens
 Critique: The one remaining Monday-partner-meeting objection is scale: is Human Conversation a venture company or a clever services layer for one pickleball club?
 Deck action: Strengthen the expansion and business-model slides so the answer is explicit: clubs are the wedge, not the ceiling; run the first loops by hand until software owns the repeatable sales engine for community builders.
 
+Pass 19 - Mike Maples seed narrative lens
+Critique: The deck needed a sharper now-or-never inflection. Seed investors fund movements when a behavioral shift and a technology shift collide, not just when a product is sensible.
+Deck action: Reframe slide 2 as "The snapback" and make the timing explicit: AI can now handle the computer work at the exact moment communities need people back in the room.
+
 Resulting 15-slide spine:
 1. Human conversation is the operating system for real-world social communities.
-2. Technology got between us. Human conversation brings us back.
+2. The snapback: Technology got between us. Human conversation brings us back.
 3. One human conversation tells you how people feel.
 4. Not another chat app.
 5. The wedge is one person drifting.
