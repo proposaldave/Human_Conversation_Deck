@@ -220,6 +220,27 @@ Resulting 15-slide spine:
 14. We live inside the problem before we sell the software.
 15. Back the operating system for real-world social communities.
 
+Pass 46 - Synthetic world-class competitive-positioning AI lens
+Critique: Slide 10 had the right moat claim, but the subtitle still gave calendars too much parity by saying both systems "store" things. A competitive moat slide should make the asymmetry obvious: calendars know attendance; Human Conversation learns the reasons and relationships behind attendance.
+Deck action: Keep the live-source title, then sharpen the subtitle to calendars know when someone came while Human Conversation learns why they return, hesitate, belong, and lead. Rename the six signals from generic data labels into relationship-memory categories: availability, barrier, desire, belonging, hesitation, and mobilizers.
+
+Resulting 15-slide spine:
+1. Human conversation is the operating system for real-world social communities.
+2. The snapback: Technology got between us. Human conversation brings us back.
+3. The signal is already in the call.
+4. The market is moving beyond feeds.
+5. Start with the person who almost came back.
+6. The product gives staff the next right move.
+7. The conversation updates the system.
+8. The live lab turns execution risk into weekly proof.
+9. The budget is unused court time and missed returns.
+10. The moat is what members only tell a human.
+11. Every return makes the graph smarter.
+12. Each community makes the next one easier to activate.
+13. Run the loop by hand. Productize what repeats.
+14. We live inside the problem before we sell the software.
+15. Back the operating system for real-world social communities.
+
 Pass 38 - Synthetic world-class product-led growth AI lens
 Critique: The wedge slide had the right human story, but its verbs were less repeatable than the product habit. A PLG-quality activation loop should sound like something a buyer can run every week and a product can make easier over time.
 Deck action: Align slide 5 to the live web deck's Spot / Call / Act / Learn sequence, turning the missed-return story into a memorable activation loop: spot drift, call to learn why, act with a real-world next move, and learn from the outcome.
