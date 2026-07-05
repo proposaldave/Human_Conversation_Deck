@@ -891,3 +891,24 @@ Resulting 15-slide spine:
 13. The manual work proves what software must own.
 14. We control the lab, product, and buyer path.
 15. Seed answers the service-to-software question.
+
+Pass 70 - Synthetic elite seed-market skeptic lens
+Critique: Slides 10-12 had a strong moat idea, but a skeptical seed market reader could still ask whether this is proprietary enough to become a market. The answer should be sharper: return reasons are earned raw material, answers become reusable moves, and the first market is the operator category paid to bring people back.
+Deck action: Reframe slide 10 as proprietary raw material, slide 11 as answers becoming compounding moves, and slide 12 as owning one operator market before widening.
+
+Resulting 15-slide spine:
+1. Human Conversation brings people back to real communities.
+2. Community software records activity. It misses drift.
+3. The return signal lives in the call.
+4. AI can now turn conversation into operating software.
+5. The first use case is one person drifting out.
+6. Drift becomes a call, a memory, and a next move.
+7. Every conversation becomes operating memory.
+8. One club has enough volume to tune the engine.
+9. The proof is revenue lift without staff drag.
+10. Return reasons are the proprietary raw material.
+11. The moat compounds when answers become moves.
+12. Own return reasons in one operator market first.
+13. The manual work proves what software must own.
+14. We control the lab, product, and buyer path.
+15. Seed answers the service-to-software question.

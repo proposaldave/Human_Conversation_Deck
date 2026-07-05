@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 34 public expert lenses, 34 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 34 public expert lenses, 35 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -59,11 +59,11 @@ Live deck ideas incorporated:
 - The proof is revenue lift without staff drag.
 - Seed gate: utilization, margin, and staff minutes must improve together.
 - Turn one proven club loop into repeatable software.
-- The secret is why someone returns.
-- No profile, clickstream, or booking system can see it. A human has to earn the answer.
-- Every answer makes the next action harder to copy.
-- Own the return-reason market before expanding.
-- Start small, own the first return loop, then expand through operators with the same attendance job.
+- Return reasons are the proprietary raw material.
+- The answer only exists after a trusted human asks, hears, and records what would bring someone back.
+- The moat compounds when answers become moves.
+- Own return reasons in one operator market first.
+- Start with clubs, prove the attendance job, then expand to operators paid to bring people back.
 - The market is every community where someone owns attendance, belonging, trust, and return.
 - The manual work proves what software must own.
 - We control the lab, product, and buyer path.
