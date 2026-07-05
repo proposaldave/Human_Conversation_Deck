@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 36 public expert lenses, 37 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 37 public expert lenses, 37 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -39,6 +39,7 @@ Public expert sources reviewed:
 - Keith Rabois, public operating-leverage and startup-operating guidance, https://www.khoslaventures.com/team/keith-rabois/, https://ulisten.ai/channels/yc-root-access/lecture-14-how-to-operate-keith-rabois_6fQHLK1aIBs, https://www.saastr.com/keith-rabois-khosla-ventures-building-amazing-teams-video-transcript/, and https://www.lennysnewsletter.com/p/hard-truths-about-building-in-the-ai-era, reviewed 2026-07-05
 - Elad Gil, public seed-stage and fundraising-process guidance, https://blog.eladgil.com/p/how-funding-rounds-differ-seed-series and https://blog.eladgil.com/p/tactics-for-how-to-raise-vc-round-or, reviewed 2026-07-05
 - Paul Graham, public do-things-that-do-not-scale and fundraising guidance, https://paulgraham.com/ds.html and https://paulgraham.com/fr.html, reviewed 2026-07-05
+- Marc Andreessen, public product-market fit, software-category, and market-taking guidance, https://pmarchive.com/guide_to_startups_part4.html, https://a16z.com/why-software-is-eating-the-world/, and https://a16z.com/where-to-go-after-product-market-fit-an-interview-with-marc-andreessen/, reviewed 2026-07-05
 
 Live deck ideas incorporated:
 - Human Conversation brings people back to real communities.
@@ -72,9 +73,12 @@ Live deck ideas incorporated:
 - Seed gate: utilization, margin, and staff minutes must improve together.
 - Turn one proven club loop into repeatable software.
 - Return reasons are the proprietary raw material.
+- The proprietary asset is why people return.
 - The answer only exists after a trusted human asks, hears, and records what would bring someone back.
 - The moat compounds when answers become moves.
+- The product gets pulled forward by each return.
 - Own return reasons in one operator market first.
+- Win one operator market before expanding.
 - Start with clubs, prove the attendance job, then expand to operators paid to bring people back.
 - The market is every community where someone owns attendance, belonging, trust, and return.
 - Seed funds the repeatable system, not the manual work.

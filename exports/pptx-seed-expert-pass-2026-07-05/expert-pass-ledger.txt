@@ -996,3 +996,24 @@ Resulting 15-slide spine:
 13. Seed funds the repeatable system, not the manual work.
 14. The first milestone is inside our control.
 15. Seed buys a repeatable return engine.
+
+Pass 75 - Marc Andreessen / market-pull category lens
+Critique: Slides 10-12 were strong on proprietary signal, but an Andreessen-style market read should make the market pull clearer. The company is not selling abstract community software; it is turning an operator-paid return job into software, starting with one market that repeats the job often enough to win.
+Deck action: Reframe slide 10 as the proprietary asset of why people return, slide 11 as the product being pulled forward by each return, and slide 12 as winning one operator market before expanding.
+
+Resulting 15-slide spine:
+1. Human Conversation is the sales engine for real-world communities.
+2. Community software misses the person drifting away.
+3. The answer appears in the human call.
+4. AI turns the return loop into software.
+5. Start with one drifting person.
+6. Manual calls teach the product.
+7. Every call updates the next action.
+8. One club repeats the loop every week.
+9. Proof means more revenue without more drag.
+10. The proprietary asset is why people return.
+11. The product gets pulled forward by each return.
+12. Win one operator market before expanding.
+13. Seed funds the repeatable system, not the manual work.
+14. The first milestone is inside our control.
+15. Seed buys a repeatable return engine.
