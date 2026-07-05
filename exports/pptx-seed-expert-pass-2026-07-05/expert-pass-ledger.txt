@@ -1206,3 +1206,23 @@ Resulting 15-slide spine:
 13. Seed turns the manual loop into software.
 14. One club is the first milestone.
 15. Seed buys one proof cycle.
+
+Pass 85 - Guy Kawasaki public pitch-compression lens
+Critique: A Kawasaki-style pitch read favors fewer slides, larger claims, and less repeated explanation. The deck already had the right moat and compounding logic, but splitting "what people tell a human" and "the graph gets smarter" made one idea take two slides.
+Deck action: Remove the standalone compounding-graph slide, fold its earned-signal learning point into the data-moat slide, and keep the deck inside a tighter 14-slide seed read.
+
+Resulting 14-slide spine:
+1. The sales engine for real-world communities.
+2. Today's software sees activity after people drift.
+3. A human call reveals the return path.
+4. AI makes the next human move obvious.
+5. Start where drift is visible.
+6. Repeated manual work becomes software.
+7. Every call feeds the next one.
+8. One club creates enough loops to learn.
+9. The seed gate is three numbers moving together.
+10. The moat is what people tell a human.
+11. Start with operators paid to bring people back.
+12. Seed turns the manual loop into software.
+13. One club is the first milestone.
+14. Seed buys one proof cycle.
