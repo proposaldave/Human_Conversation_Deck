@@ -576,3 +576,24 @@ Resulting 15-slide spine:
 13. Run the loop by hand. Productize what repeats.
 14. We live inside the problem before we sell the software.
 15. Back the operating system that brings people back.
+
+Pass 55 - Andy Raskin strategic narrative lens
+Critique: The opening slides had strong language, but the first beat still introduced the product before the new game. Raskin's strategic narrative pattern pushes the deck to start with the big relevant change, name the old world losing, show the missing signal, and then introduce the new category.
+Deck action: Reframe slide 1 as AI moving community work back into human conversation, slide 2 as the old screen-based social software losing, slide 3 as the call where the return signal lives, and slide 4 as the new category of software that creates returns.
+
+Resulting 15-slide spine:
+1. AI is moving community work back into human conversation.
+2. The old social software pulled community onto screens.
+3. The call is where the return signal lives.
+4. The new category is software that creates returns.
+5. Enter through the smallest repeatable return.
+6. The product answers the staff's next three questions.
+7. The call becomes memory, invite, and follow-through.
+8. The live lab makes the proof test real.
+9. A repeatable return unlocks the same-court upside.
+10. The moat is reason-level memory no dashboard has.
+11. Every return makes the graph smarter.
+12. The same loop travels where someone owns attendance.
+13. Run the loop by hand. Productize what repeats.
+14. We live inside the problem before we sell the software.
+15. Back the operating system that brings people back.

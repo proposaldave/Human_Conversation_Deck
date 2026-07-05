@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 26 public expert lenses, 27 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 27 public expert lenses, 27 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -29,14 +29,15 @@ Public expert sources reviewed:
 - Mike Maples, public startup-inflection narrative guidance, reviewed 2026-07-05
 - Nancy Duarte, public Presentation Sparkline and contrast guidance, https://www.duarte.com/blog/ultimate-guide-to-contrast/, reviewed 2026-07-05
 - Don Valentine, public Sequoia market-first / target-big-markets guidance, https://www.foundersspace.com/fund-raising/don-valentine-sequoia-capital-target-big-markets/, reviewed 2026-07-05
+- Andy Raskin, public strategic narrative / greatest sales deck guidance, https://www.linkedin.com/pulse/greatest-sales-deck-ive-ever-seen-andy-raskin, reviewed 2026-07-05
 
 Live deck ideas incorporated:
-- AI moves the computer work into the background so communities can bring the right people back into the room.
-- Staff guess who to call. Human Conversation turns each call into person, context, action, and return.
-- The signal is already in the call.
-- Technology got between us. Human conversation brings us back.
+- AI is moving community work back into human conversation.
+- Human Conversation turns each call into person, reason, action, and return.
+- The call is where the return signal lives.
+- The old social software pulled community onto screens.
 - The next social layer is not another feed.
-- AI is moving community software from screens to returns.
+- The new category is software that creates returns.
 - Right person. Right reason. Real return.
 - Who needs a conversation, what to ask, and what should happen next.
 - The wedge is narrow, frequent, and emotional: one drifted member, one human call, one next action.
