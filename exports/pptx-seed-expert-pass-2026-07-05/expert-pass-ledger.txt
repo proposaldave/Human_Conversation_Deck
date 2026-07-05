@@ -157,6 +157,27 @@ Resulting 15-slide spine:
 14. We live inside the problem before we sell the software.
 15. Back the operating system for real-world social communities.
 
+Pass 41 - Bill Gurley business-model rigor lens
+Critique: The business-model slide was directionally right, but still too easy to read as a services bridge. A rigorous venture model should show the conversion mechanism: do the work manually, isolate the repeatable loop, then sell the software embedded in that workflow.
+Deck action: Align slide 13 with the live deck's wedge-to-software framing. Reframe the title as running the loop by hand and productizing what repeats, replace Proof with Learning loop, and make the software card sell the sales engine inside the workflow rather than a generic tool.
+
+Resulting 15-slide spine:
+1. Human conversation is the operating system for real-world social communities.
+2. The snapback: Technology got between us. Human conversation brings us back.
+3. One human conversation tells you how people feel.
+4. The market is moving beyond feeds.
+5. Start with the person who almost came back.
+6. The product is one simple loop.
+7. The conversation updates the system.
+8. The live lab turns execution risk into weekly proof.
+9. Clubs already have the courts. They need the follow-up engine.
+10. The moat is what members only tell a human.
+11. Every return makes the graph smarter.
+12. Each community makes the next one easier to activate.
+13. Run the loop by hand. Productize what repeats.
+14. We live inside the problem before we sell the software.
+15. Back the operating system for real-world social communities.
+
 Pass 38 - Synthetic world-class product-led growth AI lens
 Critique: The wedge slide had the right human story, but its verbs were less repeatable than the product habit. A PLG-quality activation loop should sound like something a buyer can run every week and a product can make easier over time.
 Deck action: Align slide 5 to the live web deck's Spot / Call / Act / Learn sequence, turning the missed-return story into a memorable activation loop: spot drift, call to learn why, act with a real-world next move, and learn from the outcome.
