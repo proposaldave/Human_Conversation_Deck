@@ -240,3 +240,24 @@ Resulting 15-slide spine:
 13. Earn the workflow by hand. Sell the software that repeats it.
 14. We live inside the problem before we sell the software.
 15. Back the operating system for real-world social communities.
+
+Pass 39 - April Dunford positioning lens
+Critique: The cover had a strong category headline, but the subtitle still made investors infer the buyer, job, and outcome. Positioning should say who it is for, what category it replaces, and what valuable result it creates.
+Deck action: Keep the operating-system headline, but sharpen slide 1's subtitle into the buyer-facing product job: a sales engine for community builders that tells them who to call, what to ask, and what brings people back. Add Return to the cover chips so the product loop lands immediately.
+
+Resulting 15-slide spine:
+1. Human conversation is the operating system for real-world social communities.
+2. The snapback: Technology got between us. Human conversation brings us back.
+3. One human conversation tells you how people feel.
+4. The market is moving beyond feeds.
+5. Start with the person who almost came back.
+6. The product is one simple loop.
+7. The conversation updates the system.
+8. The live lab turns execution risk into weekly proof.
+9. Clubs already have the courts. They need the follow-up engine.
+10. The moat is what members only tell a human.
+11. Every return makes the graph smarter.
+12. Each community makes the next one easier to activate.
+13. Earn the workflow by hand. Sell the software that repeats it.
+14. We live inside the problem before we sell the software.
+15. Back the operating system for real-world social communities.
