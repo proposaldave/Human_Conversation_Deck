@@ -199,6 +199,27 @@ Resulting 15-slide spine:
 14. We live inside the problem before we sell the software.
 15. Back the operating system for real-world social communities.
 
+Pass 42 - Synthetic world-class enterprise procurement AI lens
+Critique: Slide 9 was credible about the planning model, but an enterprise buyer still had to infer the budget line. A procurement-quality slide should say the economic pain plainly: the club already paid for courts and staff; the missing workflow turns unused capacity and missed returns into measurable revenue.
+Deck action: Reframe slide 9 from a generic follow-up-engine line to the buyer budget: unused court time and missed returns. Keep every number labeled as planning/model evidence, and make the proof target utilization, returns, margin, and staff time before scaling.
+
+Resulting 15-slide spine:
+1. Human conversation is the operating system for real-world social communities.
+2. The snapback: Technology got between us. Human conversation brings us back.
+3. One human conversation tells you how people feel.
+4. The market is moving beyond feeds.
+5. Start with the person who almost came back.
+6. The product is one simple loop.
+7. The conversation updates the system.
+8. The live lab turns execution risk into weekly proof.
+9. The budget is unused court time and missed returns.
+10. The moat is what members only tell a human.
+11. Every return makes the graph smarter.
+12. Each community makes the next one easier to activate.
+13. Run the loop by hand. Productize what repeats.
+14. We live inside the problem before we sell the software.
+15. Back the operating system for real-world social communities.
+
 Pass 37 - Andy Rachleff market-timing lens
 Critique: The category slide was clear about not being another feed, but it still read like positioning. A great market-timing slide should make the pull obvious: communities are moving past engagement software and need tools that return people to real rooms.
 Deck action: Reframe slide 4 from a category negation to a market-pull statement, and make the AI role explicit: coordination disappears into the background while the visible product is the right person, room, and conversation.
