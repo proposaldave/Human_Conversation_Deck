@@ -120,6 +120,10 @@ Pass 29 - Roelof Botha seed discipline lens
 Critique: The close still sounded like a list of use-of-funds categories. A disciplined seed partner needs the one underwriting question and the proof gates that answer it.
 Deck action: Reframe slide 15 around the seed risk: does the loop repeat fast enough to become software? Keep the category close, tighten the proof gates, and make the learning-rate payoff explicit.
 
+Pass 30 - Synthetic world-class data-room diligence AI lens
+Critique: The live-lab proof slide had useful numbers, but the labels still sounded like a pitch instead of a diligence-ready source boundary. Historical operating rows, modeled planning targets, and current audited performance must never blur together.
+Deck action: Tighten slide 8's metric labels and source footer so investors see historical CourtReserve operating rows and observed soft-slot utilization, not an implied certified current KPI.
+
 Resulting 15-slide spine:
 1. Human conversation is the operating system for real-world social communities.
 2. The snapback: Technology got between us. Human conversation brings us back.
