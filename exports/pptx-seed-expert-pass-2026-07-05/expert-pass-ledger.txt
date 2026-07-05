@@ -786,3 +786,24 @@ Resulting 15-slide spine:
 13. Start manual. Prove repeatable. Then sell the loop.
 14. We can prove the loop before anyone else can sell it.
 15. Seed funds one proof: the return loop repeats.
+
+Pass 65 - Peter Thiel / contrarian monopoly lens
+Critique: Slides 10-12 had a data moat, but they still sounded too much like a useful graph. A Thiel-style read asks what secret others miss, how the advantage becomes harder to copy, and what tiny market can be owned before expansion.
+Deck action: Reframe slide 10 around the secret that return reasons only surface through earned human answers, slide 11 around compounding workflow advantage, and slide 12 around owning the return-reason market before expanding.
+
+Resulting 15-slide spine:
+1. AI will make the most important interface human again.
+2. The last social era pulled community out of the room.
+3. The signal that matters is why someone comes back.
+4. AI turns human conversation into software.
+5. The wedge is one person drifting out.
+6. Who to call. What to ask. What to do next.
+7. One conversation becomes the next invite.
+8. One club is enough when usage is frequent and the dollars move.
+9. The proof must show revenue lift and workflow leverage.
+10. The secret is why someone returns.
+11. Every answer makes the next action harder to copy.
+12. Own the return-reason market before expanding.
+13. Start manual. Prove repeatable. Then sell the loop.
+14. We can prove the loop before anyone else can sell it.
+15. Seed funds one proof: the return loop repeats.
