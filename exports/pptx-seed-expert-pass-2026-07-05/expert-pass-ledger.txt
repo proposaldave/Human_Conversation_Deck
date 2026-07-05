@@ -702,3 +702,24 @@ Resulting 15-slide spine:
 13. Earn the workflow by hand. Sell the software that repeats it.
 14. We own the proving ground before we sell the software.
 15. Back the return loop before it becomes obvious.
+
+Pass 61 - Steve Jobs / product-simplicity lens
+Critique: Slides 6-7 explained the workflow, but a Jobs-style product slide should make the user job feel obvious without operational vocabulary. Investors should understand the product in one glance: who to call, what to ask, what happens next.
+Deck action: Reframe slide 6 around the three plain product jobs, then reframe slide 7 as a one-call workflow where one conversation becomes the next invite.
+
+Resulting 15-slide spine:
+1. AI will make the most important interface human again.
+2. The last social era pulled community out of the room.
+3. The signal that matters is why someone comes back.
+4. AI opens the market for software that understands human intent.
+5. Start where intent is easiest to verify: one person drifting.
+6. Who to call. What to ask. What to do next.
+7. One conversation becomes the next invite.
+8. Start with one club where every return can be measured.
+9. The upside is large enough to make the proof worth running.
+10. The first network is return reasons, not profiles.
+11. Each return adds a pattern the next operator can use.
+12. The network expands through operators with the same job.
+13. Earn the workflow by hand. Sell the software that repeats it.
+14. We own the proving ground before we sell the software.
+15. Back the return loop before it becomes obvious.

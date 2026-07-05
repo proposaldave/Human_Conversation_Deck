@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 29 public expert lenses, 30 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 30 public expert lenses, 30 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -32,6 +32,7 @@ Public expert sources reviewed:
 - Andy Raskin, public strategic narrative / greatest sales deck guidance, https://www.linkedin.com/pulse/greatest-sales-deck-ive-ever-seen-andy-raskin, reviewed 2026-07-05
 - Ann Miura-Ko, public Floodgate mass-cognition / seed-market lens, https://www.floodgate.com/insights, reviewed 2026-07-05
 - Reid Hoffman, public LinkedIn pitch and network-scale guidance, https://www.reidhoffman.org/linkedin-pitch-to-greylock/, reviewed 2026-07-05
+- Steve Jobs, public iPhone launch and simplicity/product-focus sources, https://www.youtube.com/watch?v=MnrJzXM7a6o and https://www.smithsonianmag.com/arts-culture/how-steve-jobs-love-of-simplicity-fueled-a-design-revolution-23868877/, reviewed 2026-07-05
 
 Live deck ideas incorporated:
 - AI will make the most important interface human again.
@@ -43,10 +44,10 @@ Live deck ideas incorporated:
 - Person. Context. Action. Return.
 - Who needs a conversation, what to ask, and what should happen next.
 - The wedge is narrow, frequent, and emotional: one drifted member, one human call, one next action.
-- The first product is the workflow every operator repeats.
+- Who to call. What to ask. What to do next.
 - Start where intent is easiest to verify: one person drifting.
 - AI spots the drift. A human call learns why. The next action becomes an invite, intro, group, or leader path.
-- The call becomes memory, invite, and follow-through.
+- One conversation becomes the next invite.
 - Start with one club where every return can be measured.
 - The upside is large enough to make the proof worth running.
 - Investment test: returns must move utilization, margin, and staff time together.
