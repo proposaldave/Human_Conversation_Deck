@@ -1226,3 +1226,23 @@ Resulting 14-slide spine:
 12. Seed turns the manual loop into software.
 13. One club is the first milestone.
 14. Seed buys one proof cycle.
+
+Pass 86 - Synthetic elite first-20-seconds seed partner AI lens
+Critique: After the compression pass, the deck was tighter but the opening still made the investor feel the product before the human tension. A top cold-read seed partner should see the business claim, the emotional problem, and the proprietary call signal in the first three slides.
+Deck action: Pull the live deck's "Technology got between us" contrast into slide 2, make the subtitle about recorded activity versus missing conversation need, and sharpen slide 3 to "The return signal lives in the call."
+
+Resulting 14-slide spine:
+1. The sales engine for real-world communities.
+2. Technology got between us.
+3. The return signal lives in the call.
+4. AI makes the next human move obvious.
+5. Start where drift is visible.
+6. Repeated manual work becomes software.
+7. Every call feeds the next one.
+8. One club creates enough loops to learn.
+9. The seed gate is three numbers moving together.
+10. The moat is what people tell a human.
+11. Start with operators paid to bring people back.
+12. Seed turns the manual loop into software.
+13. One club is the first milestone.
+14. Seed buys one proof cycle.
