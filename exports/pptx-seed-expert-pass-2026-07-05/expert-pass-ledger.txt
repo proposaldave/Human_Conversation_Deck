@@ -100,12 +100,16 @@ Pass 24 - Synthetic world-class brand strategist
 Critique: The opening category thesis still sounded slightly defensive: "not another chat app" narrows the company to a software format. The live deck's stronger brand frame is bigger and cleaner: the next social layer is not another feed.
 Deck action: Reframe slide 4 around the larger category contrast while keeping the concrete product promise: get people back in the room, with AI handling who needs a conversation, what to ask, and what happens next.
 
+Pass 25 - Brian Chesky product/story lens
+Critique: The product sequence should begin with a designed human moment, not a process abstraction. A founder-grade product story makes the audience feel the person almost lost before it shows the loop.
+Deck action: Reframe slide 5 as a short storyboard: notice the missed return, listen for the real reason, invite them into the right group, and remember the outcome for the next call.
+
 Resulting 15-slide spine:
 1. Human conversation is the operating system for real-world social communities.
 2. The snapback: Technology got between us. Human conversation brings us back.
 3. One human conversation tells you how people feel.
 4. The next social layer is not another feed.
-5. The wedge is one person drifting.
+5. Start with the person who almost came back.
 6. The product is one simple loop.
 7. The conversation updates the system.
 8. The live lab turns execution risk into weekly proof.
