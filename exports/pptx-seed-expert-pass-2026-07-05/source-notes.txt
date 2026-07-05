@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 12 public expert lenses, 13 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 13 public expert lenses, 13 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -33,7 +33,7 @@ Live deck ideas incorporated:
 - The moat is what members only tell a human.
 - Every return makes the graph smarter.
 - Each community makes the next one easier to activate.
-- Run the loop by hand. Productize what repeats.
+- Earn the workflow by hand. Sell the software that repeats it.
 - Back the operating system for real-world social communities.
 
 Claims intentionally avoided:

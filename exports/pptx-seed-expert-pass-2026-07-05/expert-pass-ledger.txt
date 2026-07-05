@@ -108,6 +108,10 @@ Pass 26 - Synthetic world-class enterprise buyer lens
 Critique: The business-impact slide showed model upside but did not say the buyer problem plainly enough. A club owner already has expensive courts and staff; the missing product is the follow-up engine that turns latent demand into filled courts and stronger relationships.
 Deck action: Reframe slide 9 around the buyer's economic job: clubs already have the courts, they need the follow-up engine. Tighten the proof target around utilization lift, fill results, margin, and staff time.
 
+Pass 27 - Marc Benioff enterprise GTM lens
+Critique: The business-model slide needed to make the services-to-software path credible. Enterprise buyers trust software that already fits their daily workflow, and investors need to see how manual learning becomes a repeatable sales motion.
+Deck action: Reframe slide 13 as enterprise GTM: earn the workflow by hand, turn outcomes into a playbook, then sell the software that repeats the workflow inside the buyer's daily rhythm.
+
 Resulting 15-slide spine:
 1. Human conversation is the operating system for real-world social communities.
 2. The snapback: Technology got between us. Human conversation brings us back.
@@ -121,6 +125,6 @@ Resulting 15-slide spine:
 10. The moat is what members only tell a human.
 11. Every return makes the graph smarter.
 12. Each community makes the next one easier to activate.
-13. Run it by hand until the software owns the loop.
+13. Earn the workflow by hand. Sell the software that repeats it.
 14. We are inside the community before we sell the software.
 15. Back the operating system for real-world social communities.
