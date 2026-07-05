@@ -220,6 +220,27 @@ Resulting 15-slide spine:
 14. We live inside the problem before we sell the software.
 15. Back the operating system for real-world social communities.
 
+Pass 43 - Sarah Tavel engagement-loop lens
+Critique: Slides 11 and 12 had the right compounding claim, but the mechanism still read like a graph getting smarter in the abstract. A world-class engagement-loop read should make the repeated core action obvious: one human call creates a better invite, a better invite creates a return, and the return teaches the next action.
+Deck action: Keep the strong title on slide 11, but make the subtitle and chips show the loop: call learns, invite improves, return teaches. Tighten slide 12 so expansion starts where the loop repeats weekly, then carries reusable host, trust, follow-up, and return patterns into the next community.
+
+Resulting 15-slide spine:
+1. Human conversation is the operating system for real-world social communities.
+2. The snapback: Technology got between us. Human conversation brings us back.
+3. One human conversation tells you how people feel.
+4. The market is moving beyond feeds.
+5. Start with the person who almost came back.
+6. The product is one simple loop.
+7. The conversation updates the system.
+8. The live lab turns execution risk into weekly proof.
+9. The budget is unused court time and missed returns.
+10. The moat is what members only tell a human.
+11. Every return makes the graph smarter.
+12. Each community makes the next one easier to activate.
+13. Run the loop by hand. Productize what repeats.
+14. We live inside the problem before we sell the software.
+15. Back the operating system for real-world social communities.
+
 Pass 37 - Andy Rachleff market-timing lens
 Critique: The category slide was clear about not being another feed, but it still read like positioning. A great market-timing slide should make the pull obvious: communities are moving past engagement software and need tools that return people to real rooms.
 Deck action: Reframe slide 4 from a category negation to a market-pull statement, and make the AI role explicit: coordination disappears into the background while the visible product is the right person, room, and conversation.
