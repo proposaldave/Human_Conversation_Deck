@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 40 public expert lenses, 40 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 40 public expert lenses, 41 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -45,7 +45,9 @@ Public expert sources reviewed:
 
 Live deck ideas incorporated:
 - Human Conversation brings people back to real communities.
+- Human conversation is the operating system for real-world social communities.
 - Human Conversation is the sales engine for real-world communities.
+- The sales engine that gives community builders the next person, context, and action.
 - The sales engine for communities that need people back.
 - AI tells operators who needs a conversation, what to ask, and what next action will bring them back.
 - It tells operators who needs a conversation, what to ask, and what action brings them back.
@@ -56,7 +58,9 @@ Live deck ideas incorporated:
 - The answer appears in the human call.
 - A human call reveals the return path.
 - The next social layer is not another feed.
+- Not another chat app.
 - AI can now turn conversation into operating software.
+- AI handles the computer work: who needs a conversation, what to ask, and what should happen next.
 - AI turns the return loop into software.
 - Software points to the next conversation.
 - Person. Context. Next action. Return.
@@ -101,9 +105,11 @@ Live deck ideas incorporated:
 - Own return reasons in one operator market first.
 - Win one operator market before expanding.
 - Own attendance before expanding.
+- Clubs are the first real-world community market.
 - Racquet clubs are the first operator market because they feel drift weekly and can prove return, revenue, and staff load together.
 - Start with clubs, prove the attendance job, then expand to operators paid to bring people back.
 - The market is every community where someone owns attendance, belonging, trust, and return.
+- Back the operating system for real-world social communities.
 - Seed funds the repeatable system, not the manual work.
 - Seed proves the loop can become software.
 - Seed turns the manual loop into software.
@@ -114,6 +120,7 @@ Live deck ideas incorporated:
 - The round answers one question.
 - Seed buys one proof cycle.
 - Prove one club can repeat the return loop often enough to become software the next operator buys.
+- Start with one club. Build the sales engine for every community where people need to feel known.
 - If those proofs hold, the next round funds scaling a software category.
 - If yes, the next round scales the category, not the experiment.
 - Start with one club. Prove the loop repeats. Turn the repeatable work into software.
