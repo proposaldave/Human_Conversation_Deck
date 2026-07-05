@@ -116,6 +116,10 @@ Pass 28 - Synthetic world-class seed partner Monday-meeting lens
 Critique: The deck was strong, but the category thesis needed a sentence a partner can repeat cleanly in Monday meeting. "Gets people back in the room" is true; "right people, right room, right conversation" is more ownable and fundable.
 Deck action: Strengthen slide 4's gold answer line with the live-deck concept: Right people. Right room. Right conversation. Keep the category contrast and concrete AI workflow underneath.
 
+Pass 29 - Roelof Botha seed discipline lens
+Critique: The close still sounded like a list of use-of-funds categories. A disciplined seed partner needs the one underwriting question and the proof gates that answer it.
+Deck action: Reframe slide 15 around the seed risk: does the loop repeat fast enough to become software? Keep the category close, tighten the proof gates, and make the learning-rate payoff explicit.
+
 Resulting 15-slide spine:
 1. Human conversation is the operating system for real-world social communities.
 2. The snapback: Technology got between us. Human conversation brings us back.
