@@ -1059,3 +1059,24 @@ Resulting 15-slide spine:
 13. Seed proves the loop can become software.
 14. The first proof cycle is inside our control.
 15. The round answers one question.
+
+Pass 78 - Synthetic elite seed-partner cold-skim lens
+Critique: Slides 4-6 were directionally right, but a cold seed partner still had to infer the concrete product loop. The deck should make the mechanic repeatable in a 30-second skim: identify who needs a conversation, learn the return reason, take the next move, and convert repeated moves into software.
+Deck action: Reframe slide 4 around pointing to the next conversation, slide 5 around visible drift, and slide 6 around repeated manual work becoming software.
+
+Resulting 15-slide spine:
+1. The sales engine for communities that need people back.
+2. Today's software sees activity after people drift.
+3. A human call reveals the return path.
+4. Software points to the next conversation.
+5. Start where drift is visible.
+6. Repeated manual work becomes software.
+7. Every call updates the next action.
+8. One club repeats the loop every week.
+9. Proof means more revenue without more drag.
+10. The proprietary asset is why people return.
+11. The product gets pulled forward by each return.
+12. Win one operator market before expanding.
+13. Seed proves the loop can become software.
+14. The first proof cycle is inside our control.
+15. The round answers one question.

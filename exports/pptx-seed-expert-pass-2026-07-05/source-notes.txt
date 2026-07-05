@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 38 public expert lenses, 38 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 38 public expert lenses, 39 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -56,15 +56,21 @@ Live deck ideas incorporated:
 - The next social layer is not another feed.
 - AI can now turn conversation into operating software.
 - AI turns the return loop into software.
+- Software points to the next conversation.
 - Person. Context. Next action. Return.
+- Person. Reason. Action. Return.
 - Models can read context, remember intent, and trigger the next human action without putting the relationship on a screen.
 - Who needs a conversation, what to ask, and what should happen next.
 - The first use case is one person drifting out.
 - Start with one drifting person.
+- Start where drift is visible.
 - The signal is narrow, frequent, and emotional enough for AI to aim and humans to verify.
 - Drift becomes a call, a memory, and a next move.
 - Manual calls teach the product.
+- Repeated manual work becomes software.
 - AI spots the drift. A human call learns why. The next action becomes an invite, intro, group, or leader path.
+- Ask what would help them return.
+- Record the return reason.
 - Every conversation becomes operating memory.
 - Every call updates the next action.
 - One logged outcome updates the playbook, queues the next move, and makes follow-up visible.
