@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 28 public expert lenses, 29 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 29 public expert lenses, 29 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -31,6 +31,7 @@ Public expert sources reviewed:
 - Don Valentine, public Sequoia market-first / target-big-markets guidance, https://www.foundersspace.com/fund-raising/don-valentine-sequoia-capital-target-big-markets/, reviewed 2026-07-05
 - Andy Raskin, public strategic narrative / greatest sales deck guidance, https://www.linkedin.com/pulse/greatest-sales-deck-ive-ever-seen-andy-raskin, reviewed 2026-07-05
 - Ann Miura-Ko, public Floodgate mass-cognition / seed-market lens, https://www.floodgate.com/insights, reviewed 2026-07-05
+- Reid Hoffman, public LinkedIn pitch and network-scale guidance, https://www.reidhoffman.org/linkedin-pitch-to-greylock/, reviewed 2026-07-05
 
 Live deck ideas incorporated:
 - AI is moving community work back into human conversation.
@@ -50,10 +51,10 @@ Live deck ideas incorporated:
 - The upside is large enough to make the proof worth running.
 - Investment test: returns must move utilization, margin, and staff time together.
 - Turn one proven club loop into repeatable software.
-- The proprietary data is the reason someone returns.
-- Attendance says what happened. Human calls reveal why it happened and what changes the next invitation.
-- Each observed return teaches the next action.
-- Expansion waits for markets where return is owned.
+- The first network is return reasons, not profiles.
+- Profiles describe people. Return reasons show what brings them back, who helps, and which action works.
+- Each return adds a pattern the next operator can use.
+- The network expands through operators with the same job.
 - The market is every community where someone owns attendance, belonging, trust, and return.
 - Earn the workflow by hand. Sell the software that repeats it.
 - Earn the workflow by hand. Sell the software that repeats it.

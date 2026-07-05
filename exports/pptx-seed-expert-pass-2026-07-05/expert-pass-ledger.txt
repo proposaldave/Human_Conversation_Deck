@@ -660,3 +660,24 @@ Resulting 15-slide spine:
 13. Earn the workflow by hand. Sell the software that repeats it.
 14. We own the proving ground before we sell the software.
 15. Back the return loop before it becomes obvious.
+
+Pass 59 - Reid Hoffman / network-effects lens
+Critique: Slides 10-12 had a credible data and expansion story, but they still read like a proprietary-database claim. Hoffman-style network thinking pushes the deck to show the first network, the first business built on that network, and why expansion becomes easier as the playbook travels.
+Deck action: Reframe slide 10 around return reasons as the first network, slide 11 around each observed return adding a reusable operator pattern, and slide 12 around expansion through operators with the same owned-attendance job.
+
+Resulting 15-slide spine:
+1. AI is moving community work back into human conversation.
+2. The old social software pulled community onto screens.
+3. The call is where the return signal lives.
+4. AI opens the market for software that understands human intent.
+5. Start where intent is easiest to verify: one person drifting.
+6. The first product is the workflow every operator repeats.
+7. The call becomes memory, invite, and follow-through.
+8. Start with one club where every return can be measured.
+9. The upside is large enough to make the proof worth running.
+10. The first network is return reasons, not profiles.
+11. Each return adds a pattern the next operator can use.
+12. The network expands through operators with the same job.
+13. Earn the workflow by hand. Sell the software that repeats it.
+14. We own the proving ground before we sell the software.
+15. Back the return loop before it becomes obvious.
