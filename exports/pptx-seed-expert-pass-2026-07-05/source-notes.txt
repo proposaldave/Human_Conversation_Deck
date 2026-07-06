@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05 and refreshed 2026-07-06
-- expert-pass-ledger.txt with 71 public expert lenses, 72 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 72 public expert lenses, 72 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -28,6 +28,7 @@ Public expert sources reviewed:
 - Peep Laja, public conversion clarity and value proposition guidance, https://cxl.com/blog/value-proposition-examples-how-to-create/, reviewed 2026-07-05 and refreshed 2026-07-06 for pass 129
 - Mike Maples, public startup-inflection and insight guidance, https://www.floodgate.com/insights/how-inflections-let-startups-change-the-rules and https://www.floodgate.com/insights/why-insights-are-the-secret-to-outlier-startups, reviewed 2026-07-06
 - Clayton Christensen / Christensen Institute, public Jobs-to-be-Done guidance, https://www.christenseninstitute.org/theory/jobs-to-be-done/ and https://www.library.hbs.edu/working-knowledge/clay-christensens-milkshake-marketing, reviewed 2026-07-06 and refreshed 2026-07-06 for pass 143
+- Paul Graham, public Do Things that Don't Scale essay, https://www.paulgraham.com/ds.html, reviewed 2026-07-06 for pass 145
 - David Skok, public SaaS metrics and go-to-market economic model guidance, https://www.forentrepreneurs.com/saas-metrics-2/ and https://openviewpartners.com/blog/keys-to-a-profitable-saas-sales-model/, reviewed 2026-07-06
 - Andrew Chen, public Cold Start Problem / atomic network guidance, https://andrewchen.com/solve-a-hard-problem-cold-start-problem/ and https://www.coldstart.com/, reviewed 2026-07-06
 - Marty Cagan / SVPG, public product-risk guidance, https://www.svpg.com/four-big-risks/ and https://www.svpg.com/discovery-judgement/, reviewed 2026-07-06 and refreshed 2026-07-06 for pass 127
@@ -124,6 +125,11 @@ Live deck ideas incorporated:
 - Manual calls teach the product.
 - Repeated manual work becomes software.
 - Run the loop by hand. Productize what repeats.
+- Do the return calls by hand until software is obvious.
+- Manual work recruits the first users, creates the experience, and shows what operators will pay to repeat.
+- Recruit: call the drifting member.
+- Delight: make the return feel personal.
+- Automate: build only what repeats.
 - Do the calls by hand until software is obvious.
 - Manual calls turn guesses into product evidence.
 - Concierge: do the calls that bring people back.

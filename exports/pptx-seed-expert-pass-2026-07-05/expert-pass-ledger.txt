@@ -2406,3 +2406,23 @@ Resulting 14-slide spine:
 12. Run the loop by hand. Productize what repeats.
 13. Seed proves the return engine can repeat.
 14. Back the operating system for real-world social communities.
+
+Pass 145 - Paul Graham public Do Things that Don't Scale lens
+Critique: Slide 12 had the right services-to-software idea, but the visible business-model language still made manual work feel like a transitional tactic. Paul Graham's public "Do Things that Don't Scale" essay says early manual recruiting, delight, and doing software's job by hand are how startups learn what to build. The live Human Conversation deck supports this with "Turn one proven club loop into repeatable software."
+Deck action: Reframe slide 12 as the concierge loop: recruit the drifting member, delight with a personal return, and automate only what repeats.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology became the intermediary. Human Conversation removes it.
+3. One Human Conversation tells you how people feel.
+4. Disconnection has a path back.
+5. Community operators hire Human Conversation to bring people back.
+6. Trust becomes the data layer for community.
+7. The wedge is one person drifting.
+8. The live lab creates repeatable sales loops.
+9. The seed metric is whether people come back.
+10. Every return makes the graph smarter.
+11. Racquet clubs are the first market to win.
+12. Do the return calls by hand until software is obvious.
+13. Seed proves the return engine can repeat.
+14. Back the operating system for real-world social communities.
