@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 47 public expert lenses, 48 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 48 public expert lenses, 48 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -133,6 +133,15 @@ Live deck ideas incorporated:
 - Return reasons are the proprietary raw material.
 - The proprietary asset is why people return.
 - The moat is what people tell a human.
+- Trust creates the data others cannot buy.
+- Bookings show activity. Trusted conversations reveal why someone returns and which move works again.
+- Return reason: Why someone stopped.
+- Live context: Schedule, confidence, fit.
+- Next move: Invite, intro, host path.
+- Measured result: Returned, deferred, declined.
+- Trust signal: Who makes them feel known.
+- Repeat pattern: Which move works again.
+- The power compounds when trusted answers become repeatable moves.
 - Bookings show activity. Human conversations reveal the reason, context, move, result, helper, and pattern ordinary systems cannot infer.
 - Bookings show activity. Human conversations reveal the reason, context, move, result, belonging, and pattern ordinary systems cannot infer.
 - Belonging: who makes them feel known.
