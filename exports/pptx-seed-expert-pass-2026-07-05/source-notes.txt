@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05 and refreshed 2026-07-06
-- expert-pass-ledger.txt with 73 public expert lenses, 74 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 74 public expert lenses, 74 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -30,7 +30,7 @@ Public expert sources reviewed:
 - Clayton Christensen / Christensen Institute, public Jobs-to-be-Done guidance, https://www.christenseninstitute.org/theory/jobs-to-be-done/ and https://www.library.hbs.edu/working-knowledge/clay-christensens-milkshake-marketing, reviewed 2026-07-06 and refreshed 2026-07-06 for pass 143
 - Paul Graham, public Do Things that Don't Scale essay, https://www.paulgraham.com/ds.html, reviewed 2026-07-06 for pass 145
 - Richard Rumelt, public Good Strategy Bad Strategy source page, https://www.amazon.com/Good-Strategy-Bad-Difference-Matters/dp/0307886239, reviewed 2026-07-06 for pass 147
-- David Skok, public SaaS metrics and go-to-market economic model guidance, https://www.forentrepreneurs.com/saas-metrics-2/ and https://openviewpartners.com/blog/keys-to-a-profitable-saas-sales-model/, reviewed 2026-07-06
+- David Skok, public SaaS metrics and go-to-market economic model guidance, https://www.forentrepreneurs.com/saas-metrics-2/ and https://openviewpartners.com/blog/keys-to-a-profitable-saas-sales-model/, reviewed 2026-07-06 for pass 149
 - Andrew Chen, public Cold Start Problem / atomic network guidance, https://andrewchen.com/solve-a-hard-problem-cold-start-problem/ and https://www.coldstart.com/, reviewed 2026-07-06
 - Marty Cagan / SVPG, public product-risk guidance, https://www.svpg.com/four-big-risks/ and https://www.svpg.com/discovery-judgement/, reviewed 2026-07-06 and refreshed 2026-07-06 for pass 127
 - Kathy Sierra, public Building the Minimum Badass User / user-success guidance, https://businessofsoftware.org/2013/02/kathy-sierra-building-the-minimum-badass-user-business-of-software-a-masterclass-in-thinking-about-software-product-development/ and https://www.amazon.com/Badass-Making-Awesome-Kathy-Sierra/dp/1491919019, reviewed 2026-07-06
@@ -199,8 +199,8 @@ Live deck ideas incorporated:
 - The seed gate is repeated return behavior.
 - The seed metric is repeated return behavior.
 - The model only matters if return behavior repeats.
-- The seed metric is whether people come back.
-- Investment gate: contacted people return, returns repeat, and staff minutes stay flat.
+- If people come back, the business can accelerate.
+- Acceleration gate: contacted people return, returns repeat, and staff minutes stay flat.
 - Target utilization lift.
 - Value per lift point.
 - Upside if returns repeat.

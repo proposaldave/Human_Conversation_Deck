@@ -2447,6 +2447,26 @@ Resulting 14-slide spine:
 13. Seed proves the return engine can repeat.
 14. Turn one proven club loop into repeatable software.
 
+Pass 149 - David Skok public SaaS metrics acceleration-gate lens
+Critique: Slide 9 had the right modeled numbers, but the title still described the metric instead of telling investors what the metric decides. David Skok's public SaaS metrics guidance frames metrics as the management system for viability, levers, and whether to hit the accelerator or brakes. For Human Conversation, the seed proof is not just "people came back"; it is that repeatable returns justify acceleration without adding staff drag.
+Deck action: Reframe slide 9 as an acceleration gate: if contacted people return, returns repeat, and staff minutes stay flat, seed capital has a clear go-fast signal.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology became the intermediary. Human Conversation removes it.
+3. One Human Conversation tells you how people feel.
+4. Disconnection has a practical path back.
+5. Community operators hire Human Conversation to bring people back.
+6. Trust becomes the data layer for community.
+7. The wedge is one person drifting.
+8. The live lab creates repeatable sales loops.
+9. If people come back, the business can accelerate.
+10. Every return makes the graph smarter.
+11. Racquet clubs are the first market to win.
+12. Do the return calls by hand until software is obvious.
+13. Seed proves the return engine can repeat.
+14. Turn one proven club loop into repeatable software.
+
 Pass 148 - Synthetic elite AI first-10-seconds clarity lens
 Critique: Slide 1 had the right title, but the subtitle still read like a labeled feature list. A top synthetic seed-deck opening reviewer would make the first 10 seconds impossible to misunderstand: what Human Conversation is, who buys it, and what it gives them. The live Human Conversation deck already has the cleaner line: "The sales engine that gives community builders the next person, context, and action."
 Deck action: Pull the live deck's cover subtitle into slide 1 and align the chips/context line around person, context, action, and return.
