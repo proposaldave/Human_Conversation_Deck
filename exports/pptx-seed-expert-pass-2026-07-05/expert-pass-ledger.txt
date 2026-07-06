@@ -2447,6 +2447,26 @@ Resulting 14-slide spine:
 13. Seed proves the return engine can repeat.
 14. Turn one proven club loop into repeatable software.
 
+Pass 150 - Synthetic elite AI product-vocabulary consistency lens
+Critique: Slide 5 had the right buyer and wedge, but it still used "reason" while the live Human Conversation deck and the current PPTX cover use the cleaner product vocabulary: person, context, action, return. A top synthetic seed-deck reviewer would remove that mismatch because repeated product language makes the deck easier to repeat after one read.
+Deck action: Align slide 5 to the live deck's product grammar by replacing "reason" with "context" and making the context card say what matters now.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology became the intermediary. Human Conversation removes it.
+3. One Human Conversation tells you how people feel.
+4. Disconnection has a practical path back.
+5. Community operators hire Human Conversation to bring people back.
+6. Trust becomes the data layer for community.
+7. The wedge is one person drifting.
+8. The live lab creates repeatable sales loops.
+9. If people come back, the business can accelerate.
+10. Every return makes the graph smarter.
+11. Racquet clubs are the first market to win.
+12. Do the return calls by hand until software is obvious.
+13. Seed proves the return engine can repeat.
+14. Turn one proven club loop into repeatable software.
+
 Pass 149 - David Skok public SaaS metrics acceleration-gate lens
 Critique: Slide 9 had the right modeled numbers, but the title still described the metric instead of telling investors what the metric decides. David Skok's public SaaS metrics guidance frames metrics as the management system for viability, levers, and whether to hit the accelerator or brakes. For Human Conversation, the seed proof is not just "people came back"; it is that repeatable returns justify acceleration without adding staff drag.
 Deck action: Reframe slide 9 as an acceleration gate: if contacted people return, returns repeat, and staff minutes stay flat, seed capital has a clear go-fast signal.
