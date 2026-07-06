@@ -2366,3 +2366,23 @@ Resulting 14-slide spine:
 12. Run the loop by hand. Productize what repeats.
 13. Seed proves product, market, and user base.
 14. Back the operating system for real-world social communities.
+
+Pass 143 - Clayton Christensen public Jobs-to-Be-Done lens
+Critique: Slide 5 said what the product does, but a Jobs-to-Be-Done read should make the hiring reason explicit. Operators are not buying another feature set; they are hiring Human Conversation to make progress on a specific job: bring people back before the relationship breaks.
+Deck action: Reframe slide 5 around the operator job and replace the workflow cards with the job ingredients: person, reason, action, return.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology became the intermediary. Human Conversation removes it.
+3. One Human Conversation tells you how people feel.
+4. Disconnection has a path back.
+5. Community operators hire Human Conversation to bring people back.
+6. Trust becomes the data layer for community.
+7. The wedge is one person drifting.
+8. The live lab creates repeatable sales loops.
+9. The seed metric is whether people come back.
+10. Every return makes the graph smarter.
+11. Racquet clubs are the first market to win.
+12. Run the loop by hand. Productize what repeats.
+13. Seed proves product, market, and user base.
+14. Back the operating system for real-world social communities.
