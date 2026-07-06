@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 44 public expert lenses, 45 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 45 public expert lenses, 45 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -46,6 +46,7 @@ Public expert sources reviewed:
 - Guy Kawasaki, public 10/20/30 pitch rule, https://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/, reviewed 2026-07-05
 - Michael Seibel / YC seed pitch clarity guidance, https://www.saastr.com/how-to-pitch-your-seed-stage-startup-with-y-combinators-michael-seibel/, reviewed 2026-07-05
 - Geoffrey Moore, public Crossing the Chasm / beachhead market guidance, https://www.lennysnewsletter.com/p/geoffrey-moore-on-finding-your-beachhead, reviewed 2026-07-05
+- Steve Blank, public lean startup / customer development guidance, https://hbr.org/2013/05/why-the-lean-start-up-changes-everything, reviewed 2026-07-05
 
 Live deck ideas incorporated:
 - Human Conversation brings people back to real communities.
@@ -92,6 +93,11 @@ Live deck ideas incorporated:
 - Every call feeds the next one.
 - The output of one call becomes the input for the next prompt, invite, intro, and follow-up.
 - One logged outcome updates the playbook, queues the next move, and makes follow-up visible.
+- Each call turns a guess into a move.
+- A human conversation tests what will bring someone back, then updates the prompt, invite, intro, and follow-up.
+- Before call: best guess about why they drifted.
+- During call: real reason and return move.
+- After call: next test enters the workflow.
 - Start with one club where every return can be measured.
 - One club has enough volume to tune the engine.
 - One club repeats the loop every week.

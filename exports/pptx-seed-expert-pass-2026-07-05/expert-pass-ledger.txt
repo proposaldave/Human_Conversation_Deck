@@ -1326,3 +1326,23 @@ Resulting 14-slide spine:
 12. Seed turns the manual loop into software.
 13. The team is inside the first proof environment.
 14. Back the operating system for real-world communities.
+
+Pass 91 - Steve Blank public customer-development lens
+Critique: Slide 7 showed a clean workflow, but a Steve Blank read wants the customer discovery mechanic: the team starts with a guess, tests it in the conversation, and turns the learned fact into the next experiment.
+Deck action: Reframe slide 7 from "every call feeds the next one" to a customer-learning loop: before call, during call, after call.
+
+Resulting 14-slide spine:
+1. The sales engine for real-world communities.
+2. Technology got between us.
+3. The return signal lives in the call.
+4. AI makes the next human move obvious.
+5. Start where drift is visible.
+6. Repeated manual work becomes software.
+7. Each call turns a guess into a move.
+8. One club creates enough loops to learn.
+9. The seed gate is three numbers moving together.
+10. The moat is what people tell a human.
+11. Racquet clubs prove the return job first.
+12. Seed turns the manual loop into software.
+13. The team is inside the first proof environment.
+14. Back the operating system for real-world communities.
