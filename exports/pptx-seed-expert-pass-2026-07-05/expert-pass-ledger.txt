@@ -2226,3 +2226,23 @@ Resulting 14-slide spine:
 12. Recovered attendance funds the software.
 13. We test the hard risks inside the club.
 14. Seed proves one club can become software.
+
+Pass 136 - Synthetic elite AI closing-ask lens
+Critique: The final slide still sounded like an internal milestone. A top synthetic investor reviewer would make the close ask investors to back the category-level company, while the cards underneath explain the proof plan. The live Human Conversation deck has the stronger final line: back the operating system for real-world social communities.
+Deck action: Reframe slide 14 from proof-summary to investor action and pull the live deck's one-club-to-category support line into the subtitle.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology became the intermediary. Human Conversation removes it.
+3. Human Conversation reveals felt connection.
+4. Disconnection has a path back.
+5. The product gets people back in the room.
+6. Trust becomes the data layer for community.
+7. The wedge is one person drifting.
+8. The live lab tests the return loop every week.
+9. The seed metric is repeated return behavior.
+10. Every return makes the graph smarter.
+11. Racquet clubs see drift every week.
+12. Recovered attendance funds the software.
+13. We test the hard risks inside the club.
+14. Back the operating system for real-world social communities.
