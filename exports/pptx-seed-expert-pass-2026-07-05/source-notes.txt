@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05 and refreshed 2026-07-06
-- expert-pass-ledger.txt with 60 public expert lenses, 60 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 60 public expert lenses, 61 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -178,8 +178,10 @@ Live deck ideas incorporated:
 - Return reasons are the proprietary raw material.
 - The proprietary asset is why people return.
 - The moat is what people tell a human.
+- The moat is what members only tell a human.
 - Trust creates the graph others cannot buy.
 - The first club teaches who returns, why they return, and which move works again.
+- A trusted call reveals why they stopped, who helps, and which move works again.
 - Return reason: Why someone stopped.
 - Live context: Schedule, confidence, fit.
 - Next move: Invite, intro, host path.

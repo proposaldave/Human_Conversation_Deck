@@ -1946,3 +1946,23 @@ Resulting 14-slide spine:
 12. Operators pay when they ask to run it again.
 13. We are inside the community before we sell.
 14. Back the operating system operators will buy.
+
+Pass 122 - Synthetic elite AI moat-clarity reviewer lens
+Critique: Slide 10 had the right proprietary-signal grid, but the title still asked investors to accept an abstract graph claim. The live Human Conversation deck has the clearer moat sentence: the defensibility is what members only tell a human.
+Deck action: Reframe slide 10 title and subtitle around human-only disclosure, while keeping the six-signal grid intact.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. Human Conversation shows how people feel.
+4. Disconnection has a path back.
+5. AI handles the computer work.
+6. Run the loop by hand. Productize what repeats.
+7. Each call creates the next action.
+8. The live lab tests the return loop every week.
+9. The seed metric is whether people come back.
+10. The moat is what members only tell a human.
+11. Racquet clubs hire this to bring people back.
+12. Operators pay when they ask to run it again.
+13. We are inside the community before we sell.
+14. Back the operating system operators will buy.
