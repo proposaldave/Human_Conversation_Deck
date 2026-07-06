@@ -1606,3 +1606,23 @@ Resulting 14-slide spine:
 12. Operators buy the workflow once it pays for itself.
 13. The team can run the proof loop themselves.
 14. Back the proof loop operators will buy.
+
+Pass 105 - Clayton Christensen public Jobs-to-be-Done lens
+Critique: Slide 11 had the right beachhead logic, but the buyer's job was still implied. A Jobs-to-be-Done read should say what racquet clubs are hiring the product to do: bring people back, repeatedly enough to prove the next operator market.
+Deck action: Reframe slide 11 from a reference-market label into the job and reference-buyer logic, while preserving racquet clubs as the beachhead.
+
+Resulting 14-slide spine:
+1. The sales engine for real-world communities.
+2. Technology got between us.
+3. The return signal lives in the call.
+4. AI makes the next human move obvious.
+5. AI can see drift before software loses the relationship.
+6. Manual calls turn guesses into product evidence.
+7. Each call turns a guess into a move.
+8. The live lab creates repeatable sales loops.
+9. The model only matters if return behavior repeats.
+10. Trust creates the data others cannot buy.
+11. Racquet clubs hire this to bring people back.
+12. Operators buy the workflow once it pays for itself.
+13. The team can run the proof loop themselves.
+14. Back the proof loop operators will buy.
