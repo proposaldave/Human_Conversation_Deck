@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 43 public expert lenses, 44 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 44 public expert lenses, 44 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -45,6 +45,7 @@ Public expert sources reviewed:
 - April Dunford, public positioning quickstart guidance, https://www.aprildunford.com/post/a-quickstart-guide-to-positioning, reviewed 2026-07-05
 - Guy Kawasaki, public 10/20/30 pitch rule, https://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/, reviewed 2026-07-05
 - Michael Seibel / YC seed pitch clarity guidance, https://www.saastr.com/how-to-pitch-your-seed-stage-startup-with-y-combinators-michael-seibel/, reviewed 2026-07-05
+- Geoffrey Moore, public Crossing the Chasm / beachhead market guidance, https://www.lennysnewsletter.com/p/geoffrey-moore-on-finding-your-beachhead, reviewed 2026-07-05
 
 Live deck ideas incorporated:
 - Human Conversation brings people back to real communities.
@@ -125,10 +126,13 @@ Live deck ideas incorporated:
 - Clubs are the first real-world community market.
 - Start with operators paid to bring people back.
 - Racquet clubs prove the return job first.
-- Then sell to operators paid to restore attendance, belonging, revenue, and trust.
 - Racquet clubs are the first operator market because they feel drift weekly and can prove return, revenue, and staff load together.
 - Start with clubs, prove the attendance job, then expand to operators paid to bring people back.
 - The market is every community where someone owns attendance, belonging, trust, and return.
+- Win one repeatable return workflow before adjacent expansion.
+- Beachhead: racquet clubs.
+- Proof: return workflow repeats.
+- Next: adjacent attendance operators.
 - Back the operating system for real-world social communities.
 - Seed funds the repeatable system, not the manual work.
 - Seed proves the loop can become software.
