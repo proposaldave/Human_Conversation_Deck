@@ -1486,3 +1486,23 @@ Resulting 14-slide spine:
 12. The return loop becomes operator software.
 13. The team can run the proof loop themselves.
 14. Back the proof loop operators will buy.
+
+Pass 99 - Geoffrey Moore public beachhead/reference-market lens
+Critique: Slide 11 had the right first-market logic, but "adjacent expansion" was too generic. A Moore-style beachhead slide should show why this narrow segment can become a reference market: one buyer type, one urgent pain, and one credible path to the next similar buyer.
+Deck action: Reframe slide 11 from "prove the return job first" to "first reference market," with racquet clubs as the beachhead, weekly drift as the reason to buy, and the next attendance buyer as the reference path.
+
+Resulting 14-slide spine:
+1. The sales engine for real-world communities.
+2. Technology got between us.
+3. The return signal lives in the call.
+4. AI makes the next human move obvious.
+5. Start where drift is visible.
+6. Run the loop by hand. Productize what repeats.
+7. Each call turns a guess into a move.
+8. The live lab creates repeatable sales loops.
+9. The seed gate is repeated return behavior.
+10. Trust creates the data others cannot buy.
+11. Racquet clubs are the first reference market.
+12. The return loop becomes operator software.
+13. The team can run the proof loop themselves.
+14. Back the proof loop operators will buy.
