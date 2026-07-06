@@ -2526,3 +2526,23 @@ Resulting 14-slide spine:
 12. Do the return calls by hand until software is obvious.
 13. Seed proves the return engine can repeat.
 14. Turn one proven club loop into repeatable software.
+
+Pass 151 - Hamilton Helmer public 7 Powers defensibility lens
+Critique: Slide 10 had the right raw materials, but the title described compounding before naming the power. Helmer's public 7 Powers frame says enduring value requires persistent advantage, not just activity. For Human Conversation, the defensible asset is not generic data; it is what members only reveal in trusted human conversation.
+Deck action: Restore the live deck's sharper moat sentence as the slide 10 title while preserving the return-loop evidence underneath.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology became the intermediary. Human Conversation removes it.
+3. One Human Conversation tells you how people feel.
+4. Disconnection has a practical path back.
+5. Community operators hire Human Conversation to bring people back.
+6. Trust becomes the data layer for community.
+7. The wedge is one person drifting.
+8. The live lab creates repeatable sales loops.
+9. If people come back, the business can accelerate.
+10. The moat is what members only tell a human.
+11. Racquet clubs are the first market to win.
+12. Do the return calls by hand until software is obvious.
+13. Seed proves the return engine can repeat.
+14. Turn one proven club loop into repeatable software.
