@@ -2086,3 +2086,23 @@ Resulting 14-slide spine:
 12. Recovered attendance funds the software.
 13. We test the hard risks inside the club.
 14. Seed proves one club can become software.
+
+Pass 129 - Peep Laja public value-proposition clarity lens
+Critique: Slide 1 had a concrete club-workflow explanation, but investors still had to infer the product value from operational details. Peep Laja's value-proposition guidance says the first read should make clear what it is, who it is for, and how it is useful. The live Human Conversation deck has the sharper product phrase: a sales engine for community builders.
+Deck action: Reframe slide 1 subtitle around the sales engine for community builders: next person, context, action, return path.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology became the intermediary. Human Conversation removes it.
+3. Human Conversation shows how people feel.
+4. Disconnection has a path back.
+5. AI handles the computer work.
+6. Do the calls by hand until software is obvious.
+7. Each call creates the next action.
+8. The live lab tests the return loop every week.
+9. The seed metric is whether people come back.
+10. The moat is what members only tell a human.
+11. Racquet clubs see drift every week.
+12. Recovered attendance funds the software.
+13. We test the hard risks inside the club.
+14. Seed proves one club can become software.
