@@ -1506,3 +1506,23 @@ Resulting 14-slide spine:
 12. The return loop becomes operator software.
 13. The team can run the proof loop themselves.
 14. Back the proof loop operators will buy.
+
+Pass 100 - Synthetic elite AI investment-committee risk auditor lens
+Critique: Slide 9 had useful modeled economics, but the investment committee risk is over-reading the model before the behavior is proven. The slide should make the gate explicit: the model only matters if return behavior repeats, the playbook improves, and staff minutes stay flat.
+Deck action: Reframe slide 9 from a seed-gate slogan into a risk-controlled model gate while preserving the existing modeled utilization and profit logic.
+
+Resulting 14-slide spine:
+1. The sales engine for real-world communities.
+2. Technology got between us.
+3. The return signal lives in the call.
+4. AI makes the next human move obvious.
+5. Start where drift is visible.
+6. Run the loop by hand. Productize what repeats.
+7. Each call turns a guess into a move.
+8. The live lab creates repeatable sales loops.
+9. The model only matters if return behavior repeats.
+10. Trust creates the data others cannot buy.
+11. Racquet clubs are the first reference market.
+12. The return loop becomes operator software.
+13. The team can run the proof loop themselves.
+14. Back the proof loop operators will buy.
