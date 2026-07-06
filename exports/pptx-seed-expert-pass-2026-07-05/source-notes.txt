@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 56 public expert lenses, 57 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 57 public expert lenses, 57 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -32,6 +32,7 @@ Public expert sources reviewed:
 - Andrew Chen, public Cold Start Problem / atomic network guidance, https://andrewchen.com/solve-a-hard-problem-cold-start-problem/ and https://www.coldstart.com/, reviewed 2026-07-06
 - Marty Cagan / SVPG, public product-risk guidance, https://www.svpg.com/four-big-risks/ and https://www.svpg.com/discovery-judgement/, reviewed 2026-07-06
 - Kathy Sierra, public Building the Minimum Badass User / user-success guidance, https://businessofsoftware.org/2013/02/kathy-sierra-building-the-minimum-badass-user-business-of-software-a-masterclass-in-thinking-about-software-product-development/ and https://www.amazon.com/Badass-Making-Awesome-Kathy-Sierra/dp/1491919019, reviewed 2026-07-06
+- Alistair Croll / Ben Yoskovitz, public Lean Analytics One Metric That Matters guidance, https://leananalyticsbook.com/one-metric-that-matters/ and https://medium.com/lean-stack/lean-analytics-the-one-metric-that-matters-and-other-provocations-fd3006aab17, reviewed 2026-07-06
 - Nancy Duarte, public Presentation Sparkline and contrast guidance plus second-pass story-contrast opening lens, https://www.duarte.com/blog/ultimate-guide-to-contrast/, reviewed 2026-07-05
 - Don Valentine, public Sequoia market-first / target-big-markets guidance, https://www.foundersspace.com/fund-raising/don-valentine-sequoia-capital-target-big-markets/, reviewed 2026-07-05
 - Andy Raskin, public strategic narrative / greatest sales deck guidance, https://www.linkedin.com/pulse/greatest-sales-deck-ive-ever-seen-andy-raskin, reviewed 2026-07-05
@@ -148,12 +149,14 @@ Live deck ideas incorporated:
 - Pass only if utilization rises, margin holds, and staff minutes do not climb.
 - The seed gate is repeated return behavior.
 - The model only matters if return behavior repeats.
+- The seed metric is whether people come back.
 - Target utilization lift.
 - Value per lift point.
 - Upside if returns repeat.
 - Profit if staff load holds.
 - Pass only if at-risk members return after calls often enough to lift utilization without staff drag.
 - Investment gate: returns after calls repeat, the playbook improves, and staff minutes stay flat.
+- Investment gate: people return after calls often enough to lift utilization without staff drag.
 - Turn one proven club loop into repeatable software.
 - Return reasons are the proprietary raw material.
 - The proprietary asset is why people return.
