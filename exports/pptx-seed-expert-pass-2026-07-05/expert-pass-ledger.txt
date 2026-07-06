@@ -1667,6 +1667,26 @@ Resulting 14-slide spine:
 13. The team can run the proof loop themselves.
 14. Back the proof loop operators will buy.
 
+Pass 113 - Kathy Sierra public user-success lens
+Critique: Slide 12 had solid payback logic, but it still framed the sale around Human Conversation software. A Kathy Sierra read should make the buyer outcome unmistakable: operators do not pay because the product is impressive; they pay because it makes them better at bringing people back.
+Deck action: Reframe slide 12 from software payback into operator success, with acquire, retain, and monetize tied to recovered attendance and easier weekly return work.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. Human Conversation shows how people feel.
+4. Disconnection has a path back.
+5. AI can see drift before software loses the relationship.
+6. Manual calls turn guesses into product evidence.
+7. Each call turns a guess into a move.
+8. The live lab creates repeatable sales loops.
+9. The model only matters if return behavior repeats.
+10. Trust creates the graph others cannot buy.
+11. Racquet clubs hire this to bring people back.
+12. Operators pay when they get people back.
+13. We are inside the community before we sell.
+14. Back the proof loop operators will buy.
+
 Pass 112 - Synthetic elite AI community-signal reviewer lens
 Critique: Slide 3 was accurate, but it made the deck sound like it was extracting a return signal before the audience felt the human insight. The live Human Conversation deck is stronger here: one Human Conversation tells you how people feel. That makes the later return loop feel earned instead of mechanical.
 Deck action: Reframe slide 3 around felt connection and the human signals already present in the call, while leaving return mechanics to the next wedge and loop slides.

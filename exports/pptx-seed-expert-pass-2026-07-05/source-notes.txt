@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 55 public expert lenses, 56 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 56 public expert lenses, 56 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -31,6 +31,7 @@ Public expert sources reviewed:
 - David Skok, public SaaS metrics and go-to-market economic model guidance, https://www.forentrepreneurs.com/saas-metrics-2/ and https://openviewpartners.com/blog/keys-to-a-profitable-saas-sales-model/, reviewed 2026-07-06
 - Andrew Chen, public Cold Start Problem / atomic network guidance, https://andrewchen.com/solve-a-hard-problem-cold-start-problem/ and https://www.coldstart.com/, reviewed 2026-07-06
 - Marty Cagan / SVPG, public product-risk guidance, https://www.svpg.com/four-big-risks/ and https://www.svpg.com/discovery-judgement/, reviewed 2026-07-06
+- Kathy Sierra, public Building the Minimum Badass User / user-success guidance, https://businessofsoftware.org/2013/02/kathy-sierra-building-the-minimum-badass-user-business-of-software-a-masterclass-in-thinking-about-software-product-development/ and https://www.amazon.com/Badass-Making-Awesome-Kathy-Sierra/dp/1491919019, reviewed 2026-07-06
 - Nancy Duarte, public Presentation Sparkline and contrast guidance plus second-pass story-contrast opening lens, https://www.duarte.com/blog/ultimate-guide-to-contrast/, reviewed 2026-07-05
 - Don Valentine, public Sequoia market-first / target-big-markets guidance, https://www.foundersspace.com/fund-raising/don-valentine-sequoia-capital-target-big-markets/, reviewed 2026-07-05
 - Andy Raskin, public strategic narrative / greatest sales deck guidance, https://www.linkedin.com/pulse/greatest-sales-deck-ive-ever-seen-andy-raskin, reviewed 2026-07-05
@@ -204,16 +205,16 @@ Live deck ideas incorporated:
 - Seed proves the loop can become software.
 - The return loop becomes operator software.
 - Operators buy the workflow once it pays for itself.
-- Operators buy when payback is visible.
+- Operators pay when they get people back.
 - Proof repeats: return moves lift utilization.
 - Workflow runs: staff uses software weekly.
 - Buyer commits: operators buy the system.
 - Pain is visible: empty slots and missing returns.
 - Use is weekly: staff runs the return list.
 - Budget is clear: recovered attendance funds software.
-- Acquire: win operators with recovered attendance.
-- Retain: weekly return lists stay useful.
-- Monetize: recovered attendance funds software.
+- Acquire: show recovered attendance.
+- Retain: make weekly return work easier.
+- Monetize: price against attendance restored.
 - Club proof: return loop repeats weekly.
 - Product proof: repeat work becomes software.
 - Buyer proof: next operator commits.
