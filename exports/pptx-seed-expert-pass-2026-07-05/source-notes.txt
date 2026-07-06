@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05 and refreshed 2026-07-06
-- expert-pass-ledger.txt with 68 public expert lenses, 68 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 68 public expert lenses, 69 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -166,8 +166,7 @@ Live deck ideas incorporated:
 - Booking history, invite traces, weekly volume, and unused demand make the return loop testable.
 - Weekly bookings, invites, returns, and utilization create enough cycles to see whether the loop gets healthier.
 - The live lab creates repeatable sales loops.
-- Bookings show behavior. Empty courts show opportunity. Calls reveal return paths.
-- The live lab tests the return loop every week.
+- Bookings show behavior. Empty courts show opportunity. Human follow-up shows what brings people back.
 - A call learns why. The next invite tests whether that reason brings someone back.
 - Baseline utilization range.
 - Booking rows show behavior.
