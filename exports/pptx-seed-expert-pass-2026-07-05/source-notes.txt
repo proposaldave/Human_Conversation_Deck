@@ -14,8 +14,8 @@ Local sources reviewed:
 - deliverables/ralph_business_plan/Ralph_NEPC_Source_Log.md
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
-- https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 58 public expert lenses, 59 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05 and refreshed 2026-07-06
+- expert-pass-ledger.txt with 59 public expert lenses, 59 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -51,7 +51,7 @@ Public expert sources reviewed:
 - Mark Suster, public Cash In / Cash Out / Milestones Achieved fundraising diligence guidance, https://www.inc.com/mark-suster/every-potential-investor-will-ask-you-about-these-3-things-heres-how-to-be-prepared.html, reviewed 2026-07-05
 - April Dunford, public positioning quickstart guidance, https://www.aprildunford.com/post/a-quickstart-guide-to-positioning, reviewed 2026-07-05
 - Guy Kawasaki, public 10/20/30 pitch rule, https://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/, reviewed 2026-07-05
-- Michael Seibel / YC seed pitch clarity guidance, https://www.saastr.com/how-to-pitch-your-seed-stage-startup-with-y-combinators-michael-seibel/, reviewed 2026-07-05
+- Michael Seibel / YC seed pitch clarity guidance, https://www.ycombinator.com/blog/how-to-pitch-your-company/ and https://www.saastr.com/how-to-pitch-your-seed-stage-startup-with-y-combinators-michael-seibel/, reviewed 2026-07-05 and refreshed 2026-07-06 for pass 119
 - Geoffrey Moore, public Crossing the Chasm / beachhead market guidance, https://www.lennysnewsletter.com/p/geoffrey-moore-on-finding-your-beachhead, reviewed 2026-07-05
 - Geoffrey Moore, public beachhead/reference-market expansion guidance, https://geoffreyamoore.com/business_blogs/after-the-chasm-scaling-beyond-the-beachhead/ and https://geoffreyamoore.com/positioning/, reviewed 2026-07-06
 - Steve Blank, public lean startup / customer development guidance, https://hbr.org/2013/05/why-the-lean-start-up-changes-everything and https://steveblank.com/2012/03/29/nail-the-customer-development-manifesto/, reviewed 2026-07-06
@@ -64,6 +64,7 @@ Live deck ideas incorporated:
 - Human Conversation is the sales engine for real-world communities.
 - The sales engine for real-world communities.
 - The sales engine that gives community builders the next person, context, and action.
+- For a club, it shows who is drifting, what to ask, and which invite brings them back.
 - The sales engine for communities that need people back.
 - AI tells operators who needs a conversation, what to ask, and what next action will bring them back.
 - It tells operators who needs a conversation, what to ask, and what action brings them back.

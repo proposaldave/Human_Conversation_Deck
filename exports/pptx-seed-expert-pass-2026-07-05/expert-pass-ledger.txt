@@ -1886,3 +1886,23 @@ Resulting 14-slide spine:
 12. Operators buy when payback is visible.
 13. The team can run the proof loop themselves.
 14. Back the proof loop operators will buy.
+
+Pass 119 - Michael Seibel public seed pitch clarity lens
+Critique: Slide 1 had the right category ambition, but a Seibel-style seed pitch read says the investor must understand what Human Conversation does before the deck earns category, moat, or metric claims. "Operating system" can stay as the big idea, but the first support line needs a concrete user path, not abstract operator language.
+Deck action: Reframe slide 1 subtitle around a specific club workflow: who is drifting, what to ask, and which invite brings them back.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. Human Conversation shows how people feel.
+4. Disconnection has a path back.
+5. AI can see drift before software loses the relationship.
+6. Run the loop by hand. Productize what repeats.
+7. Each call creates the next action.
+8. The live lab creates repeatable sales loops.
+9. The seed metric is whether people come back.
+10. Trust creates the graph others cannot buy.
+11. Racquet clubs hire this to bring people back.
+12. Operators pay when they ask to run it again.
+13. We are inside the community before we sell.
+14. Back the operating system operators will buy.
