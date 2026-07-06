@@ -1426,3 +1426,23 @@ Resulting 14-slide spine:
 12. The return loop becomes operator software.
 13. The team can run the proof loop themselves.
 14. Back the operating system for real-world communities.
+
+Pass 96 - Synthetic elite AI deck-compression reviewer lens
+Critique: Slide 6 had the right product-loop logic, but the headline was less memorable than the live deck's proof method. The deck should make the operating principle obvious: run the loop by hand, then productize only what repeats.
+Deck action: Reframe slide 6 around the live-deck phrase "Run the loop by hand. Productize what repeats." and make the three steps read as run, learn, productize.
+
+Resulting 14-slide spine:
+1. The sales engine for real-world communities.
+2. Technology got between us.
+3. The return signal lives in the call.
+4. AI makes the next human move obvious.
+5. Start where drift is visible.
+6. Run the loop by hand. Productize what repeats.
+7. Each call turns a guess into a move.
+8. The live lab creates repeatable sales loops.
+9. The seed gate is repeated return behavior.
+10. The moat is what people tell a human.
+11. Racquet clubs prove the return job first.
+12. The return loop becomes operator software.
+13. The team can run the proof loop themselves.
+14. Back the operating system for real-world communities.

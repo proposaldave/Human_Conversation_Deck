@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 47 public expert lenses, 47 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 47 public expert lenses, 48 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -85,7 +85,12 @@ Live deck ideas incorporated:
 - Drift becomes a call, a memory, and a next move.
 - Manual calls teach the product.
 - Repeated manual work becomes software.
+- Run the loop by hand. Productize what repeats.
 - Hand-run calls teach the product. Repeated moves become software.
+- Run: Who needs a conversation today?
+- Learn: What would help them return?
+- Productize: Repeatable moves enter the workflow.
+- Manual work filters the guess. Repeated moves become software.
 - AI spots the drift. A human call learns why. The next action becomes an invite, intro, group, or leader path.
 - Ask what would help them return.
 - Record the return reason.
