@@ -143,7 +143,7 @@ Deck action: Reframe slide 13's three cards from Concierge/Playbook/Software to 
 Resulting 15-slide spine:
 1. Human Conversation is the operating system for real-world social communities.
 2. The snapback: Technology got between us. Human Conversation brings us back.
-3. One Human Conversation tells you how people feel.
+3. Human Conversation shows how people feel.
 4. The next social layer is not another feed.
 5. Start with the person who almost came back.
 6. The product is one simple loop.
@@ -1665,6 +1665,26 @@ Resulting 14-slide spine:
 11. Racquet clubs hire this to bring people back.
 12. Operators buy when payback is visible.
 13. The team can run the proof loop themselves.
+14. Back the proof loop operators will buy.
+
+Pass 112 - Synthetic elite AI community-signal reviewer lens
+Critique: Slide 3 was accurate, but it made the deck sound like it was extracting a return signal before the audience felt the human insight. The live Human Conversation deck is stronger here: one Human Conversation tells you how people feel. That makes the later return loop feel earned instead of mechanical.
+Deck action: Reframe slide 3 around felt connection and the human signals already present in the call, while leaving return mechanics to the next wedge and loop slides.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
+4. Disconnection has a path back.
+5. AI can see drift before software loses the relationship.
+6. Manual calls turn guesses into product evidence.
+7. Each call turns a guess into a move.
+8. The live lab creates repeatable sales loops.
+9. The model only matters if return behavior repeats.
+10. Trust creates the graph others cannot buy.
+11. Racquet clubs hire this to bring people back.
+12. Operators buy when payback is visible.
+13. We are inside the community before we sell.
 14. Back the proof loop operators will buy.
 
 Pass 111 - Marty Cagan public product-risk lens

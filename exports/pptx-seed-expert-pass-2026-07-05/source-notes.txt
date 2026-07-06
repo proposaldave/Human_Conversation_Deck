@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 55 public expert lenses, 55 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 55 public expert lenses, 56 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -74,6 +74,8 @@ Live deck ideas incorporated:
 - Disconnection has a path back.
 - Conversation creates connection. Connection creates trust. Trust creates data. Data coordinates community.
 - Conversation. Connection. Trust. Data. Community.
+- Human Conversation shows how people feel.
+- Tone, pauses, warmth, hesitation, trust, and felt connection are already in the call.
 - The return signal lives in the call.
 - The answer appears in the human call.
 - A human call reveals the return path.
