@@ -1227,26 +1227,6 @@ Resulting 14-slide spine:
 13. One club is the first milestone.
 14. Seed buys one proof cycle.
 
-Pass 89 - Geoffrey Moore public beachhead-market lens
-Critique: Slide 11 had the right expansion logic, but the six market chips still made it look like adjacent-market spray. A Moore-style beachhead read wants one narrow market, one complete use case, then adjacent expansion after proof.
-Deck action: Keep racquet clubs as the beachhead, replace the venue list with Beachhead / Proof / Next cards, and make the expansion path depend on one repeatable return workflow.
-
-Resulting 14-slide spine:
-1. The sales engine for real-world communities.
-2. Technology got between us.
-3. The return signal lives in the call.
-4. AI makes the next human move obvious.
-5. Start where drift is visible.
-6. Repeated manual work becomes software.
-7. Every call feeds the next one.
-8. One club creates enough loops to learn.
-9. The seed gate is three numbers moving together.
-10. The moat is what people tell a human.
-11. Racquet clubs prove the return job first.
-12. Seed turns the manual loop into software.
-13. The team is inside the first proof environment.
-14. Seed buys one proof cycle.
-
 Pass 86 - Synthetic elite first-20-seconds seed partner AI lens
 Critique: After the compression pass, the deck was tighter but the opening still made the investor feel the product before the human tension. A top cold-read seed partner should see the business claim, the emotional problem, and the proprietary call signal in the first three slides.
 Deck action: Pull the live deck's "Technology got between us" contrast into slide 2, make the subtitle about recorded activity versus missing conversation need, and sharpen slide 3 to "The return signal lives in the call."
@@ -1306,3 +1286,43 @@ Resulting 14-slide spine:
 12. Seed turns the manual loop into software.
 13. The team is inside the first proof environment.
 14. Seed buys one proof cycle.
+
+Pass 89 - Geoffrey Moore public beachhead-market lens
+Critique: Slide 11 had the right expansion logic, but the six market chips still made it look like adjacent-market spray. A Moore-style beachhead read wants one narrow market, one complete use case, then adjacent expansion after proof.
+Deck action: Keep racquet clubs as the beachhead, replace the venue list with Beachhead / Proof / Next cards, and make the expansion path depend on one repeatable return workflow.
+
+Resulting 14-slide spine:
+1. The sales engine for real-world communities.
+2. Technology got between us.
+3. The return signal lives in the call.
+4. AI makes the next human move obvious.
+5. Start where drift is visible.
+6. Repeated manual work becomes software.
+7. Every call feeds the next one.
+8. One club creates enough loops to learn.
+9. The seed gate is three numbers moving together.
+10. The moat is what people tell a human.
+11. Racquet clubs prove the return job first.
+12. Seed turns the manual loop into software.
+13. The team is inside the first proof environment.
+14. Seed buys one proof cycle.
+
+Pass 90 - Synthetic best-in-world AI seed partner and story editor lens
+Critique: The close was disciplined, but it ended too small. A top seed partner should leave with both the concrete proof cycle and the category sentence they can repeat to another partner.
+Deck action: Make slide 14 carry the live deck's operating-system close while preserving the one-club seed milestone and the three proof cards.
+
+Resulting 14-slide spine:
+1. The sales engine for real-world communities.
+2. Technology got between us.
+3. The return signal lives in the call.
+4. AI makes the next human move obvious.
+5. Start where drift is visible.
+6. Repeated manual work becomes software.
+7. Every call feeds the next one.
+8. One club creates enough loops to learn.
+9. The seed gate is three numbers moving together.
+10. The moat is what people tell a human.
+11. Racquet clubs prove the return job first.
+12. Seed turns the manual loop into software.
+13. The team is inside the first proof environment.
+14. Back the operating system for real-world communities.
