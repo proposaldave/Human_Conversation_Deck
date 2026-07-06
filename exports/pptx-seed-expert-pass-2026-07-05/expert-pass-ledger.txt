@@ -2426,3 +2426,23 @@ Resulting 14-slide spine:
 12. Do the return calls by hand until software is obvious.
 13. Seed proves the return engine can repeat.
 14. Back the operating system for real-world social communities.
+
+Pass 146 - Synthetic elite AI seed-close specificity lens
+Critique: Slide 14 had category ambition, but a top synthetic seed-deck closer would make the use of seed impossible to miss. The final slide should tell investors what the money proves: one club loop becomes repeatable software, then the next operator market becomes credible. The live Human Conversation deck already carries the sharper close: "Turn one proven club loop into repeatable software."
+Deck action: Reframe slide 14 around the seed-use sequence: prove, build, expand.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology became the intermediary. Human Conversation removes it.
+3. One Human Conversation tells you how people feel.
+4. Disconnection has a path back.
+5. Community operators hire Human Conversation to bring people back.
+6. Trust becomes the data layer for community.
+7. The wedge is one person drifting.
+8. The live lab creates repeatable sales loops.
+9. The seed metric is whether people come back.
+10. Every return makes the graph smarter.
+11. Racquet clubs are the first market to win.
+12. Do the return calls by hand until software is obvious.
+13. Seed proves the return engine can repeat.
+14. Turn one proven club loop into repeatable software.
