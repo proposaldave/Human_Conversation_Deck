@@ -1566,3 +1566,23 @@ Resulting 14-slide spine:
 12. Operators buy the workflow once it pays for itself.
 13. The team can run the proof loop themselves.
 14. Back the proof loop operators will buy.
+
+Pass 103 - Eric Ries public validated-learning lens
+Critique: Slide 6 had the right manual-to-software idea, but it still sounded like a founder workflow rather than a validated-learning loop. A Ries-style pass should show that each call tests a hypothesis and only repeated evidence becomes product.
+Deck action: Reframe slide 6 around guesses becoming product evidence through manual calls, preserving the three-step loop while sharpening it into Guess, Test, Encode.
+
+Resulting 14-slide spine:
+1. The sales engine for real-world communities.
+2. Technology got between us.
+3. The return signal lives in the call.
+4. AI makes the next human move obvious.
+5. AI can see drift before software loses the relationship.
+6. Manual calls turn guesses into product evidence.
+7. Each call turns a guess into a move.
+8. The live lab creates repeatable sales loops.
+9. The model only matters if return behavior repeats.
+10. Trust creates the data others cannot buy.
+11. Racquet clubs are the first reference market.
+12. Operators buy the workflow once it pays for itself.
+13. The team can run the proof loop themselves.
+14. Back the proof loop operators will buy.
