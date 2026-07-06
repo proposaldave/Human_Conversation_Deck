@@ -1667,6 +1667,26 @@ Resulting 14-slide spine:
 13. The team can run the proof loop themselves.
 14. Back the proof loop operators will buy.
 
+Pass 111 - Marty Cagan public product-risk lens
+Critique: Slide 13 had founder-market fit, but it made the team sound merely capable. A Cagan-style product-risk read should show why this founder setup reduces the risks that kill product bets: value, feasibility, and business viability can be tested inside one live community before the company scales.
+Deck action: Reframe slide 13 around the team being inside the community before selling software, with Dave, Steve, and NEPC mapped to the core risks the seed round must compress.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. The return signal lives in the call.
+4. Disconnection has a path back.
+5. AI can see drift before software loses the relationship.
+6. Manual calls turn guesses into product evidence.
+7. Each call turns a guess into a move.
+8. The live lab creates repeatable sales loops.
+9. The model only matters if return behavior repeats.
+10. Trust creates the graph others cannot buy.
+11. Racquet clubs hire this to bring people back.
+12. Operators buy when payback is visible.
+13. We are inside the community before we sell.
+14. Back the proof loop operators will buy.
+
 Pass 110 - Synthetic elite AI category-story partner lens
 Critique: Slide 4 moved too quickly from the emotional snapback into tool mechanics. The live Human Conversation deck has a stronger category bridge: disconnection has a path back, and conversation is the first step in the causal chain back to community.
 Deck action: Reframe slide 4 around the path from conversation to community, leaving the person, reason, action, return mechanics to the following wedge and product-loop slides.
