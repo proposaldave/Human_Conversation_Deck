@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05 and refreshed 2026-07-06
-- expert-pass-ledger.txt with 73 public expert lenses, 73 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 73 public expert lenses, 74 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -66,7 +66,7 @@ Live deck ideas incorporated:
 - Human Conversation is the sales engine for real-world communities.
 - The sales engine for real-world communities.
 - The sales engine that gives community builders the next person, context, and action.
-- The sales engine for community builders: next person, context, action, return path.
+- Seed round | one live club proof | sales engine for community builders.
 - For a club, it shows who is drifting, what to ask, and which invite brings them back.
 - The sales engine for communities that need people back.
 - AI tells operators who needs a conversation, what to ask, and what next action will bring them back.
@@ -111,9 +111,9 @@ Live deck ideas incorporated:
 - AI turns the return loop into software.
 - Software points to the next conversation.
 - Person. Context. Next action. Return.
-- Person. Reason. Action. Return.
+- Person. Context. Action. Return.
 - Person: who is drifting.
-- Reason: what to ask.
+- Context: what matters now.
 - Action: invite, intro, group, host.
 - Return: what worked.
 - Models can read context, remember intent, and trigger the next human action without putting the relationship on a screen.
