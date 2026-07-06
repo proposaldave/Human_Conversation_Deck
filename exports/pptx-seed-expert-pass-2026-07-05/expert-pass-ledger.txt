@@ -2246,3 +2246,23 @@ Resulting 14-slide spine:
 12. Recovered attendance funds the software.
 13. We test the hard risks inside the club.
 14. Back the operating system for real-world social communities.
+
+Pass 137 - Elad Gil public seed-purpose lens
+Critique: Slide 13 still used an internal product-risk phrase. Elad Gil's seed-round frame says seed capital should help the company figure out the product, market, and user base. The live Human Conversation deck already frames the seed plan as turning one proven club loop into repeatable software. A seed investor should see those three proof jobs directly before the final ask.
+Deck action: Reframe slide 13 as the seed proof slide: product, market, and user base, all tested inside one club.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology became the intermediary. Human Conversation removes it.
+3. Human Conversation reveals felt connection.
+4. Disconnection has a path back.
+5. The product gets people back in the room.
+6. Trust becomes the data layer for community.
+7. The wedge is one person drifting.
+8. The live lab tests the return loop every week.
+9. The seed metric is repeated return behavior.
+10. Every return makes the graph smarter.
+11. Racquet clubs see drift every week.
+12. Recovered attendance funds the software.
+13. Seed proves product, market, and user base.
+14. Back the operating system for real-world social communities.
