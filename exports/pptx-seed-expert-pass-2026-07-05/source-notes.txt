@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 58 public expert lenses, 58 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 58 public expert lenses, 59 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -106,6 +106,10 @@ Live deck ideas incorporated:
 - Repeated manual work becomes software.
 - Run the loop by hand. Productize what repeats.
 - Manual calls turn guesses into product evidence.
+- Concierge: do the calls that bring people back.
+- Learn: every outcome trains the workflow.
+- Software: give builders the weekly engine.
+- The product is only what the manual loop proves again.
 - Hand-run calls teach the product. Repeated moves become software.
 - Run: Who needs a conversation today?
 - Learn: What would help them return?
