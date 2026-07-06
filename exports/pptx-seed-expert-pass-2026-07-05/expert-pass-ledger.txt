@@ -1526,3 +1526,23 @@ Resulting 14-slide spine:
 12. The return loop becomes operator software.
 13. The team can run the proof loop themselves.
 14. Back the proof loop operators will buy.
+
+Pass 101 - Mike Maples public startup-inflection lens
+Critique: Slide 5 had the right wedge, but it still framed the wedge as operational visibility rather than a startup inflection. A Maples-style read should name the specific new thing that empowers the company: AI can now read context and queue action, while the human call verifies the actual return move.
+Deck action: Reframe slide 5 from a generic drift wedge into the explicit why-now inflection, preserving the spot-call-act-learn loop.
+
+Resulting 14-slide spine:
+1. The sales engine for real-world communities.
+2. Technology got between us.
+3. The return signal lives in the call.
+4. AI makes the next human move obvious.
+5. AI can see drift before software loses the relationship.
+6. Run the loop by hand. Productize what repeats.
+7. Each call turns a guess into a move.
+8. The live lab creates repeatable sales loops.
+9. The model only matters if return behavior repeats.
+10. Trust creates the data others cannot buy.
+11. Racquet clubs are the first reference market.
+12. The return loop becomes operator software.
+13. The team can run the proof loop themselves.
+14. Back the proof loop operators will buy.

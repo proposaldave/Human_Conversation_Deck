@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 49 public expert lenses, 50 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 50 public expert lenses, 50 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -26,7 +26,7 @@ Drive sources reviewed:
 Public expert sources reviewed:
 - Sarah Tavel, public Hierarchy of Engagement framework, reviewed 2026-07-05
 - Peep Laja, public conversion clarity and value proposition guidance, reviewed 2026-07-05
-- Mike Maples, public startup-inflection narrative guidance, reviewed 2026-07-05
+- Mike Maples, public startup-inflection and insight guidance, https://www.floodgate.com/insights/how-inflections-let-startups-change-the-rules and https://www.floodgate.com/insights/why-insights-are-the-secret-to-outlier-startups, reviewed 2026-07-06
 - Nancy Duarte, public Presentation Sparkline and contrast guidance plus second-pass story-contrast opening lens, https://www.duarte.com/blog/ultimate-guide-to-contrast/, reviewed 2026-07-05
 - Don Valentine, public Sequoia market-first / target-big-markets guidance, https://www.foundersspace.com/fund-raising/don-valentine-sequoia-capital-target-big-markets/, reviewed 2026-07-05
 - Andy Raskin, public strategic narrative / greatest sales deck guidance, https://www.linkedin.com/pulse/greatest-sales-deck-ive-ever-seen-andy-raskin, reviewed 2026-07-05
@@ -82,6 +82,9 @@ Live deck ideas incorporated:
 - The first use case is one person drifting out.
 - Start with one drifting person.
 - Start where drift is visible.
+- AI can see drift before software loses the relationship.
+- The inflection is specific: models read the context, but the human call verifies the move that brings someone back.
+- AI flags the person drifting.
 - The signal is narrow, frequent, and emotional enough for AI to aim and humans to verify.
 - Drift becomes a call, a memory, and a next move.
 - Manual calls teach the product.
