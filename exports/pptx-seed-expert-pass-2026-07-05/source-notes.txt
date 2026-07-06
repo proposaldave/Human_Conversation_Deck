@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05 and refreshed 2026-07-06
-- expert-pass-ledger.txt with 62 public expert lenses, 63 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 63 public expert lenses, 63 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -30,7 +30,7 @@ Public expert sources reviewed:
 - Clayton Christensen / Christensen Institute, public Jobs-to-be-Done guidance, https://www.christenseninstitute.org/theory/jobs-to-be-done/ and https://www.library.hbs.edu/working-knowledge/clay-christensens-milkshake-marketing, reviewed 2026-07-06
 - David Skok, public SaaS metrics and go-to-market economic model guidance, https://www.forentrepreneurs.com/saas-metrics-2/ and https://openviewpartners.com/blog/keys-to-a-profitable-saas-sales-model/, reviewed 2026-07-06
 - Andrew Chen, public Cold Start Problem / atomic network guidance, https://andrewchen.com/solve-a-hard-problem-cold-start-problem/ and https://www.coldstart.com/, reviewed 2026-07-06
-- Marty Cagan / SVPG, public product-risk guidance, https://www.svpg.com/four-big-risks/ and https://www.svpg.com/discovery-judgement/, reviewed 2026-07-06
+- Marty Cagan / SVPG, public product-risk guidance, https://www.svpg.com/four-big-risks/ and https://www.svpg.com/discovery-judgement/, reviewed 2026-07-06 and refreshed 2026-07-06 for pass 127
 - Kathy Sierra, public Building the Minimum Badass User / user-success guidance, https://businessofsoftware.org/2013/02/kathy-sierra-building-the-minimum-badass-user-business-of-software-a-masterclass-in-thinking-about-software-product-development/ and https://www.amazon.com/Badass-Making-Awesome-Kathy-Sierra/dp/1491919019, reviewed 2026-07-06
 - Alistair Croll / Ben Yoskovitz, public Lean Analytics One Metric That Matters guidance, https://leananalyticsbook.com/one-metric-that-matters/ and https://medium.com/lean-stack/lean-analytics-the-one-metric-that-matters-and-other-provocations-fd3006aab17, reviewed 2026-07-06
 - Rahul Vohra, public Superhuman product-market-fit engine guidance, https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/ and https://businessofsoftware.org/talks/product-market-fit-engine/, reviewed 2026-07-06
@@ -269,9 +269,13 @@ Live deck ideas incorporated:
 - One club is the first milestone.
 - The team is inside the first proof environment.
 - We are inside the community before we sell.
+- We test the hard risks inside the club.
 - Dave: Value risk: will operators buy the return job?
 - Steve: Feasibility risk: repeated moves become software.
 - NEPC live lab: Viability risk: returns improve without staff drag.
+- Value: operators ask to run the return list again.
+- Feasibility: repeated moves become software.
+- Viability: recovered attendance funds the workflow.
 - Seed buys a repeatable return engine.
 - The round answers one question.
 - Seed buys one proof cycle.

@@ -2046,3 +2046,23 @@ Resulting 14-slide spine:
 12. Recovered attendance funds the software.
 13. We are inside the community before we sell.
 14. Seed proves one club can become software.
+
+Pass 127 - Marty Cagan public product-risk lens
+Critique: Slide 13 had the right founder-market-fit slot, but it still read like a team bio. A Cagan-style product-risk read should show which hard risks are being reduced early. The live club lets Human Conversation test value, feasibility, and business viability before selling broadly.
+Deck action: Reframe slide 13 around risk reduction inside the club: value, feasibility, and viability.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. Human Conversation shows how people feel.
+4. Disconnection has a path back.
+5. AI handles the computer work.
+6. Do the calls by hand until software is obvious.
+7. Each call creates the next action.
+8. The live lab tests the return loop every week.
+9. The seed metric is whether people come back.
+10. The moat is what members only tell a human.
+11. Racquet clubs see drift every week.
+12. Recovered attendance funds the software.
+13. We test the hard risks inside the club.
+14. Seed proves one club can become software.
