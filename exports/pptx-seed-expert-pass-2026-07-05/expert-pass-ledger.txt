@@ -1626,3 +1626,23 @@ Resulting 14-slide spine:
 12. Operators buy the workflow once it pays for itself.
 13. The team can run the proof loop themselves.
 14. Back the proof loop operators will buy.
+
+Pass 106 - Synthetic elite AI category-design partner lens
+Critique: The cover had a useful product explanation, but it made the deck feel smaller than the live Human Conversation category thesis. The first slide should anchor the operating-system ambition immediately, then use the sales-engine sentence to make the wedge concrete.
+Deck action: Promote the live-deck operating-system thesis to the cover headline with corrected Human Conversation capitalization, and move sales-engine language into the subtitle and context line.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us.
+3. The return signal lives in the call.
+4. AI makes the next human move obvious.
+5. AI can see drift before software loses the relationship.
+6. Manual calls turn guesses into product evidence.
+7. Each call turns a guess into a move.
+8. The live lab creates repeatable sales loops.
+9. The model only matters if return behavior repeats.
+10. Trust creates the data others cannot buy.
+11. Racquet clubs hire this to bring people back.
+12. Operators buy the workflow once it pays for itself.
+13. The team can run the proof loop themselves.
+14. Back the proof loop operators will buy.
