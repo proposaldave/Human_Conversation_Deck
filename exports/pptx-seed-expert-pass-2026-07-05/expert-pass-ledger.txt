@@ -1926,3 +1926,23 @@ Resulting 14-slide spine:
 12. Operators pay when they ask to run it again.
 13. We are inside the community before we sell.
 14. Back the operating system operators will buy.
+
+Pass 121 - Steve Blank public customer-development lens
+Critique: Slide 8 had strong NEPC evidence, but a Steve Blank customer-development read says the point is not that the company has data. The point is that the team can test return hypotheses every week with real calls, invites, bookings, and utilization.
+Deck action: Reframe slide 8 from repeatable sales loops into a weekly return-loop test, using the live deck's call-learns-why and invite-tests-it sequence.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. Human Conversation shows how people feel.
+4. Disconnection has a path back.
+5. AI handles the computer work.
+6. Run the loop by hand. Productize what repeats.
+7. Each call creates the next action.
+8. The live lab tests the return loop every week.
+9. The seed metric is whether people come back.
+10. Trust creates the graph others cannot buy.
+11. Racquet clubs hire this to bring people back.
+12. Operators pay when they ask to run it again.
+13. We are inside the community before we sell.
+14. Back the operating system operators will buy.
