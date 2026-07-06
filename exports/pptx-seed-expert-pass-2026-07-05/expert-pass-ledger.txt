@@ -2166,3 +2166,23 @@ Resulting 14-slide spine:
 12. Recovered attendance funds the software.
 13. We test the hard risks inside the club.
 14. Seed proves one club can become software.
+
+Pass 133 - Steve Jobs public product-simplicity lens
+Critique: Slide 5 had a useful mechanism, but the title made the AI sound like the product. A Jobs-style simplicity read says the slide should expose the essential customer outcome first and push the complexity underneath. The live Human Conversation deck has the clearer outcome: the product gets people back in the room.
+Deck action: Reframe slide 5 title around the room-return outcome and move AI into the support line.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology became the intermediary. Human Conversation removes it.
+3. Human Conversation reveals felt connection.
+4. Disconnection has a path back.
+5. The product gets people back in the room.
+6. Trust becomes the data layer for community.
+7. Each call creates the next action.
+8. The live lab tests the return loop every week.
+9. The seed metric is repeated return behavior.
+10. The moat is what members only tell a human.
+11. Racquet clubs see drift every week.
+12. Recovered attendance funds the software.
+13. We test the hard risks inside the club.
+14. Seed proves one club can become software.
