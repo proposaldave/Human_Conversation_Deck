@@ -9,7 +9,7 @@ Critique: The current deck opens with a strong category line but takes too long 
 Deck action: Move the wedge and product loop earlier. Make the product answer: who needs a conversation, why now, what to ask, what happens next.
 
 Pass 2 - Andy Raskin strategic narrative lens
-Critique: The old game/new game needs to be explicit. Old game is more software, feeds, dashboards, and calendars. New game is AI moving computer work into the background so human conversation becomes the interface.
+Critique: The old game/new game needs to be explicit. Old game is more software, feeds, dashboards, and calendars. New game is AI moving computer work into the background so Human Conversation becomes the interface.
 Deck action: Add a category slide built around "Not another chat app" and "the product gets people back in the room."
 
 Pass 3 - April Dunford positioning lens
@@ -129,21 +129,21 @@ Critique: The expansion slide had the right sequence, but the market logic was s
 Deck action: Tighten slide 12's subtitle so clubs remain the wedge while the category expands to every community with an owner for participation and belonging.
 
 Pass 32 - Synthetic world-class fundraising storyteller AI lens
-Critique: The opening slides had the right thesis, but the first minute could make the AI role more emotionally obvious. The point is not AI replacing conversation; it is AI moving computer work out of the way so the right human conversation happens.
+Critique: The opening slides had the right thesis, but the first minute could make the AI role more emotionally obvious. The point is not AI replacing conversation; it is AI moving computer work out of the way so the right Human Conversation happens.
 Deck action: Tighten slide 2's subtitle around AI moving computer work into the background, and replace the slide 3 loneliness wording with Dave's preferred disconnection language.
 
 Pass 33 - Steve Jobs category simplicity lens
 Critique: The product loop was accurate but still sounded like operations software. The product needs to feel obvious at a glance: find the person, ask the right question, take the next action, and learn from what changed.
-Deck action: Simplify slide 6 from Find/Prepare/Act/Remember to Find/Ask/Act/Learn, and tighten the bottom line to separate the human conversation from the software memory and follow-through.
+Deck action: Simplify slide 6 from Find/Prepare/Act/Remember to Find/Ask/Act/Learn, and tighten the bottom line to separate the Human Conversation from the software memory and follow-through.
 
 Pass 34 - Synthetic world-class enterprise buyer AI lens
 Critique: The business-model slide had a strong service-to-software thesis, but the steps still sounded seller-internal. An enterprise buyer needs the trust path: run the workflow with staff, prove measurable outcomes, then buy the software that repeats what already works.
 Deck action: Reframe slide 13's three cards from Concierge/Playbook/Software to Concierge/Proof/Software with buyer-facing language around trusted workflow, fills, returns, adoption, and follow-through.
 
 Resulting 15-slide spine:
-1. Human conversation is the operating system for real-world social communities.
-2. The snapback: Technology got between us. Human conversation brings us back.
-3. One human conversation tells you how people feel.
+1. Human Conversation is the operating system for real-world social communities.
+2. The snapback: Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
 4. The next social layer is not another feed.
 5. Start with the person who almost came back.
 6. The product is one simple loop.
@@ -162,8 +162,8 @@ Critique: Slides 8 and 9 were credible but still separated traction evidence fro
 Deck action: Reframe slide 8 from generic weekly proof into a weekly proof loop: find unused capacity, call drifting members, act, measure returns, and correct the playbook. Reframe slide 9 around the economic case of unused capacity converted into returns, with the proof gate stated as utilization, member returns, margin, and staff time.
 
 Resulting 15-slide spine:
-1. Human conversation is the operating system for real-world social communities.
-2. The snapback: Technology got between us. Human conversation brings us back.
+1. Human Conversation is the operating system for real-world social communities.
+2. The snapback: Technology got between us. Human Conversation brings us back.
 3. The signal is already in the call.
 4. The market is moving beyond feeds.
 5. Start with the person who almost came back.
@@ -183,9 +183,9 @@ Critique: The business-model slide was directionally right, but still too easy t
 Deck action: Align slide 13 with the live deck's wedge-to-software framing. Reframe the title as running the loop by hand and productizing what repeats, replace Proof with Learning loop, and make the software card sell the sales engine inside the workflow rather than a generic tool.
 
 Resulting 15-slide spine:
-1. Human conversation is the operating system for real-world social communities.
-2. The snapback: Technology got between us. Human conversation brings us back.
-3. One human conversation tells you how people feel.
+1. Human Conversation is the operating system for real-world social communities.
+2. The snapback: Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
 4. The market is moving beyond feeds.
 5. Start with the person who almost came back.
 6. The product is one simple loop.
@@ -204,8 +204,8 @@ Critique: The first minute was strong but still made investors assemble the prod
 Deck action: Align slide 1's subtitle to the live source wording: the sales engine gives builders the next person, context, and action. Reframe slide 3 around the live source's sharpest insight: the signal is already in the call, and one call shows who needs a conversation.
 
 Resulting 15-slide spine:
-1. Human conversation is the operating system for real-world social communities.
-2. The snapback: Technology got between us. Human conversation brings us back.
+1. Human Conversation is the operating system for real-world social communities.
+2. The snapback: Technology got between us. Human Conversation brings us back.
 3. The signal is already in the call.
 4. The market is moving beyond feeds.
 5. Start with the person who almost came back.
@@ -225,8 +225,8 @@ Critique: Slide 6 had the right loop, but the headline still required interpreta
 Deck action: Reframe slide 6 around the product promise: staff get the next right move. Tighten the four cards into concrete actions: spot who needs a conversation, give staff the question that matters, create the invite or path, and use the outcome to improve the next move.
 
 Resulting 15-slide spine:
-1. Human conversation is the operating system for real-world social communities.
-2. The snapback: Technology got between us. Human conversation brings us back.
+1. Human Conversation is the operating system for real-world social communities.
+2. The snapback: Technology got between us. Human Conversation brings us back.
 3. The signal is already in the call.
 4. The market is moving beyond feeds.
 5. Start with the person who almost came back.
@@ -246,8 +246,8 @@ Critique: Slide 10 had the right moat claim, but the subtitle still gave calenda
 Deck action: Keep the live-source title, then sharpen the subtitle to calendars know when someone came while Human Conversation learns why they return, hesitate, belong, and lead. Rename the six signals from generic data labels into relationship-memory categories: availability, barrier, desire, belonging, hesitation, and mobilizers.
 
 Resulting 15-slide spine:
-1. Human conversation is the operating system for real-world social communities.
-2. The snapback: Technology got between us. Human conversation brings us back.
+1. Human Conversation is the operating system for real-world social communities.
+2. The snapback: Technology got between us. Human Conversation brings us back.
 3. The signal is already in the call.
 4. The market is moving beyond feeds.
 5. Start with the person who almost came back.
@@ -267,9 +267,9 @@ Critique: The wedge slide had the right human story, but its verbs were less rep
 Deck action: Align slide 5 to the live web deck's Spot / Call / Act / Learn sequence, turning the missed-return story into a memorable activation loop: spot drift, call to learn why, act with a real-world next move, and learn from the outcome.
 
 Resulting 15-slide spine:
-1. Human conversation is the operating system for real-world social communities.
-2. The snapback: Technology got between us. Human conversation brings us back.
-3. One human conversation tells you how people feel.
+1. Human Conversation is the operating system for real-world social communities.
+2. The snapback: Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
 4. The market is moving beyond feeds.
 5. Start with the person who almost came back.
 6. The product is one simple loop.
@@ -288,9 +288,9 @@ Critique: Slide 9 was credible about the planning model, but an enterprise buyer
 Deck action: Reframe slide 9 from a generic follow-up-engine line to the buyer budget: unused court time and missed returns. Keep every number labeled as planning/model evidence, and make the proof target utilization, returns, margin, and staff time before scaling.
 
 Resulting 15-slide spine:
-1. Human conversation is the operating system for real-world social communities.
-2. The snapback: Technology got between us. Human conversation brings us back.
-3. One human conversation tells you how people feel.
+1. Human Conversation is the operating system for real-world social communities.
+2. The snapback: Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
 4. The market is moving beyond feeds.
 5. Start with the person who almost came back.
 6. The product is one simple loop.
@@ -309,9 +309,9 @@ Critique: Slides 11 and 12 had the right compounding claim, but the mechanism st
 Deck action: Keep the strong title on slide 11, but make the subtitle and chips show the loop: call learns, invite improves, return teaches. Tighten slide 12 so expansion starts where the loop repeats weekly, then carries reusable host, trust, follow-up, and return patterns into the next community.
 
 Resulting 15-slide spine:
-1. Human conversation is the operating system for real-world social communities.
-2. The snapback: Technology got between us. Human conversation brings us back.
-3. One human conversation tells you how people feel.
+1. Human Conversation is the operating system for real-world social communities.
+2. The snapback: Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
 4. The market is moving beyond feeds.
 5. Start with the person who almost came back.
 6. The product is one simple loop.
@@ -330,9 +330,9 @@ Critique: The category slide was clear about not being another feed, but it stil
 Deck action: Reframe slide 4 from a category negation to a market-pull statement, and make the AI role explicit: coordination disappears into the background while the visible product is the right person, room, and conversation.
 
 Resulting 15-slide spine:
-1. Human conversation is the operating system for real-world social communities.
-2. The snapback: Technology got between us. Human conversation brings us back.
-3. One human conversation tells you how people feel.
+1. Human Conversation is the operating system for real-world social communities.
+2. The snapback: Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
 4. The market is moving beyond feeds.
 5. Start with the person who almost came back.
 6. The product is one simple loop.
@@ -351,9 +351,9 @@ Critique: The close had the right category ambition, but the proof gates still f
 Deck action: Keep slide 15's operating-system close, but sharpen the three seed cards into investor-proof questions: return proof, product proof, and expansion proof. Replace the colder training-data note with a warmer learning-compounding line.
 
 Resulting 15-slide spine:
-1. Human conversation is the operating system for real-world social communities.
-2. The snapback: Technology got between us. Human conversation brings us back.
-3. One human conversation tells you how people feel.
+1. Human Conversation is the operating system for real-world social communities.
+2. The snapback: Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
 4. The next social layer is not another feed.
 5. Start with the person who almost came back.
 6. The product is one simple loop.
@@ -372,9 +372,9 @@ Critique: The founder-market slide said the team is close to the community, but 
 Deck action: Reframe slide 14 around living inside the problem before selling the software, with Dave hearing missed-return reasons, Steve turning daily judgment into product, and NEPC testing the loop every week.
 
 Resulting 15-slide spine:
-1. Human conversation is the operating system for real-world social communities.
-2. The snapback: Technology got between us. Human conversation brings us back.
-3. One human conversation tells you how people feel.
+1. Human Conversation is the operating system for real-world social communities.
+2. The snapback: Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
 4. The next social layer is not another feed.
 5. Start with the person who almost came back.
 6. The product is one simple loop.
@@ -393,9 +393,9 @@ Critique: The cover had a strong category headline, but the subtitle still made 
 Deck action: Keep the operating-system headline, but sharpen slide 1's subtitle into the buyer-facing product job: a sales engine for community builders that tells them who to call, what to ask, and what brings people back. Add Return to the cover chips so the product loop lands immediately.
 
 Resulting 15-slide spine:
-1. Human conversation is the operating system for real-world social communities.
-2. The snapback: Technology got between us. Human conversation brings us back.
-3. One human conversation tells you how people feel.
+1. Human Conversation is the operating system for real-world social communities.
+2. The snapback: Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
 4. The market is moving beyond feeds.
 5. Start with the person who almost came back.
 6. The product is one simple loop.
@@ -414,9 +414,9 @@ Critique: Slide 9 had useful business-impact evidence, but a data-room reviewer 
 Deck action: Reframe the slide eyebrow as Modeled impact, tighten each metric label around planning/model status, and replace the caveat with a clearer data-room boundary: underwriting still requires fresh utilization, fill results, margin, and staff-time evidence.
 
 Resulting 15-slide spine:
-1. Human conversation is the operating system for real-world social communities.
-2. The snapback: Technology got between us. Human conversation brings us back.
-3. One human conversation tells you how people feel.
+1. Human Conversation is the operating system for real-world social communities.
+2. The snapback: Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
 4. The market is moving beyond feeds.
 5. Start with the person who almost came back.
 6. The product is one simple loop.
@@ -435,8 +435,8 @@ Critique: The close had the right ambition, but the proof gates still read as di
 Deck action: Keep the category close, replace the question subtitle with the live-source close adapted for seed underwriting, and turn the three cards into proof statements: loop proof, product proof, and expansion proof.
 
 Resulting 15-slide spine:
-1. Human conversation is the operating system for real-world social communities.
-2. The snapback: Technology got between us. Human conversation brings us back.
+1. Human Conversation is the operating system for real-world social communities.
+2. The snapback: Technology got between us. Human Conversation brings us back.
 3. The signal is already in the call.
 4. The market is moving beyond feeds.
 5. Start with the person who almost came back.
@@ -456,8 +456,8 @@ Critique: Slides 3-5 had the right pieces, but the timing and wedge logic could 
 Deck action: Keep slide 3's insight intact, sharpen slide 4 into the inflection from feeds and dashboards to background AI coordination, and reframe slide 5 so the beachhead is measurable: one drifted member, one human call, one next action.
 
 Resulting 15-slide spine:
-1. Human conversation is the operating system for real-world social communities.
-2. The snapback: Technology got between us. Human conversation brings us back.
+1. Human Conversation is the operating system for real-world social communities.
+2. The snapback: Technology got between us. Human Conversation brings us back.
 3. The signal is already in the call.
 4. The market is moving beyond feeds and dashboards.
 5. Start where the missed return is measurable.
@@ -477,8 +477,8 @@ Critique: Slides 8-10 had the right evidence stack, but a first-meeting investor
 Deck action: Reframe slide 8 as the real live-lab proof test, slide 9 as modeled upside plus the next investor proof gate, and slide 10 as the compounding human-only signal layer.
 
 Resulting 15-slide spine:
-1. Human conversation is the operating system for real-world social communities.
-2. The snapback: Technology got between us. Human conversation brings us back.
+1. Human Conversation is the operating system for real-world social communities.
+2. The snapback: Technology got between us. Human Conversation brings us back.
 3. The signal is already in the call.
 4. The market is moving beyond feeds and dashboards.
 5. Start where the missed return is measurable.
@@ -498,8 +498,8 @@ Critique: The first and last slides had strong content, but the opening did not 
 Deck action: Keep the cover's category sentence, sharpen the subtitle into present-state guessing versus future-state action, and rewrite the seed close so the last emotional beat is bringing people back before they drift away.
 
 Resulting 15-slide spine:
-1. Human conversation is the operating system for real-world social communities.
-2. The snapback: Technology got between us. Human conversation brings us back.
+1. Human Conversation is the operating system for real-world social communities.
+2. The snapback: Technology got between us. Human Conversation brings us back.
 3. The signal is already in the call.
 4. The market is moving beyond feeds and dashboards.
 5. Start where the missed return is measurable.
@@ -519,8 +519,8 @@ Critique: Slides 5-7 explained the wedge and product, but a skeptical seed inves
 Deck action: Sharpen slide 5 into one measurable missed return, rewrite slide 6 around the three product questions staff need answered, and make slide 7 show the conversion from call outcome into memory, invite, and follow-through.
 
 Resulting 15-slide spine:
-1. Human conversation is the operating system for real-world social communities.
-2. The snapback: Technology got between us. Human conversation brings us back.
+1. Human Conversation is the operating system for real-world social communities.
+2. The snapback: Technology got between us. Human Conversation brings us back.
 3. The signal is already in the call.
 4. The market is moving beyond feeds and dashboards.
 5. Start with one missed return we can measure.
@@ -540,8 +540,8 @@ Critique: The category and wedge were clear, but a market-first investor needs t
 Deck action: Reframe slide 4 around community software moving from screens to returns, then make slide 5 the smallest repeatable return: find the drift, learn the reason, move the person, prove the return.
 
 Resulting 15-slide spine:
-1. Human conversation is the operating system for real-world social communities.
-2. The snapback: Technology got between us. Human conversation brings us back.
+1. Human Conversation is the operating system for real-world social communities.
+2. The snapback: Technology got between us. Human Conversation brings us back.
 3. The signal is already in the call.
 4. AI is moving community software from screens to returns.
 5. Enter through the smallest repeatable return.
@@ -561,8 +561,8 @@ Critique: Slides 9-12 had the economics, moat, graph, and expansion logic, but t
 Deck action: Reframe slide 9 around the repeatable return unlocking same-court upside, slide 10 around reason-level memory, slide 11 around the loop that makes each next call more precise, and slide 12 around the return loop traveling wherever someone owns attendance.
 
 Resulting 15-slide spine:
-1. Human conversation is the operating system for real-world social communities.
-2. The snapback: Technology got between us. Human conversation brings us back.
+1. Human Conversation is the operating system for real-world social communities.
+2. The snapback: Technology got between us. Human Conversation brings us back.
 3. The signal is already in the call.
 4. AI is moving community software from screens to returns.
 5. Enter through the smallest repeatable return.
@@ -579,10 +579,10 @@ Resulting 15-slide spine:
 
 Pass 55 - Andy Raskin strategic narrative lens
 Critique: The opening slides had strong language, but the first beat still introduced the product before the new game. Raskin's strategic narrative pattern pushes the deck to start with the big relevant change, name the old world losing, show the missing signal, and then introduce the new category.
-Deck action: Reframe slide 1 as AI moving community work back into human conversation, slide 2 as the old screen-based social software losing, slide 3 as the call where the return signal lives, and slide 4 as the new category of software that creates returns.
+Deck action: Reframe slide 1 as AI moving community work back into Human Conversation, slide 2 as the old screen-based social software losing, slide 3 as the call where the return signal lives, and slide 4 as the new category of software that creates returns.
 
 Resulting 15-slide spine:
-1. AI is moving community work back into human conversation.
+1. AI is moving community work back into Human Conversation.
 2. The old social software pulled community onto screens.
 3. The call is where the return signal lives.
 4. The new category is software that creates returns.
@@ -603,7 +603,7 @@ Critique: Slides 13-15 closed with conviction, but a design-partner-oriented see
 Deck action: Reframe slide 13 as earning the workflow by hand and selling the software that repeats it, slide 14 as owning the proving ground before selling, and slide 15 as backing the return loop before it becomes obvious.
 
 Resulting 15-slide spine:
-1. AI is moving community work back into human conversation.
+1. AI is moving community work back into Human Conversation.
 2. The old social software pulled community onto screens.
 3. The call is where the return signal lives.
 4. The new category is software that creates returns.
@@ -624,7 +624,7 @@ Critique: Slides 4-6 had the right category, wedge, and product sequence, but a 
 Deck action: Reframe slide 4 around software understanding human intent, slide 5 around verifying intent through one drifting person, and slide 6 around the first product as the workflow every operator repeats.
 
 Resulting 15-slide spine:
-1. AI is moving community work back into human conversation.
+1. AI is moving community work back into Human Conversation.
 2. The old social software pulled community onto screens.
 3. The call is where the return signal lives.
 4. AI opens the market for software that understands human intent.
@@ -645,7 +645,7 @@ Critique: Slides 8-12 had proof, economics, moat, compounding, and expansion, bu
 Deck action: Reframe slide 8 as one measurable proof club, slide 9 as the economic reason to run the proof, slide 10 as proprietary return-reason data, slide 11 as observed-return learning, and slide 12 as expansion only where return is owned.
 
 Resulting 15-slide spine:
-1. AI is moving community work back into human conversation.
+1. AI is moving community work back into Human Conversation.
 2. The old social software pulled community onto screens.
 3. The call is where the return signal lives.
 4. AI opens the market for software that understands human intent.
@@ -666,7 +666,7 @@ Critique: Slides 10-12 had a credible data and expansion story, but they still r
 Deck action: Reframe slide 10 around return reasons as the first network, slide 11 around each observed return adding a reusable operator pattern, and slide 12 around expansion through operators with the same owned-attendance job.
 
 Resulting 15-slide spine:
-1. AI is moving community work back into human conversation.
+1. AI is moving community work back into Human Conversation.
 2. The old social software pulled community onto screens.
 3. The call is where the return signal lives.
 4. AI opens the market for software that understands human intent.
@@ -774,7 +774,7 @@ Resulting 15-slide spine:
 1. AI will make the most important interface human again.
 2. The last social era pulled community out of the room.
 3. The signal that matters is why someone comes back.
-4. AI turns human conversation into software.
+4. AI turns Human Conversation into software.
 5. The wedge is one person drifting out.
 6. Who to call. What to ask. What to do next.
 7. One conversation becomes the next invite.
@@ -795,7 +795,7 @@ Resulting 15-slide spine:
 1. AI will make the most important interface human again.
 2. The last social era pulled community out of the room.
 3. The signal that matters is why someone comes back.
-4. AI turns human conversation into software.
+4. AI turns Human Conversation into software.
 5. The wedge is one person drifting out.
 6. Who to call. What to ask. What to do next.
 7. One conversation becomes the next invite.
@@ -816,7 +816,7 @@ Resulting 15-slide spine:
 1. AI will make the most important interface human again.
 2. The last social era pulled community out of the room.
 3. The signal that matters is why someone comes back.
-4. AI turns human conversation into software.
+4. AI turns Human Conversation into software.
 5. The wedge is one person drifting out.
 6. Who to call. What to ask. What to do next.
 7. One conversation becomes the next invite.
@@ -837,7 +837,7 @@ Resulting 15-slide spine:
 1. Human Conversation brings people back to real communities.
 2. Community software records activity. It misses drift.
 3. The return signal lives in the call.
-4. AI turns human conversation into software.
+4. AI turns Human Conversation into software.
 5. The wedge is one person drifting out.
 6. Who to call. What to ask. What to do next.
 7. One conversation becomes the next invite.
