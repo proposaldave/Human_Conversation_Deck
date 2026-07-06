@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05 and refreshed 2026-07-06
-- expert-pass-ledger.txt with 63 public expert lenses, 63 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 63 public expert lenses, 64 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -73,8 +73,10 @@ Live deck ideas incorporated:
 - Today's software sees activity after people drift.
 - Technology got between us.
 - Technology got between us. Human Conversation brings us back.
+- Technology became the intermediary. Human Conversation removes it.
 - Bookings and signups record activity. They do not show who needs a conversation before the relationship breaks.
 - The next social layer is the right people in the right room having the right conversation.
+- Not another feed. The right people in the right room having the right conversation.
 - Disconnection has a path back.
 - Conversation creates connection. Connection creates trust. Trust creates data. Data coordinates community.
 - Conversation. Connection. Trust. Data. Community.
