@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 45 public expert lenses, 46 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 46 public expert lenses, 46 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -47,6 +47,7 @@ Public expert sources reviewed:
 - Michael Seibel / YC seed pitch clarity guidance, https://www.saastr.com/how-to-pitch-your-seed-stage-startup-with-y-combinators-michael-seibel/, reviewed 2026-07-05
 - Geoffrey Moore, public Crossing the Chasm / beachhead market guidance, https://www.lennysnewsletter.com/p/geoffrey-moore-on-finding-your-beachhead, reviewed 2026-07-05
 - Steve Blank, public lean startup / customer development guidance, https://hbr.org/2013/05/why-the-lean-start-up-changes-everything, reviewed 2026-07-05
+- Josh Elman, public product growth and engagement background, https://about.me/joshelman, reviewed 2026-07-05
 
 Live deck ideas incorporated:
 - Human Conversation brings people back to real communities.
@@ -117,6 +118,12 @@ Live deck ideas incorporated:
 - Seed gate: utilization rises, margin holds, and staff minutes do not climb.
 - Seed gate: utilization, margin, and staff minutes must improve together.
 - Pass only if utilization rises, margin holds, and staff minutes do not climb.
+- The seed gate is repeated return behavior.
+- Target utilization lift.
+- Value per lift point.
+- Upside if returns repeat.
+- Profit if staff load holds.
+- Pass only if at-risk members return after calls often enough to lift utilization without staff drag.
 - Turn one proven club loop into repeatable software.
 - Return reasons are the proprietary raw material.
 - The proprietary asset is why people return.
