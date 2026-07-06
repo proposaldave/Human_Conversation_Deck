@@ -2446,3 +2446,23 @@ Resulting 14-slide spine:
 12. Do the return calls by hand until software is obvious.
 13. Seed proves the return engine can repeat.
 14. Turn one proven club loop into repeatable software.
+
+Pass 147 - Richard Rumelt public good-strategy lens
+Critique: Slide 4 had the right transformation chain, but it still read as an abstract brand ladder. Rumelt's good-strategy lens says the strategy should identify the core challenge, choose a guiding policy, and carry it through coherent action. For Human Conversation, the challenge is disconnection, the policy is trusted conversation, and the action is the next real-world move.
+Deck action: Reframe slide 4 so the path back is practical: ask, understand, act, remember, return.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology became the intermediary. Human Conversation removes it.
+3. One Human Conversation tells you how people feel.
+4. Disconnection has a practical path back.
+5. Community operators hire Human Conversation to bring people back.
+6. Trust becomes the data layer for community.
+7. The wedge is one person drifting.
+8. The live lab creates repeatable sales loops.
+9. The seed metric is whether people come back.
+10. Every return makes the graph smarter.
+11. Racquet clubs are the first market to win.
+12. Do the return calls by hand until software is obvious.
+13. Seed proves the return engine can repeat.
+14. Turn one proven club loop into repeatable software.
