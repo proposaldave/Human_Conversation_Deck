@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05 and refreshed 2026-07-06
-- expert-pass-ledger.txt with 61 public expert lenses, 61 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 61 public expert lenses, 62 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -229,7 +229,9 @@ Live deck ideas incorporated:
 - Back the operating system for real-world communities.
 - Back the proof loop operators will buy.
 - Back the operating system operators will buy.
+- Seed proves one club can become software.
 - Start with one club. Prove the sales engine. Build for every community where people need to feel known.
+- Repeat the loop weekly, productize what repeats, and sell the next operator.
 - Seed funds the repeatable system, not the manual work.
 - Seed proves the loop can become software.
 - The return loop becomes operator software.
