@@ -1667,6 +1667,26 @@ Resulting 14-slide spine:
 13. The team can run the proof loop themselves.
 14. Back the proof loop operators will buy.
 
+Pass 109 - Andrew Chen public Cold Start Problem lens
+Critique: Slide 10 had the right data-moat idea, but it still read like static captured data. A Cold Start read should show how the first dense community starts the graph: trusted answers reveal the return reason, next move, result, belonging signal, and repeat pattern, making each next return easier.
+Deck action: Reframe slide 10 from data ownership into a graph-starting moat, while avoiding an unproven network-effects claim.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. The return signal lives in the call.
+4. AI makes the next human move obvious.
+5. AI can see drift before software loses the relationship.
+6. Manual calls turn guesses into product evidence.
+7. Each call turns a guess into a move.
+8. The live lab creates repeatable sales loops.
+9. The model only matters if return behavior repeats.
+10. Trust creates the graph others cannot buy.
+11. Racquet clubs hire this to bring people back.
+12. Operators buy when payback is visible.
+13. The team can run the proof loop themselves.
+14. Back the proof loop operators will buy.
+
 Pass 108 - Synthetic elite AI emotional-clarity investor lens
 Critique: Slide 2 had a correct product problem, but the live deck carries a simpler emotional hinge: technology created the distance and Human Conversation is the return path. The opening problem should make investors feel the category shift before asking them to parse the system mechanics.
 Deck action: Reframe slide 2 with the live-deck snapback line and a simpler room-based social-layer sentence.

@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 53 public expert lenses, 54 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 54 public expert lenses, 54 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -29,6 +29,7 @@ Public expert sources reviewed:
 - Mike Maples, public startup-inflection and insight guidance, https://www.floodgate.com/insights/how-inflections-let-startups-change-the-rules and https://www.floodgate.com/insights/why-insights-are-the-secret-to-outlier-startups, reviewed 2026-07-06
 - Clayton Christensen / Christensen Institute, public Jobs-to-be-Done guidance, https://www.christenseninstitute.org/theory/jobs-to-be-done/ and https://www.library.hbs.edu/working-knowledge/clay-christensens-milkshake-marketing, reviewed 2026-07-06
 - David Skok, public SaaS metrics and go-to-market economic model guidance, https://www.forentrepreneurs.com/saas-metrics-2/ and https://openviewpartners.com/blog/keys-to-a-profitable-saas-sales-model/, reviewed 2026-07-06
+- Andrew Chen, public Cold Start Problem / atomic network guidance, https://andrewchen.com/solve-a-hard-problem-cold-start-problem/ and https://www.coldstart.com/, reviewed 2026-07-06
 - Nancy Duarte, public Presentation Sparkline and contrast guidance plus second-pass story-contrast opening lens, https://www.duarte.com/blog/ultimate-guide-to-contrast/, reviewed 2026-07-05
 - Don Valentine, public Sequoia market-first / target-big-markets guidance, https://www.foundersspace.com/fund-raising/don-valentine-sequoia-capital-target-big-markets/, reviewed 2026-07-05
 - Andy Raskin, public strategic narrative / greatest sales deck guidance, https://www.linkedin.com/pulse/greatest-sales-deck-ive-ever-seen-andy-raskin, reviewed 2026-07-05
@@ -150,15 +151,15 @@ Live deck ideas incorporated:
 - Return reasons are the proprietary raw material.
 - The proprietary asset is why people return.
 - The moat is what people tell a human.
-- Trust creates the data others cannot buy.
-- Bookings show activity. Trusted conversations reveal why someone returns and which move works again.
+- Trust creates the graph others cannot buy.
+- The first club teaches who returns, why they return, and which move works again.
 - Return reason: Why someone stopped.
 - Live context: Schedule, confidence, fit.
 - Next move: Invite, intro, host path.
 - Measured result: Returned, deferred, declined.
-- Trust signal: Who makes them feel known.
+- Belonging signal: Who makes them feel known.
 - Repeat pattern: Which move works again.
-- The power compounds when trusted answers become repeatable moves.
+- Each trusted answer makes the next return easier.
 - Bookings show activity. Human Conversation reveals the reason, context, move, result, helper, and pattern ordinary systems cannot infer.
 - Bookings show activity. Human Conversation reveals the reason, context, move, result, belonging, and pattern ordinary systems cannot infer.
 - Belonging: who makes them feel known.
