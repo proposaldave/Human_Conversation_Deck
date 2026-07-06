@@ -1,262 +1,262 @@
-{"kind":"slide","id":"sl/hjwtin","slide":1,"title":"SEED DECK","textShapes":10}
-{"kind":"shape","id":"sh/za1gvy90","slide":1,"name":"image-wash","bbox":[0,0,1280,720]}
-{"kind":"textbox","id":"sh/ap4r65wj","slide":1,"textChars":9,"textLines":1}
-{"kind":"textbox","id":"sh/hoza1gvy","slide":1,"textChars":21,"textLines":1}
-{"kind":"textbox","id":"sh/s36hcrmh","slide":1,"textChars":44,"textLines":1}
-{"kind":"textbox","id":"sh/zidonyd0","slide":1,"textChars":96,"textLines":1}
-{"kind":"shape","id":"sh/a1gvy90j","slide":1,"name":"chip-Person","bbox":[56,548,142,42]}
-{"kind":"textbox","id":"sh/lszqtcj6","slide":1,"textChars":6,"textLines":1}
-{"kind":"shape","id":"sh/s72x4nap","slide":1,"name":"chip-Reason","bbox":[216,548,154,42]}
-{"kind":"textbox","id":"sh/idonyd0z","slide":1,"textChars":6,"textLines":1}
-{"kind":"shape","id":"sh/byhgn29g","slide":1,"name":"chip-Action","bbox":[388,548,138,42]}
-{"kind":"textbox","id":"sh/0je9cvix","slide":1,"textChars":6,"textLines":1}
-{"kind":"shape","id":"sh/t47y1kre","slide":1,"name":"chip-Return","bbox":[544,548,138,42]}
-{"kind":"textbox","id":"sh/il0rqd4v","slide":1,"textChars":6,"textLines":1}
-{"kind":"textbox","id":"sh/b6xkf6dc","slide":1,"textChars":75,"textLines":1}
-{"kind":"textbox","id":"sh/0rqd4vmt","slide":1,"textChars":2,"textLines":1}
-{"kind":"image","id":"im/9w3m94fu","slide":1,"name":"","alt":"background","bbox":[0,0,1280,720]}
-{"kind":"slide","id":"sl/o1taau","slide":2,"title":"THE SNAPBACK","textShapes":5}
-{"kind":"shape","id":"sh/2x4nap4r","slide":2,"name":"image-wash","bbox":[0,0,1280,720]}
-{"kind":"textbox","id":"sh/vixczed8","slide":2,"textChars":12,"textLines":1}
-{"kind":"textbox","id":"sh/kre1w7mp","slide":2,"textChars":21,"textLines":1}
-{"kind":"textbox","id":"sh/dcbulwva","slide":2,"textChars":26,"textLines":1}
-{"kind":"textbox","id":"sh/6psfil0r","slide":2,"textChars":111,"textLines":1}
-{"kind":"textbox","id":"sh/val87ed8","slide":2,"textChars":2,"textLines":1}
-{"kind":"image","id":"im/4r65wjud","slide":2,"name":"","alt":"background","bbox":[0,0,1280,720]}
-{"kind":"slide","id":"sl/btglai","slide":3,"title":"THE INSIGHT","textShapes":5}
-{"kind":"shape","id":"sh/0nuxc3yl","slide":3,"name":"image-wash","bbox":[0,0,1280,720]}
-{"kind":"textbox","id":"sh/p8nqxs72","slide":3,"textChars":11,"textLines":1}
-{"kind":"textbox","id":"sh/itgfmlkj","slide":3,"textChars":21,"textLines":1}
-{"kind":"textbox","id":"sh/7ed8bat4","slide":3,"textChars":36,"textLines":1}
-{"kind":"textbox","id":"sh/0z61032l","slide":3,"textChars":125,"textLines":1}
-{"kind":"textbox","id":"sh/pkzupwb2","slide":3,"textChars":2,"textLines":1}
-{"kind":"image","id":"im/mp0bi9s3","slide":3,"name":"","alt":"background","bbox":[0,0,1280,720]}
-{"kind":"slide","id":"sl/ur7mc7","slide":4,"title":"CATEGORY THESIS","textShapes":10}
-{"kind":"shape","id":"sh/m94fu18j","slide":4,"name":"image-wash","bbox":[0,0,1280,720]}
-{"kind":"textbox","id":"sh/fu18jqh0","slide":4,"textChars":15,"textLines":1}
-{"kind":"textbox","id":"sh/83itgfml","slide":4,"textChars":21,"textLines":1}
-{"kind":"textbox","id":"sh/xobm58z2","slide":4,"textChars":37,"textLines":1}
-{"kind":"textbox","id":"sh/qxs72x4n","slide":4,"textChars":31,"textLines":1}
-{"kind":"textbox","id":"sh/fil0rqd4","slide":4,"textChars":96,"textLines":1}
-{"kind":"shape","id":"sh/4zidonyd","slide":4,"name":"chip-Person","bbox":[56,550,142,42]}
-{"kind":"textbox","id":"sh/xkf6dcbu","slide":4,"textChars":6,"textLines":1}
-{"kind":"shape","id":"sh/1kre1w7m","slide":4,"name":"chip-Reason","bbox":[216,550,164,42]}
-{"kind":"textbox","id":"sh/c3ylc7u5","slide":4,"textChars":6,"textLines":1}
-{"kind":"shape","id":"sh/ji5snelo","slide":4,"name":"chip-Action","bbox":[398,550,140,42]}
-{"kind":"textbox","id":"sh/uxc3ylc7","slide":4,"textChars":6,"textLines":1}
-{"kind":"shape","id":"sh/1cfa9w3m","slide":4,"name":"chip-Return","bbox":[556,550,144,42]}
-{"kind":"textbox","id":"sh/crmhk3q5","slide":4,"textChars":6,"textLines":1}
-{"kind":"textbox","id":"sh/j6tovaho","slide":4,"textChars":2,"textLines":1}
-{"kind":"image","id":"im/4vmtwra5","slide":4,"name":"","alt":"background","bbox":[0,0,1280,720]}
-{"kind":"slide","id":"sl/gv4zag","slide":5,"title":"LIVE WEDGE","textShapes":13}
-{"kind":"shape","id":"sh/s72x4nap","slide":5,"name":"image-wash","bbox":[0,0,1280,720]}
-{"kind":"textbox","id":"sh/lszqtcj6","slide":5,"textChars":10,"textLines":1}
-{"kind":"textbox","id":"sh/adsji5sn","slide":5,"textChars":21,"textLines":1}
-{"kind":"textbox","id":"sh/3ylc7u54","slide":5,"textChars":56,"textLines":1}
-{"kind":"textbox","id":"sh/sji5snel","slide":5,"textChars":115,"textLines":1}
-{"kind":"shape","id":"sh/h4byhgn2","slide":5,"name":"wedge-Spot","bbox":[72,522,250,94]}
-{"kind":"textbox","id":"sh/ap4r65wj","slide":5,"textChars":4,"textLines":1}
-{"kind":"textbox","id":"sh/za1gvy90","slide":5,"textChars":29,"textLines":1}
-{"kind":"shape","id":"sh/z61032ls","slide":5,"name":"wedge-Call","bbox":[342,522,250,94]}
-{"kind":"textbox","id":"sh/al87ed8b","slide":5,"textChars":4,"textLines":1}
-{"kind":"textbox","id":"sh/hcrmhk3q","slide":5,"textChars":32,"textLines":1}
-{"kind":"shape","id":"sh/orytsvu9","slide":5,"name":"wedge-Act","bbox":[612,522,250,94]}
-{"kind":"textbox","id":"sh/zupwb2hw","slide":5,"textChars":3,"textLines":1}
-{"kind":"textbox","id":"sh/a9w3m94f","slide":5,"textChars":27,"textLines":1}
-{"kind":"shape","id":"sh/h0fepkzu","slide":5,"name":"wedge-Learn","bbox":[882,522,250,94]}
-{"kind":"textbox","id":"sh/sfil0rqd","slide":5,"textChars":5,"textLines":1}
-{"kind":"textbox","id":"sh/zqtcj6to","slide":5,"textChars":25,"textLines":1}
-{"kind":"textbox","id":"sh/65wjudg7","slide":5,"textChars":2,"textLines":1}
-{"kind":"image","id":"im/itgfmlkj","slide":5,"name":"","alt":"background","bbox":[0,0,1280,720]}
-{"kind":"slide","id":"sl/ve78w3","slide":6,"title":"PRODUCT LOOP","textShapes":14}
-{"kind":"textbox","id":"sh/eloj2t83","slide":6,"textChars":12,"textLines":1}
-{"kind":"textbox","id":"sh/lc7u54zi","slide":6,"textChars":21,"textLines":1}
-{"kind":"textbox","id":"sh/wra5gbq1","slide":6,"textChars":48,"textLines":1}
-{"kind":"shape","id":"sh/7u54zido","slide":6,"name":"loop-01","bbox":[100,330,330,210]}
-{"kind":"textbox","id":"sh/ed8bat47","slide":6,"textChars":2,"textLines":1}
-{"kind":"textbox","id":"sh/l0rqd4vm","slide":6,"textChars":5,"textLines":1}
-{"kind":"textbox","id":"sh/wfyxobm5","slide":6,"textChars":17,"textLines":1}
-{"kind":"shape","id":"sh/7mp0bi9s","slide":6,"name":"loop-02","bbox":[476,330,330,210]}
-{"kind":"textbox","id":"sh/e1w7mp0b","slide":6,"textChars":2,"textLines":1}
-{"kind":"textbox","id":"sh/0rqd4vmt","slide":6,"textChars":4,"textLines":1}
-{"kind":"textbox","id":"sh/tcj6tova","slide":6,"textChars":20,"textLines":1}
-{"kind":"shape","id":"sh/il0rqd4v","slide":6,"name":"loop-03","bbox":[852,330,330,210]}
-{"kind":"textbox","id":"sh/b6xkf6dc","slide":6,"textChars":2,"textLines":1}
-{"kind":"textbox","id":"sh/0je9cvix","slide":6,"textChars":6,"textLines":1}
-{"kind":"textbox","id":"sh/t47y1kre","slide":6,"textChars":25,"textLines":1}
-{"kind":"textbox","id":"sh/idonyd0z","slide":6,"textChars":59,"textLines":1}
-{"kind":"textbox","id":"sh/byhgn29g","slide":6,"textChars":2,"textLines":1}
-{"kind":"slide","id":"sl/nfx23m","slide":7,"title":"HUMAN INTERFACE","textShapes":13}
-{"kind":"shape","id":"sh/bulwval8","slide":7,"name":"image-wash","bbox":[0,0,1280,720]}
-{"kind":"textbox","id":"sh/i9s36hcr","slide":7,"textChars":15,"textLines":1}
-{"kind":"textbox","id":"sh/tovahoza","slide":7,"textChars":21,"textLines":1}
-{"kind":"textbox","id":"sh/032lszqt","slide":7,"textChars":36,"textLines":1}
-{"kind":"textbox","id":"sh/bi9s36hc","slide":7,"textChars":109,"textLines":1}
-{"kind":"shape","id":"sh/ixczed8v","slide":7,"name":"ai-panel","bbox":[786,136,390,424]}
-{"kind":"textbox","id":"sh/tcj6tova","slide":7,"textChars":22,"textLines":1}
-{"kind":"textbox","id":"sh/0rqd4vmt","slide":7,"textChars":8,"textLines":1}
-{"kind":"shape","id":"sh/i9s36hcr","slide":7,"name":"ai-card-Before call","bbox":[812,210,338,86]}
-{"kind":"textbox","id":"sh/bulwval8","slide":7,"textChars":11,"textLines":1}
-{"kind":"textbox","id":"sh/0fepkzup","slide":7,"textChars":34,"textLines":1}
-{"kind":"shape","id":"sh/p0bi9s36","slide":7,"name":"ai-card-During call","bbox":[812,316,338,86]}
-{"kind":"textbox","id":"sh/ixczed8v","slide":7,"textChars":11,"textLines":1}
-{"kind":"textbox","id":"sh/bi9s36hc","slide":7,"textChars":28,"textLines":1}
-{"kind":"shape","id":"sh/032lszqt","slide":7,"name":"ai-card-After call","bbox":[812,422,338,86]}
-{"kind":"textbox","id":"sh/tovahoza","slide":7,"textChars":10,"textLines":1}
-{"kind":"textbox","id":"sh/il0rqd4v","slide":7,"textChars":30,"textLines":1}
-{"kind":"textbox","id":"sh/b6xkf6dc","slide":7,"textChars":2,"textLines":1}
-{"kind":"image","id":"im/5kb6xkf6","slide":7,"name":"","alt":"background","bbox":[0,0,1280,720]}
-{"kind":"slide","id":"sl/eiqt9e","slide":8,"title":"NEPC LIVE LAB","textShapes":14}
-{"kind":"shape","id":"sh/y90je9cv","slide":8,"name":"image-wash","bbox":[0,0,1280,720]}
-{"kind":"textbox","id":"sh/nuxc3ylc","slide":8,"textChars":13,"textLines":1}
-{"kind":"textbox","id":"sh/gn29gr2p","slide":8,"textChars":21,"textLines":1}
-{"kind":"textbox","id":"sh/58z25kb6","slide":8,"textChars":44,"textLines":1}
-{"kind":"textbox","id":"sh/yhgn29gr","slide":8,"textChars":81,"textLines":1}
-{"kind":"shape","id":"sh/n29gr2p8","slide":8,"name":"stat-9,226","bbox":[70,478,250,118]}
-{"kind":"textbox","id":"sh/czed8v6p","slide":8,"textChars":5,"textLines":1}
-{"kind":"textbox","id":"sh/5kb6xkf6","slide":8,"textChars":26,"textLines":1}
-{"kind":"shape","id":"sh/x4nap4r6","slide":8,"name":"stat-1,273","bbox":[344,478,250,118]}
-{"kind":"textbox","id":"sh/8jqh0fep","slide":8,"textChars":5,"textLines":1}
-{"kind":"textbox","id":"sh/fyxobm58","slide":8,"textChars":24,"textLines":1}
-{"kind":"shape","id":"sh/qd4vmtwr","slide":8,"name":"stat-174","bbox":[618,478,250,118]}
-{"kind":"textbox","id":"sh/xczed8v6","slide":8,"textChars":3,"textLines":1}
-{"kind":"textbox","id":"sh/8v6psfil","slide":8,"textChars":21,"textLines":1}
-{"kind":"shape","id":"sh/fa9w3m94","slide":8,"name":"stat-52-62%","bbox":[892,478,250,118]}
-{"kind":"textbox","id":"sh/qpg3ex0n","slide":8,"textChars":6,"textLines":1}
-{"kind":"textbox","id":"sh/1gvy90je","slide":8,"textChars":23,"textLines":1}
-{"kind":"textbox","id":"sh/8z25kb6x","slide":8,"textChars":127,"textLines":1}
-{"kind":"textbox","id":"sh/83itgfml","slide":8,"textChars":2,"textLines":1}
-{"kind":"image","id":"im/8nqxs72x","slide":8,"name":"","alt":"background","bbox":[0,0,1280,720]}
-{"kind":"slide","id":"sl/xxacsg","slide":9,"title":"MODELED IMPACT","textShapes":14}
-{"kind":"textbox","id":"sh/knih4byh","slide":9,"textChars":14,"textLines":1}
-{"kind":"textbox","id":"sh/v6psfil0","slide":9,"textChars":21,"textLines":1}
-{"kind":"textbox","id":"sh/2lszqtcj","slide":9,"textChars":50,"textLines":1}
-{"kind":"shape","id":"sh/d0z61032","slide":9,"name":"impact-band","bbox":[74,294,1132,262]}
-{"kind":"shape","id":"sh/kf6dcbul","slide":9,"name":"stat-55% to 80%","bbox":[108,330,250,118]}
-{"kind":"textbox","id":"sh/vu9knih4","slide":9,"textChars":10,"textLines":1}
-{"kind":"textbox","id":"sh/29gr2p8n","slide":9,"textChars":23,"textLines":1}
-{"kind":"shape","id":"sh/donyd0z6","slide":9,"name":"stat-$10K","bbox":[386,330,250,118]}
-{"kind":"textbox","id":"sh/k3q5o7qp","slide":9,"textChars":4,"textLines":1}
-{"kind":"textbox","id":"sh/at47y1kr","slide":9,"textChars":20,"textLines":1}
-{"kind":"shape","id":"sh/3ex0nuxc","slide":9,"name":"stat-$500K","bbox":[664,330,250,118]}
-{"kind":"textbox","id":"sh/szqtcj6t","slide":9,"textChars":5,"textLines":1}
-{"kind":"textbox","id":"sh/lkjm1cfa","slide":9,"textChars":32,"textLines":1}
-{"kind":"shape","id":"sh/ahoza1gv","slide":9,"name":"stat-$764K","bbox":[942,330,230,118]}
-{"kind":"textbox","id":"sh/32lszqtc","slide":9,"textChars":5,"textLines":1}
-{"kind":"textbox","id":"sh/sneloj2t","slide":9,"textChars":34,"textLines":1}
-{"kind":"textbox","id":"sh/l87ed8ba","slide":9,"textChars":96,"textLines":1}
-{"kind":"textbox","id":"sh/e9cvixcz","slide":9,"textChars":77,"textLines":1}
-{"kind":"textbox","id":"sh/3q5o7qpg","slide":9,"textChars":2,"textLines":1}
-{"kind":"slide","id":"sl/3haxvq","slide":10,"title":"STAFF-ONLY SIGNAL","textShapes":18}
-{"kind":"shape","id":"sh/kf6dcbul","slide":10,"name":"image-wash","bbox":[0,0,1280,720]}
-{"kind":"textbox","id":"sh/d0z61032","slide":10,"textChars":17,"textLines":1}
-{"kind":"textbox","id":"sh/2lszqtcj","slide":10,"textChars":21,"textLines":1}
-{"kind":"textbox","id":"sh/v6psfil0","slide":10,"textChars":41,"textLines":1}
-{"kind":"textbox","id":"sh/knih4byh","slide":10,"textChars":100,"textLines":1}
-{"kind":"shape","id":"sh/d8bat47y","slide":10,"name":"metric-Return reason","bbox":[76,356,338,118]}
-{"kind":"shape","id":"sh/6psfil0r","slide":10,"name":"metric-rule-Return reason","bbox":[76,356,338,6]}
-{"kind":"textbox","id":"sh/val87ed8","slide":10,"textChars":13,"textLines":1}
-{"kind":"textbox","id":"sh/judg7ads","slide":10,"textChars":19,"textLines":1}
-{"kind":"shape","id":"sh/u9knih4b","slide":10,"name":"metric-Live context","bbox":[462,356,338,118]}
-{"kind":"shape","id":"sh/1032lszq","slide":10,"name":"metric-rule-Live context","bbox":[462,356,338,6]}
-{"kind":"textbox","id":"sh/cfa9w3m9","slide":10,"textChars":12,"textLines":1}
-{"kind":"textbox","id":"sh/jm1cfa9w","slide":10,"textChars":25,"textLines":1}
-{"kind":"shape","id":"sh/u18jqh0f","slide":10,"name":"metric-Next move","bbox":[848,356,338,118]}
-{"kind":"shape","id":"sh/1orytsvu","slide":10,"name":"metric-rule-Next move","bbox":[848,356,338,6]}
-{"kind":"textbox","id":"sh/c7u54zid","slide":10,"textChars":9,"textLines":1}
-{"kind":"textbox","id":"sh/nap4r65w","slide":10,"textChars":24,"textLines":1}
-{"kind":"shape","id":"sh/upwb2hwf","slide":10,"name":"metric-Measured result","bbox":[76,498,338,118]}
-{"kind":"shape","id":"sh/6psfil0r","slide":10,"name":"metric-rule-Measured result","bbox":[76,498,338,6]}
-{"kind":"textbox","id":"sh/val87ed8","slide":10,"textChars":15,"textLines":1}
-{"kind":"textbox","id":"sh/kre1w7mp","slide":10,"textChars":28,"textLines":1}
-{"kind":"shape","id":"sh/dcbulwva","slide":10,"name":"metric-Trust signal","bbox":[462,498,338,118]}
-{"kind":"shape","id":"sh/2x4nap4r","slide":10,"name":"metric-rule-Trust signal","bbox":[462,498,338,6]}
-{"kind":"textbox","id":"sh/vixczed8","slide":10,"textChars":12,"textLines":1}
-{"kind":"textbox","id":"sh/k3q5o7qp","slide":10,"textChars":25,"textLines":1}
-{"kind":"shape","id":"sh/donyd0z6","slide":10,"name":"metric-Repeat pattern","bbox":[848,498,338,118]}
-{"kind":"shape","id":"sh/29gr2p8n","slide":10,"name":"metric-rule-Repeat pattern","bbox":[848,498,338,6]}
-{"kind":"textbox","id":"sh/vu9knih4","slide":10,"textChars":14,"textLines":1}
-{"kind":"textbox","id":"sh/lszqtcj6","slide":10,"textChars":22,"textLines":1}
-{"kind":"textbox","id":"sh/s72x4nap","slide":10,"textChars":65,"textLines":1}
-{"kind":"textbox","id":"sh/3m94fu18","slide":10,"textChars":2,"textLines":1}
-{"kind":"image","id":"im/a9w3m94f","slide":10,"name":"","alt":"background","bbox":[0,0,1280,720]}
-{"kind":"slide","id":"sl/hbe1ya","slide":11,"title":"MONOPOLY PATH","textShapes":11}
-{"kind":"shape","id":"sh/vmtwra5g","slide":11,"name":"image-wash","bbox":[0,0,1280,720]}
-{"kind":"textbox","id":"sh/61032lsz","slide":11,"textChars":13,"textLines":1}
-{"kind":"textbox","id":"sh/d4vmtwra","slide":11,"textChars":21,"textLines":1}
-{"kind":"textbox","id":"sh/oj2t83it","slide":11,"textChars":45,"textLines":1}
-{"kind":"textbox","id":"sh/vy90je9c","slide":11,"textChars":95,"textLines":1}
-{"kind":"shape","id":"sh/6dcbulwv","slide":11,"name":"market-Beachhead","bbox":[74,500,340,122]}
-{"kind":"shape","id":"sh/d8v6psfi","slide":11,"name":"market-rule-Beachhead","bbox":[74,500,340,6]}
-{"kind":"textbox","id":"sh/onyd0z61","slide":11,"textChars":9,"textLines":1}
-{"kind":"textbox","id":"sh/epkzupwb","slide":11,"textChars":13,"textLines":1}
-{"kind":"shape","id":"sh/7adsji5s","slide":11,"name":"market-Reason to buy","bbox":[464,500,340,122]}
-{"kind":"shape","id":"sh/wval87ed","slide":11,"name":"market-rule-Reason to buy","bbox":[464,500,340,6]}
-{"kind":"textbox","id":"sh/pg3ex0nu","slide":11,"textChars":13,"textLines":1}
-{"kind":"textbox","id":"sh/e1w7mp0b","slide":11,"textChars":12,"textLines":1}
-{"kind":"shape","id":"sh/7mp0bi9s","slide":11,"name":"market-Reference path","bbox":[854,500,340,122]}
-{"kind":"shape","id":"sh/w7mp0bi9","slide":11,"name":"market-rule-Reference path","bbox":[854,500,340,6]}
-{"kind":"textbox","id":"sh/psfil0rq","slide":11,"textChars":14,"textLines":1}
-{"kind":"textbox","id":"sh/ed8bat47","slide":11,"textChars":21,"textLines":1}
-{"kind":"textbox","id":"sh/7u54zido","slide":11,"textChars":2,"textLines":1}
-{"kind":"image","id":"im/tovahoza","slide":11,"name":"","alt":"background","bbox":[0,0,1280,720]}
-{"kind":"slide","id":"sl/voj9h8","slide":12,"title":"BUSINESS MODEL","textShapes":10}
-{"kind":"shape","id":"sh/b2hwfyxo","slide":12,"name":"image-wash","bbox":[0,0,1280,720]}
-{"kind":"textbox","id":"sh/mhk3q5o7","slide":12,"textChars":14,"textLines":1}
-{"kind":"textbox","id":"sh/twra5gbq","slide":12,"textChars":21,"textLines":1}
-{"kind":"textbox","id":"sh/4byhgn29","slide":12,"textChars":51,"textLines":1}
-{"kind":"shape","id":"sh/bq1oryts","slide":12,"name":"model-Pain is visible","bbox":[74,430,340,150]}
-{"kind":"shape","id":"sh/m58z25kb","slide":12,"name":"model-rule-Pain is visible","bbox":[74,430,340,6]}
-{"kind":"textbox","id":"sh/tsvu9kni","slide":12,"textChars":15,"textLines":1}
-{"kind":"textbox","id":"sh/47y1kre1","slide":12,"textChars":32,"textLines":1}
-{"kind":"shape","id":"sh/adsji5sn","slide":12,"name":"model-Use is weekly","bbox":[464,430,340,150]}
-{"kind":"shape","id":"sh/3ylc7u54","slide":12,"name":"model-rule-Use is weekly","bbox":[464,430,340,6]}
-{"kind":"textbox","id":"sh/sji5snel","slide":12,"textChars":13,"textLines":1}
-{"kind":"textbox","id":"sh/h4byhgn2","slide":12,"textChars":27,"textLines":1}
-{"kind":"shape","id":"sh/a5gbq1or","slide":12,"name":"model-Budget is clear","bbox":[854,430,340,150]}
-{"kind":"shape","id":"sh/3m94fu18","slide":12,"name":"model-rule-Budget is clear","bbox":[854,430,340,6]}
-{"kind":"textbox","id":"sh/s72x4nap","slide":12,"textChars":15,"textLines":1}
-{"kind":"textbox","id":"sh/lszqtcj6","slide":12,"textChars":36,"textLines":1}
-{"kind":"textbox","id":"sh/a1gvy90j","slide":12,"textChars":2,"textLines":1}
-{"kind":"image","id":"im/donyd0z6","slide":12,"name":"","alt":"background","bbox":[0,0,1280,720]}
-{"kind":"slide","id":"sl/pcvkoe","slide":13,"title":"FOUNDER-MARKET FIT","textShapes":10}
-{"kind":"shape","id":"sh/7adsji5s","slide":13,"name":"image-wash","bbox":[0,0,1280,720]}
-{"kind":"textbox","id":"sh/epkzupwb","slide":13,"textChars":18,"textLines":1}
-{"kind":"textbox","id":"sh/psfil0rq","slide":13,"textChars":21,"textLines":1}
-{"kind":"textbox","id":"sh/w7mp0bi9","slide":13,"textChars":43,"textLines":1}
-{"kind":"shape","id":"sh/7mp0bi9s","slide":13,"name":"team-Dave","bbox":[74,430,340,150]}
-{"kind":"shape","id":"sh/e1w7mp0b","slide":13,"name":"team-rule-Dave","bbox":[74,430,340,6]}
-{"kind":"textbox","id":"sh/l0rqd4vm","slide":13,"textChars":4,"textLines":1}
-{"kind":"textbox","id":"sh/wfyxobm5","slide":13,"textChars":36,"textLines":1}
-{"kind":"shape","id":"sh/ixczed8v","slide":13,"name":"team-Steve","bbox":[464,430,340,150]}
-{"kind":"shape","id":"sh/bi9s36hc","slide":13,"name":"team-rule-Steve","bbox":[464,430,340,6]}
-{"kind":"textbox","id":"sh/032lszqt","slide":13,"textChars":5,"textLines":1}
-{"kind":"textbox","id":"sh/tovahoza","slide":13,"textChars":25,"textLines":1}
-{"kind":"shape","id":"sh/i9s36hcr","slide":13,"name":"team-NEPC live lab","bbox":[854,430,340,150]}
-{"kind":"shape","id":"sh/bulwval8","slide":13,"name":"team-rule-NEPC live lab","bbox":[854,430,340,6]}
-{"kind":"textbox","id":"sh/0fepkzup","slide":13,"textChars":13,"textLines":1}
-{"kind":"textbox","id":"sh/p0bi9s36","slide":13,"textChars":32,"textLines":1}
-{"kind":"textbox","id":"sh/idonyd0z","slide":13,"textChars":2,"textLines":1}
-{"kind":"image","id":"im/xczed8v6","slide":13,"name":"","alt":"background","bbox":[0,0,1280,720]}
-{"kind":"slide","id":"sl/8qv78w","slide":14,"title":"SEED ROUND","textShapes":12}
-{"kind":"shape","id":"sh/y1kre1w7","slide":14,"name":"image-wash","bbox":[0,0,1280,720]}
-{"kind":"textbox","id":"sh/rmhk3q5o","slide":14,"textChars":10,"textLines":1}
-{"kind":"textbox","id":"sh/gfmlkjm1","slide":14,"textChars":21,"textLines":1}
-{"kind":"textbox","id":"sh/90je9cvi","slide":14,"textChars":39,"textLines":1}
-{"kind":"textbox","id":"sh/yd0z6103","slide":14,"textChars":116,"textLines":1}
-{"kind":"shape","id":"sh/rytsvu9k","slide":14,"name":"seed-card-Club proof","bbox":[82,514,258,116]}
-{"kind":"shape","id":"sh/gr2p8nqx","slide":14,"name":"seed-card-rule-Club proof","bbox":[82,514,258,6]}
-{"kind":"textbox","id":"sh/9cvixcze","slide":14,"textChars":10,"textLines":1}
-{"kind":"textbox","id":"sh/tovahoza","slide":14,"textChars":26,"textLines":1}
-{"kind":"shape","id":"sh/032lszqt","slide":14,"name":"seed-card-Product proof","bbox":[368,514,258,116]}
-{"kind":"shape","id":"sh/bi9s36hc","slide":14,"name":"seed-card-rule-Product proof","bbox":[368,514,258,6]}
-{"kind":"textbox","id":"sh/ixczed8v","slide":14,"textChars":13,"textLines":1}
-{"kind":"textbox","id":"sh/p0bi9s36","slide":14,"textChars":28,"textLines":1}
-{"kind":"shape","id":"sh/0fepkzup","slide":14,"name":"seed-card-Buyer proof","bbox":[654,514,258,116]}
-{"kind":"shape","id":"sh/bulwval8","slide":14,"name":"seed-card-rule-Buyer proof","bbox":[654,514,258,6]}
-{"kind":"textbox","id":"sh/i9s36hcr","slide":14,"textChars":11,"textLines":1}
-{"kind":"textbox","id":"sh/t47y1kre","slide":14,"textChars":21,"textLines":1}
-{"kind":"textbox","id":"sh/0je9cvix","slide":14,"textChars":65,"textLines":1}
-{"kind":"textbox","id":"sh/g7adsji5","slide":14,"textChars":2,"textLines":1}
-{"kind":"image","id":"im/87ed8bat","slide":14,"name":"","alt":"background","bbox":[0,0,1280,720]}
+{"kind":"slide","id":"sl/g926oj","slide":1,"title":"SEED DECK","textShapes":10}
+{"kind":"shape","id":"sh/m94fu18j","slide":1,"name":"image-wash","bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/fu18jqh0","slide":1,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/83itgfml","slide":1,"textChars":21,"textLines":1}
+{"kind":"textbox","id":"sh/xobm58z2","slide":1,"textChars":44,"textLines":1}
+{"kind":"textbox","id":"sh/qxs72x4n","slide":1,"textChars":96,"textLines":1}
+{"kind":"shape","id":"sh/fil0rqd4","slide":1,"name":"chip-Person","bbox":[56,548,142,42]}
+{"kind":"textbox","id":"sh/4zidonyd","slide":1,"textChars":6,"textLines":1}
+{"kind":"shape","id":"sh/xkf6dcbu","slide":1,"name":"chip-Reason","bbox":[216,548,154,42]}
+{"kind":"textbox","id":"sh/1kre1w7m","slide":1,"textChars":6,"textLines":1}
+{"kind":"shape","id":"sh/c3ylc7u5","slide":1,"name":"chip-Action","bbox":[388,548,138,42]}
+{"kind":"textbox","id":"sh/ji5snelo","slide":1,"textChars":6,"textLines":1}
+{"kind":"shape","id":"sh/uxc3ylc7","slide":1,"name":"chip-Return","bbox":[544,548,138,42]}
+{"kind":"textbox","id":"sh/1cfa9w3m","slide":1,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":1,"textChars":75,"textLines":1}
+{"kind":"textbox","id":"sh/j6tovaho","slide":1,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/0nuxc3yl","slide":1,"name":"","alt":"background","bbox":[0,0,1280,720]}
+{"kind":"slide","id":"sl/lzpkre","slide":2,"title":"THE SNAPBACK","textShapes":5}
+{"kind":"shape","id":"sh/f6dcbulw","slide":2,"name":"image-wash","bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/mlkjm1cf","slide":2,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/xkf6dcbu","slide":2,"textChars":21,"textLines":1}
+{"kind":"textbox","id":"sh/4zidonyd","slide":2,"textChars":26,"textLines":1}
+{"kind":"textbox","id":"sh/fepkzupw","slide":2,"textChars":111,"textLines":1}
+{"kind":"textbox","id":"sh/mtwra5gb","slide":2,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/psfil0rq","slide":2,"name":"","alt":"background","bbox":[0,0,1280,720]}
+{"kind":"slide","id":"sl/m3e9ak","slide":3,"title":"THE INSIGHT","textShapes":5}
+{"kind":"shape","id":"sh/ji5snelo","slide":3,"name":"image-wash","bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/uxc3ylc7","slide":3,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/1cfa9w3m","slide":3,"textChars":21,"textLines":1}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":3,"textChars":36,"textLines":1}
+{"kind":"textbox","id":"sh/j6tovaho","slide":3,"textChars":125,"textLines":1}
+{"kind":"textbox","id":"sh/ulwval87","slide":3,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/1w7mp0bi","slide":3,"name":"","alt":"background","bbox":[0,0,1280,720]}
+{"kind":"slide","id":"sl/l9enyk","slide":4,"title":"CATEGORY THESIS","textShapes":10}
+{"kind":"shape","id":"sh/l0rqd4vm","slide":4,"name":"image-wash","bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":4,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":4,"textChars":21,"textLines":1}
+{"kind":"textbox","id":"sh/eloj2t83","slide":4,"textChars":37,"textLines":1}
+{"kind":"textbox","id":"sh/lc7u54zi","slide":4,"textChars":31,"textLines":1}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":4,"textChars":96,"textLines":1}
+{"kind":"shape","id":"sh/7adsji5s","slide":4,"name":"chip-Person","bbox":[56,550,142,42]}
+{"kind":"textbox","id":"sh/epkzupwb","slide":4,"textChars":6,"textLines":1}
+{"kind":"shape","id":"sh/8jqh0fep","slide":4,"name":"chip-Reason","bbox":[216,550,164,42]}
+{"kind":"textbox","id":"sh/x4nap4r6","slide":4,"textChars":6,"textLines":1}
+{"kind":"shape","id":"sh/qd4vmtwr","slide":4,"name":"chip-Action","bbox":[398,550,140,42]}
+{"kind":"textbox","id":"sh/fyxobm58","slide":4,"textChars":6,"textLines":1}
+{"kind":"shape","id":"sh/8v6psfil","slide":4,"name":"chip-Return","bbox":[556,550,144,42]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":4,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/qpg3ex0n","slide":4,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/rmhk3q5o","slide":4,"name":"","alt":"background","bbox":[0,0,1280,720]}
+{"kind":"slide","id":"sl/2ua1au","slide":5,"title":"LIVE WEDGE","textShapes":13}
+{"kind":"shape","id":"sh/yd0z6103","slide":5,"name":"image-wash","bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/rytsvu9k","slide":5,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/g7adsji5","slide":5,"textChars":21,"textLines":1}
+{"kind":"textbox","id":"sh/9s36hcrm","slide":5,"textChars":56,"textLines":1}
+{"kind":"textbox","id":"sh/y1kre1w7","slide":5,"textChars":115,"textLines":1}
+{"kind":"shape","id":"sh/rmhk3q5o","slide":5,"name":"wedge-Spot","bbox":[72,522,250,94]}
+{"kind":"textbox","id":"sh/g3ex0nux","slide":5,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/5o7qpg3e","slide":5,"textChars":29,"textLines":1}
+{"kind":"shape","id":"sh/5gbq1ory","slide":5,"name":"wedge-Call","bbox":[342,522,250,94]}
+{"kind":"textbox","id":"sh/cvixczed","slide":5,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/nap4r65w","slide":5,"textChars":32,"textLines":1}
+{"kind":"shape","id":"sh/upwb2hwf","slide":5,"name":"wedge-Act","bbox":[612,522,250,94]}
+{"kind":"textbox","id":"sh/54zidony","slide":5,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/cj6tovah","slide":5,"textChars":27,"textLines":1}
+{"kind":"shape","id":"sh/nyd0z610","slide":5,"name":"wedge-Learn","bbox":[882,522,250,94]}
+{"kind":"textbox","id":"sh/udg7adsj","slide":5,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/1032lszq","slide":5,"textChars":25,"textLines":1}
+{"kind":"textbox","id":"sh/cfa9w3m9","slide":5,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/g7adsji5","slide":5,"name":"","alt":"background","bbox":[0,0,1280,720]}
+{"kind":"slide","id":"sl/pwnm8y","slide":6,"title":"PRODUCT LOOP","textShapes":14}
+{"kind":"textbox","id":"sh/j6tovaho","slide":6,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":6,"textChars":21,"textLines":1}
+{"kind":"textbox","id":"sh/1cfa9w3m","slide":6,"textChars":48,"textLines":1}
+{"kind":"shape","id":"sh/uxc3ylc7","slide":6,"name":"loop-01","bbox":[100,330,330,210]}
+{"kind":"textbox","id":"sh/ji5snelo","slide":6,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/c3ylc7u5","slide":6,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/1kre1w7m","slide":6,"textChars":17,"textLines":1}
+{"kind":"shape","id":"sh/q5o7qpg3","slide":6,"name":"loop-02","bbox":[476,330,330,210]}
+{"kind":"textbox","id":"sh/jqh0fepk","slide":6,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/fmlkjm1c","slide":6,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/q1orytsv","slide":6,"textChars":20,"textLines":1}
+{"kind":"shape","id":"sh/xs72x4na","slide":6,"name":"loop-03","bbox":[852,330,330,210]}
+{"kind":"textbox","id":"sh/87ed8bat","slide":6,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/je9cvixc","slide":6,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":6,"textChars":25,"textLines":1}
+{"kind":"textbox","id":"sh/1gvy90je","slide":6,"textChars":59,"textLines":1}
+{"kind":"textbox","id":"sh/8z25kb6x","slide":6,"textChars":2,"textLines":1}
+{"kind":"slide","id":"sl/9egj6t","slide":7,"title":"HUMAN INTERFACE","textShapes":13}
+{"kind":"shape","id":"sh/epkzupwb","slide":7,"name":"image-wash","bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/7adsji5s","slide":7,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/w7mp0bi9","slide":7,"textChars":21,"textLines":1}
+{"kind":"textbox","id":"sh/psfil0rq","slide":7,"textChars":36,"textLines":1}
+{"kind":"textbox","id":"sh/e1w7mp0b","slide":7,"textChars":109,"textLines":1}
+{"kind":"shape","id":"sh/7mp0bi9s","slide":7,"name":"ai-panel","bbox":[786,136,390,424]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":7,"textChars":22,"textLines":1}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":7,"textChars":8,"textLines":1}
+{"kind":"shape","id":"sh/hk3q5o7q","slide":7,"name":"ai-card-Before call","bbox":[812,210,338,86]}
+{"kind":"textbox","id":"sh/oza1gvy9","slide":7,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/zed8v6ps","slide":7,"textChars":34,"textLines":1}
+{"kind":"shape","id":"sh/6xkf6dcb","slide":7,"name":"ai-card-During call","bbox":[812,316,338,86]}
+{"kind":"textbox","id":"sh/hwfyxobm","slide":7,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/obm58z25","slide":7,"textChars":28,"textLines":1}
+{"kind":"shape","id":"sh/zqtcj6to","slide":7,"name":"ai-card-After call","bbox":[812,422,338,86]}
+{"kind":"textbox","id":"sh/65wjudg7","slide":7,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/h0fepkzu","slide":7,"textChars":30,"textLines":1}
+{"kind":"textbox","id":"sh/sfil0rqd","slide":7,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/gbq1oryt","slide":7,"name":"","alt":"background","bbox":[0,0,1280,720]}
+{"kind":"slide","id":"sl/c6wf0f","slide":8,"title":"NEPC LIVE LAB","textShapes":14}
+{"kind":"shape","id":"sh/3ylc7u54","slide":8,"name":"image-wash","bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":8,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/lszqtcj6","slide":8,"textChars":21,"textLines":1}
+{"kind":"textbox","id":"sh/s72x4nap","slide":8,"textChars":44,"textLines":1}
+{"kind":"textbox","id":"sh/3m94fu18","slide":8,"textChars":81,"textLines":1}
+{"kind":"shape","id":"sh/a5gbq1or","slide":8,"name":"stat-9,226","bbox":[70,478,250,118]}
+{"kind":"textbox","id":"sh/hoza1gvy","slide":8,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/s36hcrmh","slide":8,"textChars":26,"textLines":1}
+{"kind":"shape","id":"sh/q1orytsv","slide":8,"name":"stat-1,273","bbox":[344,478,250,118]}
+{"kind":"textbox","id":"sh/fmlkjm1c","slide":8,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/87ed8bat","slide":8,"textChars":24,"textLines":1}
+{"kind":"shape","id":"sh/xs72x4na","slide":8,"name":"stat-174","bbox":[618,478,250,118]}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":8,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/je9cvixc","slide":8,"textChars":21,"textLines":1}
+{"kind":"shape","id":"sh/8z25kb6x","slide":8,"name":"stat-52-62%","bbox":[892,478,250,118]}
+{"kind":"textbox","id":"sh/1gvy90je","slide":8,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/qpg3ex0n","slide":8,"textChars":26,"textLines":1}
+{"kind":"textbox","id":"sh/fa9w3m94","slide":8,"textChars":127,"textLines":1}
+{"kind":"textbox","id":"sh/re1w7mp0","slide":8,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/lc7u54zi","slide":8,"name":"","alt":"background","bbox":[0,0,1280,720]}
+{"kind":"slide","id":"sl/xzbhmh","slide":9,"title":"MODELED IMPACT","textShapes":14}
+{"kind":"textbox","id":"sh/p4r65wju","slide":9,"textChars":14,"textLines":1}
+{"kind":"textbox","id":"sh/ed8v6psf","slide":9,"textChars":21,"textLines":1}
+{"kind":"textbox","id":"sh/7y1kre1w","slide":9,"textChars":50,"textLines":1}
+{"kind":"shape","id":"sh/0bi9s36h","slide":9,"name":"impact-band","bbox":[74,294,1132,262]}
+{"kind":"shape","id":"sh/pwb2hwfy","slide":9,"name":"stat-55% to 80%","bbox":[108,330,250,118]}
+{"kind":"textbox","id":"sh/i5sneloj","slide":9,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/7qpg3ex0","slide":9,"textChars":23,"textLines":1}
+{"kind":"shape","id":"sh/0z61032l","slide":9,"name":"stat-$10K","bbox":[386,330,250,118]}
+{"kind":"textbox","id":"sh/pkzupwb2","slide":9,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/5sneloj2","slide":9,"textChars":20,"textLines":1}
+{"kind":"shape","id":"sh/cbulwval","slide":9,"name":"stat-$500K","bbox":[664,330,250,118]}
+{"kind":"textbox","id":"sh/nqxs72x4","slide":9,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/u54zidon","slide":9,"textChars":32,"textLines":1}
+{"kind":"shape","id":"sh/5kb6xkf6","slide":9,"name":"stat-$764K","bbox":[942,330,230,118]}
+{"kind":"textbox","id":"sh/czed8v6p","slide":9,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/neloj2t8","slide":9,"textChars":34,"textLines":1}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":9,"textChars":96,"textLines":1}
+{"kind":"textbox","id":"sh/58z25kb6","slide":9,"textChars":77,"textLines":1}
+{"kind":"textbox","id":"sh/gn29gr2p","slide":9,"textChars":2,"textLines":1}
+{"kind":"slide","id":"sl/6b4qvx","slide":10,"title":"STAFF-ONLY SIGNAL","textShapes":18}
+{"kind":"shape","id":"sh/eloj2t83","slide":10,"name":"image-wash","bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":10,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":10,"textChars":21,"textLines":1}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":10,"textChars":41,"textLines":1}
+{"kind":"textbox","id":"sh/ed8bat47","slide":10,"textChars":100,"textLines":1}
+{"kind":"shape","id":"sh/7u54zido","slide":10,"name":"metric-Return reason","bbox":[76,356,338,118]}
+{"kind":"shape","id":"sh/w7mp0bi9","slide":10,"name":"metric-rule-Return reason","bbox":[76,356,338,6]}
+{"kind":"textbox","id":"sh/psfil0rq","slide":10,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/tsvu9kni","slide":10,"textChars":19,"textLines":1}
+{"kind":"shape","id":"sh/47y1kre1","slide":10,"name":"metric-Live context","bbox":[462,356,338,118]}
+{"kind":"shape","id":"sh/bm58z25k","slide":10,"name":"metric-rule-Live context","bbox":[462,356,338,6]}
+{"kind":"textbox","id":"sh/m1cfa9w3","slide":10,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/tgfmlkjm","slide":10,"textChars":25,"textLines":1}
+{"kind":"shape","id":"sh/4vmtwra5","slide":10,"name":"metric-Next move","bbox":[848,356,338,118]}
+{"kind":"shape","id":"sh/bat47y1k","slide":10,"name":"metric-rule-Next move","bbox":[848,356,338,6]}
+{"kind":"textbox","id":"sh/mp0bi9s3","slide":10,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/t83itgfm","slide":10,"textChars":24,"textLines":1}
+{"kind":"shape","id":"sh/4nap4r65","slide":10,"name":"metric-Measured result","bbox":[76,498,338,118]}
+{"kind":"shape","id":"sh/0rqd4vmt","slide":10,"name":"metric-rule-Measured result","bbox":[76,498,338,6]}
+{"kind":"textbox","id":"sh/tcj6tova","slide":10,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/il0rqd4v","slide":10,"textChars":28,"textLines":1}
+{"kind":"shape","id":"sh/b6xkf6dc","slide":10,"name":"metric-Trust signal","bbox":[462,498,338,118]}
+{"kind":"shape","id":"sh/0je9cvix","slide":10,"name":"metric-rule-Trust signal","bbox":[462,498,338,6]}
+{"kind":"textbox","id":"sh/t47y1kre","slide":10,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/idonyd0z","slide":10,"textChars":25,"textLines":1}
+{"kind":"shape","id":"sh/byhgn29g","slide":10,"name":"metric-Repeat pattern","bbox":[848,498,338,118]}
+{"kind":"shape","id":"sh/0fepkzup","slide":10,"name":"metric-rule-Repeat pattern","bbox":[848,498,338,6]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":10,"textChars":14,"textLines":1}
+{"kind":"textbox","id":"sh/zed8v6ps","slide":10,"textChars":22,"textLines":1}
+{"kind":"textbox","id":"sh/6xkf6dcb","slide":10,"textChars":65,"textLines":1}
+{"kind":"textbox","id":"sh/hk3q5o7q","slide":10,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/0z61032l","slide":10,"name":"","alt":"background","bbox":[0,0,1280,720]}
+{"kind":"slide","id":"sl/pu3jc5","slide":11,"title":"MONOPOLY PATH","textShapes":11}
+{"kind":"shape","id":"sh/vixczed8","slide":11,"name":"image-wash","bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/2x4nap4r","slide":11,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/dcbulwva","slide":11,"textChars":21,"textLines":1}
+{"kind":"textbox","id":"sh/kre1w7mp","slide":11,"textChars":45,"textLines":1}
+{"kind":"textbox","id":"sh/val87ed8","slide":11,"textChars":95,"textLines":1}
+{"kind":"shape","id":"sh/6psfil0r","slide":11,"name":"market-Beachhead","bbox":[74,500,340,122]}
+{"kind":"shape","id":"sh/d8bat47y","slide":11,"name":"market-rule-Beachhead","bbox":[74,500,340,6]}
+{"kind":"textbox","id":"sh/knih4byh","slide":11,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/uxc3ylc7","slide":11,"textChars":13,"textLines":1}
+{"kind":"shape","id":"sh/ji5snelo","slide":11,"name":"market-Reason to buy","bbox":[464,500,340,122]}
+{"kind":"shape","id":"sh/c3ylc7u5","slide":11,"name":"market-rule-Reason to buy","bbox":[464,500,340,6]}
+{"kind":"textbox","id":"sh/1kre1w7m","slide":11,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/ulwval87","slide":11,"textChars":12,"textLines":1}
+{"kind":"shape","id":"sh/j6tovaho","slide":11,"name":"market-Reference path","bbox":[854,500,340,122]}
+{"kind":"shape","id":"sh/crmhk3q5","slide":11,"name":"market-rule-Reference path","bbox":[854,500,340,6]}
+{"kind":"textbox","id":"sh/1cfa9w3m","slide":11,"textChars":14,"textLines":1}
+{"kind":"textbox","id":"sh/qh0fepkz","slide":11,"textChars":21,"textLines":1}
+{"kind":"textbox","id":"sh/j2t83itg","slide":11,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/donyd0z6","slide":11,"name":"","alt":"background","bbox":[0,0,1280,720]}
+{"kind":"slide","id":"sl/ogw9c0","slide":12,"title":"BUSINESS MODEL","textShapes":10}
+{"kind":"shape","id":"sh/epkzupwb","slide":12,"name":"image-wash","bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/7adsji5s","slide":12,"textChars":14,"textLines":1}
+{"kind":"textbox","id":"sh/w7mp0bi9","slide":12,"textChars":21,"textLines":1}
+{"kind":"textbox","id":"sh/psfil0rq","slide":12,"textChars":51,"textLines":1}
+{"kind":"shape","id":"sh/e1w7mp0b","slide":12,"name":"model-Pain is visible","bbox":[74,430,340,150]}
+{"kind":"shape","id":"sh/7mp0bi9s","slide":12,"name":"model-rule-Pain is visible","bbox":[74,430,340,6]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":12,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":12,"textChars":32,"textLines":1}
+{"kind":"shape","id":"sh/hk3q5o7q","slide":12,"name":"model-Use is weekly","bbox":[464,430,340,150]}
+{"kind":"shape","id":"sh/oza1gvy9","slide":12,"name":"model-rule-Use is weekly","bbox":[464,430,340,6]}
+{"kind":"textbox","id":"sh/zed8v6ps","slide":12,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/6xkf6dcb","slide":12,"textChars":27,"textLines":1}
+{"kind":"shape","id":"sh/hwfyxobm","slide":12,"name":"model-Budget is clear","bbox":[854,430,340,150]}
+{"kind":"shape","id":"sh/obm58z25","slide":12,"name":"model-rule-Budget is clear","bbox":[854,430,340,6]}
+{"kind":"textbox","id":"sh/zqtcj6to","slide":12,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/65wjudg7","slide":12,"textChars":36,"textLines":1}
+{"kind":"textbox","id":"sh/h0fepkzu","slide":12,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/w3m94fu1","slide":12,"name":"","alt":"background","bbox":[0,0,1280,720]}
+{"kind":"slide","id":"sl/li1ce5","slide":13,"title":"FOUNDER-MARKET FIT","textShapes":10}
+{"kind":"shape","id":"sh/mlkjm1cf","slide":13,"name":"image-wash","bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/f6dcbulw","slide":13,"textChars":18,"textLines":1}
+{"kind":"textbox","id":"sh/4zidonyd","slide":13,"textChars":21,"textLines":1}
+{"kind":"textbox","id":"sh/xkf6dcbu","slide":13,"textChars":43,"textLines":1}
+{"kind":"shape","id":"sh/mtwra5gb","slide":13,"name":"team-Dave","bbox":[74,430,340,150]}
+{"kind":"shape","id":"sh/fepkzupw","slide":13,"name":"team-rule-Dave","bbox":[74,430,340,6]}
+{"kind":"textbox","id":"sh/83itgfml","slide":13,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/xobm58z2","slide":13,"textChars":36,"textLines":1}
+{"kind":"shape","id":"sh/dcbulwva","slide":13,"name":"team-Steve","bbox":[464,430,340,150]}
+{"kind":"shape","id":"sh/kre1w7mp","slide":13,"name":"team-rule-Steve","bbox":[464,430,340,6]}
+{"kind":"textbox","id":"sh/val87ed8","slide":13,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/6psfil0r","slide":13,"textChars":25,"textLines":1}
+{"kind":"shape","id":"sh/donyd0z6","slide":13,"name":"team-NEPC live lab","bbox":[854,430,340,150]}
+{"kind":"shape","id":"sh/k3q5o7qp","slide":13,"name":"team-rule-NEPC live lab","bbox":[854,430,340,6]}
+{"kind":"textbox","id":"sh/vixczed8","slide":13,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/2x4nap4r","slide":13,"textChars":32,"textLines":1}
+{"kind":"textbox","id":"sh/d0z61032","slide":13,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/4byhgn29","slide":13,"name":"","alt":"background","bbox":[0,0,1280,720]}
+{"kind":"slide","id":"sl/6ycdnw","slide":14,"title":"SEED ROUND","textShapes":12}
+{"kind":"shape","id":"sh/61032lsz","slide":14,"name":"image-wash","bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/vmtwra5g","slide":14,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/oj2t83it","slide":14,"textChars":21,"textLines":1}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":14,"textChars":39,"textLines":1}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":14,"textChars":116,"textLines":1}
+{"kind":"shape","id":"sh/vy90je9c","slide":14,"name":"seed-card-Club proof","bbox":[82,514,258,116]}
+{"kind":"shape","id":"sh/onyd0z61","slide":14,"name":"seed-card-rule-Club proof","bbox":[82,514,258,6]}
+{"kind":"textbox","id":"sh/d8v6psfi","slide":14,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/twra5gbq","slide":14,"textChars":26,"textLines":1}
+{"kind":"shape","id":"sh/4byhgn29","slide":14,"name":"seed-card-Product proof","bbox":[368,514,258,116]}
+{"kind":"shape","id":"sh/bq1oryts","slide":14,"name":"seed-card-rule-Product proof","bbox":[368,514,258,6]}
+{"kind":"textbox","id":"sh/m58z25kb","slide":14,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/t83itgfm","slide":14,"textChars":28,"textLines":1}
+{"kind":"shape","id":"sh/4nap4r65","slide":14,"name":"seed-card-Buyer proof","bbox":[654,514,258,116]}
+{"kind":"shape","id":"sh/b2hwfyxo","slide":14,"name":"seed-card-rule-Buyer proof","bbox":[654,514,258,6]}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":14,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/tgfmlkjm","slide":14,"textChars":21,"textLines":1}
+{"kind":"textbox","id":"sh/4vmtwra5","slide":14,"textChars":65,"textLines":1}
+{"kind":"textbox","id":"sh/gr2p8nqx","slide":14,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/kf6dcbul","slide":14,"name":"","alt":"background","bbox":[0,0,1280,720]}
 {"kind":"notice","message":"Truncated: omitted 0 lines. Increase maxChars or narrow target."}

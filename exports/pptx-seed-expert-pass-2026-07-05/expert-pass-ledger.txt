@@ -1586,3 +1586,23 @@ Resulting 14-slide spine:
 12. Operators buy the workflow once it pays for itself.
 13. The team can run the proof loop themselves.
 14. Back the proof loop operators will buy.
+
+Pass 104 - Synthetic elite AI data-room integrity auditor lens
+Critique: Slide 8 had one diligence-risk label: 52-62% was described as a utilization lift target even though the source note frames it as an observed utilization range from aggregate booking/utilization rows. That wording could make the proof slide look like it is overclaiming.
+Deck action: Keep the same metric and source, but relabel it as the baseline utilization range so slide 8 remains factual and slide 9 owns the modeled lift target.
+
+Resulting 14-slide spine:
+1. The sales engine for real-world communities.
+2. Technology got between us.
+3. The return signal lives in the call.
+4. AI makes the next human move obvious.
+5. AI can see drift before software loses the relationship.
+6. Manual calls turn guesses into product evidence.
+7. Each call turns a guess into a move.
+8. The live lab creates repeatable sales loops.
+9. The model only matters if return behavior repeats.
+10. Trust creates the data others cannot buy.
+11. Racquet clubs are the first reference market.
+12. Operators buy the workflow once it pays for itself.
+13. The team can run the proof loop themselves.
+14. Back the proof loop operators will buy.
