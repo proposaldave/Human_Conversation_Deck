@@ -2546,3 +2546,23 @@ Resulting 14-slide spine:
 12. Do the return calls by hand until software is obvious.
 13. Seed proves the return engine can repeat.
 14. Turn one proven club loop into repeatable software.
+
+Pass 152 - Synthetic elite AI moat-to-sales-engine lens
+Critique: Slide 10 now named the moat, but the supporting sentence still ended with the generic idea that returns "feed the loop." A top synthetic seed-deck reviewer would force the slide to explain why the moat matters commercially: trusted human answers become referrals, leaders, next calls, and the sales engine.
+Deck action: Replace the generic loop language with the live deck's sales-engine compounding logic while keeping the sharper moat title from pass 151.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology became the intermediary. Human Conversation removes it.
+3. One Human Conversation tells you how people feel.
+4. Disconnection has a practical path back.
+5. Community operators hire Human Conversation to bring people back.
+6. Trust becomes the data layer for community.
+7. The wedge is one person drifting.
+8. The live lab creates repeatable sales loops.
+9. If people come back, the business can accelerate.
+10. The moat is what members only tell a human.
+11. Racquet clubs are the first market to win.
+12. Do the return calls by hand until software is obvious.
+13. Seed proves the return engine can repeat.
+14. Turn one proven club loop into repeatable software.
