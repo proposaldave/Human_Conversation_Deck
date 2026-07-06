@@ -1707,6 +1707,26 @@ Resulting 14-slide spine:
 13. We are inside the community before we sell.
 14. Back the operating system operators will buy.
 
+Pass 116 - Synthetic elite AI product-loop clarity reviewer lens
+Critique: Slide 7 had the right learning-loop idea, but it still described the system abstractly. The live deck is stronger when the operator can repeat the flow as person, context, action, return. That makes the product feel usable rather than theoretical.
+Deck action: Reframe slide 7 around the concrete operator loop: Human Conversation gives the person, context, action, and return path, then learns from what happened.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. Human Conversation shows how people feel.
+4. Disconnection has a path back.
+5. AI can see drift before software loses the relationship.
+6. Manual calls turn guesses into product evidence.
+7. Each call creates the next action.
+8. The live lab creates repeatable sales loops.
+9. The seed metric is whether people come back.
+10. Trust creates the graph others cannot buy.
+11. Racquet clubs hire this to bring people back.
+12. Operators pay when they get people back.
+13. We are inside the community before we sell.
+14. Back the operating system operators will buy.
+
 Pass 113 - Kathy Sierra public user-success lens
 Critique: Slide 12 had solid payback logic, but it still framed the sale around Human Conversation software. A Kathy Sierra read should make the buyer outcome unmistakable: operators do not pay because the product is impressive; they pay because it makes them better at bringing people back.
 Deck action: Reframe slide 12 from software payback into operator success, with acquire, retain, and monetize tied to recovered attendance and easier weekly return work.
