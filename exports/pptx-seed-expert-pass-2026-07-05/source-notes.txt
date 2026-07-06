@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05
-- expert-pass-ledger.txt with 57 public expert lenses, 58 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 58 public expert lenses, 58 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -33,6 +33,7 @@ Public expert sources reviewed:
 - Marty Cagan / SVPG, public product-risk guidance, https://www.svpg.com/four-big-risks/ and https://www.svpg.com/discovery-judgement/, reviewed 2026-07-06
 - Kathy Sierra, public Building the Minimum Badass User / user-success guidance, https://businessofsoftware.org/2013/02/kathy-sierra-building-the-minimum-badass-user-business-of-software-a-masterclass-in-thinking-about-software-product-development/ and https://www.amazon.com/Badass-Making-Awesome-Kathy-Sierra/dp/1491919019, reviewed 2026-07-06
 - Alistair Croll / Ben Yoskovitz, public Lean Analytics One Metric That Matters guidance, https://leananalyticsbook.com/one-metric-that-matters/ and https://medium.com/lean-stack/lean-analytics-the-one-metric-that-matters-and-other-provocations-fd3006aab17, reviewed 2026-07-06
+- Rahul Vohra, public Superhuman product-market-fit engine guidance, https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/ and https://businessofsoftware.org/talks/product-market-fit-engine/, reviewed 2026-07-06
 - Nancy Duarte, public Presentation Sparkline and contrast guidance plus second-pass story-contrast opening lens, https://www.duarte.com/blog/ultimate-guide-to-contrast/, reviewed 2026-07-05
 - Don Valentine, public Sequoia market-first / target-big-markets guidance, https://www.foundersspace.com/fund-raising/don-valentine-sequoia-capital-target-big-markets/, reviewed 2026-07-05
 - Andy Raskin, public strategic narrative / greatest sales deck guidance, https://www.linkedin.com/pulse/greatest-sales-deck-ive-ever-seen-andy-raskin, reviewed 2026-07-05
@@ -218,6 +219,7 @@ Live deck ideas incorporated:
 - The return loop becomes operator software.
 - Operators buy the workflow once it pays for itself.
 - Operators pay when they get people back.
+- Operators pay when they ask to run it again.
 - Proof repeats: return moves lift utilization.
 - Workflow runs: staff uses software weekly.
 - Buyer commits: operators buy the system.
@@ -227,6 +229,9 @@ Live deck ideas incorporated:
 - Acquire: show recovered attendance.
 - Retain: make weekly return work easier.
 - Monetize: price against attendance restored.
+- Value: recovered attendance moves the metric.
+- Pull: staff asks for next week's list.
+- Price: charge against attendance restored.
 - Club proof: return loop repeats weekly.
 - Product proof: repeat work becomes software.
 - Buyer proof: next operator commits.
