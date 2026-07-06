@@ -2106,3 +2106,23 @@ Resulting 14-slide spine:
 12. Recovered attendance funds the software.
 13. We test the hard risks inside the club.
 14. Seed proves one club can become software.
+
+Pass 130 - Synthetic elite AI operating-loop thesis lens
+Critique: Slide 6 explained the manual-first build method, but slide 12 already owns the "run the loop by hand, productize what repeats" business-model point. The operating-loop slot should make the investor thesis sharper: trusted human conversations create the data layer that makes the software valuable. The live Human Conversation deck says this more clearly with "Trust becomes the data layer for community."
+Deck action: Reframe slide 6 around connection, trust, data, and coordination instead of manual-work mechanics.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology became the intermediary. Human Conversation removes it.
+3. Human Conversation shows how people feel.
+4. Disconnection has a path back.
+5. AI handles the computer work.
+6. Trust becomes the data layer for community.
+7. Each call creates the next action.
+8. The live lab tests the return loop every week.
+9. The seed metric is whether people come back.
+10. The moat is what members only tell a human.
+11. Racquet clubs see drift every week.
+12. Recovered attendance funds the software.
+13. We test the hard risks inside the club.
+14. Seed proves one club can become software.
