@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05 and refreshed 2026-07-06
-- expert-pass-ledger.txt with 68 public expert lenses, 69 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 69 public expert lenses, 69 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -53,7 +53,7 @@ Public expert sources reviewed:
 - Guy Kawasaki, public 10/20/30 pitch rule, https://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/, reviewed 2026-07-05
 - Michael Seibel / YC seed pitch clarity guidance, https://www.ycombinator.com/blog/how-to-pitch-your-company/ and https://www.saastr.com/how-to-pitch-your-seed-stage-startup-with-y-combinators-michael-seibel/, reviewed 2026-07-05 and refreshed 2026-07-06 for pass 119
 - Geoffrey Moore, public Crossing the Chasm / beachhead market guidance, https://www.lennysnewsletter.com/p/geoffrey-moore-on-finding-your-beachhead, reviewed 2026-07-05
-- Geoffrey Moore, public beachhead/reference-market expansion guidance, https://geoffreyamoore.com/business_blogs/after-the-chasm-scaling-beyond-the-beachhead/ and https://geoffreyamoore.com/positioning/, reviewed 2026-07-06
+- Geoffrey Moore, public beachhead/reference-market expansion guidance, https://geoffreyamoore.com/business_blogs/after-the-chasm-scaling-beyond-the-beachhead/ and https://geoffreyamoore.com/positioning/, reviewed 2026-07-06 and refreshed 2026-07-06 for pass 139
 - Steve Blank, public lean startup / customer development guidance, https://hbr.org/2013/05/why-the-lean-start-up-changes-everything and https://steveblank.com/2012/03/29/nail-the-customer-development-manifesto/, reviewed 2026-07-06 and refreshed 2026-07-06 for pass 121
 - Eric Ries, public validated-learning / Build-Measure-Learn guidance, https://theleanstartup.com/principles and https://leanstartup.co/about/principles/, reviewed 2026-07-06
 - Josh Elman, public product growth and engagement background, https://about.me/joshelman, reviewed 2026-07-05
@@ -222,6 +222,9 @@ Live deck ideas incorporated:
 - Own attendance before expanding.
 - Clubs are the first real-world community market.
 - Start with operators paid to bring people back.
+- Racquet clubs are the first market to win.
+- Big enough to matter, small enough to lead, and close enough to prove return, revenue, and staff load together.
+- Clubs first, real-world communities next.
 - Racquet clubs prove the return job first.
 - Racquet clubs are the first reference market.
 - Racquet clubs hire this to bring people back.
@@ -231,9 +234,9 @@ Live deck ideas incorporated:
 - They feel drift weekly, pay to restore attendance, and can reference the next attendance buyer.
 - The first reference buyer owns the attendance job, feels drift weekly, and can prove whether returns improve.
 - Job to be done: bring people back.
-- Best-fit customer: racquet clubs.
-- Visible pain: empty courts.
-- Measurable value: members return.
+- Beachhead: racquet clubs.
+- Compelling pain: empty courts.
+- Reference proof: members return.
 - Reference buyer: next attendance operator.
 - Start with clubs, prove the attendance job, then expand to operators paid to bring people back.
 - The market is every community where someone owns attendance, belonging, trust, and return.
