@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05 and refreshed 2026-07-06
-- expert-pass-ledger.txt with 61 public expert lenses, 62 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 62 public expert lenses, 62 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -45,7 +45,7 @@ Public expert sources reviewed:
 - Roelof Botha / Sequoia, public clarity and company-building guidance, https://sequoiacap.com/article/writing-a-business-plan/ and https://www.generalist.com/p/lessons-from-20-years-of-vc-roelof-botha, reviewed 2026-07-05
 - Keith Rabois, public operating-leverage and startup-operating guidance, https://www.khoslaventures.com/team/keith-rabois/, https://ulisten.ai/channels/yc-root-access/lecture-14-how-to-operate-keith-rabois_6fQHLK1aIBs, https://www.saastr.com/keith-rabois-khosla-ventures-building-amazing-teams-video-transcript/, and https://www.lennysnewsletter.com/p/hard-truths-about-building-in-the-ai-era, reviewed 2026-07-05
 - Elad Gil, public seed-stage and fundraising-process guidance, https://blog.eladgil.com/p/how-funding-rounds-differ-seed-series and https://blog.eladgil.com/p/tactics-for-how-to-raise-vc-round-or, reviewed 2026-07-05
-- Paul Graham, public do-things-that-do-not-scale and fundraising guidance, https://paulgraham.com/ds.html and https://paulgraham.com/fr.html, reviewed 2026-07-05
+- Paul Graham, public do-things-that-do-not-scale and fundraising guidance, https://paulgraham.com/ds.html and https://paulgraham.com/fr.html, reviewed 2026-07-05 and refreshed 2026-07-06 for pass 125
 - Marc Andreessen, public product-market fit, software-category, and market-taking guidance, https://pmarchive.com/guide_to_startups_part4.html, https://a16z.com/why-software-is-eating-the-world/, and https://a16z.com/where-to-go-after-product-market-fit-an-interview-with-marc-andreessen/, reviewed 2026-07-05
 - Brian Balfour, public growth-loop guidance, https://www.reforge.com/blog/growth-loops, reviewed 2026-07-05
 - Mark Suster, public Cash In / Cash Out / Milestones Achieved fundraising diligence guidance, https://www.inc.com/mark-suster/every-potential-investor-will-ask-you-about-these-3-things-heres-how-to-be-prepared.html, reviewed 2026-07-05
@@ -108,11 +108,16 @@ Live deck ideas incorporated:
 - Manual calls teach the product.
 - Repeated manual work becomes software.
 - Run the loop by hand. Productize what repeats.
+- Do the calls by hand until software is obvious.
 - Manual calls turn guesses into product evidence.
 - Concierge: do the calls that bring people back.
 - Learn: every outcome trains the workflow.
 - Software: give builders the weekly engine.
 - The product is only what the manual loop proves again.
+- Call: do the work that brings people back.
+- Learn: track what repeats after each outcome.
+- Automate: build only the workflow that repeats.
+- The manual work becomes the product spec.
 - Hand-run calls teach the product. Repeated moves become software.
 - Run: Who needs a conversation today?
 - Learn: What would help them return?
