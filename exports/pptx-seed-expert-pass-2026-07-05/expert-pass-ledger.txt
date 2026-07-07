@@ -3387,6 +3387,26 @@ Resulting 14-slide spine:
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
 
+Pass 260 - Synthetic sensory-signal reviewer lens
+Critique: Slide 3 had the right insight title, but the subtitle explained the call instead of letting investors feel the signal. A top synthetic sensory-signal reviewer would make the unique insight more concrete by naming tone and pauses as data already present in the Human Conversation. The live deck has the sharper line: tone, pauses, warmth, hesitation, loneliness, and trust are already in the call.
+Deck action: Keep slide 3 title, image, layout, and sequence position, but change the subtitle from A call reveals warmth, hesitation, loneliness, trust, and what would bring someone back. to Tone, pauses, warmth, hesitation, loneliness, trust: the signal is already in the call.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
+4. Trust becomes the data layer for community.
+5. Not another chat app. The product gets people back in the room.
+6. The conversation updates the system.
+7. The return list starts with one drifting person.
+8. The live lab creates repeatable sales loops.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs are the beachhead.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
+
 Pass 259 - Michael Seibel / YC public pitch-clarity lens
 Critique: Slide 1 had the right category headline and seed context, but the subtitle still made the buyer implicit and used a call-script phrase. Seibel's public YC pitch guidance says the opening should answer what the company does in simple user-path language. The live Human Conversation deck has the cleaner line: the sales engine gives community builders the next person, context, and action.
 Deck action: Keep slide 1 title, chips, context line, image, layout, and sequence position, but change the subtitle from The sales engine that shows who to call, what to ask, and what to do next. to The sales engine that gives community builders the next person, context, and action.
