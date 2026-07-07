@@ -3387,6 +3387,26 @@ Resulting 14-slide spine:
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
 
+Pass 238 - Synthetic investor-math clarity reviewer lens
+Critique: Slide 9 had the right proof gate and the right utilization range, but the first stat label said "target lift if returns repeat." A top synthetic investor-math clarity reviewer would remove that small ambiguity because 55% to 80% is the target utilization path, while the lift is the change the calls must prove. The investor should read the number as the utilization outcome being tested, not as a vague lift claim.
+Deck action: Keep slide 9 title, numbers, source note, caveat, layout, and sequence position, but change the first stat label from target lift if returns repeat to target utilization if returns repeat.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
+4. Trust becomes the data layer for community.
+5. Not another chat app. The product gets people back in the room.
+6. The conversation updates the system.
+7. The wedge is one person drifting.
+8. The live lab creates repeatable sales loops.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs are the beachhead.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
+
 Pass 237 - Marty Cagan public product-risk lens
 Critique: Slide 13 had the right founder-market-fit title and role cards, but the subtitle still described internal role alignment: "hear the signal, build the workflow, measure weekly adoption." Cagan's public product-risk lens asks whether the team can de-risk value, feasibility, usability, and viability. For Human Conversation, the investor read should be that Dave hears value risk, Steve tests feasibility, and NEPC proves viability inside the live loop.
 Deck action: Keep slide 13 title, Dave card, Steve card, NEPC card, image, layout, and sequence position, but change the subtitle from Each role is pointed at the first proof loop: hear the signal, build the workflow, measure weekly adoption. to Dave hears value. Steve tests feasibility. NEPC proves viability in the live loop.
