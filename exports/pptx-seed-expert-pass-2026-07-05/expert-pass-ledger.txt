@@ -3966,3 +3966,23 @@ Resulting 14-slide spine:
 12. Run the loop by hand. Productize what repeats.
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
+
+Pass 223 - Rob Fitzpatrick public customer-conversation specificity lens
+Critique: Slide 7 had the right wedge title and subtitle, but the four panel cards were still generic product prompts: Who is drifting, What happened last time, Offer the easiest return, What worked. Fitzpatrick's public Mom Test lens pushes customer conversations toward observed specifics, not abstract intent. The live Human Conversation deck has the stronger loop: they came once and vanished, the call learns schedule, confidence, and fit, the action is invite, intro, group, or leader path, and every outcome improves the next move.
+Deck action: Keep slide 7 title, subtitle, image, panel layout, and sequence position, but change the four panel-card bodies from Who is drifting?, What happened last time?, Offer the easiest return., and What worked? to They came once, then vanished.; Learn schedule, confidence, fit.; Invite, intro, group, leader path.; and Every outcome improves the next move.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
+4. Trust becomes the data layer for community.
+5. Not another chat app. The product gets people back in the room.
+6. The conversation updates the system.
+7. The wedge is one person drifting.
+8. The live lab creates repeatable sales loops.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs are the beachhead.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
