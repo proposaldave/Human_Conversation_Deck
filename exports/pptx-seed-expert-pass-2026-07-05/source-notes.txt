@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05 and refreshed 2026-07-07
-- expert-pass-ledger.txt with 80 public expert lenses, 80 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 80 public expert lenses, 81 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -217,6 +217,7 @@ Live deck ideas incorporated:
 - The proprietary asset is why people return.
 - The moat is what people tell a human.
 - The moat is what members only tell a human.
+- Each answer becomes a move, a measured return, and a better playbook for the next person.
 - Trust creates the graph others cannot buy.
 - The first club teaches who returns, why they return, and which move works again.
 - A trusted call reveals why they stopped, who helps, and which move works again.
@@ -226,6 +227,12 @@ Live deck ideas incorporated:
 - Measured result: Returned, deferred, declined.
 - Belonging signal: Who makes them feel known.
 - Repeat pattern: Which move works again.
+- Why: why someone stopped.
+- Context: schedule, confidence, fit.
+- Belonging: who makes them feel known.
+- Move: invite, intro, host path.
+- Result: returned, deferred, declined.
+- Repeat: which move works again.
 - Each trusted answer makes the next return easier.
 - Bookings show activity. Human Conversation reveals the reason, context, move, result, helper, and pattern ordinary systems cannot infer.
 - Bookings show activity. Human Conversation reveals the reason, context, move, result, belonging, and pattern ordinary systems cannot infer.
@@ -236,6 +243,7 @@ Live deck ideas incorporated:
 - Every return makes the graph smarter.
 - A call learns the why. Returns, referrals, leaders, and next calls become the sales engine.
 - Output becomes input: reason, move, result, next call.
+- Every answer makes the next human move better.
 - A reason becomes a move, a measured return, and a better playbook for the next club action.
 - Each answer becomes a move, a measured return, and a better playbook for the next person.
 - The graph improves only when a real person trusts the conversation enough to answer.

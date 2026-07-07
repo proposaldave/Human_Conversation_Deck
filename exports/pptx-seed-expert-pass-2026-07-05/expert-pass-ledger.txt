@@ -2746,3 +2746,23 @@ Resulting 14-slide spine:
 12. Do the return calls by hand until software is obvious.
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
+
+Pass 162 - Synthetic elite AI data-moat diligence lens
+Critique: Slide 10 had the right title, but the six cards still read like a data inventory. A top synthetic AI/data-moat reviewer would force the slide to show why the data compounds: the human answer becomes a next move, a measured result, and a better playbook.
+Deck action: Keep the moat title, rewrite the subtitle around answers becoming a playbook, and rename the cards to Why / Context / Belonging / Move / Result / Repeat.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
+4. Disconnection has a path back.
+5. Not another chat app. It gets people back in the room.
+6. Trust becomes the data layer for community.
+7. The wedge is one person drifting.
+8. The live lab creates repeatable sales loops.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs prove the smallest market can spread.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
