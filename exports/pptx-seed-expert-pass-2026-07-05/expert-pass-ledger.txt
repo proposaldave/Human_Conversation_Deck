@@ -3387,6 +3387,26 @@ Resulting 14-slide spine:
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
 
+Pass 240 - Synthetic product-story specificity reviewer lens
+Critique: Slide 7 had the right workflow and the right weekly-return-list panel, but the title still repeated the broader wedge phrase: "The wedge is one person drifting." A top synthetic product-story reviewer would make the operating object visible in the title so investors understand what the product actually runs each week. The stronger read is that the return list starts with one drifting person, then the call and next action close the loop.
+Deck action: Keep slide 7 subtitle, weekly return list panel, Spot/Call/Act/Learn cards, image, layout, and sequence position, but change the title from The wedge is one person drifting. to The return list starts with one drifting person.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
+4. Trust becomes the data layer for community.
+5. Not another chat app. The product gets people back in the room.
+6. The conversation updates the system.
+7. The return list starts with one drifting person.
+8. The live lab creates repeatable sales loops.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs are the beachhead.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
+
 Pass 239 - Teresa Torres public continuous-discovery lens
 Critique: Slide 6 had the right product-loop structure, but the bottom line still said "Each outcome becomes the next person, context, and action." Torres's public continuous-discovery guidance emphasizes weekly customer touchpoints by the team building the product, small research activities, and outcome-focused learning. For Human Conversation, the loop should read as an updating system: the human outcome updates the next person, context, and action.
 Deck action: Keep slide 6 title, Person card, Context card, Action card, layout, and sequence position, but change the bottom line from Each outcome becomes the next person, context, and action. to Each outcome updates the next person, context, and action.
