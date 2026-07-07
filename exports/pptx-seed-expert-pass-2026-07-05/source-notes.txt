@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05 and refreshed 2026-07-07
-- expert-pass-ledger.txt with 121 public expert lenses, 122 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 122 public expert lenses, 122 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -26,7 +26,7 @@ Drive sources reviewed:
 Public expert sources reviewed:
 - Seth Godin, public smallest viable audience / minimum viable audience guidance, https://seths.blog/2022/05/the-smallest-viable-audience/ and https://seths.blog/2017/07/in-search-of-the-minimum-viable-audience/, reviewed 2026-07-07 for pass 161 and pass 209
 - Steve Krug, public Don't Make Me Think product-usability guidance, https://sensible.com/dont-make-me-think/, reviewed 2026-07-07 for pass 163 and pass 215
-- Donald Miller / StoryBrand, public message-clarity guidance, https://storybrand.com/ and https://storybrand.com/storybrand-clarify-your-message-new-version/, reviewed 2026-07-07 for pass 159
+- Donald Miller / StoryBrand, public message-clarity guidance, https://storybrand.com/ and https://storybrand.com/storybrand-clarify-your-message-new-version/, reviewed 2026-07-07 for pass 159 and pass 245
 - Sarah Tavel, public Hierarchy of Engagement framework, https://sarahtavel.medium.com/the-hierarchy-of-engagement-5803bf4e6cfa and https://www.lennysnewsletter.com/p/the-hierarchy-of-engagement-sarah, reviewed 2026-07-05 and refreshed 2026-07-06 for pass 131
 - Peep Laja, public conversion clarity and value proposition guidance, https://cxl.com/blog/value-proposition-examples-how-to-create/, reviewed 2026-07-05 and refreshed 2026-07-06 for pass 129
 - Mike Maples, public startup-inflection and insight guidance, https://www.floodgate.com/insights/how-inflections-let-startups-change-the-rules and https://www.floodgate.com/insights/why-insights-are-the-secret-to-outlier-startups, reviewed 2026-07-06
@@ -80,6 +80,7 @@ Live deck ideas incorporated:
 - The sales engine for real-world communities.
 - The sales engine that gives community builders the next person, context, and action.
 - The sales engine that helps community builders bring people back.
+- The sales engine that shows who to call, what to ask, and what to do next.
 - Seed round | prove returns repeat | productize the loop | earn next operator.
 - For a club, it shows who is drifting, what to ask, and which invite brings them back.
 - The sales engine for communities that need people back.
