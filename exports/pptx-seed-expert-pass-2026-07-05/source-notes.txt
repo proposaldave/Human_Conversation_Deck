@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05 and refreshed 2026-07-07
-- expert-pass-ledger.txt with 128 public expert lenses, 128 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 128 public expert lenses, 129 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -276,6 +276,7 @@ Live deck ideas incorporated:
 - The moat compounds when answers become moves.
 - The product gets pulled forward by each return.
 - Every return teaches the next return.
+- Every return turns private signal into the next person, context, and action.
 - The moat is the return graph only Human Conversation can build.
 - A call learns the why. Returns, referrals, leaders, and next calls become the sales engine.
 - Output becomes input: reason, move, result, next call.

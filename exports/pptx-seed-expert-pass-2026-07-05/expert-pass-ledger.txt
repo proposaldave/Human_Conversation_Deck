@@ -3387,6 +3387,26 @@ Resulting 14-slide spine:
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
 
+Pass 258 - Synthetic moat-compounding reviewer lens
+Critique: Slide 10 had the right staff-only signal categories, but the bottom line "Every return teaches the next return" was still recursive. A top synthetic moat-compounding reviewer would make the compounding mechanism explicit: private return signal becomes the next person, context, and action. This keeps the slide anchored in the Human Conversation product loop and makes the proprietary data asset easier for investors to repeat.
+Deck action: Keep slide 10 title, subtitle, six signal cards, image, layout, and sequence position, but change the bottom line from Every return teaches the next return. to Every return turns private signal into the next person, context, and action.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
+4. Trust becomes the data layer for community.
+5. Not another chat app. The product gets people back in the room.
+6. The conversation updates the system.
+7. The return list starts with one drifting person.
+8. The live lab creates repeatable sales loops.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs are the beachhead.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
+
 Pass 257 - Steve Blank public customer-development demand lens
 Critique: Slide 12 had the right manual-to-software business-model structure, but the subtitle still sounded like service work plus incremental learning. Blank's public customer-development lens pushes the slide to prove repeated customer demand before productizing. For Human Conversation, the sharper investor read is that manual calls validate which return work operators want every week.
 Deck action: Keep slide 12 title, Concierge card, Learning loop card, Software card, image, layout, and sequence position, but change the subtitle from Do the calls that bring members back. Every outcome improves next week's return list. to Manual calls prove which return work operators want every week.
