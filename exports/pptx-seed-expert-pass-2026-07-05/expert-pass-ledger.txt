@@ -3346,3 +3346,23 @@ Resulting 14-slide spine:
 12. Run the loop by hand. Productize what repeats.
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
+
+Pass 192 - Synthetic elite network-effects diligence partner lens
+Critique: Slide 10 had the right moat title and already named the private fields, but the subtitle made the advantage sound like generic action optimization. A top synthetic AI network-effects reviewer would force the slide to explain why the graph is defensible: it improves only when a trusted human conversation creates the answer. The live Human Conversation deck supports this with "Every return makes the graph smarter"; the PPTX should make the trust gate explicit before that compounding line.
+Deck action: Keep the slide 10 title, six private-signal fields, and bottom compounding line, but rewrite the subtitle so the data advantage depends on trusted human disclosure: the graph improves only when a real person trusts the conversation enough to answer.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation reveals felt connection.
+4. Disconnection has a path back.
+5. Not another chat app. It gets people back in the room.
+6. Every conversation becomes operating memory.
+7. The wedge is one person drifting.
+8. One club has enough signal to learn weekly.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Clubs first. Real-world communities next.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
