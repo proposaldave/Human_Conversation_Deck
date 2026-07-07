@@ -2627,6 +2627,26 @@ Resulting 14-slide spine:
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
 
+Pass 161 - Seth Godin public smallest-viable-audience lens
+Critique: Slide 11 had the right first market, but it still framed the wedge as an internal segmentation choice. Godin's public smallest-viable-audience guidance says the first market should feel deliberately chosen, specific enough to serve deeply, and capable of spreading through proof. For Human Conversation, racquet clubs work because drift is visible, returns are measurable, and operators know adjacent buyers.
+Deck action: Reframe slide 11 from a generic reference-market map to a smallest-market-that-can-spread argument, with Small enough / Urgent enough / Spread path as the three proof points.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
+4. Disconnection has a path back.
+5. Not another chat app. It gets people back in the room.
+6. Trust becomes the data layer for community.
+7. The wedge is one person drifting.
+8. The live lab creates repeatable sales loops.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs prove the smallest market can spread.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
+
 Pass 160 - Synthetic elite AI services-to-software business model lens
 Critique: Slide 12 still explained the concierge work like a call service. A top synthetic seed investment committee reviewer would force the slide to answer the software question directly: what manual work creates learning, and what repeated pattern becomes product. The live Human Conversation deck already has the stronger investor line: run the loop by hand, then productize what repeats.
 Deck action: Restore slide 12 to the live wedge-to-software frame and replace Recruit / Delight / Automate with Concierge / Learning loop / Software.
