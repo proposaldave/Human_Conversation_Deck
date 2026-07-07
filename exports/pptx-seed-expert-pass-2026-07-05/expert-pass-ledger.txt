@@ -2267,6 +2267,26 @@ Resulting 14-slide spine:
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
 
+Pass 173 - Marty Cagan public product-risk restoration lens
+Critique: Slide 13 had regressed into a team-bio slide. Cagan's public product-risk frame says teams must reduce value, usability, feasibility, and business viability risk before committing product capacity. For this seed deck, the strongest founder-market-fit point is not that Dave, Steve, and NEPC exist; it is that the team is inside the first proof environment where value, feasibility, and viability can be tested before selling the software broadly. The live Human Conversation deck supports the same frame with Dave running the room, Steve building the loop, and NEPC teaching the system every week.
+Deck action: Reframe slide 13 from team bios to product-risk proof: value, feasibility, and viability tested inside the live club loop.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
+4. Disconnection has a path back.
+5. Not another chat app. It gets people back in the room.
+6. Every conversation becomes operating memory.
+7. AI makes the next human move obvious.
+8. One club has enough signal to learn weekly.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs prove the smallest market can spread.
+12. Run the loop by hand. Productize what repeats.
+13. We test the hard risks inside the club.
+14. Back the operating system for real-world social communities.
+
 Pass 172 - Synthetic elite seed-close inevitability reviewer lens
 Critique: Slide 14 had the right operating-system ambition, but the subtitle still sounded like internal financing mechanics. A top synthetic seed-close reviewer would make the final slide resolve the opening emotionally and commercially: start with one controlled club, prove the sales engine, then take it to every community where people need to feel known. The live Human Conversation deck already has the stronger close: "Start with one club. Build the sales engine for every community where people need to feel known."
 Deck action: Keep the title, replace the subtitle with the live-deck close, add the missing leader/actions proof language in the Prove and Build cards, and replace "If yes" with a clearer next-round condition.
