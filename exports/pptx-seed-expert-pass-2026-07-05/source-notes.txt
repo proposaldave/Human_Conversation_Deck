@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05 and refreshed 2026-07-07
-- expert-pass-ledger.txt with 124 public expert lenses, 124 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 124 public expert lenses, 125 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -183,6 +183,7 @@ Live deck ideas incorporated:
 - Spot, call, act, learn.
 - Call: what happened last time?
 - Ask what would help them return.
+- Learn what would bring them back.
 - Record the return reason.
 - Every conversation becomes operating memory.
 - Every call updates the next action.
