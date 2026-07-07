@@ -2307,6 +2307,26 @@ Resulting 14-slide spine:
 13. We test the hard risks inside the club.
 14. Back the operating system for real-world social communities.
 
+Pass 175 - Andrew Chen public atomic-network lens
+Critique: Slide 11 had the right expansion logic, but still made investors infer why racquet clubs are the smallest market that can travel. Chen's public Cold Start / atomic network guidance says networked products should first solve a crucial need inside a complete small network, especially for the hard side. For Human Conversation, one club is useful because members, staff, courts, return outcomes, and operator economics all meet in one weekly loop; once that loop works, the same attendance job travels to adjacent operators. The live Human Conversation deck points to the same path: clubs first, real-world communities next.
+Deck action: Reframe slide 11 from broad market spread to one club as the complete first network: complete network, operator need, next market.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. Human Conversation reveals felt connection.
+4. Disconnection has a path back.
+5. Not another chat app. It gets people back in the room.
+6. Every conversation becomes operating memory.
+7. AI makes the next human move obvious.
+8. One club has enough signal to learn weekly.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. One club contains the whole network.
+12. Run the loop by hand. Productize what repeats.
+13. We test the hard risks inside the club.
+14. Back the operating system for real-world social communities.
+
 Pass 172 - Synthetic elite seed-close inevitability reviewer lens
 Critique: Slide 14 had the right operating-system ambition, but the subtitle still sounded like internal financing mechanics. A top synthetic seed-close reviewer would make the final slide resolve the opening emotionally and commercially: start with one controlled club, prove the sales engine, then take it to every community where people need to feel known. The live Human Conversation deck already has the stronger close: "Start with one club. Build the sales engine for every community where people need to feel known."
 Deck action: Keep the title, replace the subtitle with the live-deck close, add the missing leader/actions proof language in the Prove and Build cards, and replace "If yes" with a clearer next-round condition.
