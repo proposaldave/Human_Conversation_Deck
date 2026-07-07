@@ -3387,6 +3387,26 @@ Resulting 14-slide spine:
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
 
+Pass 243 - Roger Martin public strategy-choice lens
+Critique: Slide 11 had the right beachhead title and cards, but the subtitle still made expansion sound like informal operator chatter: "operators see returns and tell the next operator." Martin's public strategy-choice lens says strategy should answer where to play and how to win through a linked set of choices. For Human Conversation, the beachhead win is one operator where returns become the reference for the next operator.
+Deck action: Keep slide 11 title, Beachhead card, Pain card, Expansion card, image, layout, and sequence position, but change the subtitle from Win one reference market where operators see returns and tell the next operator. to Win one operator where returns become the reference for the next operator.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
+4. Trust becomes the data layer for community.
+5. Not another chat app. The product gets people back in the room.
+6. The conversation updates the system.
+7. The return list starts with one drifting person.
+8. The live lab creates repeatable sales loops.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs are the beachhead.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
+
 Pass 242 - Synthetic data-moat diligence precision reviewer lens
 Critique: Slide 10 had the right title and private-signal cards, but the subtitle still said "The graph improves only when a real person trusts the conversation enough to answer." A top synthetic data-moat diligence reviewer would make the investor read focus on the moat itself, not an abstract graph, and would name the speaker as a member. The sharper claim is that the moat grows only when a member trusts the conversation enough to answer.
 Deck action: Keep slide 10 title, six signal cards, compounding line, image, layout, and sequence position, but change the subtitle from The graph improves only when a real person trusts the conversation enough to answer. to The moat grows only when a member trusts the conversation enough to answer.
