@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05 and refreshed 2026-07-07
-- expert-pass-ledger.txt with 113 public expert lenses, 114 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 114 public expert lenses, 114 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -56,7 +56,7 @@ Public expert sources reviewed:
 - Elad Gil, public seed-stage and fundraising-process guidance, https://blog.eladgil.com/p/how-funding-rounds-differ-seed-series and https://blog.eladgil.com/p/tactics-for-how-to-raise-vc-round-or, reviewed 2026-07-05 and refreshed 2026-07-06 for pass 137
 - Paul Graham, public do-things-that-do-not-scale and fundraising guidance, https://paulgraham.com/ds.html and https://paulgraham.com/fr.html, reviewed 2026-07-05 and refreshed 2026-07-06 for pass 125
 - Marc Andreessen, public product-market fit, software-category, and market-taking guidance, https://pmarchive.com/guide_to_startups_part4.html, https://a16z.com/why-software-is-eating-the-world/, and https://a16z.com/where-to-go-after-product-market-fit-an-interview-with-marc-andreessen/, reviewed 2026-07-05
-- Brian Balfour, public growth-loop guidance, https://www.reforge.com/blog/growth-loops and https://brianbalfour.com/quick-takes/universal-growth-loop, reviewed 2026-07-05 and refreshed 2026-07-06 for pass 135
+- Brian Balfour, public growth-loop guidance, https://www.reforge.com/blog/growth-loops and https://brianbalfour.com/quick-takes/universal-growth-loop, reviewed 2026-07-05, refreshed 2026-07-06 for pass 135, and refreshed 2026-07-07 for pass 229
 - Mark Suster, public Cash In / Cash Out / Milestones Achieved fundraising diligence guidance, https://www.inc.com/mark-suster/every-potential-investor-will-ask-you-about-these-3-things-heres-how-to-be-prepared.html, reviewed 2026-07-05 and refreshed 2026-07-07 for pass 189
 - April Dunford, public positioning quickstart guidance, https://www.aprildunford.com/post/a-quickstart-guide-to-positioning, reviewed 2026-07-05 and refreshed 2026-07-07 for pass 167
 - Guy Kawasaki, public 10/20/30 pitch rule and closing-clarity lens, https://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/, reviewed 2026-07-05 and refreshed 2026-07-07 for pass 183 and pass 207
@@ -261,7 +261,7 @@ Live deck ideas incorporated:
 - The answer only exists after a trusted human asks, hears, and records what would bring someone back.
 - The moat compounds when answers become moves.
 - The product gets pulled forward by each return.
-- Every return makes the graph smarter.
+- Every return teaches the next return.
 - The moat is the return graph only Human Conversation can build.
 - A call learns the why. Returns, referrals, leaders, and next calls become the sales engine.
 - Output becomes input: reason, move, result, next call.
