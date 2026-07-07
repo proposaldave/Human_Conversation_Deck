@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05 and refreshed 2026-07-07
-- expert-pass-ledger.txt with 126 public expert lenses, 127 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 127 public expert lenses, 127 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -68,7 +68,7 @@ Public expert sources reviewed:
 - Rob Fitzpatrick, public Mom Test customer-conversation guidance, https://www.momtestbook.com/, reviewed 2026-07-07 for passes 195, 211, and 223
 - Michael Seibel / YC seed pitch clarity guidance, https://www.ycombinator.com/blog/how-to-pitch-your-company/ and https://www.saastr.com/how-to-pitch-your-seed-stage-startup-with-y-combinators-michael-seibel/, reviewed 2026-07-05 and refreshed 2026-07-07 for passes 179 and 217
 - Geoffrey Moore, public Crossing the Chasm / beachhead market guidance, https://www.lennysnewsletter.com/p/geoffrey-moore-on-finding-your-beachhead, reviewed 2026-07-05
-- Geoffrey Moore, public beachhead/reference-market expansion guidance, https://geoffreyamoore.com/business_blogs/after-the-chasm-scaling-beyond-the-beachhead/ and https://geoffreyamoore.com/positioning/, reviewed 2026-07-06, refreshed 2026-07-06 for passes 139 and 157, and refreshed 2026-07-07 for pass 231
+- Geoffrey Moore, public beachhead/reference-market expansion guidance, https://geoffreyamoore.com/business_blogs/after-the-chasm-scaling-beyond-the-beachhead/ and https://geoffreyamoore.com/positioning/, reviewed 2026-07-06, refreshed 2026-07-06 for passes 139 and 157, and refreshed 2026-07-07 for passes 231 and 255
 - Steve Blank, public lean startup / customer development guidance, https://hbr.org/2013/05/why-the-lean-start-up-changes-everything and https://steveblank.com/2012/03/29/nail-the-customer-development-manifesto/, reviewed 2026-07-06 and refreshed 2026-07-06 for pass 121 and refreshed 2026-07-07 for pass 235
 - Eric Ries, public validated-learning / Build-Measure-Learn guidance, https://theleanstartup.com/principles and https://leanstartup.co/about/principles/, reviewed 2026-07-06 and refreshed 2026-07-07 for pass 165
 - Josh Elman, public product growth and engagement background, https://about.me/joshelman, reviewed 2026-07-05
@@ -290,6 +290,7 @@ Live deck ideas incorporated:
 - Big enough to matter, small enough to lead, and close enough to prove return, revenue, and staff load together.
 - Win one reference market where operators see returns and tell the next operator.
 - Win one operator where returns become the reference for the next operator.
+- Win one operator. Use return proof to sell the next.
 - Same return job, next operator.
 - Clubs first. Real-world communities next.
 - Inside one club, members, staff, courts, returns, and budget meet every week.
