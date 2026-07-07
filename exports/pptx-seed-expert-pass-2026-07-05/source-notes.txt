@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05 and refreshed 2026-07-06
-- expert-pass-ledger.txt with 76 public expert lenses, 76 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 76 public expert lenses, 77 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -306,8 +306,11 @@ Live deck ideas incorporated:
 - The first proof cycle is inside our control.
 - One club is the first milestone.
 - The team is inside the first proof environment.
-- We are inside the community before we sell.
-- Seed proves the return engine can repeat.
+- Founder-market fit.
+- We are inside the community before we sell the software.
+- Dave: Runs the room and hears the signal daily.
+- Steve: Builds the repeatable product loop.
+- NEPC: Live lab where every week teaches the system.
 - One club tests the return loop, buyer pull, and weekly workflow before the next round.
 - Loop: returns repeat weekly.
 - Buyer: operators ask to run it again.
