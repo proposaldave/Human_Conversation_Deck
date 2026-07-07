@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05 and refreshed 2026-07-06
-- expert-pass-ledger.txt with 77 public expert lenses, 77 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 77 public expert lenses, 78 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -201,8 +201,8 @@ Live deck ideas incorporated:
 - The seed gate is repeated return behavior.
 - The seed metric is repeated return behavior.
 - The model only matters if return behavior repeats.
-- If people come back, the business can accelerate.
-- Acceleration gate: contacted people return, returns repeat, and staff minutes stay flat.
+- The fundable metric is return lift without staff drag.
+- Seed gate: contacted people return, returns repeat weekly, and staff minutes stay flat.
 - Target utilization lift.
 - Value per lift point.
 - Upside if returns repeat.
