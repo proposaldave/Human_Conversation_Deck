@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05 and refreshed 2026-07-07
-- expert-pass-ledger.txt with 125 public expert lenses, 126 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 126 public expert lenses, 126 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -61,7 +61,7 @@ Public expert sources reviewed:
 - Paul Graham, public do-things-that-do-not-scale and fundraising guidance, https://paulgraham.com/ds.html and https://paulgraham.com/fr.html, reviewed 2026-07-05 and refreshed 2026-07-06 for pass 125
 - Marc Andreessen, public product-market fit, software-category, and market-taking guidance, https://pmarchive.com/guide_to_startups_part4.html, https://a16z.com/why-software-is-eating-the-world/, and https://a16z.com/where-to-go-after-product-market-fit-an-interview-with-marc-andreessen/, reviewed 2026-07-05
 - Brian Balfour, public growth-loop guidance, https://www.reforge.com/blog/growth-loops and https://brianbalfour.com/quick-takes/universal-growth-loop, reviewed 2026-07-05, refreshed 2026-07-06 for pass 135, and refreshed 2026-07-07 for pass 229
-- Mark Suster, public Cash In / Cash Out / Milestones Achieved fundraising diligence guidance, https://www.inc.com/mark-suster/every-potential-investor-will-ask-you-about-these-3-things-heres-how-to-be-prepared.html, reviewed 2026-07-05 and refreshed 2026-07-07 for pass 189
+- Mark Suster, public Cash In / Cash Out / Milestones Achieved fundraising diligence guidance, https://www.inc.com/mark-suster/every-potential-investor-will-ask-you-about-these-3-things-heres-how-to-be-prepared.html, reviewed 2026-07-05 and refreshed 2026-07-07 for passes 189 and 253
 - April Dunford, public positioning quickstart guidance, https://www.aprildunford.com/post/a-quickstart-guide-to-positioning, reviewed 2026-07-05 and refreshed 2026-07-07 for pass 167
 - Guy Kawasaki, public 10/20/30 pitch rule and closing-clarity lens, https://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/, reviewed 2026-07-05 and refreshed 2026-07-07 for pass 183 and pass 207
 - Bill Aulet / Disciplined Entrepreneurship, public beachhead-market and follow-on-market guidance, https://www.d-eship.com/step2/ and https://www.d-eship.com/step14/, reviewed 2026-07-07 for pass 193
@@ -82,6 +82,7 @@ Live deck ideas incorporated:
 - The sales engine that helps community builders bring people back.
 - The sales engine that shows who to call, what to ask, and what to do next.
 - Seed round | prove returns repeat | productize the loop | earn next operator.
+- Seed round | prove returns repeat | productize the loop | earn next operator commitment.
 - For a club, it shows who is drifting, what to ask, and which invite brings them back.
 - The sales engine for communities that need people back.
 - AI tells operators who needs a conversation, what to ask, and what next action will bring them back.
