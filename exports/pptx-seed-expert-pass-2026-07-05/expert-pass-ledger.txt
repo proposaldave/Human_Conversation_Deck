@@ -3387,6 +3387,26 @@ Resulting 14-slide spine:
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
 
+Pass 261 - Paul Graham public do-things-that-dont-scale wedge lens
+Critique: Slide 7 had the right manual return workflow, but the title still sounded like a product list mechanic. Graham's public do-things-that-dont-scale lens says early startups should recruit manually, focus the fire in a deliberately narrow market, and use one real user's need as the first mold. The live Human Conversation deck has the sharper seed wedge: one person drifting.
+Deck action: Keep slide 7 subtitle, panel cards, image, layout, and sequence position, but change the title from The return list starts with one drifting person. to The wedge is one person drifting.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
+4. Trust becomes the data layer for community.
+5. Not another chat app. The product gets people back in the room.
+6. The conversation updates the system.
+7. The wedge is one person drifting.
+8. The live lab creates repeatable sales loops.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs are the beachhead.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
+
 Pass 260 - Synthetic sensory-signal reviewer lens
 Critique: Slide 3 had the right insight title, but the subtitle explained the call instead of letting investors feel the signal. A top synthetic sensory-signal reviewer would make the unique insight more concrete by naming tone and pauses as data already present in the Human Conversation. The live deck has the sharper line: tone, pauses, warmth, hesitation, loneliness, and trust are already in the call.
 Deck action: Keep slide 3 title, image, layout, and sequence position, but change the subtitle from A call reveals warmth, hesitation, loneliness, trust, and what would bring someone back. to Tone, pauses, warmth, hesitation, loneliness, trust: the signal is already in the call.

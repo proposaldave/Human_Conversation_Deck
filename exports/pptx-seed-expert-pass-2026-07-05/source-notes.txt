@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05 and refreshed 2026-07-07
-- expert-pass-ledger.txt with 129 public expert lenses, 130 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 130 public expert lenses, 130 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -32,7 +32,7 @@ Public expert sources reviewed:
 - Mike Maples, public startup-inflection and insight guidance, https://www.floodgate.com/insights/how-inflections-let-startups-change-the-rules and https://www.floodgate.com/insights/why-insights-are-the-secret-to-outlier-startups, reviewed 2026-07-06
 - Clayton Christensen / Christensen Institute, public Jobs-to-be-Done guidance, https://www.christenseninstitute.org/theory/jobs-to-be-done/ and https://www.library.hbs.edu/working-knowledge/clay-christensens-milkshake-marketing, reviewed 2026-07-06 and refreshed 2026-07-06 for pass 143 and refreshed 2026-07-07 for pass 185
 - Bob Moesta / The Re-Wired Group, public Jobs-to-be-Done and progress guidance, https://therewiredgroup.com/learn/complete-guide-jobs-to-be-done/ and https://jobstobedone.org/, reviewed 2026-07-07 for pass 233
-- Paul Graham, public Do Things that Don't Scale essay, https://www.paulgraham.com/ds.html, reviewed 2026-07-06 for pass 145 and refreshed 2026-07-07 for passes 187, 227, and 247
+- Paul Graham, public Do Things that Don't Scale essay, https://www.paulgraham.com/ds.html, reviewed 2026-07-06 for pass 145 and refreshed 2026-07-07 for passes 187, 227, 247, and 261
 - Richard Rumelt, public Good Strategy Bad Strategy source page, https://www.amazon.com/Good-Strategy-Bad-Difference-Matters/dp/0307886239, reviewed 2026-07-06 for pass 147
 - Roger Martin, public strategy-choice / Playing to Win guidance, https://rogerlmartin.com/thought-pillars/strategy, reviewed 2026-07-07 for pass 243
 - David Skok, public SaaS metrics and go-to-market economic model guidance, https://www.forentrepreneurs.com/saas-metrics-2/ and https://openviewpartners.com/blog/keys-to-a-profitable-saas-sales-model/, reviewed 2026-07-06 and refreshed 2026-07-07 for passes 177 and 219
@@ -197,6 +197,7 @@ Live deck ideas incorporated:
 - Each call turns a guess into a move.
 - Human Conversation tests what will bring someone back, then updates the prompt, invite, intro, and follow-up.
 - Each call turns into the next action.
+- The wedge is one person drifting.
 - The return list starts with one drifting person.
 - AI spots the drift. A human call learns why. The next action becomes an invite, intro, group, or leader path.
 - Offer the easiest return.
