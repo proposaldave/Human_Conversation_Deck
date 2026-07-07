@@ -3426,3 +3426,23 @@ Resulting 14-slide spine:
 12. Run the loop by hand. Productize what repeats.
 13. We are inside the community before we sell the software.
 14. Back the proof loop operators will buy.
+
+Pass 196 - Synthetic AI-native productization CTO lens
+Critique: Slide 12 had the right business-model title, but the Learning loop card still sounded like generic model training. A top synthetic AI-native productization CTO would force the slide to say what gets built: the manual operating loop becomes the product spec. The live Human Conversation deck already has the right direction in "Run the loop by hand. Productize what repeats"; the card should make that path concrete.
+Deck action: Keep slide 12 title, subtitle, and three-card structure, but change the Learning loop body from "Every outcome trains person, context, action." to "The manual work becomes the product spec."
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation reveals felt connection.
+4. Disconnection has a path back.
+5. Not another chat app. It gets people back in the room.
+6. Every conversation becomes operating memory.
+7. The wedge is one person drifting.
+8. One club has enough signal to learn weekly.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs are the beachhead.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the proof loop operators will buy.
