@@ -3387,6 +3387,26 @@ Resulting 14-slide spine:
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
 
+Pass 241 - Nir Eyal public habit-loop investment lens
+Critique: Slide 12 had the right hand-run-to-software business model, but its subtitle still said "Every outcome teaches the software what to repeat." Eyal's public Hooked Model says the investment phase should improve the service for the next pass through the loop. For Human Conversation, the business model becomes sharper when every manual outcome improves next week's return list, not just an abstract software spec.
+Deck action: Keep slide 12 title, Concierge card, Learning loop card, Software card, image, layout, and sequence position, but change the subtitle from Do the calls that bring members back. Every outcome teaches the software what to repeat. to Do the calls that bring members back. Every outcome improves next week's return list.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
+4. Trust becomes the data layer for community.
+5. Not another chat app. The product gets people back in the room.
+6. The conversation updates the system.
+7. The return list starts with one drifting person.
+8. The live lab creates repeatable sales loops.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs are the beachhead.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
+
 Pass 240 - Synthetic product-story specificity reviewer lens
 Critique: Slide 7 had the right workflow and the right weekly-return-list panel, but the title still repeated the broader wedge phrase: "The wedge is one person drifting." A top synthetic product-story reviewer would make the operating object visible in the title so investors understand what the product actually runs each week. The stronger read is that the return list starts with one drifting person, then the call and next action close the loop.
 Deck action: Keep slide 7 subtitle, weekly return list panel, Spot/Call/Act/Learn cards, image, layout, and sequence position, but change the title from The wedge is one person drifting. to The return list starts with one drifting person.
