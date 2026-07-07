@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05 and refreshed 2026-07-07
-- expert-pass-ledger.txt with 115 public expert lenses, 115 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 115 public expert lenses, 116 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -388,7 +388,7 @@ Live deck ideas incorporated:
 - Seed proves the loop, builds the workflow, and earns the next operator market.
 - Prove: return loop repeats weekly.
 - Build: memory, actions, reporting.
-- Expand: next operator commits.
+- Next operator commits.
 - Prove: return loop repeats weekly.
 - Build: software runs the workflow.
 - Expand: next operator commits.

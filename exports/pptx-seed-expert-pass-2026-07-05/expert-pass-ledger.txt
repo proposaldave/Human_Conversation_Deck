@@ -3387,6 +3387,26 @@ Resulting 14-slide spine:
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
 
+Pass 232 - Synthetic seed-milestone closer reviewer lens
+Critique: Slide 14 had the right final ask and proof/build/expand structure, but the Expand card still said "Clubs first, real-world communities next." A top synthetic seed-milestone closer would make the final card read as the next financing proof, not a broad market promise. The deck now points slide 11 toward the next operator, so the closing milestone should match that sharper investor proof.
+Deck action: Keep slide 14 title, subtitle, Prove card, Build card, note, image, layout, and sequence position, but change the Expand card body from Clubs first, real-world communities next to Next operator commits.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
+4. Trust becomes the data layer for community.
+5. Not another chat app. The product gets people back in the room.
+6. The conversation updates the system.
+7. The wedge is one person drifting.
+8. The live lab creates repeatable sales loops.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs are the beachhead.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
+
 Pass 231 - Geoffrey Moore public beachhead/reference-market lens
 Critique: Slide 11 had the right beachhead title and now had the right expansion card, but the subtitle still sounded like generic market-screening language. Moore's public Crossing the Chasm guidance pushes the beachhead to be a small, well-defined segment with a compelling need, and his beyond-the-beachhead guidance says adjacent process owners can move when the first sponsor is a good reference. For Human Conversation, the slide should say why the first market travels: operators see returns and tell the next operator.
 Deck action: Keep slide 11 title, Beachhead card, Pain card, Expansion card, image, layout, and sequence position, but change the subtitle from Narrow enough to win, painful enough to buy, connected enough for proof to travel. to Win one reference market where operators see returns and tell the next operator.
