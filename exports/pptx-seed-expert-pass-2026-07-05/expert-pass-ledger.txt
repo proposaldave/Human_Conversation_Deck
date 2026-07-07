@@ -3387,6 +3387,26 @@ Resulting 14-slide spine:
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
 
+Pass 237 - Marty Cagan public product-risk lens
+Critique: Slide 13 had the right founder-market-fit title and role cards, but the subtitle still described internal role alignment: "hear the signal, build the workflow, measure weekly adoption." Cagan's public product-risk lens asks whether the team can de-risk value, feasibility, usability, and viability. For Human Conversation, the investor read should be that Dave hears value risk, Steve tests feasibility, and NEPC proves viability inside the live loop.
+Deck action: Keep slide 13 title, Dave card, Steve card, NEPC card, image, layout, and sequence position, but change the subtitle from Each role is pointed at the first proof loop: hear the signal, build the workflow, measure weekly adoption. to Dave hears value. Steve tests feasibility. NEPC proves viability in the live loop.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
+4. Trust becomes the data layer for community.
+5. Not another chat app. The product gets people back in the room.
+6. The conversation updates the system.
+7. The wedge is one person drifting.
+8. The live lab creates repeatable sales loops.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs are the beachhead.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
+
 Pass 236 - Synthetic operator-workflow conversion reviewer lens
 Critique: Slide 12 had the right manual-to-software arc, but the Software card still said "Give builders the sales engine in their workflow." A top synthetic operator-workflow conversion reviewer would make the software feel like a repeatable weekly behavior, not a brand claim. The surrounding deck already names the return list and the weekly proof cadence, so the Software card should say what operators run.
 Deck action: Keep slide 12 title, subtitle, Concierge card, Learning loop card, image, layout, and sequence position, but change the Software card body from Give builders the sales engine in their workflow. to Run the return list every week.
