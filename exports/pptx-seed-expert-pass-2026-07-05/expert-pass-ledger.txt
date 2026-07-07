@@ -2646,3 +2646,23 @@ Resulting 14-slide spine:
 12. Do the return calls by hand until software is obvious.
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
+
+Pass 157 - Geoffrey Moore public reference-market lens
+Critique: Slide 11 had the right beachhead, but "first market to win" sounded like an internal conquest goal. Moore's public beachhead and positioning guidance says the first segment should be narrow, urgent, and capable of becoming a reference for the next adjacent buyer. For Human Conversation, racquet clubs matter because they own attendance, feel drift weekly, and can prove whether returns improve.
+Deck action: Reframe slide 11 from first market to first reference market, with Beachhead / Reason to buy / Reference path as the three reasons the first wedge can travel.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
+4. Disconnection has a practical path back.
+5. Community operators hire Human Conversation to bring people back.
+6. Trust becomes the data layer for community.
+7. The wedge is one person drifting.
+8. The live lab creates repeatable sales loops.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs are the first reference market.
+12. Do the return calls by hand until software is obvious.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
