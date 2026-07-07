@@ -3387,6 +3387,26 @@ Resulting 14-slide spine:
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
 
+Pass 259 - Michael Seibel / YC public pitch-clarity lens
+Critique: Slide 1 had the right category headline and seed context, but the subtitle still made the buyer implicit and used a call-script phrase. Seibel's public YC pitch guidance says the opening should answer what the company does in simple user-path language. The live Human Conversation deck has the cleaner line: the sales engine gives community builders the next person, context, and action.
+Deck action: Keep slide 1 title, chips, context line, image, layout, and sequence position, but change the subtitle from The sales engine that shows who to call, what to ask, and what to do next. to The sales engine that gives community builders the next person, context, and action.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
+4. Trust becomes the data layer for community.
+5. Not another chat app. The product gets people back in the room.
+6. The conversation updates the system.
+7. The return list starts with one drifting person.
+8. The live lab creates repeatable sales loops.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs are the beachhead.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
+
 Pass 258 - Synthetic moat-compounding reviewer lens
 Critique: Slide 10 had the right staff-only signal categories, but the bottom line "Every return teaches the next return" was still recursive. A top synthetic moat-compounding reviewer would make the compounding mechanism explicit: private return signal becomes the next person, context, and action. This keeps the slide anchored in the Human Conversation product loop and makes the proprietary data asset easier for investors to repeat.
 Deck action: Keep slide 10 title, subtitle, six signal cards, image, layout, and sequence position, but change the bottom line from Every return teaches the next return. to Every return turns private signal into the next person, context, and action.
