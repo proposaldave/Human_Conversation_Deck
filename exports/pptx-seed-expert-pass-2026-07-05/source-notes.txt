@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05 and refreshed 2026-07-07
-- expert-pass-ledger.txt with 127 public expert lenses, 128 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 128 public expert lenses, 128 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -69,7 +69,7 @@ Public expert sources reviewed:
 - Michael Seibel / YC seed pitch clarity guidance, https://www.ycombinator.com/blog/how-to-pitch-your-company/ and https://www.saastr.com/how-to-pitch-your-seed-stage-startup-with-y-combinators-michael-seibel/, reviewed 2026-07-05 and refreshed 2026-07-07 for passes 179 and 217
 - Geoffrey Moore, public Crossing the Chasm / beachhead market guidance, https://www.lennysnewsletter.com/p/geoffrey-moore-on-finding-your-beachhead, reviewed 2026-07-05
 - Geoffrey Moore, public beachhead/reference-market expansion guidance, https://geoffreyamoore.com/business_blogs/after-the-chasm-scaling-beyond-the-beachhead/ and https://geoffreyamoore.com/positioning/, reviewed 2026-07-06, refreshed 2026-07-06 for passes 139 and 157, and refreshed 2026-07-07 for passes 231 and 255
-- Steve Blank, public lean startup / customer development guidance, https://hbr.org/2013/05/why-the-lean-start-up-changes-everything and https://steveblank.com/2012/03/29/nail-the-customer-development-manifesto/, reviewed 2026-07-06 and refreshed 2026-07-06 for pass 121 and refreshed 2026-07-07 for pass 235
+- Steve Blank, public lean startup / customer development guidance, https://hbr.org/2013/05/why-the-lean-start-up-changes-everything and https://steveblank.com/2012/03/29/nail-the-customer-development-manifesto/, reviewed 2026-07-06 and refreshed 2026-07-06 for pass 121 and refreshed 2026-07-07 for passes 235 and 257
 - Eric Ries, public validated-learning / Build-Measure-Learn guidance, https://theleanstartup.com/principles and https://leanstartup.co/about/principles/, reviewed 2026-07-06 and refreshed 2026-07-07 for pass 165
 - Josh Elman, public product growth and engagement background, https://about.me/joshelman, reviewed 2026-07-05
 
@@ -162,6 +162,7 @@ Live deck ideas incorporated:
 - Software: give builders the sales engine in their workflow.
 - Software: run the return list every week.
 - Do the calls by hand until software is obvious.
+- Manual calls prove which return work operators want every week.
 - Manual calls turn guesses into product evidence.
 - Concierge: do the calls that bring people back.
 - Learn: every outcome teaches the next move.
