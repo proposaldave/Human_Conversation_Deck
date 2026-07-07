@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05 and refreshed 2026-07-06
-- expert-pass-ledger.txt with 78 public expert lenses, 78 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 78 public expert lenses, 79 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -100,8 +100,10 @@ Live deck ideas incorporated:
 - The next social layer is not another feed.
 - Not another chat app.
 - The product gets people back in the room.
+- Not another chat app. It gets people back in the room.
 - Community operators hire Human Conversation to bring people back.
 - It gives them the next person, context, action, and return path before the relationship breaks.
+- Community operators get the next person, context, action, and return path before the relationship breaks.
 - Person. Context. Action. Return.
 - AI makes the next human move obvious.
 - AI flags the person, gives the reason to call, and queues the return move.
