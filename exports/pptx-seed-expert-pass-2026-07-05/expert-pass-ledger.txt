@@ -3206,3 +3206,23 @@ Resulting 14-slide spine:
 12. Run the loop by hand. Productize what repeats.
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
+
+Pass 185 - Clayton Christensen public Jobs-to-be-Done wedge lens
+Critique: Slide 7 was accurate, but it started with AI instead of the job. Christensen's Jobs-to-be-Done lens says the useful unit is the progress someone is trying to make in a specific circumstance, not the product attribute. The live Human Conversation deck gives the sharper wedge: one person is drifting, AI spots the drift, a human call learns why, and the next action becomes an invite, intro, group, or leader path. For this seed deck, the investor should see the wedge before the interface.
+Deck action: Rewrite slide 7 around the live-deck wedge. Keep the Person / Context / Action panel, but make the title and subtitle name the drifting-person job before explaining the AI.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation reveals felt connection.
+4. Disconnection has a path back.
+5. Not another chat app. It gets people back in the room.
+6. Every conversation becomes operating memory.
+7. The wedge is one person drifting.
+8. One club has enough signal to learn weekly.
+9. The fundable metric is return lift without staff drag.
+10. Every return makes the graph smarter.
+11. Clubs first. Real-world communities next.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
