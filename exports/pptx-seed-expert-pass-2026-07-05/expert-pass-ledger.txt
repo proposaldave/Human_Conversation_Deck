@@ -4006,3 +4006,23 @@ Resulting 14-slide spine:
 12. Run the loop by hand. Productize what repeats.
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
+
+Pass 225 - Bill Gurley public revenue-quality lens
+Critique: Slide 9 had the right seed metric and conservative labels, but the gate sentence still sounded like an internal KPI summary. Gurley's public revenue-quality lens pushes the proof gate toward efficient, durable value: growth and revenue only matter if the underlying cash-flow characteristics improve. For Human Conversation, the investor question is whether at-risk members return after calls often enough to lift utilization without adding staff drag.
+Deck action: Keep slide 9 title, model numbers, source note, layout, and sequence position, but change the caveat from Seed passes when return lift repeats weekly and staff minutes stay flat. to Pass only if at-risk members return after calls often enough to lift utilization without staff drag.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
+4. Trust becomes the data layer for community.
+5. Not another chat app. The product gets people back in the room.
+6. The conversation updates the system.
+7. The wedge is one person drifting.
+8. The live lab creates repeatable sales loops.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs are the beachhead.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
