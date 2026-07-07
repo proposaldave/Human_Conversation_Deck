@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05 and refreshed 2026-07-07
-- expert-pass-ledger.txt with 125 public expert lenses, 125 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 125 public expert lenses, 126 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -385,6 +385,7 @@ Live deck ideas incorporated:
 - Software: repeated moves become product.
 - We test the hard risks inside the club.
 - Dave hears value. Steve tests feasibility. NEPC proves viability in the live loop.
+- Dave hears the signal. Steve builds the loop. NEPC tests return lift without staff drag.
 - Dave: Value risk: will operators buy the return job?
 - Steve: Feasibility risk: repeated moves become software.
 - NEPC live lab: Viability risk: returns improve without staff drag.

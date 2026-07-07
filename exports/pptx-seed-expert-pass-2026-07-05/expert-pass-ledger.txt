@@ -3387,6 +3387,26 @@ Resulting 14-slide spine:
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
 
+Pass 252 - Synthetic seed-partner verbal-clarity lens
+Critique: Slide 13 had the right founder-market-fit structure, but the subtitle still used abstract diligence buckets: "Dave hears value. Steve tests feasibility. NEPC proves viability in the live loop." A top synthetic seed-partner reviewer would keep the Cagan-style risk logic but make it repeatable in plain investor language. The cards underneath already say the concrete truth: Dave hears the signal, Steve builds the loop, and NEPC tests whether return lift happens without staff drag.
+Deck action: Keep slide 13 title, Dave card, Steve card, NEPC card, image, layout, and sequence position, but change the subtitle from Dave hears value. Steve tests feasibility. NEPC proves viability in the live loop. to Dave hears the signal. Steve builds the loop. NEPC tests return lift without staff drag.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
+4. Trust becomes the data layer for community.
+5. Not another chat app. The product gets people back in the room.
+6. The conversation updates the system.
+7. The return list starts with one drifting person.
+8. The live lab creates repeatable sales loops.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs are the beachhead.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
+
 Pass 251 - Andy Raskin public promised-land close lens
 Critique: Slide 14 had the right title and seed proof structure, but the subtitle still closed on mechanics: "Start with one club. Prove returns repeat. Productize the loop. Earn the next operator." Raskin's public strategic narrative lens pushes the close toward a promised land the audience can remember. The live Human Conversation deck has the stronger ending: start with one club, then build the sales engine for every community where people need to feel known.
 Deck action: Keep slide 14 title, Prove card, Build card, Expand card, note, image, layout, and sequence position, but change the subtitle from Start with one club. Prove returns repeat. Productize the loop. Earn the next operator. to Start with one club. Build the sales engine for every community where people need to feel known.
