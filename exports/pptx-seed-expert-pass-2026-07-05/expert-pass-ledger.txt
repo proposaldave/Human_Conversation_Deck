@@ -2267,26 +2267,6 @@ Resulting 14-slide spine:
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
 
-Pass 188 - Synthetic elite first-10-seconds category reviewer lens
-Critique: Slide 2 had the right title, but the subtitle was still describing the old social layer instead of naming the new one. A top synthetic opening reviewer would force the first problem slide to resolve immediately into the category Human Conversation is building: not another feed, but the right people in the right room having the right conversation. The live Human Conversation deck carries that sharper sentence, and it makes the opening easier to repeat after the meeting.
-Deck action: Keep the slide 2 title, but replace the support line with the live-deck category sentence so the snapback slide names the new social layer before the deck moves into insight and product.
-
-Resulting 14-slide spine:
-1. Human Conversation is the operating system for real-world social communities.
-2. Technology got between us. Human Conversation brings us back.
-3. One Human Conversation reveals felt connection.
-4. Disconnection has a path back.
-5. Not another chat app. It gets people back in the room.
-6. Every conversation becomes operating memory.
-7. The wedge is one person drifting.
-8. One club has enough signal to learn weekly.
-9. The fundable metric is return lift without staff drag.
-10. The moat is what members only tell a human.
-11. Clubs first. Real-world communities next.
-12. Run the loop by hand. Productize what repeats.
-13. We are inside the community before we sell the software.
-14. Back the operating system for real-world social communities.
-
 Pass 181 - Nancy Duarte public contrast lens
 Critique: Slide 2 had the right snapback thesis, but the subtitle still sounded like a category statement instead of contrast. Duarte's public contrast guidance says persuasive presentations create movement by showing what is and what could be. The live Human Conversation deck already has the next-state language: the next social layer is not another feed; it is the right people in the right room having the right conversation. For Human Conversation, the stronger contrast is old social layer keeps people on screens, next layer gets the right people back in the room.
 Deck action: Keep the slide 2 title, but rewrite the subtitle as old layer versus next layer.
@@ -3270,6 +3250,46 @@ Resulting 14-slide spine:
 Pass 187 - Paul Graham public do-things-that-don't-scale lens
 Critique: Slide 12 had the right manual-to-software thesis, but the cards still sounded like generic proof buckets. Graham's public "Do Things that Don't Scale" essay argues that early manual work is how founders recruit users, learn directly, and build the feedback loop that makes the product good. The live Human Conversation deck has the more concrete version for this company: concierge means doing the calls that bring members back; the learning loop trains person, context, action; software gives builders the sales engine in their workflow.
 Deck action: Keep the slide 12 title, but replace the subtitle and card bodies with the live-deck manual-to-software progression.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation reveals felt connection.
+4. Disconnection has a path back.
+5. Not another chat app. It gets people back in the room.
+6. Every conversation becomes operating memory.
+7. The wedge is one person drifting.
+8. One club has enough signal to learn weekly.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Clubs first. Real-world communities next.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
+
+Pass 188 - Synthetic elite first-10-seconds category reviewer lens
+Critique: Slide 2 had the right title, but the subtitle was still describing the old social layer instead of naming the new one. A top synthetic opening reviewer would force the first problem slide to resolve immediately into the category Human Conversation is building: not another feed, but the right people in the right room having the right conversation. The live Human Conversation deck carries that sharper sentence, and it makes the opening easier to repeat after the meeting.
+Deck action: Keep the slide 2 title, but replace the support line with the live-deck category sentence so the snapback slide names the new social layer before the deck moves into insight and product.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation reveals felt connection.
+4. Disconnection has a path back.
+5. Not another chat app. It gets people back in the room.
+6. Every conversation becomes operating memory.
+7. The wedge is one person drifting.
+8. One club has enough signal to learn weekly.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Clubs first. Real-world communities next.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
+
+Pass 189 - Mark Suster public milestone-discipline lens
+Critique: Slide 1 had the right category title and product subtitle, but the small context line repeated "sales engine" instead of previewing the seed-round milestones. Suster's public Cash In / Cash Out / Milestones Achieved guidance says investors want to know what the company will accomplish before the next financing. The live Human Conversation deck already resolves the close around the same milestones: prove the loop, productize what repeats, and earn the next operator.
+Deck action: Keep the cover title and subtitle, but replace the context line with the seed proof path: prove returns repeat, productize the loop, earn the next operator.
 
 Resulting 14-slide spine:
 1. Human Conversation is the operating system for real-world social communities.
