@@ -3386,3 +3386,23 @@ Resulting 14-slide spine:
 12. Run the loop by hand. Productize what repeats.
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
+
+Pass 194 - Synthetic elite fundraising closer lens
+Critique: Slide 14 had the right category ambition, but the close still sounded like a broad mission slide. A top synthetic fundraising closer would make the ask answer exactly what seed capital buys and what the next round underwrites. The live Human Conversation deck already has the stronger ingredients: prove the loop, productize what repeats, earn the next operator, then scale a buying motion instead of an experiment.
+Deck action: Rewrite slide 14 so the ask is a seed milestone package: back the proof loop operators will buy; prove returns repeat, build the workflow, and earn the next operator.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation reveals felt connection.
+4. Disconnection has a path back.
+5. Not another chat app. It gets people back in the room.
+6. Every conversation becomes operating memory.
+7. The wedge is one person drifting.
+8. One club has enough signal to learn weekly.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs are the beachhead.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the proof loop operators will buy.
