@@ -2327,6 +2327,26 @@ Resulting 14-slide spine:
 13. We test the hard risks inside the club.
 14. Back the operating system for real-world social communities.
 
+Pass 176 - Synthetic elite AI data-flywheel reviewer lens
+Critique: Slide 10 had the right proprietary signal, but a top synthetic AI seed-investor reviewer would not leave the moat as a static list of things members say. The venture claim is compounding: every return outcome turns a trusted human answer into a better next person, context, and action. The live Human Conversation deck states the missing headline directly: every return makes the graph smarter.
+Deck action: Reframe slide 10 from static staff-only signal to compounding return graph. Keep the six signal cards, but make the title, subtitle, and bottom line show why the moat improves after each return.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. Human Conversation reveals felt connection.
+4. Disconnection has a path back.
+5. Not another chat app. It gets people back in the room.
+6. Every conversation becomes operating memory.
+7. AI makes the next human move obvious.
+8. One club has enough signal to learn weekly.
+9. The fundable metric is return lift without staff drag.
+10. Every return makes the graph smarter.
+11. One club contains the whole network.
+12. Run the loop by hand. Productize what repeats.
+13. We test the hard risks inside the club.
+14. Back the operating system for real-world social communities.
+
 Pass 172 - Synthetic elite seed-close inevitability reviewer lens
 Critique: Slide 14 had the right operating-system ambition, but the subtitle still sounded like internal financing mechanics. A top synthetic seed-close reviewer would make the final slide resolve the opening emotionally and commercially: start with one controlled club, prove the sales engine, then take it to every community where people need to feel known. The live Human Conversation deck already has the stronger close: "Start with one club. Build the sales engine for every community where people need to feel known."
 Deck action: Keep the title, replace the subtitle with the live-deck close, add the missing leader/actions proof language in the Prove and Build cards, and replace "If yes" with a clearer next-round condition.
