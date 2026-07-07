@@ -3166,3 +3166,23 @@ Resulting 14-slide spine:
 12. Run the loop by hand. Productize what repeats.
 13. We are inside the community before we sell the software.
 14. Turn one proven club loop into repeatable software.
+
+Pass 183 - Guy Kawasaki public closing-clarity lens
+Critique: Slide 14 had a clear seed milestone, but it ended like an internal use-of-funds slide instead of an investor close. Kawasaki's public pitch guidance is a discipline against too many concepts and small unreadable details; the close should leave investors with the one thing to back. The live Human Conversation deck already has the stronger ask: back the operating system for real-world social communities, starting with one club and building the sales engine for every community where people need to feel known.
+Deck action: Move the live-deck category ask into the slide 14 title, keep the seed proof in the subtitle, and replace the conditional note with the live-deck closing line.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. Human Conversation reveals felt connection.
+4. Disconnection has a path back.
+5. Not another chat app. It gets people back in the room.
+6. Every conversation becomes operating memory.
+7. AI makes the next human move obvious.
+8. One club has enough signal to learn weekly.
+9. The fundable metric is return lift without staff drag.
+10. Every return makes the graph smarter.
+11. Clubs first. Real-world communities next.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
