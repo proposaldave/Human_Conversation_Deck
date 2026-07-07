@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05 and refreshed 2026-07-07
-- expert-pass-ledger.txt with 96 public expert lenses, 97 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 97 public expert lenses, 97 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -59,6 +59,7 @@ Public expert sources reviewed:
 - April Dunford, public positioning quickstart guidance, https://www.aprildunford.com/post/a-quickstart-guide-to-positioning, reviewed 2026-07-05 and refreshed 2026-07-07 for pass 167
 - Guy Kawasaki, public 10/20/30 pitch rule and closing-clarity lens, https://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/, reviewed 2026-07-05 and refreshed 2026-07-07 for pass 183
 - Bill Aulet / Disciplined Entrepreneurship, public beachhead-market and follow-on-market guidance, https://www.d-eship.com/step2/ and https://www.d-eship.com/step14/, reviewed 2026-07-07 for pass 193
+- Rob Fitzpatrick, public Mom Test customer-conversation guidance, https://www.momtestbook.com/, reviewed 2026-07-07 for pass 195
 - Michael Seibel / YC seed pitch clarity guidance, https://www.ycombinator.com/blog/how-to-pitch-your-company/ and https://www.saastr.com/how-to-pitch-your-seed-stage-startup-with-y-combinators-michael-seibel/, reviewed 2026-07-05 and refreshed 2026-07-07 for pass 179
 - Geoffrey Moore, public Crossing the Chasm / beachhead market guidance, https://www.lennysnewsletter.com/p/geoffrey-moore-on-finding-your-beachhead, reviewed 2026-07-05
 - Geoffrey Moore, public beachhead/reference-market expansion guidance, https://geoffreyamoore.com/business_blogs/after-the-chasm-scaling-beyond-the-beachhead/ and https://geoffreyamoore.com/positioning/, reviewed 2026-07-06 and refreshed 2026-07-06 for passes 139 and 157
@@ -168,6 +169,7 @@ Live deck ideas incorporated:
 - Software scales the pattern after the human call proves it.
 - AI spots the drift. A human call learns why. The next action becomes an invite, intro, group, or leader path.
 - Spot, call, act, learn.
+- Call: what happened last time?
 - Ask what would help them return.
 - Record the return reason.
 - Every conversation becomes operating memory.
