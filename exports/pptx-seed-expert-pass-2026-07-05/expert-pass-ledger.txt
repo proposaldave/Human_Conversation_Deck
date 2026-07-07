@@ -3387,6 +3387,26 @@ Resulting 14-slide spine:
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
 
+Pass 242 - Synthetic data-moat diligence precision reviewer lens
+Critique: Slide 10 had the right title and private-signal cards, but the subtitle still said "The graph improves only when a real person trusts the conversation enough to answer." A top synthetic data-moat diligence reviewer would make the investor read focus on the moat itself, not an abstract graph, and would name the speaker as a member. The sharper claim is that the moat grows only when a member trusts the conversation enough to answer.
+Deck action: Keep slide 10 title, six signal cards, compounding line, image, layout, and sequence position, but change the subtitle from The graph improves only when a real person trusts the conversation enough to answer. to The moat grows only when a member trusts the conversation enough to answer.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
+4. Trust becomes the data layer for community.
+5. Not another chat app. The product gets people back in the room.
+6. The conversation updates the system.
+7. The return list starts with one drifting person.
+8. The live lab creates repeatable sales loops.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs are the beachhead.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
+
 Pass 241 - Nir Eyal public habit-loop investment lens
 Critique: Slide 12 had the right hand-run-to-software business model, but its subtitle still said "Every outcome teaches the software what to repeat." Eyal's public Hooked Model says the investment phase should improve the service for the next pass through the loop. For Human Conversation, the business model becomes sharper when every manual outcome improves next week's return list, not just an abstract software spec.
 Deck action: Keep slide 12 title, Concierge card, Learning loop card, Software card, image, layout, and sequence position, but change the subtitle from Do the calls that bring members back. Every outcome teaches the software what to repeat. to Do the calls that bring members back. Every outcome improves next week's return list.

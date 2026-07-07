@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05 and refreshed 2026-07-07
-- expert-pass-ledger.txt with 120 public expert lenses, 120 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 120 public expert lenses, 121 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -273,7 +273,7 @@ Live deck ideas incorporated:
 - Every answer makes the next human move better.
 - A reason becomes a move, a measured return, and a better playbook for the next club action.
 - Each answer becomes a move, a measured return, and a better playbook for the next person.
-- The graph improves only when a real person trusts the conversation enough to answer.
+- The moat grows only when a member trusts the conversation enough to answer.
 - Own return reasons in one operator market first.
 - Win one operator market before expanding.
 - Own attendance before expanding.
