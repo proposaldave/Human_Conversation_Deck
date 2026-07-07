@@ -3387,6 +3387,26 @@ Resulting 14-slide spine:
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
 
+Pass 235 - Steve Blank public customer-development proof lens
+Critique: Slide 8 had the right signal-density claim and evidence stack, but the subtitle still said "Human follow-up shows what brings people back." Blank's public customer-development guidance pushes startups to test assumptions with customers instead of treating evidence as internal observation. For Human Conversation, the live lab matters because human calls test return hypotheses against real bookings, empty courts, and utilization opportunity.
+Deck action: Keep slide 8 title, metrics, source note, image, layout, and sequence position, but change the subtitle from Bookings show behavior. Empty courts show opportunity. Human follow-up shows what brings people back. to Bookings show behavior. Empty courts show opportunity. Human calls test what brings people back.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
+4. Trust becomes the data layer for community.
+5. Not another chat app. The product gets people back in the room.
+6. The conversation updates the system.
+7. The wedge is one person drifting.
+8. The live lab creates repeatable sales loops.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs are the beachhead.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
+
 Pass 234 - Synthetic seed-close coherence reviewer lens
 Critique: Slide 14 had the right final title, seed cards, and "Next operator commits" milestone, but the subtitle still resolved the deck with the older broad promise: "Build the sales engine for every community where people need to feel known." A top synthetic seed-close coherence reviewer would make the final subtitle match the proof path already on slide 1 and in the slide 14 cards: prove returns repeat, productize the loop, and earn the next operator.
 Deck action: Keep slide 14 title, Prove card, Build card, Expand card, note, image, layout, and sequence position, but change the subtitle from Start with one club. Build the sales engine for every community where people need to feel known. to Start with one club. Prove returns repeat. Productize the loop. Earn the next operator.
