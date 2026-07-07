@@ -3246,3 +3246,23 @@ Resulting 14-slide spine:
 12. Run the loop by hand. Productize what repeats.
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
+
+Pass 187 - Paul Graham public do-things-that-don't-scale lens
+Critique: Slide 12 had the right manual-to-software thesis, but the cards still sounded like generic proof buckets. Graham's public "Do Things that Don't Scale" essay argues that early manual work is how founders recruit users, learn directly, and build the feedback loop that makes the product good. The live Human Conversation deck has the more concrete version for this company: concierge means doing the calls that bring members back; the learning loop trains person, context, action; software gives builders the sales engine in their workflow.
+Deck action: Keep the slide 12 title, but replace the subtitle and card bodies with the live-deck manual-to-software progression.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation reveals felt connection.
+4. Disconnection has a path back.
+5. Not another chat app. It gets people back in the room.
+6. Every conversation becomes operating memory.
+7. The wedge is one person drifting.
+8. One club has enough signal to learn weekly.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Clubs first. Real-world communities next.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
