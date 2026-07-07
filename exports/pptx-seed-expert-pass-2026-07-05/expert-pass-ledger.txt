@@ -3387,6 +3387,26 @@ Resulting 14-slide spine:
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
 
+Pass 254 - Synthetic product-positioning clarity lens
+Critique: Slide 5 had the right title and product-card structure, but the subtitle repeated the more casual "AI handles the computer work" phrase that already works better on slide 6 as a human-interface explanation. A top synthetic product-positioning reviewer would make slide 5 define the product in plain investor language: AI identifies the person, the ask, and the next action.
+Deck action: Keep slide 5 title, Person card, Context card, Action card, Return card, image, layout, and sequence position, but change the subtitle from AI handles the computer work: who needs a conversation, what to ask, and what should happen next. to AI identifies who needs a conversation, what to ask, and what should happen next.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
+4. Trust becomes the data layer for community.
+5. Not another chat app. The product gets people back in the room.
+6. The conversation updates the system.
+7. The return list starts with one drifting person.
+8. The live lab creates repeatable sales loops.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs are the beachhead.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
+
 Pass 253 - Mark Suster public milestone-discipline lens
 Critique: Slide 1 had the right category title, product subtitle, chips, and seed proof path, but the final phrase in the small context line still ended as "earn next operator." Suster's public Cash In / Cash Out / Milestones Achieved lens says investors will ask what the company will have accomplished before the next raise. For Human Conversation, the milestone is not just a next operator in the abstract; it is a next operator commitment.
 Deck action: Keep slide 1 title, subtitle, chips, image, layout, and sequence position, but change the context line from Seed round | prove returns repeat | productize the loop | earn next operator to Seed round | prove returns repeat | productize the loop | earn next operator commitment.
