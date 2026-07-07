@@ -3926,3 +3926,23 @@ Resulting 14-slide spine:
 12. Run the loop by hand. Productize what repeats.
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
+
+Pass 221 - Andy Raskin public strategic-narrative lens
+Critique: Slide 4 had the right category-thesis role, but the title "Disconnection has a path back" still sounded like a broad emotional repair claim. Raskin's public strategic-narrative lens pushes the slide to name the new game and the strategic mechanism. The live Human Conversation deck has the sharper claim: trust becomes the data layer for community, and that data coordinates the next real-world moment.
+Deck action: Keep slide 4 image, layout, and sequence position, but change the title from Disconnection has a path back. to Trust becomes the data layer for community. Change the answer line from Conversation. Trust. Data. Community. to Connection. Trust. Data. Coordination. Change the subtitle from Conversation creates connection. Connection creates trust. Trust creates data. Data coordinates community. to Connection creates trust. Trust creates data. Data coordinates the next real-world moment. Update the chips from Conversation / Trust / Data / Community to Connection / Trust / Data / Coordination.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
+4. Trust becomes the data layer for community.
+5. Not another chat app. It gets people back in the room.
+6. The conversation updates the system.
+7. The wedge is one person drifting.
+8. The live lab creates repeatable sales loops.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs are the beachhead.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
