@@ -4066,3 +4066,23 @@ Resulting 14-slide spine:
 12. Run the loop by hand. Productize what repeats.
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
+
+Pass 228 - Synthetic customer-outcome clarity reviewer lens
+Critique: Slide 5 had the right category contrast and Person / Context / Action / Return frame, but the Return card still said "What worked." A top synthetic customer-outcome reviewer would make the final card point to the actual business outcome: what brought the person back. The live Human Conversation deck frames the same loop as every outcome improving the next move, so the return card should read as outcome evidence, not generic reflection.
+Deck action: Keep slide 5 title, subtitle, Person card, Context card, Action card, image, layout, and sequence position, but change the Return card body from What worked. to What brought them back.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
+4. Trust becomes the data layer for community.
+5. Not another chat app. The product gets people back in the room.
+6. The conversation updates the system.
+7. The wedge is one person drifting.
+8. The live lab creates repeatable sales loops.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs are the beachhead.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
