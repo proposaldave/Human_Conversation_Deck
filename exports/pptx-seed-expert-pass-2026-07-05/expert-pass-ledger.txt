@@ -3506,3 +3506,23 @@ Resulting 14-slide spine:
 12. Run the loop by hand. Productize what repeats.
 13. We are inside the community before we sell the software.
 14. Back the proof loop operators will buy.
+
+Pass 200 - Synthetic founder-market-fit diligence reviewer lens
+Critique: Slide 13 had the right founder-market-fit title, but the NEPC card sounded like a generic test environment. A top synthetic diligence reviewer would ask why this team has unfair access to the first proof loop. The live Human Conversation deck gives the sharper answer: NEPC is the live lab where every week teaches the system.
+Deck action: Keep slide 13 title, subtitle, and team structure, but change the NEPC card from "Tests adoption in live operations." to "Every week teaches the system."
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation reveals felt connection.
+4. Disconnection has a path back.
+5. Not another chat app. It gets people back in the room.
+6. Every conversation becomes operating memory.
+7. The wedge is one person drifting.
+8. One club has enough signal to learn weekly.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs are the beachhead.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the proof loop operators will buy.
