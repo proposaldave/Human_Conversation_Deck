@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05 and refreshed 2026-07-07
-- expert-pass-ledger.txt with 123 public expert lenses, 123 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 123 public expert lenses, 124 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -104,6 +104,7 @@ Live deck ideas incorporated:
 - A trusted conversation learns why someone drifted, restores trust, and gives the next real-world move.
 - Trust becomes the data layer for community.
 - Connection creates trust. Trust creates data. Data coordinates the next real-world moment.
+- A trusted conversation creates connection. Trust becomes data. Data coordinates the next return.
 - Conversation. Connection. Trust. Data. Community.
 - Human Conversation shows how people feel.
 - Human Conversation reveals felt connection.
