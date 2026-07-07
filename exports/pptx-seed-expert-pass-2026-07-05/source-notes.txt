@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05 and refreshed 2026-07-07
-- expert-pass-ledger.txt with 94 public expert lenses, 95 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 95 public expert lenses, 95 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -50,7 +50,7 @@ Public expert sources reviewed:
 - Fred Wilson, public profit and business-model discipline guidance, https://avc.com/2018/12/the-profit-motive/, reviewed 2026-07-07 for pass 169
 - Peter Thiel, public monopoly / secrets / small-market guidance, https://blakemasters.tumblr.com/post/21169325300/peter-thiels-cs183-startup-class-4-notes-essay, https://www.wired.com/story/peter-thiel/, and https://www.bnjs.co/notes/cs183b-lecture-5-peter-thiel-business-strategy-and-monopoly-theory/, reviewed 2026-07-05
 - Roelof Botha / Sequoia, public clarity and company-building guidance, https://sequoiacap.com/article/writing-a-business-plan/ and https://www.generalist.com/p/lessons-from-20-years-of-vc-roelof-botha, reviewed 2026-07-05
-- Keith Rabois, public operating-leverage and startup-operating guidance, https://www.khoslaventures.com/team/keith-rabois/, https://ulisten.ai/channels/yc-root-access/lecture-14-how-to-operate-keith-rabois_6fQHLK1aIBs, https://www.saastr.com/keith-rabois-khosla-ventures-building-amazing-teams-video-transcript/, and https://www.lennysnewsletter.com/p/hard-truths-about-building-in-the-ai-era, reviewed 2026-07-05
+- Keith Rabois, public operating-leverage and startup-operating guidance, https://www.khoslaventures.com/team/keith-rabois/, https://ulisten.ai/channels/yc-root-access/lecture-14-how-to-operate-keith-rabois_6fQHLK1aIBs, https://www.saastr.com/keith-rabois-khosla-ventures-building-amazing-teams-video-transcript/, and https://www.lennysnewsletter.com/p/hard-truths-about-building-in-the-ai-era, reviewed 2026-07-05 and refreshed 2026-07-07 for pass 191
 - Elad Gil, public seed-stage and fundraising-process guidance, https://blog.eladgil.com/p/how-funding-rounds-differ-seed-series and https://blog.eladgil.com/p/tactics-for-how-to-raise-vc-round-or, reviewed 2026-07-05 and refreshed 2026-07-06 for pass 137
 - Paul Graham, public do-things-that-do-not-scale and fundraising guidance, https://paulgraham.com/ds.html and https://paulgraham.com/fr.html, reviewed 2026-07-05 and refreshed 2026-07-06 for pass 125
 - Marc Andreessen, public product-market fit, software-category, and market-taking guidance, https://pmarchive.com/guide_to_startups_part4.html, https://a16z.com/why-software-is-eating-the-world/, and https://a16z.com/where-to-go-after-product-market-fit-an-interview-with-marc-andreessen/, reviewed 2026-07-05
@@ -352,10 +352,10 @@ Live deck ideas incorporated:
 - Dave: Runs the room and hears the signal daily.
 - Steve: Builds the repeatable product loop.
 - NEPC: Live lab where every week teaches the system.
-- Dave hears the signal daily. Steve builds the loop. NEPC proves whether operators keep running it.
-- Dave: Hears value in the room daily.
-- Steve: Turns repeated moves into product.
-- NEPC: Proves the loop in live operations.
+- Each role is pointed at the first proof loop: hear the signal, build the workflow, measure weekly adoption.
+- Dave: Runs the room and hears the signal.
+- Steve: Turns repeated moves into software.
+- NEPC: Tests adoption in live operations.
 - One club tests the return loop, buyer pull, and weekly workflow before the next round.
 - Loop: returns repeat weekly.
 - Buyer: operators ask to run it again.

@@ -3326,3 +3326,23 @@ Resulting 14-slide spine:
 12. Run the loop by hand. Productize what repeats.
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
+
+Pass 191 - Keith Rabois public operating-leverage lens
+Critique: Slide 13 had the right founder-market-fit title, but the card copy still sounded like capability rather than leverage. Rabois's public operating guidance emphasizes getting the highest leverage from the most valuable people and designing the team around what the company must prove. For Human Conversation, the live deck already gives the pieces: Dave runs the room and hears the signal, Steve builds the repeatable product loop, and NEPC teaches the system every week. The seed slide should show those roles pointed at one proof loop.
+Deck action: Keep the slide 13 title, but rewrite the subtitle and cards around operating leverage: hear the signal, build the workflow, and measure weekly adoption in live operations.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation reveals felt connection.
+4. Disconnection has a path back.
+5. Not another chat app. It gets people back in the room.
+6. Every conversation becomes operating memory.
+7. The wedge is one person drifting.
+8. One club has enough signal to learn weekly.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Clubs first. Real-world communities next.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
