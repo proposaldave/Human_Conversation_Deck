@@ -3387,6 +3387,26 @@ Resulting 14-slide spine:
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
 
+Pass 256 - Synthetic member-language consistency lens
+Critique: Slide 9 had the right metric, model numbers, and proof gate, but the caveat used "at-risk members," while the deck has taught investors to think in terms of drifting people and members. A top synthetic investor-language reviewer would keep the diligence discipline but make the metric language match the product wedge: drifting members return after calls often enough to lift utilization without staff drag.
+Deck action: Keep slide 9 title, model numbers, source note, layout, and sequence position, but change the caveat from Pass only if at-risk members return after calls often enough to lift utilization without staff drag. to Pass only if drifting members return after calls often enough to lift utilization without staff drag.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
+4. Trust becomes the data layer for community.
+5. Not another chat app. The product gets people back in the room.
+6. The conversation updates the system.
+7. The return list starts with one drifting person.
+8. The live lab creates repeatable sales loops.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs are the beachhead.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
+
 Pass 255 - Geoffrey Moore public beachhead/reference-market lens
 Critique: Slide 11 had the right beachhead title and cards, but the subtitle repeated "operator" and made the reference-market mechanism less memorable than it should be. Moore's public beachhead guidance emphasizes a narrow segment, a compelling reason to buy, and customer success stories that become references for adjacent buyers. For Human Conversation, the sharper line is one operator creates return proof that sells the next.
 Deck action: Keep slide 11 title, Beachhead card, Pain card, Expansion card, image, layout, and sequence position, but change the subtitle from Win one operator where returns become the reference for the next operator. to Win one operator. Use return proof to sell the next.
