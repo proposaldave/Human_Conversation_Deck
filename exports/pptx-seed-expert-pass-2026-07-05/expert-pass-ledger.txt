@@ -2247,6 +2247,26 @@ Resulting 14-slide spine:
 13. We test the hard risks inside the club.
 14. Back the operating system for real-world social communities.
 
+Pass 171 - Rahul Vohra public product-market-fit engine lens
+Critique: Slide 12 had the right wedge-to-software title, but the middle step had drifted back to generic proof. Vohra's public Superhuman product-market-fit engine says the path to product-market fit should be measurable and repeatable: survey or observe the core users, segment what they love, learn what holds others back, implement, and keep the PMF score visible. The live Human Conversation deck has the sharper business-model language: Learning loop, where every outcome trains person, context, action. For Human Conversation, the manual work is fundable because every recovered-attendance outcome trains the workflow operators will pay to keep.
+Deck action: Keep slide 12's title, but make the subtitle and middle card show that recovered attendance funds the wedge and every outcome trains the person-context-action workflow.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
+4. Disconnection has a path back.
+5. Not another chat app. It gets people back in the room.
+6. Every conversation becomes operating memory.
+7. AI makes the next human move obvious.
+8. One club has enough signal to learn weekly.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs prove the smallest market can spread.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
+
 Pass 137 - Elad Gil public seed-purpose lens
 Critique: Slide 13 still used an internal product-risk phrase. Elad Gil's seed-round frame says seed capital should help the company figure out the product, market, and user base. The live Human Conversation deck already frames the seed plan as turning one proven club loop into repeatable software. A seed investor should see those three proof jobs directly before the final ask.
 Deck action: Reframe slide 13 as the seed proof slide: product, market, and user base, all tested inside one club.

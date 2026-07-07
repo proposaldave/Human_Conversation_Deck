@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05 and refreshed 2026-07-07
-- expert-pass-ledger.txt with 84 public expert lenses, 85 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 85 public expert lenses, 85 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -39,7 +39,7 @@ Public expert sources reviewed:
 - Marty Cagan / SVPG, public product-risk guidance, https://www.svpg.com/four-big-risks/ and https://www.svpg.com/discovery-judgement/, reviewed 2026-07-06 and refreshed 2026-07-06 for pass 127
 - Kathy Sierra, public Building the Minimum Badass User / user-success guidance, https://businessofsoftware.org/2013/02/kathy-sierra-building-the-minimum-badass-user-business-of-software-a-masterclass-in-thinking-about-software-product-development/ and https://www.amazon.com/Badass-Making-Awesome-Kathy-Sierra/dp/1491919019, reviewed 2026-07-06
 - Alistair Croll / Ben Yoskovitz, public Lean Analytics One Metric That Matters guidance, https://leananalyticsbook.com/one-metric-that-matters/ and https://medium.com/lean-stack/lean-analytics-the-one-metric-that-matters-and-other-provocations-fd3006aab17, reviewed 2026-07-06 and refreshed 2026-07-06 for pass 141
-- Rahul Vohra, public Superhuman product-market-fit engine guidance, https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/ and https://businessofsoftware.org/talks/product-market-fit-engine/, reviewed 2026-07-06
+- Rahul Vohra, public Superhuman product-market-fit engine guidance, https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/ and https://businessofsoftware.org/talks/product-market-fit-engine/, reviewed 2026-07-06 and refreshed 2026-07-07 for pass 171
 - Nancy Duarte, public Presentation Sparkline and contrast guidance plus second-pass story-contrast opening lens, https://www.duarte.com/blog/ultimate-guide-to-contrast/, reviewed 2026-07-05 and refreshed 2026-07-06 for pass 153
 - Don Valentine, public Sequoia market-first / target-big-markets guidance, https://www.foundersspace.com/fund-raising/don-valentine-sequoia-capital-target-big-markets/, reviewed 2026-07-05
 - Andy Raskin, public strategic narrative / greatest sales deck guidance, https://www.linkedin.com/pulse/greatest-sales-deck-ive-ever-seen-andy-raskin, reviewed 2026-07-05 and refreshed 2026-07-06 for pass 155
@@ -139,6 +139,7 @@ Live deck ideas incorporated:
 - Manual calls teach the product.
 - Repeated manual work becomes software.
 - Run the loop by hand. Productize what repeats.
+- Recovered attendance funds the wedge. Every outcome trains the workflow operators will pay to keep.
 - Concierge: do the calls that bring members back.
 - Learning loop: every outcome trains person, context, action.
 - Software: give builders the sales engine in their workflow.
