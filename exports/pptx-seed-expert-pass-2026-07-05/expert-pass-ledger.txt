@@ -3387,6 +3387,26 @@ Resulting 14-slide spine:
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
 
+Pass 249 - Steve Krug public product-usability clarity lens
+Critique: Slide 6 had the right title and Person / Context / Action example, but the bottom line still said "Each outcome updates the next person, context, and action." Krug's public Don't Make Me Think lens pushes the product motion to be instantly understandable. The live Human Conversation deck has the clearer human-interface claim: the staff member says the outcome, and AI handles the computer work.
+Deck action: Keep slide 6 title, Person card, Context card, Action card, image, layout, and sequence position, but change the bottom line from Each outcome updates the next person, context, and action. to The staff member says the outcome. AI handles the computer work.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
+4. Trust becomes the data layer for community.
+5. Not another chat app. The product gets people back in the room.
+6. The conversation updates the system.
+7. The return list starts with one drifting person.
+8. The live lab creates repeatable sales loops.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs are the beachhead.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
+
 Pass 248 - Synthetic category-bridge coherence reviewer lens
 Critique: Slide 4 had the right title and data-layer claim, but the subtitle began with "Connection creates trust," which made the bridge from slide 3's Human Conversation insight feel one step removed. A top synthetic category-bridge reviewer would make the causal chain start with the trusted conversation and end in the return action the deck is selling. For Human Conversation, the clean bridge is: a trusted conversation creates connection, trust becomes data, and data coordinates the next return.
 Deck action: Keep slide 4 title, answer line, chips, image, layout, and sequence position, but change the subtitle from Connection creates trust. Trust creates data. Data coordinates the next real-world moment. to A trusted conversation creates connection. Trust becomes data. Data coordinates the next return.
