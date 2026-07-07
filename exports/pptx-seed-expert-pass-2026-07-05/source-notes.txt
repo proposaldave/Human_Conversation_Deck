@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05 and refreshed 2026-07-07
-- expert-pass-ledger.txt with 87 public expert lenses, 88 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 88 public expert lenses, 88 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -33,7 +33,7 @@ Public expert sources reviewed:
 - Clayton Christensen / Christensen Institute, public Jobs-to-be-Done guidance, https://www.christenseninstitute.org/theory/jobs-to-be-done/ and https://www.library.hbs.edu/working-knowledge/clay-christensens-milkshake-marketing, reviewed 2026-07-06 and refreshed 2026-07-06 for pass 143
 - Paul Graham, public Do Things that Don't Scale essay, https://www.paulgraham.com/ds.html, reviewed 2026-07-06 for pass 145
 - Richard Rumelt, public Good Strategy Bad Strategy source page, https://www.amazon.com/Good-Strategy-Bad-Difference-Matters/dp/0307886239, reviewed 2026-07-06 for pass 147
-- David Skok, public SaaS metrics and go-to-market economic model guidance, https://www.forentrepreneurs.com/saas-metrics-2/ and https://openviewpartners.com/blog/keys-to-a-profitable-saas-sales-model/, reviewed 2026-07-06 for pass 149
+- David Skok, public SaaS metrics and go-to-market economic model guidance, https://www.forentrepreneurs.com/saas-metrics-2/ and https://openviewpartners.com/blog/keys-to-a-profitable-saas-sales-model/, reviewed 2026-07-06 and refreshed 2026-07-07 for pass 177
 - Hamilton Helmer, public 7 Powers strategy and persistent-advantage guidance, https://7powers.com/, reviewed 2026-07-06 for pass 151
 - Andrew Chen, public Cold Start Problem / atomic network guidance, https://andrewchen.com/solve-a-hard-problem-cold-start-problem/ and https://www.coldstart.com/, reviewed 2026-07-06 and refreshed 2026-07-07 for pass 175
 - Marty Cagan / SVPG, public product-risk guidance, https://www.svpg.com/four-big-risks/ and https://www.svpg.com/discovery-judgement/, reviewed 2026-07-06 and refreshed 2026-07-07 for pass 173
@@ -320,6 +320,10 @@ Live deck ideas incorporated:
 - Bring members back by hand.
 - Show returns repeat weekly.
 - Sell the workflow operators keep running.
+- Recovered attendance creates budget. Repeated outcomes turn the hand-run loop into software revenue.
+- Prove returns by hand.
+- Every outcome trains the next move.
+- Put the sales engine in their workflow.
 - Acquire: show recovered attendance.
 - Retain: make weekly return work easier.
 - Monetize: price against attendance restored.

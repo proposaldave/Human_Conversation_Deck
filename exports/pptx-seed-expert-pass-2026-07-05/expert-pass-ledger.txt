@@ -2347,6 +2347,26 @@ Resulting 14-slide spine:
 13. We test the hard risks inside the club.
 14. Back the operating system for real-world social communities.
 
+Pass 177 - David Skok public SaaS viability lens
+Critique: Slide 12 had the right hand-run-to-software arc, but the visible business-model copy still made investors infer the monetization logic. Skok's public SaaS metrics guidance says investors need to understand customer retention, monetization, unit economics, and when a business is ready to accelerate. For Human Conversation, recovered attendance creates the operator budget; repeated outcomes prove the workflow can become software revenue. The live Human Conversation deck supports the same move with "Give builders the sales engine in their workflow."
+Deck action: Keep slide 12's title, but rewrite the subtitle and three cards so the business model reads as budget created, outcomes learned, and software embedded in the operator workflow.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. Human Conversation reveals felt connection.
+4. Disconnection has a path back.
+5. Not another chat app. It gets people back in the room.
+6. Every conversation becomes operating memory.
+7. AI makes the next human move obvious.
+8. One club has enough signal to learn weekly.
+9. The fundable metric is return lift without staff drag.
+10. Every return makes the graph smarter.
+11. One club contains the whole network.
+12. Run the loop by hand. Productize what repeats.
+13. We test the hard risks inside the club.
+14. Back the operating system for real-world social communities.
+
 Pass 172 - Synthetic elite seed-close inevitability reviewer lens
 Critique: Slide 14 had the right operating-system ambition, but the subtitle still sounded like internal financing mechanics. A top synthetic seed-close reviewer would make the final slide resolve the opening emotionally and commercially: start with one controlled club, prove the sales engine, then take it to every community where people need to feel known. The live Human Conversation deck already has the stronger close: "Start with one club. Build the sales engine for every community where people need to feel known."
 Deck action: Keep the title, replace the subtitle with the live-deck close, add the missing leader/actions proof language in the Prove and Build cards, and replace "If yes" with a clearer next-round condition.
