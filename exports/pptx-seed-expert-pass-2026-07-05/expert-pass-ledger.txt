@@ -3866,3 +3866,23 @@ Resulting 14-slide spine:
 12. Run the loop by hand. Productize what repeats.
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
+
+Pass 218 - Synthetic founder-market-fit investor reviewer lens
+Critique: Slide 13 had the right founder-market-fit claim, but the three proof cards were slightly generic. A top synthetic founder-market-fit investor reviewer would make the slide prove why this team can run the first learning loop, not merely list roles. The live Human Conversation deck has the sharper role language: Dave hears the signal daily, Steve builds the repeatable product loop, and NEPC is the live lab where every week teaches the system.
+Deck action: Keep slide 13 title, subtitle, image, layout, and sequence position, but change the team cards from Dave / Runs the room and hears the signal, Steve / Turns repeated moves into software, and NEPC / Every week teaches the system to Dave / Runs the room and hears the signal daily, Steve / Builds the repeatable product loop, and NEPC / Live lab where every week teaches the system.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
+4. Disconnection has a path back.
+5. Not another chat app. It gets people back in the room.
+6. The conversation updates the system.
+7. The wedge is one person drifting.
+8. The live lab creates repeatable sales loops.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs are the beachhead.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
