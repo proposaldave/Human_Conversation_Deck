@@ -3186,3 +3186,23 @@ Resulting 14-slide spine:
 12. Run the loop by hand. Productize what repeats.
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
+
+Pass 184 - Synthetic elite insight-primitive reviewer lens
+Critique: Slide 3 had the right signal, but the title still made the insight sound like a general product claim. A top synthetic insight reviewer would force the smallest proprietary unit into the title: one trusted Human Conversation reveals the felt connection signal. The live Human Conversation deck says "One Human Conversation tells you how people feel," while the Human Conversation brand memory keeps felt connection as the central signal. Combining them makes the investor primitive more precise without losing the brand language.
+Deck action: Rewrite only the slide 3 title from a broad company claim to the single-conversation signal primitive.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation reveals felt connection.
+4. Disconnection has a path back.
+5. Not another chat app. It gets people back in the room.
+6. Every conversation becomes operating memory.
+7. AI makes the next human move obvious.
+8. One club has enough signal to learn weekly.
+9. The fundable metric is return lift without staff drag.
+10. Every return makes the graph smarter.
+11. Clubs first. Real-world communities next.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
