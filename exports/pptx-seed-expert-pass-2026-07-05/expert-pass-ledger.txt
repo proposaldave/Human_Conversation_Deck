@@ -3387,6 +3387,26 @@ Resulting 14-slide spine:
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
 
+Pass 233 - Bob Moesta public Jobs-to-be-Done opening lens
+Critique: Slide 1 had the right category title and the right Person / Context / Action / Return chips, but the subtitle still made the first read decode a mechanism: "the next person, context, and action." Moesta's public Jobs-to-be-Done lens pushes the opening line to state what the buyer hires the product to do. For Human Conversation, the job is bringing people back; the mechanism can sit underneath in the chips.
+Deck action: Keep slide 1 title, chips, context line, image, layout, and sequence position, but change the subtitle from The sales engine that gives community builders the next person, context, and action. to The sales engine that helps community builders bring people back.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
+4. Trust becomes the data layer for community.
+5. Not another chat app. The product gets people back in the room.
+6. The conversation updates the system.
+7. The wedge is one person drifting.
+8. The live lab creates repeatable sales loops.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs are the beachhead.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
+
 Pass 232 - Synthetic seed-milestone closer reviewer lens
 Critique: Slide 14 had the right final ask and proof/build/expand structure, but the Expand card still said "Clubs first, real-world communities next." A top synthetic seed-milestone closer would make the final card read as the next financing proof, not a broad market promise. The deck now points slide 11 toward the next operator, so the closing milestone should match that sharper investor proof.
 Deck action: Keep slide 14 title, subtitle, Prove card, Build card, note, image, layout, and sequence position, but change the Expand card body from Clubs first, real-world communities next to Next operator commits.
