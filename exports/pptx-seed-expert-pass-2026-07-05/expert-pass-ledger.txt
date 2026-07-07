@@ -3146,3 +3146,23 @@ Resulting 14-slide spine:
 12. Run the loop by hand. Productize what repeats.
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
+
+Pass 182 - Synthetic elite expansion-story reviewer lens
+Critique: Slide 11 had the right market logic, but investors still had to translate "one club contains the whole network" into the expansion story. A top synthetic expansion reviewer would force the title to say the wedge and the ambition in one read. The live Human Conversation deck already gives the plain-language path: clubs first, real-world communities next. For Human Conversation, the stronger seed-deck version should make the first market feel intentional, complete, and repeatable.
+Deck action: Rewrite slide 11 around the live-deck expansion line, tighten the subtitle around the complete weekly loop inside one club, and relabel the three cards as first market, operator pain, and expansion.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. Human Conversation reveals felt connection.
+4. Disconnection has a path back.
+5. Not another chat app. It gets people back in the room.
+6. Every conversation becomes operating memory.
+7. AI makes the next human move obvious.
+8. One club has enough signal to learn weekly.
+9. The fundable metric is return lift without staff drag.
+10. Every return makes the graph smarter.
+11. Clubs first. Real-world communities next.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Turn one proven club loop into repeatable software.
