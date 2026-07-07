@@ -2647,6 +2647,26 @@ Resulting 14-slide spine:
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
 
+Pass 169 - Fred Wilson public business-model discipline lens
+Critique: Slide 12 had the right services-to-software thesis, but it still sounded like internal learning rather than an investable business model. Fred Wilson's public profit-motive lens says a business ultimately has to become future cash flow, not just useful activity. For Human Conversation, the business-model proof is that recovered attendance creates visible budget, then operators pay for the repeatable workflow that keeps people coming back.
+Deck action: Keep the title, rewrite the subtitle around recovered attendance creating budget, and reframe the three cards as Concierge / Proof loop / Software.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
+4. Disconnection has a path back.
+5. Not another chat app. It gets people back in the room.
+6. Every conversation becomes operating memory.
+7. AI makes the next human move obvious.
+8. One club has enough signal to learn weekly.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs prove the smallest market can spread.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
+
 Pass 168 - Synthetic elite seed-diligence proof-gate reviewer lens
 Critique: Slide 9 had the right metric and the right modeled upside, but a top synthetic seed-diligence reviewer would not let the model read like the proof. The seed round should make one test unmistakable: do contacted members return, does the lift repeat weekly, and can the operator get that lift without adding staff drag?
 Deck action: Keep every number unchanged, but reword the slide 9 stat labels and gate sentence so the model is framed as something the seed round validates.

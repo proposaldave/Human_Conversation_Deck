@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05 and refreshed 2026-07-07
-- expert-pass-ledger.txt with 83 public expert lenses, 84 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 84 public expert lenses, 84 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -47,6 +47,7 @@ Public expert sources reviewed:
 - Reid Hoffman, public LinkedIn pitch and network-scale guidance, https://www.reidhoffman.org/linkedin-pitch-to-greylock/, reviewed 2026-07-05
 - Steve Jobs, public iPhone launch and simplicity/product-focus sources, https://www.youtube.com/watch?v=MnrJzXM7a6o and https://www.smithsonianmag.com/arts-culture/how-steve-jobs-love-of-simplicity-fueled-a-design-revolution-23868877/, reviewed 2026-07-05 and refreshed 2026-07-06 for pass 133
 - Bill Gurley, public market and revenue-quality guidance, https://abovethecrowd.com/2012/11/13/all-markets-are-not-created-equal-10-factors-to-consider-when-evaluating-digital-marketplaces/ and https://abovethecrowd.com/2011/05/24/all-revenue-is-not-created-equal-the-keys-to-the-10x-revenue-club/, reviewed 2026-07-05
+- Fred Wilson, public profit and business-model discipline guidance, https://avc.com/2018/12/the-profit-motive/, reviewed 2026-07-07 for pass 169
 - Peter Thiel, public monopoly / secrets / small-market guidance, https://blakemasters.tumblr.com/post/21169325300/peter-thiels-cs183-startup-class-4-notes-essay, https://www.wired.com/story/peter-thiel/, and https://www.bnjs.co/notes/cs183b-lecture-5-peter-thiel-business-strategy-and-monopoly-theory/, reviewed 2026-07-05
 - Roelof Botha / Sequoia, public clarity and company-building guidance, https://sequoiacap.com/article/writing-a-business-plan/ and https://www.generalist.com/p/lessons-from-20-years-of-vc-roelof-botha, reviewed 2026-07-05
 - Keith Rabois, public operating-leverage and startup-operating guidance, https://www.khoslaventures.com/team/keith-rabois/, https://ulisten.ai/channels/yc-root-access/lecture-14-how-to-operate-keith-rabois_6fQHLK1aIBs, https://www.saastr.com/keith-rabois-khosla-ventures-building-amazing-teams-video-transcript/, and https://www.lennysnewsletter.com/p/hard-truths-about-building-in-the-ai-era, reviewed 2026-07-05
@@ -307,10 +308,13 @@ Live deck ideas incorporated:
 - Pain is visible: empty slots and missing returns.
 - Use is weekly: staff runs the return list.
 - Budget is clear: recovered attendance funds software.
-- Recovered attendance makes the budget visible. Operators pay when people come back.
+- Recovered attendance makes the budget visible. Operators pay when the return workflow keeps working.
 - Pain: empty courts are visible.
 - Habit: staff runs the list weekly.
 - Budget: attendance restored funds software.
+- Bring members back by hand.
+- Show returns repeat weekly.
+- Sell the workflow operators keep running.
 - Acquire: show recovered attendance.
 - Retain: make weekly return work easier.
 - Monetize: price against attendance restored.
