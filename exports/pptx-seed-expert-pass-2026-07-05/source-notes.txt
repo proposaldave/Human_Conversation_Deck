@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05 and refreshed 2026-07-07
-- expert-pass-ledger.txt with 103 public expert lenses, 104 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 104 public expert lenses, 104 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -24,7 +24,7 @@ Drive sources reviewed:
 - Human_Conversation_Seed_Deck.pdf metadata; Drive did not extract text
 
 Public expert sources reviewed:
-- Seth Godin, public smallest viable audience / minimum viable audience guidance, https://seths.blog/2022/05/the-smallest-viable-audience/ and https://seths.blog/2017/07/in-search-of-the-minimum-viable-audience/, reviewed 2026-07-07 for pass 161
+- Seth Godin, public smallest viable audience / minimum viable audience guidance, https://seths.blog/2022/05/the-smallest-viable-audience/ and https://seths.blog/2017/07/in-search-of-the-minimum-viable-audience/, reviewed 2026-07-07 for pass 161 and pass 209
 - Steve Krug, public Don't Make Me Think product-usability guidance, https://sensible.com/dont-make-me-think/, reviewed 2026-07-07 for pass 163
 - Donald Miller / StoryBrand, public message-clarity guidance, https://storybrand.com/ and https://storybrand.com/storybrand-clarify-your-message-new-version/, reviewed 2026-07-07 for pass 159
 - Sarah Tavel, public Hierarchy of Engagement framework, https://sarahtavel.medium.com/the-hierarchy-of-engagement-5803bf4e6cfa and https://www.lennysnewsletter.com/p/the-hierarchy-of-engagement-sarah, reviewed 2026-07-05 and refreshed 2026-07-06 for pass 131
