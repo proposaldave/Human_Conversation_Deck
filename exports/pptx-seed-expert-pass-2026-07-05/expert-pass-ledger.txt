@@ -2627,6 +2627,26 @@ Resulting 14-slide spine:
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
 
+Pass 159 - Donald Miller public StoryBrand clarity lens
+Critique: Slide 4 had a clear recovery path, but it had shifted into internal operating verbs. A StoryBrand clarity read says the path should be simple enough for the investor to repeat after one pass. The live Human Conversation deck already has the sharper chain: conversation creates connection, connection creates trust, trust creates data, and data coordinates community.
+Deck action: Restore slide 4 to the live category chain and rename the chips from operating steps to category outcomes.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
+4. Disconnection has a path back.
+5. Not another chat app. It gets people back in the room.
+6. Trust becomes the data layer for community.
+7. The wedge is one person drifting.
+8. The live lab creates repeatable sales loops.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs are the first reference market.
+12. Do the return calls by hand until software is obvious.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
+
 Pass 156 - Synthetic elite AI seed IC diligence metric lens
 Critique: Slide 9 showed useful upside, but the title still sounded like a generic success state. A top synthetic seed investment committee reviewer would force the metric slide to name the actual gate: return lift is only fundable if it repeats without adding staff drag. Otherwise investors will discount the model as services revenue.
 Deck action: Reframe slide 9 around the fundable metric and make the proof caveat more specific: contacted people return, returns repeat weekly, and staff minutes stay flat.
