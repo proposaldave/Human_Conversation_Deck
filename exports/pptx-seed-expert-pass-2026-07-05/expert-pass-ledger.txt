@@ -4026,3 +4026,23 @@ Resulting 14-slide spine:
 12. Run the loop by hand. Productize what repeats.
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
+
+Pass 226 - Synthetic closing-proof readability reviewer lens
+Critique: Slide 14 had the right final ask and seed plan, but the Prove card body was too compressed: "Missed return, invite, group, leader loops" made the reader decode which nouns were loops and which were outcomes. A top synthetic closing-proof reviewer would keep the live-deck proof logic but make the proof loops scan cleanly in the final five-second read.
+Deck action: Keep slide 14 title, subtitle, Build card, Expand card, note, image, layout, and sequence position, but change the Prove card body from Missed return, invite, group, leader loops to Missed returns, invites, groups, leader paths.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
+4. Trust becomes the data layer for community.
+5. Not another chat app. The product gets people back in the room.
+6. The conversation updates the system.
+7. The wedge is one person drifting.
+8. The live lab creates repeatable sales loops.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs are the beachhead.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
