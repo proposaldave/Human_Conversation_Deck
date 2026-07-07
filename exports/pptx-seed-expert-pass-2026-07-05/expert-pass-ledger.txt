@@ -2766,3 +2766,23 @@ Resulting 14-slide spine:
 12. Run the loop by hand. Productize what repeats.
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
+
+Pass 163 - Steve Krug public product-usability lens
+Critique: Slide 7 showed the wedge, but the title repeated the prior wedge beat instead of making the product interface self-evident. Krug's public Don't Make Me Think guidance says usable products and presentations should reduce cognitive effort so the viewer immediately gets what the thing does. The live Human Conversation deck gives the clearer product test: who needs a conversation, what to ask, and what should happen next.
+Deck action: Reframe slide 7 around the obvious operator workflow: AI makes the next human move obvious, then the panel answers Person / Context / Action as three plain questions.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
+4. Disconnection has a path back.
+5. Not another chat app. It gets people back in the room.
+6. Trust becomes the data layer for community.
+7. AI makes the next human move obvious.
+8. The live lab creates repeatable sales loops.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs prove the smallest market can spread.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
