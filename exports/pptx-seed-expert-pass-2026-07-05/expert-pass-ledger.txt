@@ -3906,3 +3906,23 @@ Resulting 14-slide spine:
 12. Run the loop by hand. Productize what repeats.
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
+
+Pass 220 - Synthetic product-demo comprehension reviewer lens
+Critique: Slide 6 had the right product-loop title, but its three cards described the final handoff only: Heard, Staff says, AI. A top synthetic product-demo comprehension reviewer would compress the live deck's four product-loop slides into the three things investors need to remember: who needs a conversation, what context matters, and what action should happen next. The live Human Conversation deck supplies that sharper structure through Person, Context, and Action.
+Deck action: Keep slide 6 title, image, layout, and sequence position, but change the three cards from Heard / Free Thursdays. Wants an easy first group, Staff says / Add to Thursday beginner social, and AI / Done. Invite queued. Memory saved to Person / Came once, has not returned, Context / Free Thursdays. Wants an easy first group, and Action / Invite to Thursday beginner social. Change the bottom line from The staff member says the outcome. AI handles the computer work. to Each outcome becomes the next person, context, and action.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
+4. Disconnection has a path back.
+5. Not another chat app. It gets people back in the room.
+6. The conversation updates the system.
+7. The wedge is one person drifting.
+8. The live lab creates repeatable sales loops.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs are the beachhead.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
