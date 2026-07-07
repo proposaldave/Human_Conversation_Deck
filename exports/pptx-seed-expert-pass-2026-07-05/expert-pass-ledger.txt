@@ -2806,3 +2806,23 @@ Resulting 14-slide spine:
 12. Run the loop by hand. Productize what repeats.
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
+
+Pass 165 - Eric Ries public validated-learning refresh lens
+Critique: Slide 8 had the right evidence stack, but it still made investors infer why the aggregate records matter. Ries's public Lean Startup guidance says startup progress is validated learning and that teams should accelerate the build-measure-learn feedback loop. The live Human Conversation deck names the missing interpretation with "Signal density." For this deck, the proof point is that one club produces enough weekly signal to test whether human calls bring people back.
+Deck action: Reframe slide 8 from raw proof volume to signal density and weekly learning. Keep all proof numbers unchanged, but relabel the stat cards as behavior records, invite-linked records, weekly learning cycles, and utilization baseline.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
+4. Disconnection has a path back.
+5. Not another chat app. It gets people back in the room.
+6. Every conversation becomes operating memory.
+7. AI makes the next human move obvious.
+8. One club has enough signal to learn weekly.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs prove the smallest market can spread.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
