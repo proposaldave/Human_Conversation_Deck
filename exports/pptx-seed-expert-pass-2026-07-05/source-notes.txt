@@ -15,7 +15,7 @@ Local sources reviewed:
 - sites/HumanConversation/index.html and public assets
 - G:/My Drive/Human_Conversation_Deck/index.html, DECK_STATUS.md, AGENTS.md, and generated assets
 - https://proposaldave.github.io/Human_Conversation_Deck/ live deck text, reviewed 2026-07-05 and refreshed 2026-07-06
-- expert-pass-ledger.txt with 76 public expert lenses, 77 synthetic AI reviewer lenses, and 1 live source-of-truth pass
+- expert-pass-ledger.txt with 77 public expert lenses, 77 synthetic AI reviewer lenses, and 1 live source-of-truth pass
 
 Drive sources reviewed:
 - Human Conversation Brand Language Bank
@@ -39,7 +39,7 @@ Public expert sources reviewed:
 - Rahul Vohra, public Superhuman product-market-fit engine guidance, https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/ and https://businessofsoftware.org/talks/product-market-fit-engine/, reviewed 2026-07-06
 - Nancy Duarte, public Presentation Sparkline and contrast guidance plus second-pass story-contrast opening lens, https://www.duarte.com/blog/ultimate-guide-to-contrast/, reviewed 2026-07-05 and refreshed 2026-07-06 for pass 153
 - Don Valentine, public Sequoia market-first / target-big-markets guidance, https://www.foundersspace.com/fund-raising/don-valentine-sequoia-capital-target-big-markets/, reviewed 2026-07-05
-- Andy Raskin, public strategic narrative / greatest sales deck guidance, https://www.linkedin.com/pulse/greatest-sales-deck-ive-ever-seen-andy-raskin, reviewed 2026-07-05
+- Andy Raskin, public strategic narrative / greatest sales deck guidance, https://www.linkedin.com/pulse/greatest-sales-deck-ive-ever-seen-andy-raskin, reviewed 2026-07-05 and refreshed 2026-07-06 for pass 155
 - Ann Miura-Ko, public Floodgate mass-cognition / seed-market lens, https://www.floodgate.com/insights, reviewed 2026-07-05
 - Reid Hoffman, public LinkedIn pitch and network-scale guidance, https://www.reidhoffman.org/linkedin-pitch-to-greylock/, reviewed 2026-07-05
 - Steve Jobs, public iPhone launch and simplicity/product-focus sources, https://www.youtube.com/watch?v=MnrJzXM7a6o and https://www.smithsonianmag.com/arts-culture/how-steve-jobs-love-of-simplicity-fueled-a-design-revolution-23868877/, reviewed 2026-07-05 and refreshed 2026-07-06 for pass 133
