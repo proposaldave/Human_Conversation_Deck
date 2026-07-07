@@ -3486,3 +3486,23 @@ Resulting 14-slide spine:
 12. Run the loop by hand. Productize what repeats.
 13. We are inside the community before we sell the software.
 14. Back the proof loop operators will buy.
+
+Pass 199 - Edward Tufte public evidence-labeling lens
+Critique: Slide 8 had the right evidence stack, but the final stat label "utilization baseline" made the 52-62% number feel like a generic field name. Tufte's public information-design work pushes evidence displays toward clarity, credibility, and content, and the live Human Conversation deck already frames this number as utilization signal to learn from. The diligence-safe version is to say the number is a baseline utilization range, not a modeled target.
+Deck action: Keep slide 8 title, subtitle, source, and all numbers unchanged, but relabel 52-62% from "utilization baseline" to "baseline utilization range."
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation reveals felt connection.
+4. Disconnection has a path back.
+5. Not another chat app. It gets people back in the room.
+6. Every conversation becomes operating memory.
+7. The wedge is one person drifting.
+8. One club has enough signal to learn weekly.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs are the beachhead.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the proof loop operators will buy.
