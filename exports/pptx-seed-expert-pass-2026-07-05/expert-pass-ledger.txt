@@ -3766,3 +3766,23 @@ Resulting 14-slide spine:
 12. Run the loop by hand. Productize what repeats.
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
+
+Pass 213 - BJ Fogg public behavior-action lens
+Critique: Slide 7 had the right wedge title and structure, but the subtitle ended with "makes returning easy enough to try," which is behaviorally true but abstract. Fogg's public Behavior Model lens pushes the slide to name the concrete next action that makes behavior happen. The live Human Conversation deck has the sharper action line: the next action becomes an invite, intro, group, or leader path.
+Deck action: Keep slide 7 title, AI panel, cards, image, and layout, but change the subtitle from "AI spots the drift. A human call learns why. The next action makes returning easy enough to try." to "AI spots the drift. A human call learns why. The next action becomes an invite, intro, group, or leader path."
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation reveals felt connection.
+4. Disconnection has a path back.
+5. Not another chat app. It gets people back in the room.
+6. The conversation updates the system.
+7. The wedge is one person drifting.
+8. The live lab creates repeatable sales loops.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs are the beachhead.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
