@@ -3387,6 +3387,26 @@ Resulting 14-slide spine:
 13. We are inside the community before we sell the software.
 14. Back the operating system for real-world social communities.
 
+Pass 251 - Andy Raskin public promised-land close lens
+Critique: Slide 14 had the right title and seed proof structure, but the subtitle still closed on mechanics: "Start with one club. Prove returns repeat. Productize the loop. Earn the next operator." Raskin's public strategic narrative lens pushes the close toward a promised land the audience can remember. The live Human Conversation deck has the stronger ending: start with one club, then build the sales engine for every community where people need to feel known.
+Deck action: Keep slide 14 title, Prove card, Build card, Expand card, note, image, layout, and sequence position, but change the subtitle from Start with one club. Prove returns repeat. Productize the loop. Earn the next operator. to Start with one club. Build the sales engine for every community where people need to feel known.
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation tells you how people feel.
+4. Trust becomes the data layer for community.
+5. Not another chat app. The product gets people back in the room.
+6. The conversation updates the system.
+7. The return list starts with one drifting person.
+8. The live lab creates repeatable sales loops.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs are the beachhead.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
+
 Pass 250 - Synthetic return-action product reviewer lens
 Critique: Slide 7 had the right live-loop title, subtitle, and panel sequence, but the Call card still said "Learn schedule, confidence, fit." A top synthetic product reviewer would make the call's job map directly to the business outcome: learn what would bring the person back. That line is easier to remember and connects the card to the return engine the deck is selling.
 Deck action: Keep slide 7 title, subtitle, Spot card, Act card, Learn card, image, panel layout, and sequence position, but change the Call card body from Learn schedule, confidence, fit. to Learn what would bring them back.
