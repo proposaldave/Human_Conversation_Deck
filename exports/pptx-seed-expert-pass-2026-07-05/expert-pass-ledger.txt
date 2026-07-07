@@ -3566,3 +3566,23 @@ Resulting 14-slide spine:
 12. Run the loop by hand. Productize what repeats.
 13. We are inside the community before we sell the software.
 14. Back the proof loop operators will buy.
+
+Pass 203 - Andy Raskin public strategic narrative close lens
+Critique: Slide 14 had become diligence-correct but less memorable than the live Human Conversation deck's category ask. Raskin's public strategic narrative guidance pushes a deck to end on the new world the audience can believe in and repeat after the meeting. For Human Conversation, the seed proof still belongs in the subtitle and cards, but the final title should name the category investors are backing.
+Deck action: Keep slide 14 subtitle, proof cards, note, image, and layout, but change the title from "Back the proof loop operators will buy." to "Back the operating system for real-world social communities."
+
+Resulting 14-slide spine:
+1. Human Conversation is the operating system for real-world social communities.
+2. Technology got between us. Human Conversation brings us back.
+3. One Human Conversation reveals felt connection.
+4. Disconnection has a path back.
+5. Not another chat app. It gets people back in the room.
+6. Every conversation becomes operating memory.
+7. The wedge is one person drifting.
+8. One club has enough signal to learn weekly.
+9. The fundable metric is return lift without staff drag.
+10. The moat is what members only tell a human.
+11. Racquet clubs are the beachhead.
+12. Run the loop by hand. Productize what repeats.
+13. We are inside the community before we sell the software.
+14. Back the operating system for real-world social communities.
